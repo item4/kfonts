@@ -43,6 +43,40 @@ IGNORE_BASE = """
 *.woff
 *.woff2
 """
+README_TEMPLATE = """
+seoche-{project_name}
+---------------------
+
+{name} 폰트를 self-host 하기 위한 webfont 파일과 css 파일
+
+설치
+----
+
+```
+$ npm install --save seoche-{project_name}
+```
+
+혹은
+
+```
+yarn add seoche-{project_name}
+```
+
+사용
+----
+
+webpack을 통해 빌드되는 프로젝트에서 다음과 같은 형태로 사용 가능합니다.
+
+```js
+require('seoche-{project_name}');
+```
+
+혹은
+
+```js
+import 'seoche-{project_name}';
+```
+"""
 
 def fontforge(input_path, output_paths):
     with devnull('w') as fout:
@@ -141,6 +175,11 @@ def main():
                 name=name,
                 weight=data['weight'],
                 style=data['style'],
+            ))
+        with (package_dir / 'README.md').open('w') as f:
+            f.write(README_TEMPLATE.format(
+                name=meta['font-family'],
+                project_name=package_dir.name,
             ))
         with (package_dir / 'index.css').open('w') as f:
             f.write(''.join(css))
