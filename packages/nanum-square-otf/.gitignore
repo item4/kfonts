@@ -1,0 +1,11 @@
+
+*.ttf
+*.otf
+*.svg
+*.eot
+*.woff
+*.woff2
+!NanumSquareOTFRegular.otf
+!NanumSquareOTFLight.otf
+!NanumSquareOTFBold.otf
+!NanumSquareOTFExtraBold.otf

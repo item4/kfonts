@@ -1,0 +1,64 @@
+
+@font-face {
+  font-family: '나눔스퀘어OTF';
+  src: url(./NanumSquareOTFRegular.eot);
+  src: local('나눔스퀘어OTF '),
+       local('나눔스퀘어OTF'),
+       url(./NanumSquareOTFRegular.eot?#iefix) format('embedded-opentype'),
+       url(./NanumSquareOTFRegular.ttf) format('truetype'),
+       url(./NanumSquareOTFRegular.woff) format('woff'),
+       url(./NanumSquareOTFRegular.woff2) format('woff2'),
+       url(./NanumSquareOTFRegular.svg#NanumSquareOTFRegular) format('svg'),
+       url(./NanumSquareOTFRegular.otf) format('otf');
+  font-display: swap;
+  font-style: normal;
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: '나눔스퀘어OTF';
+  src: url(./NanumSquareOTFLight.eot);
+  src: local('나눔스퀘어OTF '),
+       local('나눔스퀘어OTF'),
+       url(./NanumSquareOTFLight.eot?#iefix) format('embedded-opentype'),
+       url(./NanumSquareOTFLight.ttf) format('truetype'),
+       url(./NanumSquareOTFLight.woff) format('woff'),
+       url(./NanumSquareOTFLight.woff2) format('woff2'),
+       url(./NanumSquareOTFLight.svg#NanumSquareOTFLight) format('svg'),
+       url(./NanumSquareOTFLight.otf) format('otf');
+  font-display: swap;
+  font-style: normal;
+  font-weight: 300;
+}
+
+@font-face {
+  font-family: '나눔스퀘어OTF';
+  src: url(./NanumSquareOTFBold.eot);
+  src: local('나눔스퀘어OTF '),
+       local('나눔스퀘어OTF'),
+       url(./NanumSquareOTFBold.eot?#iefix) format('embedded-opentype'),
+       url(./NanumSquareOTFBold.ttf) format('truetype'),
+       url(./NanumSquareOTFBold.woff) format('woff'),
+       url(./NanumSquareOTFBold.woff2) format('woff2'),
+       url(./NanumSquareOTFBold.svg#NanumSquareOTFBold) format('svg'),
+       url(./NanumSquareOTFBold.otf) format('otf');
+  font-display: swap;
+  font-style: normal;
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: '나눔스퀘어OTF';
+  src: url(./NanumSquareOTFExtraBold.eot);
+  src: local('나눔스퀘어OTF '),
+       local('나눔스퀘어OTF'),
+       url(./NanumSquareOTFExtraBold.eot?#iefix) format('embedded-opentype'),
+       url(./NanumSquareOTFExtraBold.ttf) format('truetype'),
+       url(./NanumSquareOTFExtraBold.woff) format('woff'),
+       url(./NanumSquareOTFExtraBold.woff2) format('woff2'),
+       url(./NanumSquareOTFExtraBold.svg#NanumSquareOTFExtraBold) format('svg'),
+       url(./NanumSquareOTFExtraBold.otf) format('otf');
+  font-display: swap;
+  font-style: normal;
+  font-weight: 800;
+}

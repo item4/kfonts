@@ -1,0 +1,32 @@
+
+@font-face {
+  font-family: '나눔바른펜';
+  src: url(./NanumBarunpenRegular.eot);
+  src: local('나눔바른펜 '),
+       local('나눔바른펜'),
+       url(./NanumBarunpenRegular.eot?#iefix) format('embedded-opentype'),
+       url(./NanumBarunpenRegular.ttf) format('truetype'),
+       url(./NanumBarunpenRegular.woff) format('woff'),
+       url(./NanumBarunpenRegular.woff2) format('woff2'),
+       url(./NanumBarunpenRegular.svg#NanumBarunpenRegular) format('svg'),
+       url(./NanumBarunpenRegular.otf) format('otf');
+  font-display: swap;
+  font-style: normal;
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: '나눔바른펜';
+  src: url(./NanumBarunpenBold.eot);
+  src: local('나눔바른펜 '),
+       local('나눔바른펜'),
+       url(./NanumBarunpenBold.eot?#iefix) format('embedded-opentype'),
+       url(./NanumBarunpenBold.ttf) format('truetype'),
+       url(./NanumBarunpenBold.woff) format('woff'),
+       url(./NanumBarunpenBold.woff2) format('woff2'),
+       url(./NanumBarunpenBold.svg#NanumBarunpenBold) format('svg'),
+       url(./NanumBarunpenBold.otf) format('otf');
+  font-display: swap;
+  font-style: normal;
+  font-weight: 700;
+}
