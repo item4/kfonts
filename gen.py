@@ -141,6 +141,9 @@ def main():
             continue
 
         metadata_file = package_dir / 'metadata.json'
+        if not metadata_file.exists():
+            continue
+
         package_json = package_dir / 'package.json'
         with (package_dir / 'metadata.json').open('r') as f:
             meta = json.load(f)
