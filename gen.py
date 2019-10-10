@@ -76,6 +76,14 @@ require('seoche-{project_name}');
 ```js
 import 'seoche-{project_name}';
 ```
+
+그 후에 CSS 안에서 다음과 같이 사용 가능합니다.
+
+```css
+body {open}
+    font-family: '{name}';
+{close}
+```
 """
 
 def fontforge(input_path, output_paths):
@@ -145,7 +153,7 @@ def main():
             continue
 
         package_json = package_dir / 'package.json'
-        with (package_dir / 'metadata.json').open('r') as f:
+        with metadata_file.open('r') as f:
             meta = json.load(f)
         if package_json.exists():
             with package_json.open('r') as f:
@@ -181,6 +189,8 @@ def main():
             ))
         with (package_dir / 'README.md').open('w') as f:
             f.write(README_TEMPLATE.format(
+                open='{',
+                close='}',
                 name=meta['font-family'],
                 project_name=package_dir.name,
             ))
