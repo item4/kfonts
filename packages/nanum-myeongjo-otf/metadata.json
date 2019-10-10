@@ -1,6 +1,7 @@
 {
     "font-family": "나눔명조OTF",
     "version": "0.0.2",
+    "otf_based": true,
     "files": [
         {
             "filename": "NanumMyeongjo.otf",

@@ -1,6 +1,7 @@
 {
     "font-family": "빙그레체Ⅱ",
     "version": "0.0.0",
+    "otf_based": true,
     "files": [
         {
             "filename": "Binggrae2.otf",

@@ -1,6 +1,7 @@
 {
     "font-family": "빙그레 따옴체",
     "version": "0.0.0",
+    "otf_based": true,
     "files": [
         {
             "filename": "BinggraeTaom.otf",

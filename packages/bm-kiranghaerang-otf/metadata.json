@@ -1,6 +1,7 @@
 {
     "font-family": "배달의민족 기랑해랑 OTF",
     "version": "0.0.0",
+    "otf_based": true,
     "files": [
         {
             "filename": "BMKIRANGHAERANG-OTF.otf",

@@ -1,6 +1,7 @@
 {
     "font-family": "CookieRunOTF",
     "version": "0.0.2",
+    "otf_based": true,
     "files": [
         {
             "filename": "CookieRunBold.otf",

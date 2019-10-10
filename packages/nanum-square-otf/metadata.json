@@ -1,6 +1,7 @@
 {
     "font-family": "나눔스퀘어OTF",
     "version": "0.0.2",
+    "otf_based": true,
     "files": [
         {
             "filename": "NanumSquareOTFRegular.otf",
