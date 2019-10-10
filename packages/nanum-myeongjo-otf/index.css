@@ -5,11 +5,11 @@
   src: local('나눔명조OTF '),
        local('나눔명조OTF'),
        url(./NanumMyeongjo.eot?#iefix) format('embedded-opentype'),
-       url(./NanumMyeongjo.ttf) format('truetype'),
+       url(./NanumMyeongjo.otf) format('otf'),
        url(./NanumMyeongjo.woff) format('woff'),
        url(./NanumMyeongjo.woff2) format('woff2'),
        url(./NanumMyeongjo.svg#NanumMyeongjo) format('svg'),
-       url(./NanumMyeongjo.otf) format('otf');
+       url(./NanumMyeongjo.ttf) format('truetype');
   font-display: swap;
   font-style: normal;
   font-weight: 400;
@@ -21,11 +21,11 @@
   src: local('나눔명조OTF '),
        local('나눔명조OTF'),
        url(./NanumMyeongjoBold.eot?#iefix) format('embedded-opentype'),
-       url(./NanumMyeongjoBold.ttf) format('truetype'),
+       url(./NanumMyeongjoBold.otf) format('otf'),
        url(./NanumMyeongjoBold.woff) format('woff'),
        url(./NanumMyeongjoBold.woff2) format('woff2'),
        url(./NanumMyeongjoBold.svg#NanumMyeongjoBold) format('svg'),
-       url(./NanumMyeongjoBold.otf) format('otf');
+       url(./NanumMyeongjoBold.ttf) format('truetype');
   font-display: swap;
   font-style: normal;
   font-weight: 700;
@@ -37,11 +37,11 @@
   src: local('나눔명조OTF '),
        local('나눔명조OTF'),
        url(./NanumMyeongjoExtraBold.eot?#iefix) format('embedded-opentype'),
-       url(./NanumMyeongjoExtraBold.ttf) format('truetype'),
+       url(./NanumMyeongjoExtraBold.otf) format('otf'),
        url(./NanumMyeongjoExtraBold.woff) format('woff'),
        url(./NanumMyeongjoExtraBold.woff2) format('woff2'),
        url(./NanumMyeongjoExtraBold.svg#NanumMyeongjoExtraBold) format('svg'),
-       url(./NanumMyeongjoExtraBold.otf) format('otf');
+       url(./NanumMyeongjoExtraBold.ttf) format('truetype');
   font-display: swap;
   font-style: normal;
   font-weight: 800;

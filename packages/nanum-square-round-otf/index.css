@@ -5,11 +5,11 @@
   src: local('나눔스퀘어라운드OTF '),
        local('나눔스퀘어라운드OTF'),
        url(./NanumSquareRoundOTFR.eot?#iefix) format('embedded-opentype'),
-       url(./NanumSquareRoundOTFR.ttf) format('truetype'),
+       url(./NanumSquareRoundOTFR.otf) format('otf'),
        url(./NanumSquareRoundOTFR.woff) format('woff'),
        url(./NanumSquareRoundOTFR.woff2) format('woff2'),
        url(./NanumSquareRoundOTFR.svg#NanumSquareRoundOTFR) format('svg'),
-       url(./NanumSquareRoundOTFR.otf) format('otf');
+       url(./NanumSquareRoundOTFR.ttf) format('truetype');
   font-display: swap;
   font-style: normal;
   font-weight: 400;
@@ -21,11 +21,11 @@
   src: local('나눔스퀘어라운드OTF '),
        local('나눔스퀘어라운드OTF'),
        url(./NanumSquareRoundOTFL.eot?#iefix) format('embedded-opentype'),
-       url(./NanumSquareRoundOTFL.ttf) format('truetype'),
+       url(./NanumSquareRoundOTFL.otf) format('otf'),
        url(./NanumSquareRoundOTFL.woff) format('woff'),
        url(./NanumSquareRoundOTFL.woff2) format('woff2'),
        url(./NanumSquareRoundOTFL.svg#NanumSquareRoundOTFL) format('svg'),
-       url(./NanumSquareRoundOTFL.otf) format('otf');
+       url(./NanumSquareRoundOTFL.ttf) format('truetype');
   font-display: swap;
   font-style: normal;
   font-weight: 300;
@@ -37,11 +37,11 @@
   src: local('나눔스퀘어라운드OTF '),
        local('나눔스퀘어라운드OTF'),
        url(./NanumSquareRoundOTFB.eot?#iefix) format('embedded-opentype'),
-       url(./NanumSquareRoundOTFB.ttf) format('truetype'),
+       url(./NanumSquareRoundOTFB.otf) format('otf'),
        url(./NanumSquareRoundOTFB.woff) format('woff'),
        url(./NanumSquareRoundOTFB.woff2) format('woff2'),
        url(./NanumSquareRoundOTFB.svg#NanumSquareRoundOTFB) format('svg'),
-       url(./NanumSquareRoundOTFB.otf) format('otf');
+       url(./NanumSquareRoundOTFB.ttf) format('truetype');
   font-display: swap;
   font-style: normal;
   font-weight: 700;
@@ -53,11 +53,11 @@
   src: local('나눔스퀘어라운드OTF '),
        local('나눔스퀘어라운드OTF'),
        url(./NanumSquareRoundOTFEB.eot?#iefix) format('embedded-opentype'),
-       url(./NanumSquareRoundOTFEB.ttf) format('truetype'),
+       url(./NanumSquareRoundOTFEB.otf) format('otf'),
        url(./NanumSquareRoundOTFEB.woff) format('woff'),
        url(./NanumSquareRoundOTFEB.woff2) format('woff2'),
        url(./NanumSquareRoundOTFEB.svg#NanumSquareRoundOTFEB) format('svg'),
-       url(./NanumSquareRoundOTFEB.otf) format('otf');
+       url(./NanumSquareRoundOTFEB.ttf) format('truetype');
   font-display: swap;
   font-style: normal;
   font-weight: 800;

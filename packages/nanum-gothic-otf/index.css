@@ -5,11 +5,11 @@
   src: local('나눔고딕OTF '),
        local('나눔고딕OTF'),
        url(./NanumGothic.eot?#iefix) format('embedded-opentype'),
-       url(./NanumGothic.ttf) format('truetype'),
+       url(./NanumGothic.otf) format('otf'),
        url(./NanumGothic.woff) format('woff'),
        url(./NanumGothic.woff2) format('woff2'),
        url(./NanumGothic.svg#NanumGothic) format('svg'),
-       url(./NanumGothic.otf) format('otf');
+       url(./NanumGothic.ttf) format('truetype');
   font-display: swap;
   font-style: normal;
   font-weight: 400;
@@ -21,11 +21,11 @@
   src: local('나눔고딕OTF '),
        local('나눔고딕OTF'),
        url(./NanumGothicLight.eot?#iefix) format('embedded-opentype'),
-       url(./NanumGothicLight.ttf) format('truetype'),
+       url(./NanumGothicLight.otf) format('otf'),
        url(./NanumGothicLight.woff) format('woff'),
        url(./NanumGothicLight.woff2) format('woff2'),
        url(./NanumGothicLight.svg#NanumGothicLight) format('svg'),
-       url(./NanumGothicLight.otf) format('otf');
+       url(./NanumGothicLight.ttf) format('truetype');
   font-display: swap;
   font-style: normal;
   font-weight: 300;
@@ -37,11 +37,11 @@
   src: local('나눔고딕OTF '),
        local('나눔고딕OTF'),
        url(./NanumGothicBold.eot?#iefix) format('embedded-opentype'),
-       url(./NanumGothicBold.ttf) format('truetype'),
+       url(./NanumGothicBold.otf) format('otf'),
        url(./NanumGothicBold.woff) format('woff'),
        url(./NanumGothicBold.woff2) format('woff2'),
        url(./NanumGothicBold.svg#NanumGothicBold) format('svg'),
-       url(./NanumGothicBold.otf) format('otf');
+       url(./NanumGothicBold.ttf) format('truetype');
   font-display: swap;
   font-style: normal;
   font-weight: 700;
@@ -53,11 +53,11 @@
   src: local('나눔고딕OTF '),
        local('나눔고딕OTF'),
        url(./NanumGothicExtraBold.eot?#iefix) format('embedded-opentype'),
-       url(./NanumGothicExtraBold.ttf) format('truetype'),
+       url(./NanumGothicExtraBold.otf) format('otf'),
        url(./NanumGothicExtraBold.woff) format('woff'),
        url(./NanumGothicExtraBold.woff2) format('woff2'),
        url(./NanumGothicExtraBold.svg#NanumGothicExtraBold) format('svg'),
-       url(./NanumGothicExtraBold.otf) format('otf');
+       url(./NanumGothicExtraBold.ttf) format('truetype');
   font-display: swap;
   font-style: normal;
   font-weight: 800;
