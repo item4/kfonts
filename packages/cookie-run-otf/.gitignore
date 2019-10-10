@@ -1,0 +1,9 @@
+
+*.ttf
+*.otf
+*.svg
+*.eot
+*.woff
+*.woff2
+!CookieRunBold.otf
+!CookieRunBlack.otf

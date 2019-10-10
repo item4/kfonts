@@ -1,0 +1,16 @@
+
+@font-face {
+  font-family: '배달의민족 도현 OTF';
+  src: url(./BMDOHYEON_otf.eot);
+  src: local('배달의민족 도현 OTF '),
+       local('배달의민족 도현 OTF'),
+       url(./BMDOHYEON_otf.eot?#iefix) format('embedded-opentype'),
+       url(./BMDOHYEON_otf.ttf) format('truetype'),
+       url(./BMDOHYEON_otf.woff) format('woff'),
+       url(./BMDOHYEON_otf.woff2) format('woff2'),
+       url(./BMDOHYEON_otf.svg#BMDOHYEON_otf) format('svg'),
+       url(./BMDOHYEON_otf.otf) format('otf');
+  font-display: swap;
+  font-style: normal;
+  font-weight: 400;
+}

@@ -1,0 +1,64 @@
+
+@font-face {
+  font-family: '나눔바른고딕';
+  src: url(./NanumBarunGothic.eot);
+  src: local('나눔바른고딕 '),
+       local('나눔바른고딕'),
+       url(./NanumBarunGothic.eot?#iefix) format('embedded-opentype'),
+       url(./NanumBarunGothic.ttf) format('truetype'),
+       url(./NanumBarunGothic.woff) format('woff'),
+       url(./NanumBarunGothic.woff2) format('woff2'),
+       url(./NanumBarunGothic.svg#NanumBarunGothic) format('svg'),
+       url(./NanumBarunGothic.otf) format('otf');
+  font-display: swap;
+  font-style: normal;
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: '나눔바른고딕';
+  src: url(./NanumBarunGothicBold.eot);
+  src: local('나눔바른고딕 '),
+       local('나눔바른고딕'),
+       url(./NanumBarunGothicBold.eot?#iefix) format('embedded-opentype'),
+       url(./NanumBarunGothicBold.ttf) format('truetype'),
+       url(./NanumBarunGothicBold.woff) format('woff'),
+       url(./NanumBarunGothicBold.woff2) format('woff2'),
+       url(./NanumBarunGothicBold.svg#NanumBarunGothicBold) format('svg'),
+       url(./NanumBarunGothicBold.otf) format('otf');
+  font-display: swap;
+  font-style: normal;
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: '나눔바른고딕';
+  src: url(./NanumBarunGothicLight.eot);
+  src: local('나눔바른고딕 '),
+       local('나눔바른고딕'),
+       url(./NanumBarunGothicLight.eot?#iefix) format('embedded-opentype'),
+       url(./NanumBarunGothicLight.ttf) format('truetype'),
+       url(./NanumBarunGothicLight.woff) format('woff'),
+       url(./NanumBarunGothicLight.woff2) format('woff2'),
+       url(./NanumBarunGothicLight.svg#NanumBarunGothicLight) format('svg'),
+       url(./NanumBarunGothicLight.otf) format('otf');
+  font-display: swap;
+  font-style: normal;
+  font-weight: 300;
+}
+
+@font-face {
+  font-family: '나눔바른고딕';
+  src: url(./NanumBarunGothicUltraLight.eot);
+  src: local('나눔바른고딕 '),
+       local('나눔바른고딕'),
+       url(./NanumBarunGothicUltraLight.eot?#iefix) format('embedded-opentype'),
+       url(./NanumBarunGothicUltraLight.ttf) format('truetype'),
+       url(./NanumBarunGothicUltraLight.woff) format('woff'),
+       url(./NanumBarunGothicUltraLight.woff2) format('woff2'),
+       url(./NanumBarunGothicUltraLight.svg#NanumBarunGothicUltraLight) format('svg'),
+       url(./NanumBarunGothicUltraLight.otf) format('otf');
+  font-display: swap;
+  font-style: normal;
+  font-weight: 100;
+}

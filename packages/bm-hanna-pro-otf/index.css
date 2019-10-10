@@ -1,0 +1,16 @@
+
+@font-face {
+  font-family: '배달의민족 한나체 Pro OTF';
+  src: url(./BMHANNAProOTF.eot);
+  src: local('배달의민족 한나체 Pro OTF '),
+       local('배달의민족 한나체 Pro OTF'),
+       url(./BMHANNAProOTF.eot?#iefix) format('embedded-opentype'),
+       url(./BMHANNAProOTF.ttf) format('truetype'),
+       url(./BMHANNAProOTF.woff) format('woff'),
+       url(./BMHANNAProOTF.woff2) format('woff2'),
+       url(./BMHANNAProOTF.svg#BMHANNAProOTF) format('svg'),
+       url(./BMHANNAProOTF.otf) format('otf');
+  font-display: swap;
+  font-style: normal;
+  font-weight: 400;
+}

@@ -1,0 +1,9 @@
+
+*.ttf
+*.otf
+*.svg
+*.eot
+*.woff
+*.woff2
+!Binggrae2.otf
+!Binggrae2-Bold.otf

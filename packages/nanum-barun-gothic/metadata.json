@@ -1,0 +1,26 @@
+{
+    "font-family": "나눔바른고딕",
+    "version": "0.0.0",
+    "files": [
+        {
+            "filename": "NanumBarunGothic.ttf",
+            "weight": 400,
+            "style": "normal"
+        },
+        {
+            "filename": "NanumBarunGothicBold.ttf",
+            "weight": 700,
+            "style": "normal"
+        },
+        {
+            "filename": "NanumBarunGothicLight.ttf",
+            "weight": 300,
+            "style": "normal"
+        },
+        {
+            "filename": "NanumBarunGothicUltraLight.ttf",
+            "weight": 100,
+            "style": "normal"
+        }
+    ]
+}

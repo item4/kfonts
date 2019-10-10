@@ -1,0 +1,16 @@
+{
+    "font-family": "CookieRun",
+    "version": "0.0.2",
+    "files": [
+        {
+            "filename": "CookieRunBold.ttf",
+            "weight": 700,
+            "style": "normal"
+        },
+        {
+            "filename": "CookieRunBlack.ttf",
+            "weight": 800,
+            "style": "normal"
+        }
+    ]
+}

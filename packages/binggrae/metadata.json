@@ -1,0 +1,16 @@
+{
+    "font-family": "빙그레체",
+    "version": "0.0.0",
+    "files": [
+        {
+            "filename": "Binggrae.ttf",
+            "weight": 400,
+            "style": "normal"
+        },
+        {
+            "filename": "Binggrae-Bold.ttf",
+            "weight": 700,
+            "style": "normal"
+        }
+    ]
+}
