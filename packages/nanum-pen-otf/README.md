@@ -31,3 +31,11 @@ require('seoche-nanum-pen-otf');
 ```js
 import 'seoche-nanum-pen-otf';
 ```
+
+그 후에 CSS 안에서 다음과 같이 사용 가능합니다.
+
+```css
+body {
+    font-family: '나눔손글씨 펜 OTF';
+}
+```
