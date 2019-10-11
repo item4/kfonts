@@ -1,0 +1,16 @@
+
+@font-face {
+  font-family: '리디바탕';
+  src: url(./RIDIBatang.eot);
+  src: local('리디바탕 '),
+       local('리디바탕'),
+       url(./RIDIBatang.eot?#iefix) format('embedded-opentype'),
+       url(./RIDIBatang.otf) format('otf'),
+       url(./RIDIBatang.woff) format('woff'),
+       url(./RIDIBatang.woff2) format('woff2'),
+       url(./RIDIBatang.svg#RIDIBatang) format('svg'),
+       url(./RIDIBatang.ttf) format('truetype');
+  font-display: swap;
+  font-style: normal;
+  font-weight: 400;
+}

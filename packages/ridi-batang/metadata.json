@@ -1,0 +1,12 @@
+{
+    "font-family": "리디바탕",
+    "version": "0.0.0",
+    "otf_based": true,
+    "files": [
+        {
+            "filename": "RIDIBatang.otf",
+            "weight": 400,
+            "style": "normal"
+        }
+    ]
+}
