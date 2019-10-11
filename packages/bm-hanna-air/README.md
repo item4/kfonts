@@ -1,5 +1,5 @@
 
-seoche-bm-hanna-air
+@kfonts/bm-hanna-air
 ---------------------
 
 배달의민족 한나체 Air 폰트를 self-host 하기 위한 webfont 파일과 css 파일
@@ -8,13 +8,13 @@ seoche-bm-hanna-air
 ----
 
 ```
-$ npm install --save seoche-bm-hanna-air
+$ npm install --save @kfonts/bm-hanna-air
 ```
 
 혹은
 
 ```
-yarn add seoche-bm-hanna-air
+yarn add @kfonts/bm-hanna-air
 ```
 
 사용
@@ -23,13 +23,13 @@ yarn add seoche-bm-hanna-air
 webpack을 통해 빌드되는 프로젝트에서 다음과 같은 형태로 사용 가능합니다.
 
 ```js
-require('seoche-bm-hanna-air');
+require('@kfonts/bm-hanna-air');
 ```
 
 혹은
 
 ```js
-import 'seoche-bm-hanna-air';
+import '@kfonts/bm-hanna-air';
 ```
 
 그 후에 CSS 안에서 다음과 같이 사용 가능합니다.

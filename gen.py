@@ -44,7 +44,7 @@ IGNORE_BASE = """
 *.woff2
 """
 README_TEMPLATE = """
-seoche-{project_name}
+@kfonts/{project_name}
 ---------------------
 
 {name} 폰트를 self-host 하기 위한 webfont 파일과 css 파일
@@ -53,13 +53,13 @@ seoche-{project_name}
 ----
 
 ```
-$ npm install --save seoche-{project_name}
+$ npm install --save @kfonts/{project_name}
 ```
 
 혹은
 
 ```
-yarn add seoche-{project_name}
+yarn add @kfonts/{project_name}
 ```
 
 사용
@@ -68,13 +68,13 @@ yarn add seoche-{project_name}
 webpack을 통해 빌드되는 프로젝트에서 다음과 같은 형태로 사용 가능합니다.
 
 ```js
-require('seoche-{project_name}');
+require('@kfonts/{project_name}');
 ```
 
 혹은
 
 ```js
-import 'seoche-{project_name}';
+import '@kfonts/{project_name}';
 ```
 
 그 후에 CSS 안에서 다음과 같이 사용 가능합니다.
@@ -208,22 +208,26 @@ def main():
             ))
         with package_json.open('w') as f:
             json.dump({
-                'name': f'seoche-{package_dir.name}',
+                'name': f'@kfonts/{package_dir.name}',
                 'version': meta['version'],
                 'description': f'{meta["font-family"]} typeface',
                 'main': 'index.css',
                 'keywords': [
-                    'seoche',
+                    '@kfonts',
+                    'kfonts',
                     'typeface',
                     'font',
                     'font family',
+                    'webfont',
                     'korean',
+                    '글꼴',
+                    '서체',
                     package_dir.name,
                     meta['font-family'],
                 ],
                 'author': 'Kim, Jinsu <item4_hun@hotmail.com>',
                 'license': 'MIT',
-                'repository': f'https://github.com/item4/seoches/tree/master/packages/{package_dir.name}',
+                'repository': f'https://github.com/item4/kfonts/tree/master/packages/{package_dir.name}',
             }, f)
         (package_dir / '.npmignore').touch()
    

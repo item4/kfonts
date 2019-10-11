@@ -1,5 +1,5 @@
 
-seoche-bm-yeonsung-otf
+@kfonts/bm-yeonsung-otf
 ---------------------
 
 배달의민족 연성 OTF 폰트를 self-host 하기 위한 webfont 파일과 css 파일
@@ -8,13 +8,13 @@ seoche-bm-yeonsung-otf
 ----
 
 ```
-$ npm install --save seoche-bm-yeonsung-otf
+$ npm install --save @kfonts/bm-yeonsung-otf
 ```
 
 혹은
 
 ```
-yarn add seoche-bm-yeonsung-otf
+yarn add @kfonts/bm-yeonsung-otf
 ```
 
 사용
@@ -23,13 +23,13 @@ yarn add seoche-bm-yeonsung-otf
 webpack을 통해 빌드되는 프로젝트에서 다음과 같은 형태로 사용 가능합니다.
 
 ```js
-require('seoche-bm-yeonsung-otf');
+require('@kfonts/bm-yeonsung-otf');
 ```
 
 혹은
 
 ```js
-import 'seoche-bm-yeonsung-otf';
+import '@kfonts/bm-yeonsung-otf';
 ```
 
 그 후에 CSS 안에서 다음과 같이 사용 가능합니다.

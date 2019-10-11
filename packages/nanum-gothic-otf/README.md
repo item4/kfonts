@@ -1,5 +1,5 @@
 
-seoche-nanum-gothic-otf
+@kfonts/nanum-gothic-otf
 ---------------------
 
 나눔고딕OTF 폰트를 self-host 하기 위한 webfont 파일과 css 파일
@@ -8,13 +8,13 @@ seoche-nanum-gothic-otf
 ----
 
 ```
-$ npm install --save seoche-nanum-gothic-otf
+$ npm install --save @kfonts/nanum-gothic-otf
 ```
 
 혹은
 
 ```
-yarn add seoche-nanum-gothic-otf
+yarn add @kfonts/nanum-gothic-otf
 ```
 
 사용
@@ -23,13 +23,13 @@ yarn add seoche-nanum-gothic-otf
 webpack을 통해 빌드되는 프로젝트에서 다음과 같은 형태로 사용 가능합니다.
 
 ```js
-require('seoche-nanum-gothic-otf');
+require('@kfonts/nanum-gothic-otf');
 ```
 
 혹은
 
 ```js
-import 'seoche-nanum-gothic-otf';
+import '@kfonts/nanum-gothic-otf';
 ```
 
 그 후에 CSS 안에서 다음과 같이 사용 가능합니다.

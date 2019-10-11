@@ -1,5 +1,5 @@
 
-seoche-binggrae-taom
+@kfonts/binggrae-taom
 ---------------------
 
 빙그레 따옴체 폰트를 self-host 하기 위한 webfont 파일과 css 파일
@@ -8,13 +8,13 @@ seoche-binggrae-taom
 ----
 
 ```
-$ npm install --save seoche-binggrae-taom
+$ npm install --save @kfonts/binggrae-taom
 ```
 
 혹은
 
 ```
-yarn add seoche-binggrae-taom
+yarn add @kfonts/binggrae-taom
 ```
 
 사용
@@ -23,13 +23,13 @@ yarn add seoche-binggrae-taom
 webpack을 통해 빌드되는 프로젝트에서 다음과 같은 형태로 사용 가능합니다.
 
 ```js
-require('seoche-binggrae-taom');
+require('@kfonts/binggrae-taom');
 ```
 
 혹은
 
 ```js
-import 'seoche-binggrae-taom';
+import '@kfonts/binggrae-taom';
 ```
 
 그 후에 CSS 안에서 다음과 같이 사용 가능합니다.

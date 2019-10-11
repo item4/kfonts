@@ -1,5 +1,5 @@
 
-seoche-binggrae
+@kfonts/binggrae
 ---------------------
 
 빙그레체 폰트를 self-host 하기 위한 webfont 파일과 css 파일
@@ -8,13 +8,13 @@ seoche-binggrae
 ----
 
 ```
-$ npm install --save seoche-binggrae
+$ npm install --save @kfonts/binggrae
 ```
 
 혹은
 
 ```
-yarn add seoche-binggrae
+yarn add @kfonts/binggrae
 ```
 
 사용
@@ -23,13 +23,13 @@ yarn add seoche-binggrae
 webpack을 통해 빌드되는 프로젝트에서 다음과 같은 형태로 사용 가능합니다.
 
 ```js
-require('seoche-binggrae');
+require('@kfonts/binggrae');
 ```
 
 혹은
 
 ```js
-import 'seoche-binggrae';
+import '@kfonts/binggrae';
 ```
 
 그 후에 CSS 안에서 다음과 같이 사용 가능합니다.

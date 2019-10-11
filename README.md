@@ -1,4 +1,4 @@
-Seoches
+@kfonts
 -------
 
 한글 폰트를 Self-host 할 수 있다!
@@ -8,16 +8,16 @@ Seoches
 
 1. NPM에서 원하는 폰트를 설치해주세요.
    ```
-   $ npm install --save seoche-nanum-gothic-otf
+   $ npm install --save @kfonts/nanum-gothic
    ```
 2. 자신의 JavaScript 내지는 TypeScript 프로젝트에 import 해주세요.
    ```js
-   import 'seoche-nanum-gothic-otf';
+   import '@kfonts/nanum-gothic';
    ```
 3. 불러온 폰트를 필요한 곳에 적용하면 끝!
    ```css
    body {
-     font-family: '나눔고딕OTF';
+     font-family: '나눔고딕';
    }
    ```
 

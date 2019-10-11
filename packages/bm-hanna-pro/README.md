@@ -1,5 +1,5 @@
 
-seoche-bm-hanna-pro
+@kfonts/bm-hanna-pro
 ---------------------
 
 배달의민족 한나체 Pro 폰트를 self-host 하기 위한 webfont 파일과 css 파일
@@ -8,13 +8,13 @@ seoche-bm-hanna-pro
 ----
 
 ```
-$ npm install --save seoche-bm-hanna-pro
+$ npm install --save @kfonts/bm-hanna-pro
 ```
 
 혹은
 
 ```
-yarn add seoche-bm-hanna-pro
+yarn add @kfonts/bm-hanna-pro
 ```
 
 사용
@@ -23,13 +23,13 @@ yarn add seoche-bm-hanna-pro
 webpack을 통해 빌드되는 프로젝트에서 다음과 같은 형태로 사용 가능합니다.
 
 ```js
-require('seoche-bm-hanna-pro');
+require('@kfonts/bm-hanna-pro');
 ```
 
 혹은
 
 ```js
-import 'seoche-bm-hanna-pro';
+import '@kfonts/bm-hanna-pro';
 ```
 
 그 후에 CSS 안에서 다음과 같이 사용 가능합니다.

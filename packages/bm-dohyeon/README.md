@@ -1,5 +1,5 @@
 
-seoche-bm-dohyeon
+@kfonts/bm-dohyeon
 ---------------------
 
 배달의민족 도현 폰트를 self-host 하기 위한 webfont 파일과 css 파일
@@ -8,13 +8,13 @@ seoche-bm-dohyeon
 ----
 
 ```
-$ npm install --save seoche-bm-dohyeon
+$ npm install --save @kfonts/bm-dohyeon
 ```
 
 혹은
 
 ```
-yarn add seoche-bm-dohyeon
+yarn add @kfonts/bm-dohyeon
 ```
 
 사용
@@ -23,13 +23,13 @@ yarn add seoche-bm-dohyeon
 webpack을 통해 빌드되는 프로젝트에서 다음과 같은 형태로 사용 가능합니다.
 
 ```js
-require('seoche-bm-dohyeon');
+require('@kfonts/bm-dohyeon');
 ```
 
 혹은
 
 ```js
-import 'seoche-bm-dohyeon';
+import '@kfonts/bm-dohyeon';
 ```
 
 그 후에 CSS 안에서 다음과 같이 사용 가능합니다.

@@ -1,5 +1,5 @@
 
-seoche-binggrae-melona
+@kfonts/binggrae-melona
 ---------------------
 
 빙그레 메로나체 폰트를 self-host 하기 위한 webfont 파일과 css 파일
@@ -8,13 +8,13 @@ seoche-binggrae-melona
 ----
 
 ```
-$ npm install --save seoche-binggrae-melona
+$ npm install --save @kfonts/binggrae-melona
 ```
 
 혹은
 
 ```
-yarn add seoche-binggrae-melona
+yarn add @kfonts/binggrae-melona
 ```
 
 사용
@@ -23,13 +23,13 @@ yarn add seoche-binggrae-melona
 webpack을 통해 빌드되는 프로젝트에서 다음과 같은 형태로 사용 가능합니다.
 
 ```js
-require('seoche-binggrae-melona');
+require('@kfonts/binggrae-melona');
 ```
 
 혹은
 
 ```js
-import 'seoche-binggrae-melona';
+import '@kfonts/binggrae-melona';
 ```
 
 그 후에 CSS 안에서 다음과 같이 사용 가능합니다.
