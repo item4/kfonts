@@ -1,0 +1,8 @@
+
+*.ttf
+*.otf
+*.svg
+*.eot
+*.woff
+*.woff2
+!uli-ttal-songeul-ssi.ttf

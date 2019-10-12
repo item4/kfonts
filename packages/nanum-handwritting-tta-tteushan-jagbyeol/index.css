@@ -1,0 +1,16 @@
+
+@font-face {
+  font-family: '나눔손글씨 따뜻한 작별';
+  src: url(./tta-tteushan-jagbyeol.eot);
+  src: local('나눔손글씨 따뜻한 작별 '),
+       local('나눔손글씨 따뜻한 작별'),
+       url(./tta-tteushan-jagbyeol.eot?#iefix) format('embedded-opentype'),
+       url(./tta-tteushan-jagbyeol.ttf) format('truetype'),
+       url(./tta-tteushan-jagbyeol.woff) format('woff'),
+       url(./tta-tteushan-jagbyeol.woff2) format('woff2'),
+       url(./tta-tteushan-jagbyeol.svg#tta-tteushan-jagbyeol) format('svg'),
+       url(./tta-tteushan-jagbyeol.otf) format('otf');
+  font-display: swap;
+  font-style: normal;
+  font-weight: 400;
+}

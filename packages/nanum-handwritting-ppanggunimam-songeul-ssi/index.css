@@ -1,0 +1,16 @@
+
+@font-face {
+  font-family: '나눔손글씨 빵구니맘 손글씨';
+  src: url(./ppanggunimam-songeul-ssi.eot);
+  src: local('나눔손글씨 빵구니맘 손글씨 '),
+       local('나눔손글씨 빵구니맘 손글씨'),
+       url(./ppanggunimam-songeul-ssi.eot?#iefix) format('embedded-opentype'),
+       url(./ppanggunimam-songeul-ssi.ttf) format('truetype'),
+       url(./ppanggunimam-songeul-ssi.woff) format('woff'),
+       url(./ppanggunimam-songeul-ssi.woff2) format('woff2'),
+       url(./ppanggunimam-songeul-ssi.svg#ppanggunimam-songeul-ssi) format('svg'),
+       url(./ppanggunimam-songeul-ssi.otf) format('otf');
+  font-display: swap;
+  font-style: normal;
+  font-weight: 400;
+}

@@ -1,0 +1,16 @@
+
+@font-face {
+  font-family: '나눔손글씨 아기사랑체';
+  src: url(./agisalangche.eot);
+  src: local('나눔손글씨 아기사랑체 '),
+       local('나눔손글씨 아기사랑체'),
+       url(./agisalangche.eot?#iefix) format('embedded-opentype'),
+       url(./agisalangche.ttf) format('truetype'),
+       url(./agisalangche.woff) format('woff'),
+       url(./agisalangche.woff2) format('woff2'),
+       url(./agisalangche.svg#agisalangche) format('svg'),
+       url(./agisalangche.otf) format('otf');
+  font-display: swap;
+  font-style: normal;
+  font-weight: 400;
+}

@@ -1,0 +1,8 @@
+
+*.ttf
+*.otf
+*.svg
+*.eot
+*.woff
+*.woff2
+!mujinjangche.ttf

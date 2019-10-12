@@ -1,0 +1,16 @@
+
+@font-face {
+  font-family: '나눔손글씨 나무정원';
+  src: url(./namujeong-won.eot);
+  src: local('나눔손글씨 나무정원 '),
+       local('나눔손글씨 나무정원'),
+       url(./namujeong-won.eot?#iefix) format('embedded-opentype'),
+       url(./namujeong-won.ttf) format('truetype'),
+       url(./namujeong-won.woff) format('woff'),
+       url(./namujeong-won.woff2) format('woff2'),
+       url(./namujeong-won.svg#namujeong-won) format('svg'),
+       url(./namujeong-won.otf) format('otf');
+  font-display: swap;
+  font-style: normal;
+  font-weight: 400;
+}

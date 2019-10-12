@@ -1,0 +1,16 @@
+
+@font-face {
+  font-family: '나눔손글씨 아인맘 손글씨';
+  src: url(./a-inmam-songeul-ssi.eot);
+  src: local('나눔손글씨 아인맘 손글씨 '),
+       local('나눔손글씨 아인맘 손글씨'),
+       url(./a-inmam-songeul-ssi.eot?#iefix) format('embedded-opentype'),
+       url(./a-inmam-songeul-ssi.ttf) format('truetype'),
+       url(./a-inmam-songeul-ssi.woff) format('woff'),
+       url(./a-inmam-songeul-ssi.woff2) format('woff2'),
+       url(./a-inmam-songeul-ssi.svg#a-inmam-songeul-ssi) format('svg'),
+       url(./a-inmam-songeul-ssi.otf) format('otf');
+  font-display: swap;
+  font-style: normal;
+  font-weight: 400;
+}

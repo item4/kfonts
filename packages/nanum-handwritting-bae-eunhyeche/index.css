@@ -1,0 +1,16 @@
+
+@font-face {
+  font-family: '나눔손글씨 배은혜체';
+  src: url(./bae-eunhyeche.eot);
+  src: local('나눔손글씨 배은혜체 '),
+       local('나눔손글씨 배은혜체'),
+       url(./bae-eunhyeche.eot?#iefix) format('embedded-opentype'),
+       url(./bae-eunhyeche.ttf) format('truetype'),
+       url(./bae-eunhyeche.woff) format('woff'),
+       url(./bae-eunhyeche.woff2) format('woff2'),
+       url(./bae-eunhyeche.svg#bae-eunhyeche) format('svg'),
+       url(./bae-eunhyeche.otf) format('otf');
+  font-display: swap;
+  font-style: normal;
+  font-weight: 400;
+}

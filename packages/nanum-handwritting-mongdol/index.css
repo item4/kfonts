@@ -1,0 +1,16 @@
+
+@font-face {
+  font-family: '나눔손글씨 몽돌';
+  src: url(./mongdol.eot);
+  src: local('나눔손글씨 몽돌 '),
+       local('나눔손글씨 몽돌'),
+       url(./mongdol.eot?#iefix) format('embedded-opentype'),
+       url(./mongdol.ttf) format('truetype'),
+       url(./mongdol.woff) format('woff'),
+       url(./mongdol.woff2) format('woff2'),
+       url(./mongdol.svg#mongdol) format('svg'),
+       url(./mongdol.otf) format('otf');
+  font-display: swap;
+  font-style: normal;
+  font-weight: 400;
+}

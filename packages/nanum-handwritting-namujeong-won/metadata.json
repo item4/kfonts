@@ -1,0 +1,11 @@
+{
+    "font-family": "나눔손글씨 나무정원",
+    "version": "0.0.0",
+    "files": [
+        {
+            "filename": "namujeong-won.ttf",
+            "weight": 400,
+            "style": "normal"
+        }
+    ]
+}

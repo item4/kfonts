@@ -1,0 +1,16 @@
+
+@font-face {
+  font-family: '나눔손글씨 상해찬미체';
+  src: url(./sanghaechanmiche.eot);
+  src: local('나눔손글씨 상해찬미체 '),
+       local('나눔손글씨 상해찬미체'),
+       url(./sanghaechanmiche.eot?#iefix) format('embedded-opentype'),
+       url(./sanghaechanmiche.ttf) format('truetype'),
+       url(./sanghaechanmiche.woff) format('woff'),
+       url(./sanghaechanmiche.woff2) format('woff2'),
+       url(./sanghaechanmiche.svg#sanghaechanmiche) format('svg'),
+       url(./sanghaechanmiche.otf) format('otf');
+  font-display: swap;
+  font-style: normal;
+  font-weight: 400;
+}

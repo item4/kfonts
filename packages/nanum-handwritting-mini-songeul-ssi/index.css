@@ -1,0 +1,16 @@
+
+@font-face {
+  font-family: '나눔손글씨 미니 손글씨';
+  src: url(./mini-songeul-ssi.eot);
+  src: local('나눔손글씨 미니 손글씨 '),
+       local('나눔손글씨 미니 손글씨'),
+       url(./mini-songeul-ssi.eot?#iefix) format('embedded-opentype'),
+       url(./mini-songeul-ssi.ttf) format('truetype'),
+       url(./mini-songeul-ssi.woff) format('woff'),
+       url(./mini-songeul-ssi.woff2) format('woff2'),
+       url(./mini-songeul-ssi.svg#mini-songeul-ssi) format('svg'),
+       url(./mini-songeul-ssi.otf) format('otf');
+  font-display: swap;
+  font-style: normal;
+  font-weight: 400;
+}

@@ -1,0 +1,16 @@
+
+@font-face {
+  font-family: '나눔손글씨 범솜체';
+  src: url(./beomsomche.eot);
+  src: local('나눔손글씨 범솜체 '),
+       local('나눔손글씨 범솜체'),
+       url(./beomsomche.eot?#iefix) format('embedded-opentype'),
+       url(./beomsomche.ttf) format('truetype'),
+       url(./beomsomche.woff) format('woff'),
+       url(./beomsomche.woff2) format('woff2'),
+       url(./beomsomche.svg#beomsomche) format('svg'),
+       url(./beomsomche.otf) format('otf');
+  font-display: swap;
+  font-style: normal;
+  font-weight: 400;
+}

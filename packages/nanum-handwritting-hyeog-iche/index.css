@@ -1,0 +1,16 @@
+
+@font-face {
+  font-family: '나눔손글씨 혁이체';
+  src: url(./hyeog-iche.eot);
+  src: local('나눔손글씨 혁이체 '),
+       local('나눔손글씨 혁이체'),
+       url(./hyeog-iche.eot?#iefix) format('embedded-opentype'),
+       url(./hyeog-iche.ttf) format('truetype'),
+       url(./hyeog-iche.woff) format('woff'),
+       url(./hyeog-iche.woff2) format('woff2'),
+       url(./hyeog-iche.svg#hyeog-iche) format('svg'),
+       url(./hyeog-iche.otf) format('otf');
+  font-display: swap;
+  font-style: normal;
+  font-weight: 400;
+}
