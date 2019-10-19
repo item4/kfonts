@@ -1,0 +1,16 @@
+{
+    "font-family": "D2Coding ligature",
+    "version": "0.0.0",
+    "files": [
+        {
+            "filename": "D2Coding-ligature.ttf",
+            "weight": 400,
+            "style": "normal"
+        },
+        {
+            "filename": "D2CodingBold-ligature.ttf",
+            "weight": 700,
+            "style": "normal"
+        }
+    ]
+}
