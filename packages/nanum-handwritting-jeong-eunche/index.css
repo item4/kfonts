@@ -5,11 +5,11 @@
   src: local('나눔손글씨 정은체 '),
        local('나눔손글씨 정은체'),
        url(./jeong-eunche.eot?#iefix) format('embedded-opentype'),
-       url(./jeong-eunche.ttf) format('truetype'),
-       url(./jeong-eunche.woff) format('woff'),
        url(./jeong-eunche.woff2) format('woff2'),
-       url(./jeong-eunche.svg#jeong-eunche) format('svg'),
-       url(./jeong-eunche.otf) format('otf');
+       url(./jeong-eunche.woff) format('woff'),
+       url(./jeong-eunche.ttf) format('truetype'),
+       url(./jeong-eunche.otf) format('otf'),
+       url(./jeong-eunche.svg#jeong-eunche) format('svg');
   font-display: swap;
   font-style: normal;
   font-weight: 400;

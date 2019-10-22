@@ -5,11 +5,11 @@
   src: local('나눔손글씨 우리딸 손글씨 '),
        local('나눔손글씨 우리딸 손글씨'),
        url(./uli-ttal-songeul-ssi.eot?#iefix) format('embedded-opentype'),
-       url(./uli-ttal-songeul-ssi.ttf) format('truetype'),
-       url(./uli-ttal-songeul-ssi.woff) format('woff'),
        url(./uli-ttal-songeul-ssi.woff2) format('woff2'),
-       url(./uli-ttal-songeul-ssi.svg#uli-ttal-songeul-ssi) format('svg'),
-       url(./uli-ttal-songeul-ssi.otf) format('otf');
+       url(./uli-ttal-songeul-ssi.woff) format('woff'),
+       url(./uli-ttal-songeul-ssi.ttf) format('truetype'),
+       url(./uli-ttal-songeul-ssi.otf) format('otf'),
+       url(./uli-ttal-songeul-ssi.svg#uli-ttal-songeul-ssi) format('svg');
   font-display: swap;
   font-style: normal;
   font-weight: 400;

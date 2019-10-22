@@ -5,11 +5,11 @@
   src: local('빙그레체 '),
        local('빙그레체'),
        url(./Binggrae.eot?#iefix) format('embedded-opentype'),
-       url(./Binggrae.otf) format('otf'),
-       url(./Binggrae.woff) format('woff'),
        url(./Binggrae.woff2) format('woff2'),
-       url(./Binggrae.svg#Binggrae) format('svg'),
-       url(./Binggrae.ttf) format('truetype');
+       url(./Binggrae.woff) format('woff'),
+       url(./Binggrae.otf) format('otf'),
+       url(./Binggrae.ttf) format('truetype'),
+       url(./Binggrae.svg#Binggrae) format('svg');
   font-display: swap;
   font-style: normal;
   font-weight: 400;
@@ -21,11 +21,11 @@
   src: local('빙그레체 '),
        local('빙그레체'),
        url(./Binggrae-Bold.eot?#iefix) format('embedded-opentype'),
-       url(./Binggrae-Bold.otf) format('otf'),
-       url(./Binggrae-Bold.woff) format('woff'),
        url(./Binggrae-Bold.woff2) format('woff2'),
-       url(./Binggrae-Bold.svg#Binggrae-Bold) format('svg'),
-       url(./Binggrae-Bold.ttf) format('truetype');
+       url(./Binggrae-Bold.woff) format('woff'),
+       url(./Binggrae-Bold.otf) format('otf'),
+       url(./Binggrae-Bold.ttf) format('truetype'),
+       url(./Binggrae-Bold.svg#Binggrae-Bold) format('svg');
   font-display: swap;
   font-style: normal;
   font-weight: 700;

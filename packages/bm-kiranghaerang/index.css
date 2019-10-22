@@ -5,11 +5,11 @@
   src: local('배달의민족 주아 OTF '),
        local('배달의민족 주아 OTF'),
        url(./BMKIRANGHAERANG-TTF.eot?#iefix) format('embedded-opentype'),
-       url(./BMKIRANGHAERANG-TTF.ttf) format('truetype'),
-       url(./BMKIRANGHAERANG-TTF.woff) format('woff'),
        url(./BMKIRANGHAERANG-TTF.woff2) format('woff2'),
-       url(./BMKIRANGHAERANG-TTF.svg#BMKIRANGHAERANG-TTF) format('svg'),
-       url(./BMKIRANGHAERANG-TTF.otf) format('otf');
+       url(./BMKIRANGHAERANG-TTF.woff) format('woff'),
+       url(./BMKIRANGHAERANG-TTF.ttf) format('truetype'),
+       url(./BMKIRANGHAERANG-TTF.otf) format('otf'),
+       url(./BMKIRANGHAERANG-TTF.svg#BMKIRANGHAERANG-TTF) format('svg');
   font-display: swap;
   font-style: normal;
   font-weight: 400;

@@ -5,11 +5,11 @@
   src: local('나눔손글씨 느릿느릿체 '),
        local('나눔손글씨 느릿느릿체'),
        url(./neulisneulische.eot?#iefix) format('embedded-opentype'),
-       url(./neulisneulische.ttf) format('truetype'),
-       url(./neulisneulische.woff) format('woff'),
        url(./neulisneulische.woff2) format('woff2'),
-       url(./neulisneulische.svg#neulisneulische) format('svg'),
-       url(./neulisneulische.otf) format('otf');
+       url(./neulisneulische.woff) format('woff'),
+       url(./neulisneulische.ttf) format('truetype'),
+       url(./neulisneulische.otf) format('otf'),
+       url(./neulisneulische.svg#neulisneulische) format('svg');
   font-display: swap;
   font-style: normal;
   font-weight: 400;

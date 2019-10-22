@@ -5,11 +5,11 @@
   src: local('나눔손글씨 행복한 도비 '),
        local('나눔손글씨 행복한 도비'),
        url(./haengboghan-dobi.eot?#iefix) format('embedded-opentype'),
-       url(./haengboghan-dobi.ttf) format('truetype'),
-       url(./haengboghan-dobi.woff) format('woff'),
        url(./haengboghan-dobi.woff2) format('woff2'),
-       url(./haengboghan-dobi.svg#haengboghan-dobi) format('svg'),
-       url(./haengboghan-dobi.otf) format('otf');
+       url(./haengboghan-dobi.woff) format('woff'),
+       url(./haengboghan-dobi.ttf) format('truetype'),
+       url(./haengboghan-dobi.otf) format('otf'),
+       url(./haengboghan-dobi.svg#haengboghan-dobi) format('svg');
   font-display: swap;
   font-style: normal;
   font-weight: 400;

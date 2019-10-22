@@ -5,11 +5,11 @@
   src: local('나눔손글씨 엄마사랑 '),
        local('나눔손글씨 엄마사랑'),
        url(./eommasalang.eot?#iefix) format('embedded-opentype'),
-       url(./eommasalang.ttf) format('truetype'),
-       url(./eommasalang.woff) format('woff'),
        url(./eommasalang.woff2) format('woff2'),
-       url(./eommasalang.svg#eommasalang) format('svg'),
-       url(./eommasalang.otf) format('otf');
+       url(./eommasalang.woff) format('woff'),
+       url(./eommasalang.ttf) format('truetype'),
+       url(./eommasalang.otf) format('otf'),
+       url(./eommasalang.svg#eommasalang) format('svg');
   font-display: swap;
   font-style: normal;
   font-weight: 400;

@@ -5,11 +5,11 @@
   src: local('배달의민족 을지로체 TTF '),
        local('배달의민족 을지로체 TTF'),
        url(./BMEULJIROTTF.eot?#iefix) format('embedded-opentype'),
-       url(./BMEULJIROTTF.ttf) format('truetype'),
-       url(./BMEULJIROTTF.woff) format('woff'),
        url(./BMEULJIROTTF.woff2) format('woff2'),
-       url(./BMEULJIROTTF.svg#BMEULJIROTTF) format('svg'),
-       url(./BMEULJIROTTF.otf) format('otf');
+       url(./BMEULJIROTTF.woff) format('woff'),
+       url(./BMEULJIROTTF.ttf) format('truetype'),
+       url(./BMEULJIROTTF.otf) format('otf'),
+       url(./BMEULJIROTTF.svg#BMEULJIROTTF) format('svg');
   font-display: swap;
   font-style: normal;
   font-weight: 400;

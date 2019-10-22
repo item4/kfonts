@@ -5,11 +5,11 @@
   src: local('나눔바른펜 '),
        local('나눔바른펜'),
        url(./NanumBarunpenRegular.eot?#iefix) format('embedded-opentype'),
-       url(./NanumBarunpenRegular.otf) format('otf'),
-       url(./NanumBarunpenRegular.woff) format('woff'),
        url(./NanumBarunpenRegular.woff2) format('woff2'),
-       url(./NanumBarunpenRegular.svg#NanumBarunpenRegular) format('svg'),
-       url(./NanumBarunpenRegular.ttf) format('truetype');
+       url(./NanumBarunpenRegular.woff) format('woff'),
+       url(./NanumBarunpenRegular.otf) format('otf'),
+       url(./NanumBarunpenRegular.ttf) format('truetype'),
+       url(./NanumBarunpenRegular.svg#NanumBarunpenRegular) format('svg');
   font-display: swap;
   font-style: normal;
   font-weight: 400;
@@ -21,11 +21,11 @@
   src: local('나눔바른펜 '),
        local('나눔바른펜'),
        url(./NanumBarunpenBold.eot?#iefix) format('embedded-opentype'),
-       url(./NanumBarunpenBold.otf) format('otf'),
-       url(./NanumBarunpenBold.woff) format('woff'),
        url(./NanumBarunpenBold.woff2) format('woff2'),
-       url(./NanumBarunpenBold.svg#NanumBarunpenBold) format('svg'),
-       url(./NanumBarunpenBold.ttf) format('truetype');
+       url(./NanumBarunpenBold.woff) format('woff'),
+       url(./NanumBarunpenBold.otf) format('otf'),
+       url(./NanumBarunpenBold.ttf) format('truetype'),
+       url(./NanumBarunpenBold.svg#NanumBarunpenBold) format('svg');
   font-display: swap;
   font-style: normal;
   font-weight: 700;

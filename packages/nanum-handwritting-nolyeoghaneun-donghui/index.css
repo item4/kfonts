@@ -5,11 +5,11 @@
   src: local('나눔손글씨 노력하는 동희 '),
        local('나눔손글씨 노력하는 동희'),
        url(./nolyeoghaneun-donghui.eot?#iefix) format('embedded-opentype'),
-       url(./nolyeoghaneun-donghui.ttf) format('truetype'),
-       url(./nolyeoghaneun-donghui.woff) format('woff'),
        url(./nolyeoghaneun-donghui.woff2) format('woff2'),
-       url(./nolyeoghaneun-donghui.svg#nolyeoghaneun-donghui) format('svg'),
-       url(./nolyeoghaneun-donghui.otf) format('otf');
+       url(./nolyeoghaneun-donghui.woff) format('woff'),
+       url(./nolyeoghaneun-donghui.ttf) format('truetype'),
+       url(./nolyeoghaneun-donghui.otf) format('otf'),
+       url(./nolyeoghaneun-donghui.svg#nolyeoghaneun-donghui) format('svg');
   font-display: swap;
   font-style: normal;
   font-weight: 400;

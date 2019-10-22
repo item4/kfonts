@@ -5,11 +5,11 @@
   src: local('나눔손글씨 하람체 '),
        local('나눔손글씨 하람체'),
        url(./halamche.eot?#iefix) format('embedded-opentype'),
-       url(./halamche.ttf) format('truetype'),
-       url(./halamche.woff) format('woff'),
        url(./halamche.woff2) format('woff2'),
-       url(./halamche.svg#halamche) format('svg'),
-       url(./halamche.otf) format('otf');
+       url(./halamche.woff) format('woff'),
+       url(./halamche.ttf) format('truetype'),
+       url(./halamche.otf) format('otf'),
+       url(./halamche.svg#halamche) format('svg');
   font-display: swap;
   font-style: normal;
   font-weight: 400;

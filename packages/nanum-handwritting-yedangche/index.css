@@ -5,11 +5,11 @@
   src: local('나눔손글씨 예당체 '),
        local('나눔손글씨 예당체'),
        url(./yedangche.eot?#iefix) format('embedded-opentype'),
-       url(./yedangche.ttf) format('truetype'),
-       url(./yedangche.woff) format('woff'),
        url(./yedangche.woff2) format('woff2'),
-       url(./yedangche.svg#yedangche) format('svg'),
-       url(./yedangche.otf) format('otf');
+       url(./yedangche.woff) format('woff'),
+       url(./yedangche.ttf) format('truetype'),
+       url(./yedangche.otf) format('otf'),
+       url(./yedangche.svg#yedangche) format('svg');
   font-display: swap;
   font-style: normal;
   font-weight: 400;

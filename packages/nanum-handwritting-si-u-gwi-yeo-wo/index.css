@@ -5,11 +5,11 @@
   src: local('나눔손글씨 시우 귀여워 '),
        local('나눔손글씨 시우 귀여워'),
        url(./si-u-gwi-yeo-wo.eot?#iefix) format('embedded-opentype'),
-       url(./si-u-gwi-yeo-wo.ttf) format('truetype'),
-       url(./si-u-gwi-yeo-wo.woff) format('woff'),
        url(./si-u-gwi-yeo-wo.woff2) format('woff2'),
-       url(./si-u-gwi-yeo-wo.svg#si-u-gwi-yeo-wo) format('svg'),
-       url(./si-u-gwi-yeo-wo.otf) format('otf');
+       url(./si-u-gwi-yeo-wo.woff) format('woff'),
+       url(./si-u-gwi-yeo-wo.ttf) format('truetype'),
+       url(./si-u-gwi-yeo-wo.otf) format('otf'),
+       url(./si-u-gwi-yeo-wo.svg#si-u-gwi-yeo-wo) format('svg');
   font-display: swap;
   font-style: normal;
   font-weight: 400;

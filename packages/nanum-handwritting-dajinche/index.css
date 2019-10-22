@@ -5,11 +5,11 @@
   src: local('나눔손글씨 다진체 '),
        local('나눔손글씨 다진체'),
        url(./dajinche.eot?#iefix) format('embedded-opentype'),
-       url(./dajinche.ttf) format('truetype'),
-       url(./dajinche.woff) format('woff'),
        url(./dajinche.woff2) format('woff2'),
-       url(./dajinche.svg#dajinche) format('svg'),
-       url(./dajinche.otf) format('otf');
+       url(./dajinche.woff) format('woff'),
+       url(./dajinche.ttf) format('truetype'),
+       url(./dajinche.otf) format('otf'),
+       url(./dajinche.svg#dajinche) format('svg');
   font-display: swap;
   font-style: normal;
   font-weight: 400;

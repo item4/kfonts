@@ -5,11 +5,11 @@
   src: local('배달의민족 한나는 열한살 OTF '),
        local('배달의민족 한나는 열한살 OTF'),
        url(./BMHANNA_11yrs_otf.eot?#iefix) format('embedded-opentype'),
-       url(./BMHANNA_11yrs_otf.otf) format('otf'),
-       url(./BMHANNA_11yrs_otf.woff) format('woff'),
        url(./BMHANNA_11yrs_otf.woff2) format('woff2'),
-       url(./BMHANNA_11yrs_otf.svg#BMHANNA_11yrs_otf) format('svg'),
-       url(./BMHANNA_11yrs_otf.ttf) format('truetype');
+       url(./BMHANNA_11yrs_otf.woff) format('woff'),
+       url(./BMHANNA_11yrs_otf.otf) format('otf'),
+       url(./BMHANNA_11yrs_otf.ttf) format('truetype'),
+       url(./BMHANNA_11yrs_otf.svg#BMHANNA_11yrs_otf) format('svg');
   font-display: swap;
   font-style: normal;
   font-weight: 400;

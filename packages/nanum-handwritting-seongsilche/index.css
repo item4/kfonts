@@ -5,11 +5,11 @@
   src: local('나눔손글씨 성실체 '),
        local('나눔손글씨 성실체'),
        url(./seongsilche.eot?#iefix) format('embedded-opentype'),
-       url(./seongsilche.ttf) format('truetype'),
-       url(./seongsilche.woff) format('woff'),
        url(./seongsilche.woff2) format('woff2'),
-       url(./seongsilche.svg#seongsilche) format('svg'),
-       url(./seongsilche.otf) format('otf');
+       url(./seongsilche.woff) format('woff'),
+       url(./seongsilche.ttf) format('truetype'),
+       url(./seongsilche.otf) format('otf'),
+       url(./seongsilche.svg#seongsilche) format('svg');
   font-display: swap;
   font-style: normal;
   font-weight: 400;

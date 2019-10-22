@@ -5,11 +5,11 @@
   src: local('나눔손글씨 부장님 눈치체 '),
        local('나눔손글씨 부장님 눈치체'),
        url(./bujangnim-nunchiche.eot?#iefix) format('embedded-opentype'),
-       url(./bujangnim-nunchiche.ttf) format('truetype'),
-       url(./bujangnim-nunchiche.woff) format('woff'),
        url(./bujangnim-nunchiche.woff2) format('woff2'),
-       url(./bujangnim-nunchiche.svg#bujangnim-nunchiche) format('svg'),
-       url(./bujangnim-nunchiche.otf) format('otf');
+       url(./bujangnim-nunchiche.woff) format('woff'),
+       url(./bujangnim-nunchiche.ttf) format('truetype'),
+       url(./bujangnim-nunchiche.otf) format('otf'),
+       url(./bujangnim-nunchiche.svg#bujangnim-nunchiche) format('svg');
   font-display: swap;
   font-style: normal;
   font-weight: 400;

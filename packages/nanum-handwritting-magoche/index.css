@@ -5,11 +5,11 @@
   src: local('나눔손글씨 마고체 '),
        local('나눔손글씨 마고체'),
        url(./magoche.eot?#iefix) format('embedded-opentype'),
-       url(./magoche.ttf) format('truetype'),
-       url(./magoche.woff) format('woff'),
        url(./magoche.woff2) format('woff2'),
-       url(./magoche.svg#magoche) format('svg'),
-       url(./magoche.otf) format('otf');
+       url(./magoche.woff) format('woff'),
+       url(./magoche.ttf) format('truetype'),
+       url(./magoche.otf) format('otf'),
+       url(./magoche.svg#magoche) format('svg');
   font-display: swap;
   font-style: normal;
   font-weight: 400;

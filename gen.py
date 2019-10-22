@@ -25,11 +25,11 @@ CSS_TEMPLATE = """
   src: local('{font_family} '),
        local('{font_family}'),
        url(./{name}.eot?#iefix) format('embedded-opentype'),
-       url(./{name}.{first_ext}) format('{first_format}'),
-       url(./{name}.woff) format('woff'),
        url(./{name}.woff2) format('woff2'),
-       url(./{name}.svg#{name}) format('svg'),
-       url(./{name}.{second_ext}) format('{second_format}');
+       url(./{name}.woff) format('woff'),
+       url(./{name}.{first_ext}) format('{first_format}'),
+       url(./{name}.{second_ext}) format('{second_format}'),
+       url(./{name}.svg#{name}) format('svg');
   font-display: swap;
   font-style: {style};
   font-weight: {weight};

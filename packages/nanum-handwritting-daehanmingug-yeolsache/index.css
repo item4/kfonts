@@ -5,11 +5,11 @@
   src: local('나눔손글씨 대한민국 열사체 '),
        local('나눔손글씨 대한민국 열사체'),
        url(./daehanmingug-yeolsache.eot?#iefix) format('embedded-opentype'),
-       url(./daehanmingug-yeolsache.ttf) format('truetype'),
-       url(./daehanmingug-yeolsache.woff) format('woff'),
        url(./daehanmingug-yeolsache.woff2) format('woff2'),
-       url(./daehanmingug-yeolsache.svg#daehanmingug-yeolsache) format('svg'),
-       url(./daehanmingug-yeolsache.otf) format('otf');
+       url(./daehanmingug-yeolsache.woff) format('woff'),
+       url(./daehanmingug-yeolsache.ttf) format('truetype'),
+       url(./daehanmingug-yeolsache.otf) format('otf'),
+       url(./daehanmingug-yeolsache.svg#daehanmingug-yeolsache) format('svg');
   font-display: swap;
   font-style: normal;
   font-weight: 400;

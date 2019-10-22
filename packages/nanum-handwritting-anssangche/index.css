@@ -5,11 +5,11 @@
   src: local('나눔손글씨 안쌍체 '),
        local('나눔손글씨 안쌍체'),
        url(./anssangche.eot?#iefix) format('embedded-opentype'),
-       url(./anssangche.ttf) format('truetype'),
-       url(./anssangche.woff) format('woff'),
        url(./anssangche.woff2) format('woff2'),
-       url(./anssangche.svg#anssangche) format('svg'),
-       url(./anssangche.otf) format('otf');
+       url(./anssangche.woff) format('woff'),
+       url(./anssangche.ttf) format('truetype'),
+       url(./anssangche.otf) format('otf'),
+       url(./anssangche.svg#anssangche) format('svg');
   font-display: swap;
   font-style: normal;
   font-weight: 400;

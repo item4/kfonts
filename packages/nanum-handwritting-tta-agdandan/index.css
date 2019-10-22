@@ -5,11 +5,11 @@
   src: local('나눔손글씨 따악단단 '),
        local('나눔손글씨 따악단단'),
        url(./tta-agdandan.eot?#iefix) format('embedded-opentype'),
-       url(./tta-agdandan.ttf) format('truetype'),
-       url(./tta-agdandan.woff) format('woff'),
        url(./tta-agdandan.woff2) format('woff2'),
-       url(./tta-agdandan.svg#tta-agdandan) format('svg'),
-       url(./tta-agdandan.otf) format('otf');
+       url(./tta-agdandan.woff) format('woff'),
+       url(./tta-agdandan.ttf) format('truetype'),
+       url(./tta-agdandan.otf) format('otf'),
+       url(./tta-agdandan.svg#tta-agdandan) format('svg');
   font-display: swap;
   font-style: normal;
   font-weight: 400;

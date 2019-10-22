@@ -5,11 +5,11 @@
   src: local('나눔손글씨 옥비체 '),
        local('나눔손글씨 옥비체'),
        url(./ogbiche.eot?#iefix) format('embedded-opentype'),
-       url(./ogbiche.ttf) format('truetype'),
-       url(./ogbiche.woff) format('woff'),
        url(./ogbiche.woff2) format('woff2'),
-       url(./ogbiche.svg#ogbiche) format('svg'),
-       url(./ogbiche.otf) format('otf');
+       url(./ogbiche.woff) format('woff'),
+       url(./ogbiche.ttf) format('truetype'),
+       url(./ogbiche.otf) format('otf'),
+       url(./ogbiche.svg#ogbiche) format('svg');
   font-display: swap;
   font-style: normal;
   font-weight: 400;

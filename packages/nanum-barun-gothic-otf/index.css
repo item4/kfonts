@@ -5,11 +5,11 @@
   src: local('나눔바른고딕OTF '),
        local('나눔바른고딕OTF'),
        url(./NanumBarunGothic.eot?#iefix) format('embedded-opentype'),
-       url(./NanumBarunGothic.otf) format('otf'),
-       url(./NanumBarunGothic.woff) format('woff'),
        url(./NanumBarunGothic.woff2) format('woff2'),
-       url(./NanumBarunGothic.svg#NanumBarunGothic) format('svg'),
-       url(./NanumBarunGothic.ttf) format('truetype');
+       url(./NanumBarunGothic.woff) format('woff'),
+       url(./NanumBarunGothic.otf) format('otf'),
+       url(./NanumBarunGothic.ttf) format('truetype'),
+       url(./NanumBarunGothic.svg#NanumBarunGothic) format('svg');
   font-display: swap;
   font-style: normal;
   font-weight: 400;
@@ -21,11 +21,11 @@
   src: local('나눔바른고딕OTF '),
        local('나눔바른고딕OTF'),
        url(./NanumBarunGothicBold.eot?#iefix) format('embedded-opentype'),
-       url(./NanumBarunGothicBold.otf) format('otf'),
-       url(./NanumBarunGothicBold.woff) format('woff'),
        url(./NanumBarunGothicBold.woff2) format('woff2'),
-       url(./NanumBarunGothicBold.svg#NanumBarunGothicBold) format('svg'),
-       url(./NanumBarunGothicBold.ttf) format('truetype');
+       url(./NanumBarunGothicBold.woff) format('woff'),
+       url(./NanumBarunGothicBold.otf) format('otf'),
+       url(./NanumBarunGothicBold.ttf) format('truetype'),
+       url(./NanumBarunGothicBold.svg#NanumBarunGothicBold) format('svg');
   font-display: swap;
   font-style: normal;
   font-weight: 700;
@@ -37,11 +37,11 @@
   src: local('나눔바른고딕OTF '),
        local('나눔바른고딕OTF'),
        url(./NanumBarunGothicLight.eot?#iefix) format('embedded-opentype'),
-       url(./NanumBarunGothicLight.otf) format('otf'),
-       url(./NanumBarunGothicLight.woff) format('woff'),
        url(./NanumBarunGothicLight.woff2) format('woff2'),
-       url(./NanumBarunGothicLight.svg#NanumBarunGothicLight) format('svg'),
-       url(./NanumBarunGothicLight.ttf) format('truetype');
+       url(./NanumBarunGothicLight.woff) format('woff'),
+       url(./NanumBarunGothicLight.otf) format('otf'),
+       url(./NanumBarunGothicLight.ttf) format('truetype'),
+       url(./NanumBarunGothicLight.svg#NanumBarunGothicLight) format('svg');
   font-display: swap;
   font-style: normal;
   font-weight: 300;
@@ -53,11 +53,11 @@
   src: local('나눔바른고딕OTF '),
        local('나눔바른고딕OTF'),
        url(./NanumBarunGothicUltraLight.eot?#iefix) format('embedded-opentype'),
-       url(./NanumBarunGothicUltraLight.otf) format('otf'),
-       url(./NanumBarunGothicUltraLight.woff) format('woff'),
        url(./NanumBarunGothicUltraLight.woff2) format('woff2'),
-       url(./NanumBarunGothicUltraLight.svg#NanumBarunGothicUltraLight) format('svg'),
-       url(./NanumBarunGothicUltraLight.ttf) format('truetype');
+       url(./NanumBarunGothicUltraLight.woff) format('woff'),
+       url(./NanumBarunGothicUltraLight.otf) format('otf'),
+       url(./NanumBarunGothicUltraLight.ttf) format('truetype'),
+       url(./NanumBarunGothicUltraLight.svg#NanumBarunGothicUltraLight) format('svg');
   font-display: swap;
   font-style: normal;
   font-weight: 100;

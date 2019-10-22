@@ -5,11 +5,11 @@
   src: local('나눔손글씨 강부장님체 '),
        local('나눔손글씨 강부장님체'),
        url(./gangbujangnimche.eot?#iefix) format('embedded-opentype'),
-       url(./gangbujangnimche.ttf) format('truetype'),
-       url(./gangbujangnimche.woff) format('woff'),
        url(./gangbujangnimche.woff2) format('woff2'),
-       url(./gangbujangnimche.svg#gangbujangnimche) format('svg'),
-       url(./gangbujangnimche.otf) format('otf');
+       url(./gangbujangnimche.woff) format('woff'),
+       url(./gangbujangnimche.ttf) format('truetype'),
+       url(./gangbujangnimche.otf) format('otf'),
+       url(./gangbujangnimche.svg#gangbujangnimche) format('svg');
   font-display: swap;
   font-style: normal;
   font-weight: 400;

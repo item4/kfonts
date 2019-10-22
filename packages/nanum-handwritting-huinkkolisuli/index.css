@@ -5,11 +5,11 @@
   src: local('나눔손글씨 흰꼬리수리 '),
        local('나눔손글씨 흰꼬리수리'),
        url(./huinkkolisuli.eot?#iefix) format('embedded-opentype'),
-       url(./huinkkolisuli.ttf) format('truetype'),
-       url(./huinkkolisuli.woff) format('woff'),
        url(./huinkkolisuli.woff2) format('woff2'),
-       url(./huinkkolisuli.svg#huinkkolisuli) format('svg'),
-       url(./huinkkolisuli.otf) format('otf');
+       url(./huinkkolisuli.woff) format('woff'),
+       url(./huinkkolisuli.ttf) format('truetype'),
+       url(./huinkkolisuli.otf) format('otf'),
+       url(./huinkkolisuli.svg#huinkkolisuli) format('svg');
   font-display: swap;
   font-style: normal;
   font-weight: 400;

@@ -5,11 +5,11 @@
   src: local('나눔손글씨 희망누리 '),
        local('나눔손글씨 희망누리'),
        url(./huimangnuli.eot?#iefix) format('embedded-opentype'),
-       url(./huimangnuli.ttf) format('truetype'),
-       url(./huimangnuli.woff) format('woff'),
        url(./huimangnuli.woff2) format('woff2'),
-       url(./huimangnuli.svg#huimangnuli) format('svg'),
-       url(./huimangnuli.otf) format('otf');
+       url(./huimangnuli.woff) format('woff'),
+       url(./huimangnuli.ttf) format('truetype'),
+       url(./huimangnuli.otf) format('otf'),
+       url(./huimangnuli.svg#huimangnuli) format('svg');
   font-display: swap;
   font-style: normal;
   font-weight: 400;

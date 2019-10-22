@@ -5,11 +5,11 @@
   src: local('나눔손글씨 신혼부부 '),
        local('나눔손글씨 신혼부부'),
        url(./sinhonbubu.eot?#iefix) format('embedded-opentype'),
-       url(./sinhonbubu.ttf) format('truetype'),
-       url(./sinhonbubu.woff) format('woff'),
        url(./sinhonbubu.woff2) format('woff2'),
-       url(./sinhonbubu.svg#sinhonbubu) format('svg'),
-       url(./sinhonbubu.otf) format('otf');
+       url(./sinhonbubu.woff) format('woff'),
+       url(./sinhonbubu.ttf) format('truetype'),
+       url(./sinhonbubu.otf) format('otf'),
+       url(./sinhonbubu.svg#sinhonbubu) format('svg');
   font-display: swap;
   font-style: normal;
   font-weight: 400;

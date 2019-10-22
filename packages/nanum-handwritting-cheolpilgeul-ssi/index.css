@@ -5,11 +5,11 @@
   src: local('나눔손글씨 철필글씨 '),
        local('나눔손글씨 철필글씨'),
        url(./cheolpilgeul-ssi.eot?#iefix) format('embedded-opentype'),
-       url(./cheolpilgeul-ssi.ttf) format('truetype'),
-       url(./cheolpilgeul-ssi.woff) format('woff'),
        url(./cheolpilgeul-ssi.woff2) format('woff2'),
-       url(./cheolpilgeul-ssi.svg#cheolpilgeul-ssi) format('svg'),
-       url(./cheolpilgeul-ssi.otf) format('otf');
+       url(./cheolpilgeul-ssi.woff) format('woff'),
+       url(./cheolpilgeul-ssi.ttf) format('truetype'),
+       url(./cheolpilgeul-ssi.otf) format('otf'),
+       url(./cheolpilgeul-ssi.svg#cheolpilgeul-ssi) format('svg');
   font-display: swap;
   font-style: normal;
   font-weight: 400;

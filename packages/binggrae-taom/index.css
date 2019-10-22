@@ -5,11 +5,11 @@
   src: local('빙그레 따옴체 '),
        local('빙그레 따옴체'),
        url(./BinggraeTaom.eot?#iefix) format('embedded-opentype'),
-       url(./BinggraeTaom.ttf) format('truetype'),
-       url(./BinggraeTaom.woff) format('woff'),
        url(./BinggraeTaom.woff2) format('woff2'),
-       url(./BinggraeTaom.svg#BinggraeTaom) format('svg'),
-       url(./BinggraeTaom.otf) format('otf');
+       url(./BinggraeTaom.woff) format('woff'),
+       url(./BinggraeTaom.ttf) format('truetype'),
+       url(./BinggraeTaom.otf) format('otf'),
+       url(./BinggraeTaom.svg#BinggraeTaom) format('svg');
   font-display: swap;
   font-style: normal;
   font-weight: 400;
@@ -21,11 +21,11 @@
   src: local('빙그레 따옴체 '),
        local('빙그레 따옴체'),
        url(./BinggraeTaom-Bold.eot?#iefix) format('embedded-opentype'),
-       url(./BinggraeTaom-Bold.ttf) format('truetype'),
-       url(./BinggraeTaom-Bold.woff) format('woff'),
        url(./BinggraeTaom-Bold.woff2) format('woff2'),
-       url(./BinggraeTaom-Bold.svg#BinggraeTaom-Bold) format('svg'),
-       url(./BinggraeTaom-Bold.otf) format('otf');
+       url(./BinggraeTaom-Bold.woff) format('woff'),
+       url(./BinggraeTaom-Bold.ttf) format('truetype'),
+       url(./BinggraeTaom-Bold.otf) format('otf'),
+       url(./BinggraeTaom-Bold.svg#BinggraeTaom-Bold) format('svg');
   font-display: swap;
   font-style: normal;
   font-weight: 700;

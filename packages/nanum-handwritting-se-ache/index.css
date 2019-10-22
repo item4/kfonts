@@ -5,11 +5,11 @@
   src: local('나눔손글씨 세아체 '),
        local('나눔손글씨 세아체'),
        url(./se-ache.eot?#iefix) format('embedded-opentype'),
-       url(./se-ache.ttf) format('truetype'),
-       url(./se-ache.woff) format('woff'),
        url(./se-ache.woff2) format('woff2'),
-       url(./se-ache.svg#se-ache) format('svg'),
-       url(./se-ache.otf) format('otf');
+       url(./se-ache.woff) format('woff'),
+       url(./se-ache.ttf) format('truetype'),
+       url(./se-ache.otf) format('otf'),
+       url(./se-ache.svg#se-ache) format('svg');
   font-display: swap;
   font-style: normal;
   font-weight: 400;

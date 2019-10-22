@@ -5,11 +5,11 @@
   src: local('나눔손글씨 펜 OTF '),
        local('나눔손글씨 펜 OTF'),
        url(./NanumPen.eot?#iefix) format('embedded-opentype'),
-       url(./NanumPen.otf) format('otf'),
-       url(./NanumPen.woff) format('woff'),
        url(./NanumPen.woff2) format('woff2'),
-       url(./NanumPen.svg#NanumPen) format('svg'),
-       url(./NanumPen.ttf) format('truetype');
+       url(./NanumPen.woff) format('woff'),
+       url(./NanumPen.otf) format('otf'),
+       url(./NanumPen.ttf) format('truetype'),
+       url(./NanumPen.svg#NanumPen) format('svg');
   font-display: swap;
   font-style: normal;
   font-weight: 400;

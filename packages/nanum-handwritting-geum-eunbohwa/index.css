@@ -5,11 +5,11 @@
   src: local('나눔손글씨 금은보화 '),
        local('나눔손글씨 금은보화'),
        url(./geum-eunbohwa.eot?#iefix) format('embedded-opentype'),
-       url(./geum-eunbohwa.ttf) format('truetype'),
-       url(./geum-eunbohwa.woff) format('woff'),
        url(./geum-eunbohwa.woff2) format('woff2'),
-       url(./geum-eunbohwa.svg#geum-eunbohwa) format('svg'),
-       url(./geum-eunbohwa.otf) format('otf');
+       url(./geum-eunbohwa.woff) format('woff'),
+       url(./geum-eunbohwa.ttf) format('truetype'),
+       url(./geum-eunbohwa.otf) format('otf'),
+       url(./geum-eunbohwa.svg#geum-eunbohwa) format('svg');
   font-display: swap;
   font-style: normal;
   font-weight: 400;

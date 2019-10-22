@@ -5,11 +5,11 @@
   src: local('나눔손글씨 무진장체 '),
        local('나눔손글씨 무진장체'),
        url(./mujinjangche.eot?#iefix) format('embedded-opentype'),
-       url(./mujinjangche.ttf) format('truetype'),
-       url(./mujinjangche.woff) format('woff'),
        url(./mujinjangche.woff2) format('woff2'),
-       url(./mujinjangche.svg#mujinjangche) format('svg'),
-       url(./mujinjangche.otf) format('otf');
+       url(./mujinjangche.woff) format('woff'),
+       url(./mujinjangche.ttf) format('truetype'),
+       url(./mujinjangche.otf) format('otf'),
+       url(./mujinjangche.svg#mujinjangche) format('svg');
   font-display: swap;
   font-style: normal;
   font-weight: 400;

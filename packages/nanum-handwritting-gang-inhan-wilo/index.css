@@ -5,11 +5,11 @@
   src: local('나눔손글씨 강인한 위로 '),
        local('나눔손글씨 강인한 위로'),
        url(./gang-inhan-wilo.eot?#iefix) format('embedded-opentype'),
-       url(./gang-inhan-wilo.ttf) format('truetype'),
-       url(./gang-inhan-wilo.woff) format('woff'),
        url(./gang-inhan-wilo.woff2) format('woff2'),
-       url(./gang-inhan-wilo.svg#gang-inhan-wilo) format('svg'),
-       url(./gang-inhan-wilo.otf) format('otf');
+       url(./gang-inhan-wilo.woff) format('woff'),
+       url(./gang-inhan-wilo.ttf) format('truetype'),
+       url(./gang-inhan-wilo.otf) format('otf'),
+       url(./gang-inhan-wilo.svg#gang-inhan-wilo) format('svg');
   font-display: swap;
   font-style: normal;
   font-weight: 400;

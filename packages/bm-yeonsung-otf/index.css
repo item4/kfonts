@@ -5,11 +5,11 @@
   src: local('배달의민족 연성 OTF '),
        local('배달의민족 연성 OTF'),
        url(./BMYEONSUNG_otf.eot?#iefix) format('embedded-opentype'),
-       url(./BMYEONSUNG_otf.otf) format('otf'),
-       url(./BMYEONSUNG_otf.woff) format('woff'),
        url(./BMYEONSUNG_otf.woff2) format('woff2'),
-       url(./BMYEONSUNG_otf.svg#BMYEONSUNG_otf) format('svg'),
-       url(./BMYEONSUNG_otf.ttf) format('truetype');
+       url(./BMYEONSUNG_otf.woff) format('woff'),
+       url(./BMYEONSUNG_otf.otf) format('otf'),
+       url(./BMYEONSUNG_otf.ttf) format('truetype'),
+       url(./BMYEONSUNG_otf.svg#BMYEONSUNG_otf) format('svg');
   font-display: swap;
   font-style: normal;
   font-weight: 400;

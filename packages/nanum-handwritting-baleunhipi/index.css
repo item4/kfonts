@@ -5,11 +5,11 @@
   src: local('나눔손글씨 바른히피 '),
        local('나눔손글씨 바른히피'),
        url(./baleunhipi.eot?#iefix) format('embedded-opentype'),
-       url(./baleunhipi.ttf) format('truetype'),
-       url(./baleunhipi.woff) format('woff'),
        url(./baleunhipi.woff2) format('woff2'),
-       url(./baleunhipi.svg#baleunhipi) format('svg'),
-       url(./baleunhipi.otf) format('otf');
+       url(./baleunhipi.woff) format('woff'),
+       url(./baleunhipi.ttf) format('truetype'),
+       url(./baleunhipi.otf) format('otf'),
+       url(./baleunhipi.svg#baleunhipi) format('svg');
   font-display: swap;
   font-style: normal;
   font-weight: 400;

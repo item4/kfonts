@@ -5,11 +5,11 @@
   src: local('배달의민족 기랑해랑 OTF '),
        local('배달의민족 기랑해랑 OTF'),
        url(./BMKIRANGHAERANG-OTF.eot?#iefix) format('embedded-opentype'),
-       url(./BMKIRANGHAERANG-OTF.otf) format('otf'),
-       url(./BMKIRANGHAERANG-OTF.woff) format('woff'),
        url(./BMKIRANGHAERANG-OTF.woff2) format('woff2'),
-       url(./BMKIRANGHAERANG-OTF.svg#BMKIRANGHAERANG-OTF) format('svg'),
-       url(./BMKIRANGHAERANG-OTF.ttf) format('truetype');
+       url(./BMKIRANGHAERANG-OTF.woff) format('woff'),
+       url(./BMKIRANGHAERANG-OTF.otf) format('otf'),
+       url(./BMKIRANGHAERANG-OTF.ttf) format('truetype'),
+       url(./BMKIRANGHAERANG-OTF.svg#BMKIRANGHAERANG-OTF) format('svg');
   font-display: swap;
   font-style: normal;
   font-weight: 400;

@@ -5,11 +5,11 @@
   src: local('나눔손글씨 자부심지우 '),
        local('나눔손글씨 자부심지우'),
        url(./jabusimji-u.eot?#iefix) format('embedded-opentype'),
-       url(./jabusimji-u.ttf) format('truetype'),
-       url(./jabusimji-u.woff) format('woff'),
        url(./jabusimji-u.woff2) format('woff2'),
-       url(./jabusimji-u.svg#jabusimji-u) format('svg'),
-       url(./jabusimji-u.otf) format('otf');
+       url(./jabusimji-u.woff) format('woff'),
+       url(./jabusimji-u.ttf) format('truetype'),
+       url(./jabusimji-u.otf) format('otf'),
+       url(./jabusimji-u.svg#jabusimji-u) format('svg');
   font-display: swap;
   font-style: normal;
   font-weight: 400;

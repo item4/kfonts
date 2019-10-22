@@ -5,11 +5,11 @@
   src: local('나눔손글씨 야채장수 백금례 '),
        local('나눔손글씨 야채장수 백금례'),
        url(./yachaejangsu-baeggeumlye.eot?#iefix) format('embedded-opentype'),
-       url(./yachaejangsu-baeggeumlye.ttf) format('truetype'),
-       url(./yachaejangsu-baeggeumlye.woff) format('woff'),
        url(./yachaejangsu-baeggeumlye.woff2) format('woff2'),
-       url(./yachaejangsu-baeggeumlye.svg#yachaejangsu-baeggeumlye) format('svg'),
-       url(./yachaejangsu-baeggeumlye.otf) format('otf');
+       url(./yachaejangsu-baeggeumlye.woff) format('woff'),
+       url(./yachaejangsu-baeggeumlye.ttf) format('truetype'),
+       url(./yachaejangsu-baeggeumlye.otf) format('otf'),
+       url(./yachaejangsu-baeggeumlye.svg#yachaejangsu-baeggeumlye) format('svg');
   font-display: swap;
   font-style: normal;
   font-weight: 400;

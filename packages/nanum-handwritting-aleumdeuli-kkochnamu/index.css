@@ -5,11 +5,11 @@
   src: local('나눔손글씨 아름드리 꽃나무 '),
        local('나눔손글씨 아름드리 꽃나무'),
        url(./aleumdeuli-kkochnamu.eot?#iefix) format('embedded-opentype'),
-       url(./aleumdeuli-kkochnamu.ttf) format('truetype'),
-       url(./aleumdeuli-kkochnamu.woff) format('woff'),
        url(./aleumdeuli-kkochnamu.woff2) format('woff2'),
-       url(./aleumdeuli-kkochnamu.svg#aleumdeuli-kkochnamu) format('svg'),
-       url(./aleumdeuli-kkochnamu.otf) format('otf');
+       url(./aleumdeuli-kkochnamu.woff) format('woff'),
+       url(./aleumdeuli-kkochnamu.ttf) format('truetype'),
+       url(./aleumdeuli-kkochnamu.otf) format('otf'),
+       url(./aleumdeuli-kkochnamu.svg#aleumdeuli-kkochnamu) format('svg');
   font-display: swap;
   font-style: normal;
   font-weight: 400;

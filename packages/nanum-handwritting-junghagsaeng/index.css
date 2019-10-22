@@ -5,11 +5,11 @@
   src: local('나눔손글씨 중학생 '),
        local('나눔손글씨 중학생'),
        url(./junghagsaeng.eot?#iefix) format('embedded-opentype'),
-       url(./junghagsaeng.ttf) format('truetype'),
-       url(./junghagsaeng.woff) format('woff'),
        url(./junghagsaeng.woff2) format('woff2'),
-       url(./junghagsaeng.svg#junghagsaeng) format('svg'),
-       url(./junghagsaeng.otf) format('otf');
+       url(./junghagsaeng.woff) format('woff'),
+       url(./junghagsaeng.ttf) format('truetype'),
+       url(./junghagsaeng.otf) format('otf'),
+       url(./junghagsaeng.svg#junghagsaeng) format('svg');
   font-display: swap;
   font-style: normal;
   font-weight: 400;

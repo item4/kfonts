@@ -5,11 +5,11 @@
   src: local('나눔손글씨 아빠의 연애편지 '),
        local('나눔손글씨 아빠의 연애편지'),
        url(./a-ppa-ui-yeon-aepyeonji.eot?#iefix) format('embedded-opentype'),
-       url(./a-ppa-ui-yeon-aepyeonji.ttf) format('truetype'),
-       url(./a-ppa-ui-yeon-aepyeonji.woff) format('woff'),
        url(./a-ppa-ui-yeon-aepyeonji.woff2) format('woff2'),
-       url(./a-ppa-ui-yeon-aepyeonji.svg#a-ppa-ui-yeon-aepyeonji) format('svg'),
-       url(./a-ppa-ui-yeon-aepyeonji.otf) format('otf');
+       url(./a-ppa-ui-yeon-aepyeonji.woff) format('woff'),
+       url(./a-ppa-ui-yeon-aepyeonji.ttf) format('truetype'),
+       url(./a-ppa-ui-yeon-aepyeonji.otf) format('otf'),
+       url(./a-ppa-ui-yeon-aepyeonji.svg#a-ppa-ui-yeon-aepyeonji) format('svg');
   font-display: swap;
   font-style: normal;
   font-weight: 400;

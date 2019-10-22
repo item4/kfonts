@@ -5,11 +5,11 @@
   src: local('나눔손글씨 초딩희망 '),
        local('나눔손글씨 초딩희망'),
        url(./chodinghuimang.eot?#iefix) format('embedded-opentype'),
-       url(./chodinghuimang.ttf) format('truetype'),
-       url(./chodinghuimang.woff) format('woff'),
        url(./chodinghuimang.woff2) format('woff2'),
-       url(./chodinghuimang.svg#chodinghuimang) format('svg'),
-       url(./chodinghuimang.otf) format('otf');
+       url(./chodinghuimang.woff) format('woff'),
+       url(./chodinghuimang.ttf) format('truetype'),
+       url(./chodinghuimang.otf) format('otf'),
+       url(./chodinghuimang.svg#chodinghuimang) format('svg');
   font-display: swap;
   font-style: normal;
   font-weight: 400;

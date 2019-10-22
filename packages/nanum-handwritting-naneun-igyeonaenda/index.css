@@ -5,11 +5,11 @@
   src: local('나눔손글씨 나는 이겨낸다 '),
        local('나눔손글씨 나는 이겨낸다'),
        url(./naneun-igyeonaenda.eot?#iefix) format('embedded-opentype'),
-       url(./naneun-igyeonaenda.ttf) format('truetype'),
-       url(./naneun-igyeonaenda.woff) format('woff'),
        url(./naneun-igyeonaenda.woff2) format('woff2'),
-       url(./naneun-igyeonaenda.svg#naneun-igyeonaenda) format('svg'),
-       url(./naneun-igyeonaenda.otf) format('otf');
+       url(./naneun-igyeonaenda.woff) format('woff'),
+       url(./naneun-igyeonaenda.ttf) format('truetype'),
+       url(./naneun-igyeonaenda.otf) format('otf'),
+       url(./naneun-igyeonaenda.svg#naneun-igyeonaenda) format('svg');
   font-display: swap;
   font-style: normal;
   font-weight: 400;

@@ -5,11 +5,11 @@
   src: local('나눔손글씨 끄트머리체 '),
        local('나눔손글씨 끄트머리체'),
        url(./kkeuteumeoliche.eot?#iefix) format('embedded-opentype'),
-       url(./kkeuteumeoliche.ttf) format('truetype'),
-       url(./kkeuteumeoliche.woff) format('woff'),
        url(./kkeuteumeoliche.woff2) format('woff2'),
-       url(./kkeuteumeoliche.svg#kkeuteumeoliche) format('svg'),
-       url(./kkeuteumeoliche.otf) format('otf');
+       url(./kkeuteumeoliche.woff) format('woff'),
+       url(./kkeuteumeoliche.ttf) format('truetype'),
+       url(./kkeuteumeoliche.otf) format('otf'),
+       url(./kkeuteumeoliche.svg#kkeuteumeoliche) format('svg');
   font-display: swap;
   font-style: normal;
   font-weight: 400;

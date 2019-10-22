@@ -5,11 +5,11 @@
   src: local('나눔손글씨 코코체 '),
        local('나눔손글씨 코코체'),
        url(./kokoche.eot?#iefix) format('embedded-opentype'),
-       url(./kokoche.ttf) format('truetype'),
-       url(./kokoche.woff) format('woff'),
        url(./kokoche.woff2) format('woff2'),
-       url(./kokoche.svg#kokoche) format('svg'),
-       url(./kokoche.otf) format('otf');
+       url(./kokoche.woff) format('woff'),
+       url(./kokoche.ttf) format('truetype'),
+       url(./kokoche.otf) format('otf'),
+       url(./kokoche.svg#kokoche) format('svg');
   font-display: swap;
   font-style: normal;
   font-weight: 400;

@@ -5,11 +5,11 @@
   src: local('나눔손글씨 규리의 일기 '),
        local('나눔손글씨 규리의 일기'),
        url(./gyuli-ui-ilgi.eot?#iefix) format('embedded-opentype'),
-       url(./gyuli-ui-ilgi.ttf) format('truetype'),
-       url(./gyuli-ui-ilgi.woff) format('woff'),
        url(./gyuli-ui-ilgi.woff2) format('woff2'),
-       url(./gyuli-ui-ilgi.svg#gyuli-ui-ilgi) format('svg'),
-       url(./gyuli-ui-ilgi.otf) format('otf');
+       url(./gyuli-ui-ilgi.woff) format('woff'),
+       url(./gyuli-ui-ilgi.ttf) format('truetype'),
+       url(./gyuli-ui-ilgi.otf) format('otf'),
+       url(./gyuli-ui-ilgi.svg#gyuli-ui-ilgi) format('svg');
   font-display: swap;
   font-style: normal;
   font-weight: 400;

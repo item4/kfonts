@@ -5,11 +5,11 @@
   src: local('나눔손글씨 나의 아내 손글씨 '),
        local('나눔손글씨 나의 아내 손글씨'),
        url(./na-ui-anae-songeul-ssi.eot?#iefix) format('embedded-opentype'),
-       url(./na-ui-anae-songeul-ssi.ttf) format('truetype'),
-       url(./na-ui-anae-songeul-ssi.woff) format('woff'),
        url(./na-ui-anae-songeul-ssi.woff2) format('woff2'),
-       url(./na-ui-anae-songeul-ssi.svg#na-ui-anae-songeul-ssi) format('svg'),
-       url(./na-ui-anae-songeul-ssi.otf) format('otf');
+       url(./na-ui-anae-songeul-ssi.woff) format('woff'),
+       url(./na-ui-anae-songeul-ssi.ttf) format('truetype'),
+       url(./na-ui-anae-songeul-ssi.otf) format('otf'),
+       url(./na-ui-anae-songeul-ssi.svg#na-ui-anae-songeul-ssi) format('svg');
   font-display: swap;
   font-style: normal;
   font-weight: 400;

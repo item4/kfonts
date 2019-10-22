@@ -5,11 +5,11 @@
   src: local('나눔손글씨 곰신체 '),
        local('나눔손글씨 곰신체'),
        url(./gomsinche.eot?#iefix) format('embedded-opentype'),
-       url(./gomsinche.ttf) format('truetype'),
-       url(./gomsinche.woff) format('woff'),
        url(./gomsinche.woff2) format('woff2'),
-       url(./gomsinche.svg#gomsinche) format('svg'),
-       url(./gomsinche.otf) format('otf');
+       url(./gomsinche.woff) format('woff'),
+       url(./gomsinche.ttf) format('truetype'),
+       url(./gomsinche.otf) format('otf'),
+       url(./gomsinche.svg#gomsinche) format('svg');
   font-display: swap;
   font-style: normal;
   font-weight: 400;

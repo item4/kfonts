@@ -5,11 +5,11 @@
   src: local('빙그레 메로나체 '),
        local('빙그레 메로나체'),
        url(./BinggraeMelona.eot?#iefix) format('embedded-opentype'),
-       url(./BinggraeMelona.otf) format('otf'),
-       url(./BinggraeMelona.woff) format('woff'),
        url(./BinggraeMelona.woff2) format('woff2'),
-       url(./BinggraeMelona.svg#BinggraeMelona) format('svg'),
-       url(./BinggraeMelona.ttf) format('truetype');
+       url(./BinggraeMelona.woff) format('woff'),
+       url(./BinggraeMelona.otf) format('otf'),
+       url(./BinggraeMelona.ttf) format('truetype'),
+       url(./BinggraeMelona.svg#BinggraeMelona) format('svg');
   font-display: swap;
   font-style: normal;
   font-weight: 400;
@@ -21,11 +21,11 @@
   src: local('빙그레 메로나체 '),
        local('빙그레 메로나체'),
        url(./BinggraeMelona-Bold.eot?#iefix) format('embedded-opentype'),
-       url(./BinggraeMelona-Bold.otf) format('otf'),
-       url(./BinggraeMelona-Bold.woff) format('woff'),
        url(./BinggraeMelona-Bold.woff2) format('woff2'),
-       url(./BinggraeMelona-Bold.svg#BinggraeMelona-Bold) format('svg'),
-       url(./BinggraeMelona-Bold.ttf) format('truetype');
+       url(./BinggraeMelona-Bold.woff) format('woff'),
+       url(./BinggraeMelona-Bold.otf) format('otf'),
+       url(./BinggraeMelona-Bold.ttf) format('truetype'),
+       url(./BinggraeMelona-Bold.svg#BinggraeMelona-Bold) format('svg');
   font-display: swap;
   font-style: normal;
   font-weight: 700;

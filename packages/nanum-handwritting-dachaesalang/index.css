@@ -5,11 +5,11 @@
   src: local('나눔손글씨 다채사랑 '),
        local('나눔손글씨 다채사랑'),
        url(./dachaesalang.eot?#iefix) format('embedded-opentype'),
-       url(./dachaesalang.ttf) format('truetype'),
-       url(./dachaesalang.woff) format('woff'),
        url(./dachaesalang.woff2) format('woff2'),
-       url(./dachaesalang.svg#dachaesalang) format('svg'),
-       url(./dachaesalang.otf) format('otf');
+       url(./dachaesalang.woff) format('woff'),
+       url(./dachaesalang.ttf) format('truetype'),
+       url(./dachaesalang.otf) format('otf'),
+       url(./dachaesalang.svg#dachaesalang) format('svg');
   font-display: swap;
   font-style: normal;
   font-weight: 400;

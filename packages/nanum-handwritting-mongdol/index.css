@@ -5,11 +5,11 @@
   src: local('나눔손글씨 몽돌 '),
        local('나눔손글씨 몽돌'),
        url(./mongdol.eot?#iefix) format('embedded-opentype'),
-       url(./mongdol.ttf) format('truetype'),
-       url(./mongdol.woff) format('woff'),
        url(./mongdol.woff2) format('woff2'),
-       url(./mongdol.svg#mongdol) format('svg'),
-       url(./mongdol.otf) format('otf');
+       url(./mongdol.woff) format('woff'),
+       url(./mongdol.ttf) format('truetype'),
+       url(./mongdol.otf) format('otf'),
+       url(./mongdol.svg#mongdol) format('svg');
   font-display: swap;
   font-style: normal;
   font-weight: 400;

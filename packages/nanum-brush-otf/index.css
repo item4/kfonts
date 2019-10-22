@@ -5,11 +5,11 @@
   src: local('나눔손글씨 붓 OTF '),
        local('나눔손글씨 붓 OTF'),
        url(./NanumBrush.eot?#iefix) format('embedded-opentype'),
-       url(./NanumBrush.otf) format('otf'),
-       url(./NanumBrush.woff) format('woff'),
        url(./NanumBrush.woff2) format('woff2'),
-       url(./NanumBrush.svg#NanumBrush) format('svg'),
-       url(./NanumBrush.ttf) format('truetype');
+       url(./NanumBrush.woff) format('woff'),
+       url(./NanumBrush.otf) format('otf'),
+       url(./NanumBrush.ttf) format('truetype'),
+       url(./NanumBrush.svg#NanumBrush) format('svg');
   font-display: swap;
   font-style: normal;
   font-weight: 400;

@@ -5,11 +5,11 @@
   src: local('배달의민족 한나체 Pro '),
        local('배달의민족 한나체 Pro'),
        url(./BMHANNAPro.eot?#iefix) format('embedded-opentype'),
-       url(./BMHANNAPro.ttf) format('truetype'),
-       url(./BMHANNAPro.woff) format('woff'),
        url(./BMHANNAPro.woff2) format('woff2'),
-       url(./BMHANNAPro.svg#BMHANNAPro) format('svg'),
-       url(./BMHANNAPro.otf) format('otf');
+       url(./BMHANNAPro.woff) format('woff'),
+       url(./BMHANNAPro.ttf) format('truetype'),
+       url(./BMHANNAPro.otf) format('otf'),
+       url(./BMHANNAPro.svg#BMHANNAPro) format('svg');
   font-display: swap;
   font-style: normal;
   font-weight: 400;

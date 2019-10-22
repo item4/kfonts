@@ -5,11 +5,11 @@
   src: local('나눔손글씨 비상체 '),
        local('나눔손글씨 비상체'),
        url(./bisangche.eot?#iefix) format('embedded-opentype'),
-       url(./bisangche.ttf) format('truetype'),
-       url(./bisangche.woff) format('woff'),
        url(./bisangche.woff2) format('woff2'),
-       url(./bisangche.svg#bisangche) format('svg'),
-       url(./bisangche.otf) format('otf');
+       url(./bisangche.woff) format('woff'),
+       url(./bisangche.ttf) format('truetype'),
+       url(./bisangche.otf) format('otf'),
+       url(./bisangche.svg#bisangche) format('svg');
   font-display: swap;
   font-style: normal;
   font-weight: 400;

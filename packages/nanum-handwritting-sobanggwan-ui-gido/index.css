@@ -5,11 +5,11 @@
   src: local('나눔손글씨 소방관의 기도 '),
        local('나눔손글씨 소방관의 기도'),
        url(./sobanggwan-ui-gido.eot?#iefix) format('embedded-opentype'),
-       url(./sobanggwan-ui-gido.ttf) format('truetype'),
-       url(./sobanggwan-ui-gido.woff) format('woff'),
        url(./sobanggwan-ui-gido.woff2) format('woff2'),
-       url(./sobanggwan-ui-gido.svg#sobanggwan-ui-gido) format('svg'),
-       url(./sobanggwan-ui-gido.otf) format('otf');
+       url(./sobanggwan-ui-gido.woff) format('woff'),
+       url(./sobanggwan-ui-gido.ttf) format('truetype'),
+       url(./sobanggwan-ui-gido.otf) format('otf'),
+       url(./sobanggwan-ui-gido.svg#sobanggwan-ui-gido) format('svg');
   font-display: swap;
   font-style: normal;
   font-weight: 400;

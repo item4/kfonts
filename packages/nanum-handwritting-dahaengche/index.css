@@ -5,11 +5,11 @@
   src: local('나눔손글씨 다행체 '),
        local('나눔손글씨 다행체'),
        url(./dahaengche.eot?#iefix) format('embedded-opentype'),
-       url(./dahaengche.ttf) format('truetype'),
-       url(./dahaengche.woff) format('woff'),
        url(./dahaengche.woff2) format('woff2'),
-       url(./dahaengche.svg#dahaengche) format('svg'),
-       url(./dahaengche.otf) format('otf');
+       url(./dahaengche.woff) format('woff'),
+       url(./dahaengche.ttf) format('truetype'),
+       url(./dahaengche.otf) format('otf'),
+       url(./dahaengche.svg#dahaengche) format('svg');
   font-display: swap;
   font-style: normal;
   font-weight: 400;

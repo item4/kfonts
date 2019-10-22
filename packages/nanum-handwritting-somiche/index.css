@@ -5,11 +5,11 @@
   src: local('나눔손글씨 소미체 '),
        local('나눔손글씨 소미체'),
        url(./somiche.eot?#iefix) format('embedded-opentype'),
-       url(./somiche.ttf) format('truetype'),
-       url(./somiche.woff) format('woff'),
        url(./somiche.woff2) format('woff2'),
-       url(./somiche.svg#somiche) format('svg'),
-       url(./somiche.otf) format('otf');
+       url(./somiche.woff) format('woff'),
+       url(./somiche.ttf) format('truetype'),
+       url(./somiche.otf) format('otf'),
+       url(./somiche.svg#somiche) format('svg');
   font-display: swap;
   font-style: normal;
   font-weight: 400;

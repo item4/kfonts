@@ -5,11 +5,11 @@
   src: local('나눔손글씨 연지체 '),
        local('나눔손글씨 연지체'),
        url(./yeonjiche.eot?#iefix) format('embedded-opentype'),
-       url(./yeonjiche.ttf) format('truetype'),
-       url(./yeonjiche.woff) format('woff'),
        url(./yeonjiche.woff2) format('woff2'),
-       url(./yeonjiche.svg#yeonjiche) format('svg'),
-       url(./yeonjiche.otf) format('otf');
+       url(./yeonjiche.woff) format('woff'),
+       url(./yeonjiche.ttf) format('truetype'),
+       url(./yeonjiche.otf) format('otf'),
+       url(./yeonjiche.svg#yeonjiche) format('svg');
   font-display: swap;
   font-style: normal;
   font-weight: 400;

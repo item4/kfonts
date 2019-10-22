@@ -5,11 +5,11 @@
   src: local('나눔손글씨 동화또박 '),
        local('나눔손글씨 동화또박'),
        url(./donghwa-ttobag.eot?#iefix) format('embedded-opentype'),
-       url(./donghwa-ttobag.ttf) format('truetype'),
-       url(./donghwa-ttobag.woff) format('woff'),
        url(./donghwa-ttobag.woff2) format('woff2'),
-       url(./donghwa-ttobag.svg#donghwa-ttobag) format('svg'),
-       url(./donghwa-ttobag.otf) format('otf');
+       url(./donghwa-ttobag.woff) format('woff'),
+       url(./donghwa-ttobag.ttf) format('truetype'),
+       url(./donghwa-ttobag.otf) format('otf'),
+       url(./donghwa-ttobag.svg#donghwa-ttobag) format('svg');
   font-display: swap;
   font-style: normal;
   font-weight: 400;

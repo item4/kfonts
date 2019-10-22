@@ -5,11 +5,11 @@
   src: local('나눔손글씨 둥근인연 '),
        local('나눔손글씨 둥근인연'),
        url(./dunggeun-in-yeon.eot?#iefix) format('embedded-opentype'),
-       url(./dunggeun-in-yeon.ttf) format('truetype'),
-       url(./dunggeun-in-yeon.woff) format('woff'),
        url(./dunggeun-in-yeon.woff2) format('woff2'),
-       url(./dunggeun-in-yeon.svg#dunggeun-in-yeon) format('svg'),
-       url(./dunggeun-in-yeon.otf) format('otf');
+       url(./dunggeun-in-yeon.woff) format('woff'),
+       url(./dunggeun-in-yeon.ttf) format('truetype'),
+       url(./dunggeun-in-yeon.otf) format('otf'),
+       url(./dunggeun-in-yeon.svg#dunggeun-in-yeon) format('svg');
   font-display: swap;
   font-style: normal;
   font-weight: 400;

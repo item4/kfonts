@@ -5,11 +5,11 @@
   src: local('나눔손글씨 엉겅퀴체 '),
        local('나눔손글씨 엉겅퀴체'),
        url(./eonggeongkwiche.eot?#iefix) format('embedded-opentype'),
-       url(./eonggeongkwiche.ttf) format('truetype'),
-       url(./eonggeongkwiche.woff) format('woff'),
        url(./eonggeongkwiche.woff2) format('woff2'),
-       url(./eonggeongkwiche.svg#eonggeongkwiche) format('svg'),
-       url(./eonggeongkwiche.otf) format('otf');
+       url(./eonggeongkwiche.woff) format('woff'),
+       url(./eonggeongkwiche.ttf) format('truetype'),
+       url(./eonggeongkwiche.otf) format('otf'),
+       url(./eonggeongkwiche.svg#eonggeongkwiche) format('svg');
   font-display: swap;
   font-style: normal;
   font-weight: 400;
