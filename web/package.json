@@ -1,0 +1,50 @@
+{
+  "name": "kfonts",
+  "version": "0.1.0",
+  "private": true,
+  "homepage": "https://item4.net/kfonts",
+  "dependencies": {
+    "react": "^16.10.2",
+    "react-dom": "^16.10.2",
+    "react-scripts": "3.2.0",
+    "react-select": "^3.0.8"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "format": "prettier --write \"**\" && import-sort --write src/**/*.{js,jsx,ts,tsx}"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "gh-pages": "^2.1.1",
+    "husky": "^3.0.9",
+    "import-sort": "^6.0.0",
+    "import-sort-cli": "^6.0.0",
+    "import-sort-style-module": "^6.0.0",
+    "lint-staged": "^9.4.2",
+    "postcss-scss": "^2.0.0",
+    "prettier": "^1.18.2"
+  },
+  "importSort": {
+    ".js, .jsx, .es6, .es, .mjs, .ts, .tsx": {
+      "parser": "babylon",
+      "style": "module"
+    }
+  }
+}
