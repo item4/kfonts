@@ -3,6 +3,8 @@ import './packages/d2coding/index.css';
 
 import React, { useEffect, useState } from 'react';
 import Select from 'react-select';
+import { PrismAsyncLight as SyntaxHighlighter } from 'react-syntax-highlighter';
+import { darcula } from 'react-syntax-highlighter/dist/esm/styles/prism';
 
 const font_data = require('./fonts.json');
 const options = font_data.map((font, i) => ({ value: i, label: font[1] }));
@@ -58,71 +60,66 @@ const App = () => {
           />
           <br />
           <h2 style={{ fontFamily: '나눔스퀘어라운드OTF' }}>설치</h2>
-          <p style={{ fontFamily: '나눔스퀘어라운드OTF' }}>
+          <h3 style={{ fontFamily: '나눔스퀘어라운드OTF' }}>
             npm을 사용하신다면
-          </p>
-          <pre
-            style={{
-              fontFamily: 'D2Coding',
-              padding: '1rem',
-              backgroundColor: '#444',
-              color: '#fff',
-            }}
+          </h3>
+          <SyntaxHighlighter
+            language='bash'
+            style={darcula}
+            customStyle={{ fontFamily: 'D2Coding' }}
           >
-            $ npm install --save @kfonts/{font_data[index][0]}
-          </pre>
-          <p style={{ fontFamily: '나눔스퀘어라운드OTF' }}>
+            {`npm install --save @kfonts/${font_data[index][0]}`}
+          </SyntaxHighlighter>
+          <h3 style={{ fontFamily: '나눔스퀘어라운드OTF' }}>
             yarn을 사용하신다면
-          </p>
-          <pre
-            style={{
-              fontFamily: 'D2Coding',
-              padding: '1rem',
-              backgroundColor: '#444',
-              color: '#fff',
-            }}
+          </h3>
+          <SyntaxHighlighter
+            language='bash'
+            style={darcula}
+            customStyle={{ fontFamily: 'D2Coding' }}
           >
-            $ yarn add @kfonts/{font_data[index][0]}
-          </pre>
+            {`yarn add @kfonts/${font_data[index][0]}`}
+          </SyntaxHighlighter>
           <h2 style={{ fontFamily: '나눔스퀘어라운드OTF' }}>사용</h2>
-          <p style={{ fontFamily: '나눔스퀘어라운드OTF' }}>단순 CSS를 예로 들면</p>
-          <pre
-            style={{
-              fontFamily: 'D2Coding',
-              padding: '1rem',
-              backgroundColor: '#444',
-              color: '#fff',
-            }}
-          >{`\
+          <h3 style={{ fontFamily: '나눔스퀘어라운드OTF' }}>
+            단순 CSS를 예로 들면
+          </h3>
+          <SyntaxHighlighter
+            language='css'
+            style={darcula}
+            customStyle={{ fontFamily: 'D2Coding' }}
+          >
+            {`\
 .textbox {
   font-family: '${font_family}';
 }
-`}</pre>
-          <p style={{ fontFamily: '나눔스퀘어라운드OTF' }}>React를 예로 들면</p>
-          <pre
-            style={{
-              fontFamily: 'D2Coding',
-              padding: '1rem',
-              backgroundColor: '#444',
-              color: '#fff',
-            }}
+`}
+          </SyntaxHighlighter>
+          <h3 style={{ fontFamily: '나눔스퀘어라운드OTF' }}>
+            React를 예로 들면
+          </h3>
+          <SyntaxHighlighter
+            language='javascript'
+            style={darcula}
+            customStyle={{ fontFamily: 'D2Coding' }}
           >{`\
 import '@kfonts/${font_data[index][0]}';
 
 const Title = (text) => <h1 style={{fontFamily: '${font_family}'}}>{text}</h1>;
-`}</pre>
-          <h2 style={{ fontFamily: '나눔스퀘어라운드OTF' }}>Self-Host할 수 없는 경우</h2>
-          <pre
-            style={{
-              fontFamily: 'D2Coding',
-              padding: '1rem',
-              backgroundColor: '#444',
-              color: '#fff',
-            }}
+`}</SyntaxHighlighter>
+          <h2 style={{ fontFamily: '나눔스퀘어라운드OTF' }}>
+            Self-Host할 수 없는 경우
+          </h2>
+          <SyntaxHighlighter
+            language='django'
+            style={darcula}
+            customStyle={{ fontFamily: 'D2Coding' }}
           >{`\
 <!-- <head> 태그 안에 -->
-<link rel="stylesheet" href="https://unpkg.com/@kfonts/${font_data[index][0]}/index.css" />
-`}</pre>
+<link rel="stylesheet" href="https://unpkg.com/@kfonts/${
+            font_data[index][0]
+          }/index.css" />
+`}</SyntaxHighlighter>
         </>
       )}
     </main>
