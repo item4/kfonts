@@ -17,8 +17,8 @@ $ npm install --save @kfonts/nanum-handwritting-jeomkkolche
 yarn add @kfonts/nanum-handwritting-jeomkkolche
 ```
 
-사용
-----
+Self-Host 사용법
+---------------
 
 webpack을 통해 빌드되는 프로젝트에서 다음과 같은 형태로 사용 가능합니다.
 
@@ -39,3 +39,13 @@ body {
     font-family: '나눔손글씨 점꼴체';
 }
 ```
+
+Self-Host를 할 수 없는 경우의 사용법
+--------------------------------
+
+다음의 HTML을 `<head>` 태그 내부에 삽입해주세요.
+
+```html
+<link rel="stylesheet" href="https://unpkg.com/@kfonts/nanum-handwritting-jeomkkolche/index.css" />
+```
+
