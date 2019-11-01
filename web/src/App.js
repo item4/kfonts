@@ -85,6 +85,19 @@ const App = () => {
             $ yarn add @kfonts/{font_data[index][0]}
           </pre>
           <h2 style={{ fontFamily: '나눔스퀘어라운드OTF' }}>사용</h2>
+          <p style={{ fontFamily: '나눔스퀘어라운드OTF' }}>단순 CSS를 예로 들면</p>
+          <pre
+            style={{
+              fontFamily: 'D2Coding',
+              padding: '1rem',
+              backgroundColor: '#444',
+              color: '#fff',
+            }}
+          >{`\
+.textbox {
+  font-family: '${font_family}';
+}
+`}</pre>
           <p style={{ fontFamily: '나눔스퀘어라운드OTF' }}>React를 예로 들면</p>
           <pre
             style={{
@@ -97,6 +110,18 @@ const App = () => {
 import '@kfonts/${font_data[index][0]}';
 
 const Title = (text) => <h1 style={{fontFamily: '${font_family}'}}>{text}</h1>;
+`}</pre>
+          <h2 style={{ fontFamily: '나눔스퀘어라운드OTF' }}>Self-Host할 수 없는 경우</h2>
+          <pre
+            style={{
+              fontFamily: 'D2Coding',
+              padding: '1rem',
+              backgroundColor: '#444',
+              color: '#fff',
+            }}
+          >{`\
+<!-- <head> 태그 안에 -->
+<link rel="stylesheet" href="https://unpkg.com/@kfonts/${font_data[index][0]}/index.css" />
 `}</pre>
         </>
       )}
