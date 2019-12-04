@@ -1,0 +1,64 @@
+
+@font-face {
+  font-family: '나눔스퀘어';
+  src: url(./NanumSquareRegular.eot);
+  src: local('나눔스퀘어 '),
+       local('나눔스퀘어'),
+       url(./NanumSquareRegular.eot?#iefix) format('embedded-opentype'),
+       url(./NanumSquareRegular.woff2) format('woff2'),
+       url(./NanumSquareRegular.woff) format('woff'),
+       url(./NanumSquareRegular.ttf) format('truetype'),
+       url(./NanumSquareRegular.otf) format('otf'),
+       url(./NanumSquareRegular.svg#NanumSquareRegular) format('svg');
+  font-display: swap;
+  font-style: normal;
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: '나눔스퀘어';
+  src: url(./NanumSquareLight.eot);
+  src: local('나눔스퀘어 '),
+       local('나눔스퀘어'),
+       url(./NanumSquareLight.eot?#iefix) format('embedded-opentype'),
+       url(./NanumSquareLight.woff2) format('woff2'),
+       url(./NanumSquareLight.woff) format('woff'),
+       url(./NanumSquareLight.ttf) format('truetype'),
+       url(./NanumSquareLight.otf) format('otf'),
+       url(./NanumSquareLight.svg#NanumSquareLight) format('svg');
+  font-display: swap;
+  font-style: normal;
+  font-weight: 300;
+}
+
+@font-face {
+  font-family: '나눔스퀘어';
+  src: url(./NanumSquareBold.eot);
+  src: local('나눔스퀘어 '),
+       local('나눔스퀘어'),
+       url(./NanumSquareBold.eot?#iefix) format('embedded-opentype'),
+       url(./NanumSquareBold.woff2) format('woff2'),
+       url(./NanumSquareBold.woff) format('woff'),
+       url(./NanumSquareBold.ttf) format('truetype'),
+       url(./NanumSquareBold.otf) format('otf'),
+       url(./NanumSquareBold.svg#NanumSquareBold) format('svg');
+  font-display: swap;
+  font-style: normal;
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: '나눔스퀘어';
+  src: url(./NanumSquareExtraBold.eot);
+  src: local('나눔스퀘어 '),
+       local('나눔스퀘어'),
+       url(./NanumSquareExtraBold.eot?#iefix) format('embedded-opentype'),
+       url(./NanumSquareExtraBold.woff2) format('woff2'),
+       url(./NanumSquareExtraBold.woff) format('woff'),
+       url(./NanumSquareExtraBold.ttf) format('truetype'),
+       url(./NanumSquareExtraBold.otf) format('otf'),
+       url(./NanumSquareExtraBold.svg#NanumSquareExtraBold) format('svg');
+  font-display: swap;
+  font-style: normal;
+  font-weight: 800;
+}
