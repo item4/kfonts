@@ -24,11 +24,17 @@ for package in pathlib.Path('./packages').iterdir():
         dst2 = web_package / f'{name}.woff2'
         shutil.copy(src1, dst1)
         shutil.copy(src2, dst2)
-        css_bodies.append("""
+        font_family = meta['font-family']
+        font_families = [font_family]
+        if ' ' in font_family:
+            font_families.append(font_family.replace(' ', ''))
+        font_families.append(package.name)
+        for f_family in font_families:
+            css_bodies.append("""
 @font-face {open}
-  font-family: '{font_family}';
-  src: local('{font_family} '),
-       local('{font_family}'),
+  font-family: '{f_family}';
+  src: local('{f_family} '),
+       local('{f_family}'),
        url(./{name}.woff2) format('woff2'),
        url(./{name}.woff) format('woff');
   font-display: swap;
@@ -38,7 +44,7 @@ for package in pathlib.Path('./packages').iterdir():
 """.format(
     open='{',
     close='}',
-    font_family=meta['font-family'],
+    f_family=f_family,
     name=name,
     style=file_data['style'],
     weight=file_data['weight'],
