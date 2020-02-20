@@ -14,3 +14,35 @@
   font-style: normal;
   font-weight: 400;
 }
+
+@font-face {
+  font-family: '나눔손글씨코코체';
+  src: url(./kokoche.eot);
+  src: local('나눔손글씨코코체 '),
+       local('나눔손글씨코코체'),
+       url(./kokoche.eot?#iefix) format('embedded-opentype'),
+       url(./kokoche.woff2) format('woff2'),
+       url(./kokoche.woff) format('woff'),
+       url(./kokoche.ttf) format('truetype'),
+       url(./kokoche.otf) format('otf'),
+       url(./kokoche.svg#kokoche) format('svg');
+  font-display: swap;
+  font-style: normal;
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: 'nanum-handwritting-kokoche';
+  src: url(./kokoche.eot);
+  src: local('nanum-handwritting-kokoche '),
+       local('nanum-handwritting-kokoche'),
+       url(./kokoche.eot?#iefix) format('embedded-opentype'),
+       url(./kokoche.woff2) format('woff2'),
+       url(./kokoche.woff) format('woff'),
+       url(./kokoche.ttf) format('truetype'),
+       url(./kokoche.otf) format('otf'),
+       url(./kokoche.svg#kokoche) format('svg');
+  font-display: swap;
+  font-style: normal;
+  font-weight: 400;
+}

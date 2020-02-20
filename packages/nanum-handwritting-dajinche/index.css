@@ -14,3 +14,35 @@
   font-style: normal;
   font-weight: 400;
 }
+
+@font-face {
+  font-family: '나눔손글씨다진체';
+  src: url(./dajinche.eot);
+  src: local('나눔손글씨다진체 '),
+       local('나눔손글씨다진체'),
+       url(./dajinche.eot?#iefix) format('embedded-opentype'),
+       url(./dajinche.woff2) format('woff2'),
+       url(./dajinche.woff) format('woff'),
+       url(./dajinche.ttf) format('truetype'),
+       url(./dajinche.otf) format('otf'),
+       url(./dajinche.svg#dajinche) format('svg');
+  font-display: swap;
+  font-style: normal;
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: 'nanum-handwritting-dajinche';
+  src: url(./dajinche.eot);
+  src: local('nanum-handwritting-dajinche '),
+       local('nanum-handwritting-dajinche'),
+       url(./dajinche.eot?#iefix) format('embedded-opentype'),
+       url(./dajinche.woff2) format('woff2'),
+       url(./dajinche.woff) format('woff'),
+       url(./dajinche.ttf) format('truetype'),
+       url(./dajinche.otf) format('otf'),
+       url(./dajinche.svg#dajinche) format('svg');
+  font-display: swap;
+  font-style: normal;
+  font-weight: 400;
+}

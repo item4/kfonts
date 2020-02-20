@@ -14,3 +14,35 @@
   font-style: normal;
   font-weight: 400;
 }
+
+@font-face {
+  font-family: '나눔손글씨소미체';
+  src: url(./somiche.eot);
+  src: local('나눔손글씨소미체 '),
+       local('나눔손글씨소미체'),
+       url(./somiche.eot?#iefix) format('embedded-opentype'),
+       url(./somiche.woff2) format('woff2'),
+       url(./somiche.woff) format('woff'),
+       url(./somiche.ttf) format('truetype'),
+       url(./somiche.otf) format('otf'),
+       url(./somiche.svg#somiche) format('svg');
+  font-display: swap;
+  font-style: normal;
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: 'nanum-handwritting-somiche';
+  src: url(./somiche.eot);
+  src: local('nanum-handwritting-somiche '),
+       local('nanum-handwritting-somiche'),
+       url(./somiche.eot?#iefix) format('embedded-opentype'),
+       url(./somiche.woff2) format('woff2'),
+       url(./somiche.woff) format('woff'),
+       url(./somiche.ttf) format('truetype'),
+       url(./somiche.otf) format('otf'),
+       url(./somiche.svg#somiche) format('svg');
+  font-display: swap;
+  font-style: normal;
+  font-weight: 400;
+}

@@ -14,3 +14,35 @@
   font-style: normal;
   font-weight: 400;
 }
+
+@font-face {
+  font-family: '나눔손글씨또박또박';
+  src: url(./ttobagttobag.eot);
+  src: local('나눔손글씨또박또박 '),
+       local('나눔손글씨또박또박'),
+       url(./ttobagttobag.eot?#iefix) format('embedded-opentype'),
+       url(./ttobagttobag.woff2) format('woff2'),
+       url(./ttobagttobag.woff) format('woff'),
+       url(./ttobagttobag.ttf) format('truetype'),
+       url(./ttobagttobag.otf) format('otf'),
+       url(./ttobagttobag.svg#ttobagttobag) format('svg');
+  font-display: swap;
+  font-style: normal;
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: 'nanum-handwritting-ttobagttobag';
+  src: url(./ttobagttobag.eot);
+  src: local('nanum-handwritting-ttobagttobag '),
+       local('nanum-handwritting-ttobagttobag'),
+       url(./ttobagttobag.eot?#iefix) format('embedded-opentype'),
+       url(./ttobagttobag.woff2) format('woff2'),
+       url(./ttobagttobag.woff) format('woff'),
+       url(./ttobagttobag.ttf) format('truetype'),
+       url(./ttobagttobag.otf) format('otf'),
+       url(./ttobagttobag.svg#ttobagttobag) format('svg');
+  font-display: swap;
+  font-style: normal;
+  font-weight: 400;
+}

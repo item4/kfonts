@@ -14,3 +14,35 @@
   font-style: normal;
   font-weight: 400;
 }
+
+@font-face {
+  font-family: '나눔손글씨아줌마자유';
+  src: url(./ajumma-ja-yu.eot);
+  src: local('나눔손글씨아줌마자유 '),
+       local('나눔손글씨아줌마자유'),
+       url(./ajumma-ja-yu.eot?#iefix) format('embedded-opentype'),
+       url(./ajumma-ja-yu.woff2) format('woff2'),
+       url(./ajumma-ja-yu.woff) format('woff'),
+       url(./ajumma-ja-yu.ttf) format('truetype'),
+       url(./ajumma-ja-yu.otf) format('otf'),
+       url(./ajumma-ja-yu.svg#ajumma-ja-yu) format('svg');
+  font-display: swap;
+  font-style: normal;
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: 'nanum-handwritting-ajumma-ja-yu';
+  src: url(./ajumma-ja-yu.eot);
+  src: local('nanum-handwritting-ajumma-ja-yu '),
+       local('nanum-handwritting-ajumma-ja-yu'),
+       url(./ajumma-ja-yu.eot?#iefix) format('embedded-opentype'),
+       url(./ajumma-ja-yu.woff2) format('woff2'),
+       url(./ajumma-ja-yu.woff) format('woff'),
+       url(./ajumma-ja-yu.ttf) format('truetype'),
+       url(./ajumma-ja-yu.otf) format('otf'),
+       url(./ajumma-ja-yu.svg#ajumma-ja-yu) format('svg');
+  font-display: swap;
+  font-style: normal;
+  font-weight: 400;
+}

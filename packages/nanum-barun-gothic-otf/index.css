@@ -16,10 +16,42 @@
 }
 
 @font-face {
+  font-family: 'nanum-barun-gothic-otf';
+  src: url(./NanumBarunGothic.eot);
+  src: local('nanum-barun-gothic-otf '),
+       local('nanum-barun-gothic-otf'),
+       url(./NanumBarunGothic.eot?#iefix) format('embedded-opentype'),
+       url(./NanumBarunGothic.woff2) format('woff2'),
+       url(./NanumBarunGothic.woff) format('woff'),
+       url(./NanumBarunGothic.otf) format('otf'),
+       url(./NanumBarunGothic.ttf) format('truetype'),
+       url(./NanumBarunGothic.svg#NanumBarunGothic) format('svg');
+  font-display: swap;
+  font-style: normal;
+  font-weight: 400;
+}
+
+@font-face {
   font-family: '나눔바른고딕OTF';
   src: url(./NanumBarunGothicBold.eot);
   src: local('나눔바른고딕OTF '),
        local('나눔바른고딕OTF'),
+       url(./NanumBarunGothicBold.eot?#iefix) format('embedded-opentype'),
+       url(./NanumBarunGothicBold.woff2) format('woff2'),
+       url(./NanumBarunGothicBold.woff) format('woff'),
+       url(./NanumBarunGothicBold.otf) format('otf'),
+       url(./NanumBarunGothicBold.ttf) format('truetype'),
+       url(./NanumBarunGothicBold.svg#NanumBarunGothicBold) format('svg');
+  font-display: swap;
+  font-style: normal;
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: 'nanum-barun-gothic-otf';
+  src: url(./NanumBarunGothicBold.eot);
+  src: local('nanum-barun-gothic-otf '),
+       local('nanum-barun-gothic-otf'),
        url(./NanumBarunGothicBold.eot?#iefix) format('embedded-opentype'),
        url(./NanumBarunGothicBold.woff2) format('woff2'),
        url(./NanumBarunGothicBold.woff) format('woff'),
@@ -48,10 +80,42 @@
 }
 
 @font-face {
+  font-family: 'nanum-barun-gothic-otf';
+  src: url(./NanumBarunGothicLight.eot);
+  src: local('nanum-barun-gothic-otf '),
+       local('nanum-barun-gothic-otf'),
+       url(./NanumBarunGothicLight.eot?#iefix) format('embedded-opentype'),
+       url(./NanumBarunGothicLight.woff2) format('woff2'),
+       url(./NanumBarunGothicLight.woff) format('woff'),
+       url(./NanumBarunGothicLight.otf) format('otf'),
+       url(./NanumBarunGothicLight.ttf) format('truetype'),
+       url(./NanumBarunGothicLight.svg#NanumBarunGothicLight) format('svg');
+  font-display: swap;
+  font-style: normal;
+  font-weight: 300;
+}
+
+@font-face {
   font-family: '나눔바른고딕OTF';
   src: url(./NanumBarunGothicUltraLight.eot);
   src: local('나눔바른고딕OTF '),
        local('나눔바른고딕OTF'),
+       url(./NanumBarunGothicUltraLight.eot?#iefix) format('embedded-opentype'),
+       url(./NanumBarunGothicUltraLight.woff2) format('woff2'),
+       url(./NanumBarunGothicUltraLight.woff) format('woff'),
+       url(./NanumBarunGothicUltraLight.otf) format('otf'),
+       url(./NanumBarunGothicUltraLight.ttf) format('truetype'),
+       url(./NanumBarunGothicUltraLight.svg#NanumBarunGothicUltraLight) format('svg');
+  font-display: swap;
+  font-style: normal;
+  font-weight: 100;
+}
+
+@font-face {
+  font-family: 'nanum-barun-gothic-otf';
+  src: url(./NanumBarunGothicUltraLight.eot);
+  src: local('nanum-barun-gothic-otf '),
+       local('nanum-barun-gothic-otf'),
        url(./NanumBarunGothicUltraLight.eot?#iefix) format('embedded-opentype'),
        url(./NanumBarunGothicUltraLight.woff2) format('woff2'),
        url(./NanumBarunGothicUltraLight.woff) format('woff'),

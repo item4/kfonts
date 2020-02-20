@@ -14,3 +14,35 @@
   font-style: normal;
   font-weight: 400;
 }
+
+@font-face {
+  font-family: '나눔손글씨연지체';
+  src: url(./yeonjiche.eot);
+  src: local('나눔손글씨연지체 '),
+       local('나눔손글씨연지체'),
+       url(./yeonjiche.eot?#iefix) format('embedded-opentype'),
+       url(./yeonjiche.woff2) format('woff2'),
+       url(./yeonjiche.woff) format('woff'),
+       url(./yeonjiche.ttf) format('truetype'),
+       url(./yeonjiche.otf) format('otf'),
+       url(./yeonjiche.svg#yeonjiche) format('svg');
+  font-display: swap;
+  font-style: normal;
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: 'nanum-handwritting-yeonjiche';
+  src: url(./yeonjiche.eot);
+  src: local('nanum-handwritting-yeonjiche '),
+       local('nanum-handwritting-yeonjiche'),
+       url(./yeonjiche.eot?#iefix) format('embedded-opentype'),
+       url(./yeonjiche.woff2) format('woff2'),
+       url(./yeonjiche.woff) format('woff'),
+       url(./yeonjiche.ttf) format('truetype'),
+       url(./yeonjiche.otf) format('otf'),
+       url(./yeonjiche.svg#yeonjiche) format('svg');
+  font-display: swap;
+  font-style: normal;
+  font-weight: 400;
+}

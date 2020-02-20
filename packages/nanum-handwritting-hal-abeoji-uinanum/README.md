@@ -36,9 +36,15 @@ import '@kfonts/nanum-handwritting-hal-abeoji-uinanum';
 
 ```css
 body {
-    font-family: '나눔손글씨 할아버지의나눔';
+    font-family: '나눔손글씨 할아버지의나눔', '나눔손글씨할아버지의나눔', 'nanum-handwritting-hal-abeoji-uinanum';
 }
 ```
+
+주의
+++++
+
+css-loader 버전이 낮은 경우, 폰트명에 공백이 있으면 폰트 사용이 불가합니다.
+css-loader의 버전을 올리거나, 띄어쓰기가 없는 대체 폰트명을 사용해주세요.
 
 Self-Host를 할 수 없는 경우의 사용법
 --------------------------------

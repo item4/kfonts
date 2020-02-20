@@ -14,3 +14,35 @@
   font-style: normal;
   font-weight: 400;
 }
+
+@font-face {
+  font-family: '나눔손글씨성실체';
+  src: url(./seongsilche.eot);
+  src: local('나눔손글씨성실체 '),
+       local('나눔손글씨성실체'),
+       url(./seongsilche.eot?#iefix) format('embedded-opentype'),
+       url(./seongsilche.woff2) format('woff2'),
+       url(./seongsilche.woff) format('woff'),
+       url(./seongsilche.ttf) format('truetype'),
+       url(./seongsilche.otf) format('otf'),
+       url(./seongsilche.svg#seongsilche) format('svg');
+  font-display: swap;
+  font-style: normal;
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: 'nanum-handwritting-seongsilche';
+  src: url(./seongsilche.eot);
+  src: local('nanum-handwritting-seongsilche '),
+       local('nanum-handwritting-seongsilche'),
+       url(./seongsilche.eot?#iefix) format('embedded-opentype'),
+       url(./seongsilche.woff2) format('woff2'),
+       url(./seongsilche.woff) format('woff'),
+       url(./seongsilche.ttf) format('truetype'),
+       url(./seongsilche.otf) format('otf'),
+       url(./seongsilche.svg#seongsilche) format('svg');
+  font-display: swap;
+  font-style: normal;
+  font-weight: 400;
+}

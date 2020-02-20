@@ -14,3 +14,35 @@
   font-style: normal;
   font-weight: 400;
 }
+
+@font-face {
+  font-family: '나눔손글씨왼손잡이도예뻐';
+  src: url(./oensonjab-ido-ye-ppeo.eot);
+  src: local('나눔손글씨왼손잡이도예뻐 '),
+       local('나눔손글씨왼손잡이도예뻐'),
+       url(./oensonjab-ido-ye-ppeo.eot?#iefix) format('embedded-opentype'),
+       url(./oensonjab-ido-ye-ppeo.woff2) format('woff2'),
+       url(./oensonjab-ido-ye-ppeo.woff) format('woff'),
+       url(./oensonjab-ido-ye-ppeo.ttf) format('truetype'),
+       url(./oensonjab-ido-ye-ppeo.otf) format('otf'),
+       url(./oensonjab-ido-ye-ppeo.svg#oensonjab-ido-ye-ppeo) format('svg');
+  font-display: swap;
+  font-style: normal;
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: 'nanum-handwritting-oensonjab-ido-ye-ppeo';
+  src: url(./oensonjab-ido-ye-ppeo.eot);
+  src: local('nanum-handwritting-oensonjab-ido-ye-ppeo '),
+       local('nanum-handwritting-oensonjab-ido-ye-ppeo'),
+       url(./oensonjab-ido-ye-ppeo.eot?#iefix) format('embedded-opentype'),
+       url(./oensonjab-ido-ye-ppeo.woff2) format('woff2'),
+       url(./oensonjab-ido-ye-ppeo.woff) format('woff'),
+       url(./oensonjab-ido-ye-ppeo.ttf) format('truetype'),
+       url(./oensonjab-ido-ye-ppeo.otf) format('otf'),
+       url(./oensonjab-ido-ye-ppeo.svg#oensonjab-ido-ye-ppeo) format('svg');
+  font-display: swap;
+  font-style: normal;
+  font-weight: 400;
+}

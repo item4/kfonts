@@ -14,3 +14,35 @@
   font-style: normal;
   font-weight: 400;
 }
+
+@font-face {
+  font-family: '나눔손글씨갈맷글';
+  src: url(./galmaesgeul.eot);
+  src: local('나눔손글씨갈맷글 '),
+       local('나눔손글씨갈맷글'),
+       url(./galmaesgeul.eot?#iefix) format('embedded-opentype'),
+       url(./galmaesgeul.woff2) format('woff2'),
+       url(./galmaesgeul.woff) format('woff'),
+       url(./galmaesgeul.ttf) format('truetype'),
+       url(./galmaesgeul.otf) format('otf'),
+       url(./galmaesgeul.svg#galmaesgeul) format('svg');
+  font-display: swap;
+  font-style: normal;
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: 'nanum-handwritting-galmaesgeul';
+  src: url(./galmaesgeul.eot);
+  src: local('nanum-handwritting-galmaesgeul '),
+       local('nanum-handwritting-galmaesgeul'),
+       url(./galmaesgeul.eot?#iefix) format('embedded-opentype'),
+       url(./galmaesgeul.woff2) format('woff2'),
+       url(./galmaesgeul.woff) format('woff'),
+       url(./galmaesgeul.ttf) format('truetype'),
+       url(./galmaesgeul.otf) format('otf'),
+       url(./galmaesgeul.svg#galmaesgeul) format('svg');
+  font-display: swap;
+  font-style: normal;
+  font-weight: 400;
+}

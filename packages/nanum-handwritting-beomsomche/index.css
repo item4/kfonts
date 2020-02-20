@@ -14,3 +14,35 @@
   font-style: normal;
   font-weight: 400;
 }
+
+@font-face {
+  font-family: '나눔손글씨범솜체';
+  src: url(./beomsomche.eot);
+  src: local('나눔손글씨범솜체 '),
+       local('나눔손글씨범솜체'),
+       url(./beomsomche.eot?#iefix) format('embedded-opentype'),
+       url(./beomsomche.woff2) format('woff2'),
+       url(./beomsomche.woff) format('woff'),
+       url(./beomsomche.ttf) format('truetype'),
+       url(./beomsomche.otf) format('otf'),
+       url(./beomsomche.svg#beomsomche) format('svg');
+  font-display: swap;
+  font-style: normal;
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: 'nanum-handwritting-beomsomche';
+  src: url(./beomsomche.eot);
+  src: local('nanum-handwritting-beomsomche '),
+       local('nanum-handwritting-beomsomche'),
+       url(./beomsomche.eot?#iefix) format('embedded-opentype'),
+       url(./beomsomche.woff2) format('woff2'),
+       url(./beomsomche.woff) format('woff'),
+       url(./beomsomche.ttf) format('truetype'),
+       url(./beomsomche.otf) format('otf'),
+       url(./beomsomche.svg#beomsomche) format('svg');
+  font-display: swap;
+  font-style: normal;
+  font-weight: 400;
+}

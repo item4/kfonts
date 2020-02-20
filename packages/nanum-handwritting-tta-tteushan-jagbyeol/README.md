@@ -36,9 +36,15 @@ import '@kfonts/nanum-handwritting-tta-tteushan-jagbyeol';
 
 ```css
 body {
-    font-family: '나눔손글씨 따뜻한 작별';
+    font-family: '나눔손글씨 따뜻한 작별', '나눔손글씨따뜻한작별', 'nanum-handwritting-tta-tteushan-jagbyeol';
 }
 ```
+
+주의
+++++
+
+css-loader 버전이 낮은 경우, 폰트명에 공백이 있으면 폰트 사용이 불가합니다.
+css-loader의 버전을 올리거나, 띄어쓰기가 없는 대체 폰트명을 사용해주세요.
 
 Self-Host를 할 수 없는 경우의 사용법
 --------------------------------

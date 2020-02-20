@@ -36,9 +36,15 @@ import '@kfonts/bm-hanna-air';
 
 ```css
 body {
-    font-family: '배달의민족 한나체 Air';
+    font-family: '배달의민족 한나체 Air', '배달의민족한나체Air', 'bm-hanna-air';
 }
 ```
+
+주의
+++++
+
+css-loader 버전이 낮은 경우, 폰트명에 공백이 있으면 폰트 사용이 불가합니다.
+css-loader의 버전을 올리거나, 띄어쓰기가 없는 대체 폰트명을 사용해주세요.
 
 Self-Host를 할 수 없는 경우의 사용법
 --------------------------------

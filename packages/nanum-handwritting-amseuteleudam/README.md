@@ -36,9 +36,15 @@ import '@kfonts/nanum-handwritting-amseuteleudam';
 
 ```css
 body {
-    font-family: '나눔손글씨 암스테르담';
+    font-family: '나눔손글씨 암스테르담', '나눔손글씨암스테르담', 'nanum-handwritting-amseuteleudam';
 }
 ```
+
+주의
+++++
+
+css-loader 버전이 낮은 경우, 폰트명에 공백이 있으면 폰트 사용이 불가합니다.
+css-loader의 버전을 올리거나, 띄어쓰기가 없는 대체 폰트명을 사용해주세요.
 
 Self-Host를 할 수 없는 경우의 사용법
 --------------------------------

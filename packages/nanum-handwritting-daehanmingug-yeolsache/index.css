@@ -14,3 +14,35 @@
   font-style: normal;
   font-weight: 400;
 }
+
+@font-face {
+  font-family: '나눔손글씨대한민국열사체';
+  src: url(./daehanmingug-yeolsache.eot);
+  src: local('나눔손글씨대한민국열사체 '),
+       local('나눔손글씨대한민국열사체'),
+       url(./daehanmingug-yeolsache.eot?#iefix) format('embedded-opentype'),
+       url(./daehanmingug-yeolsache.woff2) format('woff2'),
+       url(./daehanmingug-yeolsache.woff) format('woff'),
+       url(./daehanmingug-yeolsache.ttf) format('truetype'),
+       url(./daehanmingug-yeolsache.otf) format('otf'),
+       url(./daehanmingug-yeolsache.svg#daehanmingug-yeolsache) format('svg');
+  font-display: swap;
+  font-style: normal;
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: 'nanum-handwritting-daehanmingug-yeolsache';
+  src: url(./daehanmingug-yeolsache.eot);
+  src: local('nanum-handwritting-daehanmingug-yeolsache '),
+       local('nanum-handwritting-daehanmingug-yeolsache'),
+       url(./daehanmingug-yeolsache.eot?#iefix) format('embedded-opentype'),
+       url(./daehanmingug-yeolsache.woff2) format('woff2'),
+       url(./daehanmingug-yeolsache.woff) format('woff'),
+       url(./daehanmingug-yeolsache.ttf) format('truetype'),
+       url(./daehanmingug-yeolsache.otf) format('otf'),
+       url(./daehanmingug-yeolsache.svg#daehanmingug-yeolsache) format('svg');
+  font-display: swap;
+  font-style: normal;
+  font-weight: 400;
+}

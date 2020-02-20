@@ -14,3 +14,35 @@
   font-style: normal;
   font-weight: 400;
 }
+
+@font-face {
+  font-family: '나눔손글씨딸에게엄마가';
+  src: url(./ttal-ege-eommaga.eot);
+  src: local('나눔손글씨딸에게엄마가 '),
+       local('나눔손글씨딸에게엄마가'),
+       url(./ttal-ege-eommaga.eot?#iefix) format('embedded-opentype'),
+       url(./ttal-ege-eommaga.woff2) format('woff2'),
+       url(./ttal-ege-eommaga.woff) format('woff'),
+       url(./ttal-ege-eommaga.ttf) format('truetype'),
+       url(./ttal-ege-eommaga.otf) format('otf'),
+       url(./ttal-ege-eommaga.svg#ttal-ege-eommaga) format('svg');
+  font-display: swap;
+  font-style: normal;
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: 'nanum-handwritting-ttal-ege-eommaga';
+  src: url(./ttal-ege-eommaga.eot);
+  src: local('nanum-handwritting-ttal-ege-eommaga '),
+       local('nanum-handwritting-ttal-ege-eommaga'),
+       url(./ttal-ege-eommaga.eot?#iefix) format('embedded-opentype'),
+       url(./ttal-ege-eommaga.woff2) format('woff2'),
+       url(./ttal-ege-eommaga.woff) format('woff'),
+       url(./ttal-ege-eommaga.ttf) format('truetype'),
+       url(./ttal-ege-eommaga.otf) format('otf'),
+       url(./ttal-ege-eommaga.svg#ttal-ege-eommaga) format('svg');
+  font-display: swap;
+  font-style: normal;
+  font-weight: 400;
+}

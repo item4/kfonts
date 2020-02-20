@@ -14,3 +14,35 @@
   font-style: normal;
   font-weight: 400;
 }
+
+@font-face {
+  font-family: '나눔손글씨미래나무';
+  src: url(./milaenamu.eot);
+  src: local('나눔손글씨미래나무 '),
+       local('나눔손글씨미래나무'),
+       url(./milaenamu.eot?#iefix) format('embedded-opentype'),
+       url(./milaenamu.woff2) format('woff2'),
+       url(./milaenamu.woff) format('woff'),
+       url(./milaenamu.ttf) format('truetype'),
+       url(./milaenamu.otf) format('otf'),
+       url(./milaenamu.svg#milaenamu) format('svg');
+  font-display: swap;
+  font-style: normal;
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: 'nanum-handwritting-milaenamu';
+  src: url(./milaenamu.eot);
+  src: local('nanum-handwritting-milaenamu '),
+       local('nanum-handwritting-milaenamu'),
+       url(./milaenamu.eot?#iefix) format('embedded-opentype'),
+       url(./milaenamu.woff2) format('woff2'),
+       url(./milaenamu.woff) format('woff'),
+       url(./milaenamu.ttf) format('truetype'),
+       url(./milaenamu.otf) format('otf'),
+       url(./milaenamu.svg#milaenamu) format('svg');
+  font-display: swap;
+  font-style: normal;
+  font-weight: 400;
+}

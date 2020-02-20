@@ -14,3 +14,35 @@
   font-style: normal;
   font-weight: 400;
 }
+
+@font-face {
+  font-family: '나눔손글씨예쁜민경체';
+  src: url(./ye-ppeun-mingyeongche.eot);
+  src: local('나눔손글씨예쁜민경체 '),
+       local('나눔손글씨예쁜민경체'),
+       url(./ye-ppeun-mingyeongche.eot?#iefix) format('embedded-opentype'),
+       url(./ye-ppeun-mingyeongche.woff2) format('woff2'),
+       url(./ye-ppeun-mingyeongche.woff) format('woff'),
+       url(./ye-ppeun-mingyeongche.ttf) format('truetype'),
+       url(./ye-ppeun-mingyeongche.otf) format('otf'),
+       url(./ye-ppeun-mingyeongche.svg#ye-ppeun-mingyeongche) format('svg');
+  font-display: swap;
+  font-style: normal;
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: 'nanum-handwritting-ye-ppeun-mingyeongche';
+  src: url(./ye-ppeun-mingyeongche.eot);
+  src: local('nanum-handwritting-ye-ppeun-mingyeongche '),
+       local('nanum-handwritting-ye-ppeun-mingyeongche'),
+       url(./ye-ppeun-mingyeongche.eot?#iefix) format('embedded-opentype'),
+       url(./ye-ppeun-mingyeongche.woff2) format('woff2'),
+       url(./ye-ppeun-mingyeongche.woff) format('woff'),
+       url(./ye-ppeun-mingyeongche.ttf) format('truetype'),
+       url(./ye-ppeun-mingyeongche.otf) format('otf'),
+       url(./ye-ppeun-mingyeongche.svg#ye-ppeun-mingyeongche) format('svg');
+  font-display: swap;
+  font-style: normal;
+  font-weight: 400;
+}

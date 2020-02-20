@@ -14,3 +14,35 @@
   font-style: normal;
   font-weight: 400;
 }
+
+@font-face {
+  font-family: '나눔손글씨백의의천사';
+  src: url(./baeg-ui-ui-cheonsa.eot);
+  src: local('나눔손글씨백의의천사 '),
+       local('나눔손글씨백의의천사'),
+       url(./baeg-ui-ui-cheonsa.eot?#iefix) format('embedded-opentype'),
+       url(./baeg-ui-ui-cheonsa.woff2) format('woff2'),
+       url(./baeg-ui-ui-cheonsa.woff) format('woff'),
+       url(./baeg-ui-ui-cheonsa.ttf) format('truetype'),
+       url(./baeg-ui-ui-cheonsa.otf) format('otf'),
+       url(./baeg-ui-ui-cheonsa.svg#baeg-ui-ui-cheonsa) format('svg');
+  font-display: swap;
+  font-style: normal;
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: 'nanum-handwritting-baeg-ui-ui-cheonsa';
+  src: url(./baeg-ui-ui-cheonsa.eot);
+  src: local('nanum-handwritting-baeg-ui-ui-cheonsa '),
+       local('nanum-handwritting-baeg-ui-ui-cheonsa'),
+       url(./baeg-ui-ui-cheonsa.eot?#iefix) format('embedded-opentype'),
+       url(./baeg-ui-ui-cheonsa.woff2) format('woff2'),
+       url(./baeg-ui-ui-cheonsa.woff) format('woff'),
+       url(./baeg-ui-ui-cheonsa.ttf) format('truetype'),
+       url(./baeg-ui-ui-cheonsa.otf) format('otf'),
+       url(./baeg-ui-ui-cheonsa.svg#baeg-ui-ui-cheonsa) format('svg');
+  font-display: swap;
+  font-style: normal;
+  font-weight: 400;
+}

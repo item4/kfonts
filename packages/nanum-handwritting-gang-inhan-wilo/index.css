@@ -14,3 +14,35 @@
   font-style: normal;
   font-weight: 400;
 }
+
+@font-face {
+  font-family: '나눔손글씨강인한위로';
+  src: url(./gang-inhan-wilo.eot);
+  src: local('나눔손글씨강인한위로 '),
+       local('나눔손글씨강인한위로'),
+       url(./gang-inhan-wilo.eot?#iefix) format('embedded-opentype'),
+       url(./gang-inhan-wilo.woff2) format('woff2'),
+       url(./gang-inhan-wilo.woff) format('woff'),
+       url(./gang-inhan-wilo.ttf) format('truetype'),
+       url(./gang-inhan-wilo.otf) format('otf'),
+       url(./gang-inhan-wilo.svg#gang-inhan-wilo) format('svg');
+  font-display: swap;
+  font-style: normal;
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: 'nanum-handwritting-gang-inhan-wilo';
+  src: url(./gang-inhan-wilo.eot);
+  src: local('nanum-handwritting-gang-inhan-wilo '),
+       local('nanum-handwritting-gang-inhan-wilo'),
+       url(./gang-inhan-wilo.eot?#iefix) format('embedded-opentype'),
+       url(./gang-inhan-wilo.woff2) format('woff2'),
+       url(./gang-inhan-wilo.woff) format('woff'),
+       url(./gang-inhan-wilo.ttf) format('truetype'),
+       url(./gang-inhan-wilo.otf) format('otf'),
+       url(./gang-inhan-wilo.svg#gang-inhan-wilo) format('svg');
+  font-display: swap;
+  font-style: normal;
+  font-weight: 400;
+}

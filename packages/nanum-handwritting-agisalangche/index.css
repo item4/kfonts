@@ -14,3 +14,35 @@
   font-style: normal;
   font-weight: 400;
 }
+
+@font-face {
+  font-family: '나눔손글씨아기사랑체';
+  src: url(./agisalangche.eot);
+  src: local('나눔손글씨아기사랑체 '),
+       local('나눔손글씨아기사랑체'),
+       url(./agisalangche.eot?#iefix) format('embedded-opentype'),
+       url(./agisalangche.woff2) format('woff2'),
+       url(./agisalangche.woff) format('woff'),
+       url(./agisalangche.ttf) format('truetype'),
+       url(./agisalangche.otf) format('otf'),
+       url(./agisalangche.svg#agisalangche) format('svg');
+  font-display: swap;
+  font-style: normal;
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: 'nanum-handwritting-agisalangche';
+  src: url(./agisalangche.eot);
+  src: local('nanum-handwritting-agisalangche '),
+       local('nanum-handwritting-agisalangche'),
+       url(./agisalangche.eot?#iefix) format('embedded-opentype'),
+       url(./agisalangche.woff2) format('woff2'),
+       url(./agisalangche.woff) format('woff'),
+       url(./agisalangche.ttf) format('truetype'),
+       url(./agisalangche.otf) format('otf'),
+       url(./agisalangche.svg#agisalangche) format('svg');
+  font-display: swap;
+  font-style: normal;
+  font-weight: 400;
+}

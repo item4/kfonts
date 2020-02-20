@@ -14,3 +14,35 @@
   font-style: normal;
   font-weight: 400;
 }
+
+@font-face {
+  font-family: '나눔손글씨하나되어손글씨';
+  src: url(./hanadoe-eo-songeul-ssi.eot);
+  src: local('나눔손글씨하나되어손글씨 '),
+       local('나눔손글씨하나되어손글씨'),
+       url(./hanadoe-eo-songeul-ssi.eot?#iefix) format('embedded-opentype'),
+       url(./hanadoe-eo-songeul-ssi.woff2) format('woff2'),
+       url(./hanadoe-eo-songeul-ssi.woff) format('woff'),
+       url(./hanadoe-eo-songeul-ssi.ttf) format('truetype'),
+       url(./hanadoe-eo-songeul-ssi.otf) format('otf'),
+       url(./hanadoe-eo-songeul-ssi.svg#hanadoe-eo-songeul-ssi) format('svg');
+  font-display: swap;
+  font-style: normal;
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: 'nanum-handwritting-hanadoe-eo-songeul-ssi';
+  src: url(./hanadoe-eo-songeul-ssi.eot);
+  src: local('nanum-handwritting-hanadoe-eo-songeul-ssi '),
+       local('nanum-handwritting-hanadoe-eo-songeul-ssi'),
+       url(./hanadoe-eo-songeul-ssi.eot?#iefix) format('embedded-opentype'),
+       url(./hanadoe-eo-songeul-ssi.woff2) format('woff2'),
+       url(./hanadoe-eo-songeul-ssi.woff) format('woff'),
+       url(./hanadoe-eo-songeul-ssi.ttf) format('truetype'),
+       url(./hanadoe-eo-songeul-ssi.otf) format('otf'),
+       url(./hanadoe-eo-songeul-ssi.svg#hanadoe-eo-songeul-ssi) format('svg');
+  font-display: swap;
+  font-style: normal;
+  font-weight: 400;
+}

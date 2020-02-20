@@ -14,3 +14,35 @@
   font-style: normal;
   font-weight: 400;
 }
+
+@font-face {
+  font-family: '나눔손글씨힘내라는말보단';
+  src: url(./himnaelaneun-malbodan.eot);
+  src: local('나눔손글씨힘내라는말보단 '),
+       local('나눔손글씨힘내라는말보단'),
+       url(./himnaelaneun-malbodan.eot?#iefix) format('embedded-opentype'),
+       url(./himnaelaneun-malbodan.woff2) format('woff2'),
+       url(./himnaelaneun-malbodan.woff) format('woff'),
+       url(./himnaelaneun-malbodan.ttf) format('truetype'),
+       url(./himnaelaneun-malbodan.otf) format('otf'),
+       url(./himnaelaneun-malbodan.svg#himnaelaneun-malbodan) format('svg');
+  font-display: swap;
+  font-style: normal;
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: 'nanum-handwritting-himnaelaneun-malbodan';
+  src: url(./himnaelaneun-malbodan.eot);
+  src: local('nanum-handwritting-himnaelaneun-malbodan '),
+       local('nanum-handwritting-himnaelaneun-malbodan'),
+       url(./himnaelaneun-malbodan.eot?#iefix) format('embedded-opentype'),
+       url(./himnaelaneun-malbodan.woff2) format('woff2'),
+       url(./himnaelaneun-malbodan.woff) format('woff'),
+       url(./himnaelaneun-malbodan.ttf) format('truetype'),
+       url(./himnaelaneun-malbodan.otf) format('otf'),
+       url(./himnaelaneun-malbodan.svg#himnaelaneun-malbodan) format('svg');
+  font-display: swap;
+  font-style: normal;
+  font-weight: 400;
+}

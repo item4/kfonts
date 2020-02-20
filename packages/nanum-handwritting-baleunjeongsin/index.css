@@ -14,3 +14,35 @@
   font-style: normal;
   font-weight: 400;
 }
+
+@font-face {
+  font-family: '나눔손글씨바른정신';
+  src: url(./baleunjeongsin.eot);
+  src: local('나눔손글씨바른정신 '),
+       local('나눔손글씨바른정신'),
+       url(./baleunjeongsin.eot?#iefix) format('embedded-opentype'),
+       url(./baleunjeongsin.woff2) format('woff2'),
+       url(./baleunjeongsin.woff) format('woff'),
+       url(./baleunjeongsin.ttf) format('truetype'),
+       url(./baleunjeongsin.otf) format('otf'),
+       url(./baleunjeongsin.svg#baleunjeongsin) format('svg');
+  font-display: swap;
+  font-style: normal;
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: 'nanum-handwritting-baleunjeongsin';
+  src: url(./baleunjeongsin.eot);
+  src: local('nanum-handwritting-baleunjeongsin '),
+       local('nanum-handwritting-baleunjeongsin'),
+       url(./baleunjeongsin.eot?#iefix) format('embedded-opentype'),
+       url(./baleunjeongsin.woff2) format('woff2'),
+       url(./baleunjeongsin.woff) format('woff'),
+       url(./baleunjeongsin.ttf) format('truetype'),
+       url(./baleunjeongsin.otf) format('otf'),
+       url(./baleunjeongsin.svg#baleunjeongsin) format('svg');
+  font-display: swap;
+  font-style: normal;
+  font-weight: 400;
+}

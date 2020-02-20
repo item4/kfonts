@@ -81,9 +81,15 @@ import '@kfonts/{project_name}';
 
 ```css
 body {open}
-    font-family: '{name}';
+    font-family: {name_list};
 {close}
 ```
+
+주의
+++++
+
+css-loader 버전이 낮은 경우, 폰트명에 공백이 있으면 폰트 사용이 불가합니다.
+css-loader의 버전을 올리거나, 띄어쓰기가 없는 대체 폰트명을 사용해주세요.
 
 Self-Host를 할 수 없는 경우의 사용법
 --------------------------------
@@ -191,23 +197,30 @@ def main():
             woff2_compress(ttf_file)
 
             otf_based = meta.get('otf_based', False)
-            css.append(CSS_TEMPLATE.format(
-                open='{',
-                close='}',
-                font_family=meta['font-family'],
-                name=name,
-                weight=data['weight'],
-                style=data['style'],
-                first_ext='otf' if otf_based else 'ttf',
-                first_format='otf' if otf_based else 'truetype',
-                second_ext='ttf' if otf_based else 'otf',
-                second_format='truetype' if otf_based else 'otf',
-            ))
+            font_family = meta['font-family']
+            font_families = [font_family]
+            if ' ' in font_family:
+                font_families.append(font_family.replace(' ', ''))
+            font_families.append(package_dir.name)
+            for f_family in font_families:
+                css.append(CSS_TEMPLATE.format(
+                    open='{',
+                    close='}',
+                    font_family=f_family,
+                    name=name,
+                    weight=data['weight'],
+                    style=data['style'],
+                    first_ext='otf' if otf_based else 'ttf',
+                    first_format='otf' if otf_based else 'truetype',
+                    second_ext='ttf' if otf_based else 'otf',
+                    second_format='truetype' if otf_based else 'otf',
+                ))
         with (package_dir / 'README.md').open('w') as f:
             f.write(README_TEMPLATE.format(
                 open='{',
                 close='}',
-                name=meta['font-family'],
+                name=font_family,
+                name_list=', '.join(f"'{x}'" for x in font_families),
                 project_name=package_dir.name,
             ))
         with (package_dir / 'index.css').open('w') as f:
@@ -220,7 +233,7 @@ def main():
             json.dump({
                 'name': f'@kfonts/{package_dir.name}',
                 'version': meta['version'],
-                'description': f'{meta["font-family"]} typeface',
+                'description': f'{font_family} typeface',
                 'main': 'index.css',
                 'keywords': [
                     '@kfonts',
@@ -233,7 +246,7 @@ def main():
                     '글꼴',
                     '서체',
                     package_dir.name,
-                    meta['font-family'],
+                    font_family,
                 ],
                 'author': 'Kim, Jinsu <item4_hun@hotmail.com>',
                 'license': 'MIT',

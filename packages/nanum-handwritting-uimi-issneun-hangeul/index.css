@@ -14,3 +14,35 @@
   font-style: normal;
   font-weight: 400;
 }
+
+@font-face {
+  font-family: '나눔손글씨의미있는한글';
+  src: url(./uimi-issneun-hangeul.eot);
+  src: local('나눔손글씨의미있는한글 '),
+       local('나눔손글씨의미있는한글'),
+       url(./uimi-issneun-hangeul.eot?#iefix) format('embedded-opentype'),
+       url(./uimi-issneun-hangeul.woff2) format('woff2'),
+       url(./uimi-issneun-hangeul.woff) format('woff'),
+       url(./uimi-issneun-hangeul.ttf) format('truetype'),
+       url(./uimi-issneun-hangeul.otf) format('otf'),
+       url(./uimi-issneun-hangeul.svg#uimi-issneun-hangeul) format('svg');
+  font-display: swap;
+  font-style: normal;
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: 'nanum-handwritting-uimi-issneun-hangeul';
+  src: url(./uimi-issneun-hangeul.eot);
+  src: local('nanum-handwritting-uimi-issneun-hangeul '),
+       local('nanum-handwritting-uimi-issneun-hangeul'),
+       url(./uimi-issneun-hangeul.eot?#iefix) format('embedded-opentype'),
+       url(./uimi-issneun-hangeul.woff2) format('woff2'),
+       url(./uimi-issneun-hangeul.woff) format('woff'),
+       url(./uimi-issneun-hangeul.ttf) format('truetype'),
+       url(./uimi-issneun-hangeul.otf) format('otf'),
+       url(./uimi-issneun-hangeul.svg#uimi-issneun-hangeul) format('svg');
+  font-display: swap;
+  font-style: normal;
+  font-weight: 400;
+}

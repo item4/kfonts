@@ -14,3 +14,35 @@
   font-style: normal;
   font-weight: 400;
 }
+
+@font-face {
+  font-family: '나눔손글씨세아체';
+  src: url(./se-ache.eot);
+  src: local('나눔손글씨세아체 '),
+       local('나눔손글씨세아체'),
+       url(./se-ache.eot?#iefix) format('embedded-opentype'),
+       url(./se-ache.woff2) format('woff2'),
+       url(./se-ache.woff) format('woff'),
+       url(./se-ache.ttf) format('truetype'),
+       url(./se-ache.otf) format('otf'),
+       url(./se-ache.svg#se-ache) format('svg');
+  font-display: swap;
+  font-style: normal;
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: 'nanum-handwritting-se-ache';
+  src: url(./se-ache.eot);
+  src: local('nanum-handwritting-se-ache '),
+       local('nanum-handwritting-se-ache'),
+       url(./se-ache.eot?#iefix) format('embedded-opentype'),
+       url(./se-ache.woff2) format('woff2'),
+       url(./se-ache.woff) format('woff'),
+       url(./se-ache.ttf) format('truetype'),
+       url(./se-ache.otf) format('otf'),
+       url(./se-ache.svg#se-ache) format('svg');
+  font-display: swap;
+  font-style: normal;
+  font-weight: 400;
+}

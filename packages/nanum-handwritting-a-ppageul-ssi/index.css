@@ -14,3 +14,35 @@
   font-style: normal;
   font-weight: 400;
 }
+
+@font-face {
+  font-family: '나눔손글씨아빠글씨';
+  src: url(./a-ppageul-ssi.eot);
+  src: local('나눔손글씨아빠글씨 '),
+       local('나눔손글씨아빠글씨'),
+       url(./a-ppageul-ssi.eot?#iefix) format('embedded-opentype'),
+       url(./a-ppageul-ssi.woff2) format('woff2'),
+       url(./a-ppageul-ssi.woff) format('woff'),
+       url(./a-ppageul-ssi.ttf) format('truetype'),
+       url(./a-ppageul-ssi.otf) format('otf'),
+       url(./a-ppageul-ssi.svg#a-ppageul-ssi) format('svg');
+  font-display: swap;
+  font-style: normal;
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: 'nanum-handwritting-a-ppageul-ssi';
+  src: url(./a-ppageul-ssi.eot);
+  src: local('nanum-handwritting-a-ppageul-ssi '),
+       local('nanum-handwritting-a-ppageul-ssi'),
+       url(./a-ppageul-ssi.eot?#iefix) format('embedded-opentype'),
+       url(./a-ppageul-ssi.woff2) format('woff2'),
+       url(./a-ppageul-ssi.woff) format('woff'),
+       url(./a-ppageul-ssi.ttf) format('truetype'),
+       url(./a-ppageul-ssi.otf) format('otf'),
+       url(./a-ppageul-ssi.svg#a-ppageul-ssi) format('svg');
+  font-display: swap;
+  font-style: normal;
+  font-weight: 400;
+}

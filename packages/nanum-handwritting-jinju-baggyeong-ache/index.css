@@ -14,3 +14,35 @@
   font-style: normal;
   font-weight: 400;
 }
+
+@font-face {
+  font-family: '나눔손글씨진주박경아체';
+  src: url(./jinju-baggyeong-ache.eot);
+  src: local('나눔손글씨진주박경아체 '),
+       local('나눔손글씨진주박경아체'),
+       url(./jinju-baggyeong-ache.eot?#iefix) format('embedded-opentype'),
+       url(./jinju-baggyeong-ache.woff2) format('woff2'),
+       url(./jinju-baggyeong-ache.woff) format('woff'),
+       url(./jinju-baggyeong-ache.ttf) format('truetype'),
+       url(./jinju-baggyeong-ache.otf) format('otf'),
+       url(./jinju-baggyeong-ache.svg#jinju-baggyeong-ache) format('svg');
+  font-display: swap;
+  font-style: normal;
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: 'nanum-handwritting-jinju-baggyeong-ache';
+  src: url(./jinju-baggyeong-ache.eot);
+  src: local('nanum-handwritting-jinju-baggyeong-ache '),
+       local('nanum-handwritting-jinju-baggyeong-ache'),
+       url(./jinju-baggyeong-ache.eot?#iefix) format('embedded-opentype'),
+       url(./jinju-baggyeong-ache.woff2) format('woff2'),
+       url(./jinju-baggyeong-ache.woff) format('woff'),
+       url(./jinju-baggyeong-ache.ttf) format('truetype'),
+       url(./jinju-baggyeong-ache.otf) format('otf'),
+       url(./jinju-baggyeong-ache.svg#jinju-baggyeong-ache) format('svg');
+  font-display: swap;
+  font-style: normal;
+  font-weight: 400;
+}
