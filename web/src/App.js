@@ -29,6 +29,11 @@ const App = () => {
   const change_index = selectedOption => {
     set_index(selectedOption.value);
   };
+  let font_family_list_string = `'${font_family}'`;
+  if (font_family.includes(' ')) {
+    font_family_list_string += `, '${font_family.replace(/ /g, '')}'`;
+  }
+  font_family_list_string += `, '${font_data[index][0]}'`;
   return (
     <main style={{ margin: 'auto', width: '80%' }}>
       <h1 style={{ fontFamily: '나눔스퀘어라운드OTF' }}>@kfonts</h1>
@@ -91,7 +96,7 @@ const App = () => {
           >
             {`\
 .textbox {
-  font-family: '${font_family}';
+  font-family: ${font_family_list_string};
 }
 `}
           </SyntaxHighlighter>
@@ -105,7 +110,7 @@ const App = () => {
           >{`\
 import '@kfonts/${font_data[index][0]}';
 
-const Title = (text) => <h1 style={{fontFamily: '${font_family}'}}>{text}</h1>;
+const Title = (text) => <h1 style={{fontFamily: "${font_family_list_string}"}}>{text}</h1>;
 `}</SyntaxHighlighter>
           <h2 style={{ fontFamily: '나눔스퀘어라운드OTF' }}>
             Self-Host할 수 없는 경우
