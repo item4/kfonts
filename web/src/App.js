@@ -14,26 +14,26 @@ const App = () => {
   const [index, set_index] = useState(
     Number(Math.random() * (options.length - 1)) | 0,
   );
-  const [font_family, set_font_family] = useState(font_data[index][1]);
+  const [package_name, font_family] = font_data[index];
   useEffect(() => {
-    import(`./packages/${font_data[index][0]}/index.css`)
+    import(`./packages/${package_name}/index.css`)
       .then(() => {
         set_loading(true);
-        document.fonts.load(`1.2rem ${font_data[index][1]}`).then(() => {
-          set_font_family(font_data[index][1]);
+        document.fonts.load(`1.2rem ${package_name}`).then(() => {
           set_loading(false);
         });
       })
       .catch(e => console.error(e));
-  }, [index]);
+  }, [package_name]);
   const change_index = selectedOption => {
     set_index(selectedOption.value);
   };
-  let font_family_list_string = `'${font_family}'`;
+  
+  let font_family_list_string = `"${font_family}"`;
   if (font_family.includes(' ')) {
-    font_family_list_string += `, '${font_family.replace(/ /g, '')}'`;
+    font_family_list_string += `, "${font_family.replace(/ /g, '')}"`;
   }
-  font_family_list_string += `, '${font_data[index][0]}'`;
+  font_family_list_string += `, "${package_name}"`;
   return (
     <main style={{ margin: 'auto', width: '80%' }}>
       <h1 style={{ fontFamily: '나눔스퀘어라운드OTF' }}>@kfonts</h1>
@@ -58,7 +58,7 @@ const App = () => {
               width: 'calc(100% - 2rem)',
               height: '150px',
               padding: '1rem',
-              fontFamily: font_family,
+              fontFamily: package_name,
               fontSize: '1.2rem',
             }}
             placeholder={`글꼴 ${font_family} 체험가능!`}
@@ -110,7 +110,7 @@ const App = () => {
           >{`\
 import '@kfonts/${font_data[index][0]}';
 
-const Title = (text) => <h1 style={{fontFamily: "${font_family_list_string}"}}>{text}</h1>;
+const Title = (text) => <h1 style={{fontFamily: '${font_family_list_string}'}}>{text}</h1>;
 `}</SyntaxHighlighter>
           <h2 style={{ fontFamily: '나눔스퀘어라운드OTF' }}>
             Self-Host할 수 없는 경우
