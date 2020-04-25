@@ -1,11 +1,12 @@
 {
     "font-family": "나눔손글씨 잘하고 있어",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "files": [
         {
             "filename": "jalhago-iss-eo.ttf",
             "weight": 400,
             "style": "normal"
         }
-    ]
+    ],
+    "license_link": "https://clova.ai/handwriting/list.html"
 }

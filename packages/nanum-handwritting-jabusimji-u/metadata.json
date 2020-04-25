@@ -1,11 +1,12 @@
 {
     "font-family": "나눔손글씨 자부심지우",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "files": [
         {
             "filename": "jabusimji-u.ttf",
             "weight": 400,
             "style": "normal"
         }
-    ]
+    ],
+    "license_link": "https://clova.ai/handwriting/list.html"
 }

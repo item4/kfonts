@@ -1,11 +1,12 @@
 {
     "font-family": "나눔손글씨 둥근인연",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "files": [
         {
             "filename": "dunggeun-in-yeon.ttf",
             "weight": 400,
             "style": "normal"
         }
-    ]
+    ],
+    "license_link": "https://clova.ai/handwriting/list.html"
 }

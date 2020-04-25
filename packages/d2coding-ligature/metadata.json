@@ -1,6 +1,6 @@
 {
     "font-family": "D2Coding ligature",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "files": [
         {
             "filename": "D2Coding-ligature.ttf",
@@ -12,5 +12,6 @@
             "weight": 700,
             "style": "normal"
         }
-    ]
+    ],
+    "license_link": "https://github.com/naver/d2codingfont/wiki/Open-Font-License"
 }

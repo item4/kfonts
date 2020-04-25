@@ -1,6 +1,6 @@
 {
     "font-family": "나눔스퀘어",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "files": [
         {
             "filename": "NanumSquareRegular.ttf",
@@ -22,5 +22,6 @@
             "weight": 800,
             "style": "normal"
         }
-    ]
+    ],
+    "license_link": "https://help.naver.com/support/contents/contents.help?serviceNo=1074&categoryNo=3497"
 }

@@ -48,36 +48,39 @@ README_TEMPLATE = """
 ---------------------
 
 {name} 폰트를 self-host 하기 위한 webfont 파일과 css 파일
+(Webfont and css files package for self-hosting {name} font)
 
-설치
-----
+설치(Installation)
+-----------------
 
 ```
 $ npm install --save @kfonts/{project_name}
 ```
 
-혹은
+혹은 (or)
 
 ```
 yarn add @kfonts/{project_name}
 ```
 
-Self-Host 사용법
----------------
+Self-Host 방법(Usage)
+--------------------
 
 webpack을 통해 빌드되는 프로젝트에서 다음과 같은 형태로 사용 가능합니다.
+(In project built via webpack, You can use it below method:)
 
 ```js
 require('@kfonts/{project_name}');
 ```
 
-혹은
+혹은 (or)
 
 ```js
 import '@kfonts/{project_name}';
 ```
 
 그 후에 CSS 안에서 다음과 같이 사용 가능합니다.
+(After that, You can use it like it)
 
 ```css
 body {open}
@@ -85,21 +88,25 @@ body {open}
 {close}
 ```
 
-주의
-++++
+주의(Warn)
++++++++++
 
 css-loader 버전이 낮은 경우, 폰트명에 공백이 있으면 폰트 사용이 불가합니다.
 css-loader의 버전을 올리거나, 띄어쓰기가 없는 대체 폰트명을 사용해주세요.
+(If you use low version css-loader, you can not use fontname contains spaces.
+I might upgrade css-loader or use alternative font name.)
 
-Self-Host를 할 수 없는 경우의 사용법
---------------------------------
+Self-Host를 할 수 없는 경우의 사용법(Not Self-Host Usage)
+-----------------------------------------------------
 
 다음의 HTML을 `<head>` 태그 내부에 삽입해주세요.
+(Insert this HTML in `<head>` tag.)
 
 ```html
 <link rel="stylesheet" href="https://unpkg.com/@kfonts/{project_name}/index.css" />
 ```
 
+{license}
 """
 
 def fontforge(input_path, output_paths):
@@ -215,6 +222,31 @@ def main():
                     second_ext='ttf' if otf_based else 'otf',
                     second_format='truetype' if otf_based else 'otf',
                 ))
+        license_file = package_dir / 'LICENSE'
+        license_link = meta.get('license_link')
+        license = ''
+        license_text = ''
+        if license_file.exists():
+            with license_file.open('r') as f:
+                license_text = f.read()
+        if license_link or license_text:
+            license += '''
+License
+-------
+
+'''
+            if license_link:
+                license += f'''
+[Link]({license_link})
+
+'''
+            if license_text:
+                license += f'''
+```
+{license_text}
+```
+
+'''
         with (package_dir / 'README.md').open('w') as f:
             f.write(README_TEMPLATE.format(
                 open='{',
@@ -222,6 +254,7 @@ def main():
                 name=font_family,
                 name_list=', '.join(f"'{x}'" for x in font_families),
                 project_name=package_dir.name,
+                license=license,
             ))
         with (package_dir / 'index.css').open('w') as f:
             f.write(''.join(css))

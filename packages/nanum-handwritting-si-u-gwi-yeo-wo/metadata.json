@@ -1,11 +1,12 @@
 {
     "font-family": "나눔손글씨 시우 귀여워",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "files": [
         {
             "filename": "si-u-gwi-yeo-wo.ttf",
             "weight": 400,
             "style": "normal"
         }
-    ]
+    ],
+    "license_link": "https://clova.ai/handwriting/list.html"
 }

@@ -1,6 +1,6 @@
 {
     "font-family": "나눔바른고딕",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "files": [
         {
             "filename": "NanumBarunGothic.ttf",
@@ -22,5 +22,6 @@
             "weight": 100,
             "style": "normal"
         }
-    ]
+    ],
+    "license_link": "https://help.naver.com/support/contents/contents.help?serviceNo=1074&categoryNo=3497"
 }

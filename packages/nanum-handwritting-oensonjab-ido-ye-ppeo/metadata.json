@@ -1,11 +1,12 @@
 {
     "font-family": "나눔손글씨 왼손잡이도 예뻐",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "files": [
         {
             "filename": "oensonjab-ido-ye-ppeo.ttf",
             "weight": 400,
             "style": "normal"
         }
-    ]
+    ],
+    "license_link": "https://clova.ai/handwriting/list.html"
 }

@@ -1,6 +1,6 @@
 {
     "font-family": "리디바탕",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "otf_based": true,
     "files": [
         {
@@ -8,5 +8,6 @@
             "weight": 400,
             "style": "normal"
         }
-    ]
+    ],
+    "license_link": "https://www.ridicorp.com/branding/fonts/ridibatang/"
 }
