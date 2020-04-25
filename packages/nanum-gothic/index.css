@@ -1,0 +1,128 @@
+
+@font-face {
+  font-family: '나눔고딕';
+  src: url(./NanumGothic.eot);
+  src: local('나눔고딕 '),
+       local('나눔고딕'),
+       url(./NanumGothic.eot?#iefix) format('embedded-opentype'),
+       url(./NanumGothic.woff2) format('woff2'),
+       url(./NanumGothic.woff) format('woff'),
+       url(./NanumGothic.ttf) format('truetype'),
+       url(./NanumGothic.otf) format('otf'),
+       url(./NanumGothic.svg#NanumGothic) format('svg');
+  font-display: swap;
+  font-style: normal;
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: 'nanum-gothic';
+  src: url(./NanumGothic.eot);
+  src: local('nanum-gothic '),
+       local('nanum-gothic'),
+       url(./NanumGothic.eot?#iefix) format('embedded-opentype'),
+       url(./NanumGothic.woff2) format('woff2'),
+       url(./NanumGothic.woff) format('woff'),
+       url(./NanumGothic.ttf) format('truetype'),
+       url(./NanumGothic.otf) format('otf'),
+       url(./NanumGothic.svg#NanumGothic) format('svg');
+  font-display: swap;
+  font-style: normal;
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: '나눔고딕';
+  src: url(./NanumGothicLight.eot);
+  src: local('나눔고딕 '),
+       local('나눔고딕'),
+       url(./NanumGothicLight.eot?#iefix) format('embedded-opentype'),
+       url(./NanumGothicLight.woff2) format('woff2'),
+       url(./NanumGothicLight.woff) format('woff'),
+       url(./NanumGothicLight.ttf) format('truetype'),
+       url(./NanumGothicLight.otf) format('otf'),
+       url(./NanumGothicLight.svg#NanumGothicLight) format('svg');
+  font-display: swap;
+  font-style: normal;
+  font-weight: 300;
+}
+
+@font-face {
+  font-family: 'nanum-gothic';
+  src: url(./NanumGothicLight.eot);
+  src: local('nanum-gothic '),
+       local('nanum-gothic'),
+       url(./NanumGothicLight.eot?#iefix) format('embedded-opentype'),
+       url(./NanumGothicLight.woff2) format('woff2'),
+       url(./NanumGothicLight.woff) format('woff'),
+       url(./NanumGothicLight.ttf) format('truetype'),
+       url(./NanumGothicLight.otf) format('otf'),
+       url(./NanumGothicLight.svg#NanumGothicLight) format('svg');
+  font-display: swap;
+  font-style: normal;
+  font-weight: 300;
+}
+
+@font-face {
+  font-family: '나눔고딕';
+  src: url(./NanumGothicBold.eot);
+  src: local('나눔고딕 '),
+       local('나눔고딕'),
+       url(./NanumGothicBold.eot?#iefix) format('embedded-opentype'),
+       url(./NanumGothicBold.woff2) format('woff2'),
+       url(./NanumGothicBold.woff) format('woff'),
+       url(./NanumGothicBold.ttf) format('truetype'),
+       url(./NanumGothicBold.otf) format('otf'),
+       url(./NanumGothicBold.svg#NanumGothicBold) format('svg');
+  font-display: swap;
+  font-style: normal;
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: 'nanum-gothic';
+  src: url(./NanumGothicBold.eot);
+  src: local('nanum-gothic '),
+       local('nanum-gothic'),
+       url(./NanumGothicBold.eot?#iefix) format('embedded-opentype'),
+       url(./NanumGothicBold.woff2) format('woff2'),
+       url(./NanumGothicBold.woff) format('woff'),
+       url(./NanumGothicBold.ttf) format('truetype'),
+       url(./NanumGothicBold.otf) format('otf'),
+       url(./NanumGothicBold.svg#NanumGothicBold) format('svg');
+  font-display: swap;
+  font-style: normal;
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: '나눔고딕';
+  src: url(./NanumGothicExtraBold.eot);
+  src: local('나눔고딕 '),
+       local('나눔고딕'),
+       url(./NanumGothicExtraBold.eot?#iefix) format('embedded-opentype'),
+       url(./NanumGothicExtraBold.woff2) format('woff2'),
+       url(./NanumGothicExtraBold.woff) format('woff'),
+       url(./NanumGothicExtraBold.ttf) format('truetype'),
+       url(./NanumGothicExtraBold.otf) format('otf'),
+       url(./NanumGothicExtraBold.svg#NanumGothicExtraBold) format('svg');
+  font-display: swap;
+  font-style: normal;
+  font-weight: 800;
+}
+
+@font-face {
+  font-family: 'nanum-gothic';
+  src: url(./NanumGothicExtraBold.eot);
+  src: local('nanum-gothic '),
+       local('nanum-gothic'),
+       url(./NanumGothicExtraBold.eot?#iefix) format('embedded-opentype'),
+       url(./NanumGothicExtraBold.woff2) format('woff2'),
+       url(./NanumGothicExtraBold.woff) format('woff'),
+       url(./NanumGothicExtraBold.ttf) format('truetype'),
+       url(./NanumGothicExtraBold.otf) format('otf'),
+       url(./NanumGothicExtraBold.svg#NanumGothicExtraBold) format('svg');
+  font-display: swap;
+  font-style: normal;
+  font-weight: 800;
+}

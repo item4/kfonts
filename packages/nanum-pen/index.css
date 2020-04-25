@@ -1,0 +1,48 @@
+
+@font-face {
+  font-family: '나눔손글씨 펜';
+  src: url(./NanumPen.eot);
+  src: local('나눔손글씨 펜 '),
+       local('나눔손글씨 펜'),
+       url(./NanumPen.eot?#iefix) format('embedded-opentype'),
+       url(./NanumPen.woff2) format('woff2'),
+       url(./NanumPen.woff) format('woff'),
+       url(./NanumPen.ttf) format('truetype'),
+       url(./NanumPen.otf) format('otf'),
+       url(./NanumPen.svg#NanumPen) format('svg');
+  font-display: swap;
+  font-style: normal;
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: '나눔손글씨펜';
+  src: url(./NanumPen.eot);
+  src: local('나눔손글씨펜 '),
+       local('나눔손글씨펜'),
+       url(./NanumPen.eot?#iefix) format('embedded-opentype'),
+       url(./NanumPen.woff2) format('woff2'),
+       url(./NanumPen.woff) format('woff'),
+       url(./NanumPen.ttf) format('truetype'),
+       url(./NanumPen.otf) format('otf'),
+       url(./NanumPen.svg#NanumPen) format('svg');
+  font-display: swap;
+  font-style: normal;
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: 'nanum-pen';
+  src: url(./NanumPen.eot);
+  src: local('nanum-pen '),
+       local('nanum-pen'),
+       url(./NanumPen.eot?#iefix) format('embedded-opentype'),
+       url(./NanumPen.woff2) format('woff2'),
+       url(./NanumPen.woff) format('woff'),
+       url(./NanumPen.ttf) format('truetype'),
+       url(./NanumPen.otf) format('otf'),
+       url(./NanumPen.svg#NanumPen) format('svg');
+  font-display: swap;
+  font-style: normal;
+  font-weight: 400;
+}
