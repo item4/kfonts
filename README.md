@@ -48,12 +48,6 @@
 
 이미 배포된 버전이 아닌, 직접 빌드한 버전을 쓰고 싶다면 다음 의존성을 확인해주세요.
 
-- `git`
-- `java`, `javac`
-- `mvn` (Maven)
-- `python3`
 - [fontforge](http://fontforge.github.io/en-US/)
 
-해당 요건이 충족된 상태에서 `./setup` 명령어를 실행하면 웹폰트를 설치하기 위해 필요한 프로그램이 빌드됩니다.
-빌드가 완료되면 `python gen.py` 를 통해 폰트를 빌드하실 수 있습니다.
-혹시라도 너무 많은 파일이 생겨 곤란하다면 `python clean.py` 를 실행해주세요.
+`$ node gen.js` 명령어를 통해 폰트를 생성할 수 있습니다.
