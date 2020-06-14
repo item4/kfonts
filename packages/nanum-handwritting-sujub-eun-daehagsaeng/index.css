@@ -7,8 +7,8 @@
        url(./sujub-eun-daehagsaeng.eot?#iefix) format('embedded-opentype'),
        url(./sujub-eun-daehagsaeng.woff2) format('woff2'),
        url(./sujub-eun-daehagsaeng.woff) format('woff'),
+       
        url(./sujub-eun-daehagsaeng.ttf) format('truetype'),
-       url(./sujub-eun-daehagsaeng.otf) format('otf'),
        url(./sujub-eun-daehagsaeng.svg#sujub-eun-daehagsaeng) format('svg');
   font-display: swap;
   font-style: normal;
@@ -16,15 +16,15 @@
 }
 
 @font-face {
-  font-family: '나눔손글씨수줍은대학생';
+  font-family: '나눔손글씨 수줍은 대학생';
   src: url(./sujub-eun-daehagsaeng.eot);
-  src: local('나눔손글씨수줍은대학생 '),
-       local('나눔손글씨수줍은대학생'),
+  src: local('나눔손글씨 수줍은 대학생 '),
+       local('나눔손글씨 수줍은 대학생'),
        url(./sujub-eun-daehagsaeng.eot?#iefix) format('embedded-opentype'),
        url(./sujub-eun-daehagsaeng.woff2) format('woff2'),
        url(./sujub-eun-daehagsaeng.woff) format('woff'),
+       
        url(./sujub-eun-daehagsaeng.ttf) format('truetype'),
-       url(./sujub-eun-daehagsaeng.otf) format('otf'),
        url(./sujub-eun-daehagsaeng.svg#sujub-eun-daehagsaeng) format('svg');
   font-display: swap;
   font-style: normal;
@@ -39,8 +39,8 @@
        url(./sujub-eun-daehagsaeng.eot?#iefix) format('embedded-opentype'),
        url(./sujub-eun-daehagsaeng.woff2) format('woff2'),
        url(./sujub-eun-daehagsaeng.woff) format('woff'),
+       
        url(./sujub-eun-daehagsaeng.ttf) format('truetype'),
-       url(./sujub-eun-daehagsaeng.otf) format('otf'),
        url(./sujub-eun-daehagsaeng.svg#sujub-eun-daehagsaeng) format('svg');
   font-display: swap;
   font-style: normal;

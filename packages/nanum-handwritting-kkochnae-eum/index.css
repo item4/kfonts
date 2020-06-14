@@ -7,8 +7,8 @@
        url(./kkochnae-eum.eot?#iefix) format('embedded-opentype'),
        url(./kkochnae-eum.woff2) format('woff2'),
        url(./kkochnae-eum.woff) format('woff'),
+       
        url(./kkochnae-eum.ttf) format('truetype'),
-       url(./kkochnae-eum.otf) format('otf'),
        url(./kkochnae-eum.svg#kkochnae-eum) format('svg');
   font-display: swap;
   font-style: normal;
@@ -16,15 +16,15 @@
 }
 
 @font-face {
-  font-family: '나눔손글씨꽃내음';
+  font-family: '나눔손글씨 꽃내음';
   src: url(./kkochnae-eum.eot);
-  src: local('나눔손글씨꽃내음 '),
-       local('나눔손글씨꽃내음'),
+  src: local('나눔손글씨 꽃내음 '),
+       local('나눔손글씨 꽃내음'),
        url(./kkochnae-eum.eot?#iefix) format('embedded-opentype'),
        url(./kkochnae-eum.woff2) format('woff2'),
        url(./kkochnae-eum.woff) format('woff'),
+       
        url(./kkochnae-eum.ttf) format('truetype'),
-       url(./kkochnae-eum.otf) format('otf'),
        url(./kkochnae-eum.svg#kkochnae-eum) format('svg');
   font-display: swap;
   font-style: normal;
@@ -39,8 +39,8 @@
        url(./kkochnae-eum.eot?#iefix) format('embedded-opentype'),
        url(./kkochnae-eum.woff2) format('woff2'),
        url(./kkochnae-eum.woff) format('woff'),
+       
        url(./kkochnae-eum.ttf) format('truetype'),
-       url(./kkochnae-eum.otf) format('otf'),
        url(./kkochnae-eum.svg#kkochnae-eum) format('svg');
   font-display: swap;
   font-style: normal;

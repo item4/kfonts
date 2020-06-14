@@ -7,8 +7,8 @@
        url(./BMHANNA_11yrs_ttf.eot?#iefix) format('embedded-opentype'),
        url(./BMHANNA_11yrs_ttf.woff2) format('woff2'),
        url(./BMHANNA_11yrs_ttf.woff) format('woff'),
+       
        url(./BMHANNA_11yrs_ttf.ttf) format('truetype'),
-       url(./BMHANNA_11yrs_ttf.otf) format('otf'),
        url(./BMHANNA_11yrs_ttf.svg#BMHANNA_11yrs_ttf) format('svg');
   font-display: swap;
   font-style: normal;
@@ -16,15 +16,15 @@
 }
 
 @font-face {
-  font-family: '배달의민족한나는열한살';
+  font-family: '배달의민족 한나는 열한살';
   src: url(./BMHANNA_11yrs_ttf.eot);
-  src: local('배달의민족한나는열한살 '),
-       local('배달의민족한나는열한살'),
+  src: local('배달의민족 한나는 열한살 '),
+       local('배달의민족 한나는 열한살'),
        url(./BMHANNA_11yrs_ttf.eot?#iefix) format('embedded-opentype'),
        url(./BMHANNA_11yrs_ttf.woff2) format('woff2'),
        url(./BMHANNA_11yrs_ttf.woff) format('woff'),
+       
        url(./BMHANNA_11yrs_ttf.ttf) format('truetype'),
-       url(./BMHANNA_11yrs_ttf.otf) format('otf'),
        url(./BMHANNA_11yrs_ttf.svg#BMHANNA_11yrs_ttf) format('svg');
   font-display: swap;
   font-style: normal;
@@ -39,8 +39,8 @@
        url(./BMHANNA_11yrs_ttf.eot?#iefix) format('embedded-opentype'),
        url(./BMHANNA_11yrs_ttf.woff2) format('woff2'),
        url(./BMHANNA_11yrs_ttf.woff) format('woff'),
+       
        url(./BMHANNA_11yrs_ttf.ttf) format('truetype'),
-       url(./BMHANNA_11yrs_ttf.otf) format('otf'),
        url(./BMHANNA_11yrs_ttf.svg#BMHANNA_11yrs_ttf) format('svg');
   font-display: swap;
   font-style: normal;

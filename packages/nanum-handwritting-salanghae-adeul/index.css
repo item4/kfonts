@@ -7,8 +7,8 @@
        url(./salanghae-adeul.eot?#iefix) format('embedded-opentype'),
        url(./salanghae-adeul.woff2) format('woff2'),
        url(./salanghae-adeul.woff) format('woff'),
+       
        url(./salanghae-adeul.ttf) format('truetype'),
-       url(./salanghae-adeul.otf) format('otf'),
        url(./salanghae-adeul.svg#salanghae-adeul) format('svg');
   font-display: swap;
   font-style: normal;
@@ -16,15 +16,15 @@
 }
 
 @font-face {
-  font-family: '나눔손글씨사랑해아들';
+  font-family: '나눔손글씨 사랑해 아들';
   src: url(./salanghae-adeul.eot);
-  src: local('나눔손글씨사랑해아들 '),
-       local('나눔손글씨사랑해아들'),
+  src: local('나눔손글씨 사랑해 아들 '),
+       local('나눔손글씨 사랑해 아들'),
        url(./salanghae-adeul.eot?#iefix) format('embedded-opentype'),
        url(./salanghae-adeul.woff2) format('woff2'),
        url(./salanghae-adeul.woff) format('woff'),
+       
        url(./salanghae-adeul.ttf) format('truetype'),
-       url(./salanghae-adeul.otf) format('otf'),
        url(./salanghae-adeul.svg#salanghae-adeul) format('svg');
   font-display: swap;
   font-style: normal;
@@ -39,8 +39,8 @@
        url(./salanghae-adeul.eot?#iefix) format('embedded-opentype'),
        url(./salanghae-adeul.woff2) format('woff2'),
        url(./salanghae-adeul.woff) format('woff'),
+       
        url(./salanghae-adeul.ttf) format('truetype'),
-       url(./salanghae-adeul.otf) format('otf'),
        url(./salanghae-adeul.svg#salanghae-adeul) format('svg');
   font-display: swap;
   font-style: normal;

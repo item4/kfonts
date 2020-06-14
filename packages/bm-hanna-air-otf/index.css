@@ -16,10 +16,10 @@
 }
 
 @font-face {
-  font-family: '배달의민족한나체AirOTF';
+  font-family: '배달의민족 한나체 Air OTF';
   src: url(./BMHANNAAir_otf.eot);
-  src: local('배달의민족한나체AirOTF '),
-       local('배달의민족한나체AirOTF'),
+  src: local('배달의민족 한나체 Air OTF '),
+       local('배달의민족 한나체 Air OTF'),
        url(./BMHANNAAir_otf.eot?#iefix) format('embedded-opentype'),
        url(./BMHANNAAir_otf.woff2) format('woff2'),
        url(./BMHANNAAir_otf.woff) format('woff'),

@@ -16,10 +16,10 @@
 }
 
 @font-face {
-  font-family: '배달의민족한나는열한살OTF';
+  font-family: '배달의민족 한나는 열한살 OTF';
   src: url(./BMHANNA_11yrs_otf.eot);
-  src: local('배달의민족한나는열한살OTF '),
-       local('배달의민족한나는열한살OTF'),
+  src: local('배달의민족 한나는 열한살 OTF '),
+       local('배달의민족 한나는 열한살 OTF'),
        url(./BMHANNA_11yrs_otf.eot?#iefix) format('embedded-opentype'),
        url(./BMHANNA_11yrs_otf.woff2) format('woff2'),
        url(./BMHANNA_11yrs_otf.woff) format('woff'),

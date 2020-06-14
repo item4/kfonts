@@ -1,12 +1,10 @@
 
-@kfonts/nanum-barun-pen-otf
----------------------
+# @kfonts/nanum-barun-pen-otf
 
 나눔바른펜 폰트를 self-host 하기 위한 webfont 파일과 css 파일
 (Webfont and css files package for self-hosting 나눔바른펜 font)
 
-설치(Installation)
------------------
+## 설치 (Installation)
 
 ```
 $ npm install --save @kfonts/nanum-barun-pen-otf
@@ -18,8 +16,7 @@ $ npm install --save @kfonts/nanum-barun-pen-otf
 yarn add @kfonts/nanum-barun-pen-otf
 ```
 
-Self-Host 방법(Usage)
---------------------
+## Self-Host 방법 (Usage)
 
 webpack을 통해 빌드되는 프로젝트에서 다음과 같은 형태로 사용 가능합니다.
 (In project built via webpack, You can use it below method:)
@@ -39,20 +36,18 @@ import '@kfonts/nanum-barun-pen-otf';
 
 ```css
 body {
-    font-family: '나눔바른펜', 'nanum-barun-pen-otf';
+    font-family: "나눔바른펜", "nanum-barun-pen-otf";
 }
 ```
 
-주의(Warn)
-+++++++++
+### 주의사항 (Warning)
 
 css-loader 버전이 낮은 경우, 폰트명에 공백이 있으면 폰트 사용이 불가합니다.
 css-loader의 버전을 올리거나, 띄어쓰기가 없는 대체 폰트명을 사용해주세요.
 (If you use low version css-loader, you can not use fontname contains spaces.
 I might upgrade css-loader or use alternative font name.)
 
-Self-Host를 할 수 없는 경우의 사용법(Not Self-Host Usage)
------------------------------------------------------
+## Self-Host를 할 수 없는 경우의 사용법 (Usage without self-host)
 
 다음의 HTML을 `<head>` 태그 내부에 삽입해주세요.
 (Insert this HTML in `<head>` tag.)
@@ -61,13 +56,9 @@ Self-Host를 할 수 없는 경우의 사용법(Not Self-Host Usage)
 <link rel="stylesheet" href="https://unpkg.com/@kfonts/nanum-barun-pen-otf/index.css" />
 ```
 
-
-License
--------
-
+## License
 
 [Link](https://help.naver.com/support/contents/contents.help?serviceNo=1074&categoryNo=3497)
-
 
 ```
 Copyright (c) 2010, NAVER Corporation (https://www.navercorp.com/),
@@ -236,5 +227,3 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
 > 본 폰트 소프트웨어는 저작권, 특허권, 상표권 및 기타 권리의 비침해성과 특정 목적에의 적합성 포함한 명시적, 묵시적인 어떠한 종류의 보증 없이 “있는 그대로” 제공됩니다. 어떠한 경우에도 저작권자는 본 폰트 소프트웨어의 사용 또는 이의 사용불가, 그밖에 폰트 소프트웨어의 취급과 관련하여 발생하는 모든 계약, 불법행위 혹은 다른 일로 하여금 발생하는 일반적, 특수적, 간접적, 부차적 혹은 필연적 손해를 포함하는 소송, 손해, 혹은 기타 책임에 대한 의무를 가지지 않습니다.
 
 ```
-
-

@@ -6,7 +6,7 @@ for package_dir in pathlib.Path('./packages').iterdir():
         continue
     with (package_dir / 'metadata.json').open('r') as f:
         meta = json.load(f)
-    preserve = ['metadata.json']
+    preserve = ['metadata.json', 'LICENSE']
     preserve += [data['filename'] for data in meta['files']]
     for f in package_dir.iterdir():
         if f.name not in preserve:

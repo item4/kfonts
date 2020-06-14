@@ -16,10 +16,10 @@
 }
 
 @font-face {
-  font-family: '배달의민족연성OTF';
+  font-family: '배달의민족 연성 OTF';
   src: url(./BMYEONSUNG_otf.eot);
-  src: local('배달의민족연성OTF '),
-       local('배달의민족연성OTF'),
+  src: local('배달의민족 연성 OTF '),
+       local('배달의민족 연성 OTF'),
        url(./BMYEONSUNG_otf.eot?#iefix) format('embedded-opentype'),
        url(./BMYEONSUNG_otf.woff2) format('woff2'),
        url(./BMYEONSUNG_otf.woff) format('woff'),

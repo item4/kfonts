@@ -7,8 +7,8 @@
        url(./beodeunamu.eot?#iefix) format('embedded-opentype'),
        url(./beodeunamu.woff2) format('woff2'),
        url(./beodeunamu.woff) format('woff'),
+       
        url(./beodeunamu.ttf) format('truetype'),
-       url(./beodeunamu.otf) format('otf'),
        url(./beodeunamu.svg#beodeunamu) format('svg');
   font-display: swap;
   font-style: normal;
@@ -16,15 +16,15 @@
 }
 
 @font-face {
-  font-family: '나눔손글씨버드나무';
+  font-family: '나눔손글씨 버드나무';
   src: url(./beodeunamu.eot);
-  src: local('나눔손글씨버드나무 '),
-       local('나눔손글씨버드나무'),
+  src: local('나눔손글씨 버드나무 '),
+       local('나눔손글씨 버드나무'),
        url(./beodeunamu.eot?#iefix) format('embedded-opentype'),
        url(./beodeunamu.woff2) format('woff2'),
        url(./beodeunamu.woff) format('woff'),
+       
        url(./beodeunamu.ttf) format('truetype'),
-       url(./beodeunamu.otf) format('otf'),
        url(./beodeunamu.svg#beodeunamu) format('svg');
   font-display: swap;
   font-style: normal;
@@ -39,8 +39,8 @@
        url(./beodeunamu.eot?#iefix) format('embedded-opentype'),
        url(./beodeunamu.woff2) format('woff2'),
        url(./beodeunamu.woff) format('woff'),
+       
        url(./beodeunamu.ttf) format('truetype'),
-       url(./beodeunamu.otf) format('otf'),
        url(./beodeunamu.svg#beodeunamu) format('svg');
   font-display: swap;
   font-style: normal;

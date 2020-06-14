@@ -7,8 +7,8 @@
        url(./yeol-ahob-ui-ban-jjag-im.eot?#iefix) format('embedded-opentype'),
        url(./yeol-ahob-ui-ban-jjag-im.woff2) format('woff2'),
        url(./yeol-ahob-ui-ban-jjag-im.woff) format('woff'),
+       
        url(./yeol-ahob-ui-ban-jjag-im.ttf) format('truetype'),
-       url(./yeol-ahob-ui-ban-jjag-im.otf) format('otf'),
        url(./yeol-ahob-ui-ban-jjag-im.svg#yeol-ahob-ui-ban-jjag-im) format('svg');
   font-display: swap;
   font-style: normal;
@@ -16,15 +16,15 @@
 }
 
 @font-face {
-  font-family: '나눔손글씨열아홉의반짝임';
+  font-family: '나눔손글씨 열아홉의 반짝임';
   src: url(./yeol-ahob-ui-ban-jjag-im.eot);
-  src: local('나눔손글씨열아홉의반짝임 '),
-       local('나눔손글씨열아홉의반짝임'),
+  src: local('나눔손글씨 열아홉의 반짝임 '),
+       local('나눔손글씨 열아홉의 반짝임'),
        url(./yeol-ahob-ui-ban-jjag-im.eot?#iefix) format('embedded-opentype'),
        url(./yeol-ahob-ui-ban-jjag-im.woff2) format('woff2'),
        url(./yeol-ahob-ui-ban-jjag-im.woff) format('woff'),
+       
        url(./yeol-ahob-ui-ban-jjag-im.ttf) format('truetype'),
-       url(./yeol-ahob-ui-ban-jjag-im.otf) format('otf'),
        url(./yeol-ahob-ui-ban-jjag-im.svg#yeol-ahob-ui-ban-jjag-im) format('svg');
   font-display: swap;
   font-style: normal;
@@ -39,8 +39,8 @@
        url(./yeol-ahob-ui-ban-jjag-im.eot?#iefix) format('embedded-opentype'),
        url(./yeol-ahob-ui-ban-jjag-im.woff2) format('woff2'),
        url(./yeol-ahob-ui-ban-jjag-im.woff) format('woff'),
+       
        url(./yeol-ahob-ui-ban-jjag-im.ttf) format('truetype'),
-       url(./yeol-ahob-ui-ban-jjag-im.otf) format('otf'),
        url(./yeol-ahob-ui-ban-jjag-im.svg#yeol-ahob-ui-ban-jjag-im) format('svg');
   font-display: swap;
   font-style: normal;

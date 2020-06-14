@@ -7,8 +7,8 @@
        url(./hyonam-neul-hwa-iting.eot?#iefix) format('embedded-opentype'),
        url(./hyonam-neul-hwa-iting.woff2) format('woff2'),
        url(./hyonam-neul-hwa-iting.woff) format('woff'),
+       
        url(./hyonam-neul-hwa-iting.ttf) format('truetype'),
-       url(./hyonam-neul-hwa-iting.otf) format('otf'),
        url(./hyonam-neul-hwa-iting.svg#hyonam-neul-hwa-iting) format('svg');
   font-display: swap;
   font-style: normal;
@@ -16,15 +16,15 @@
 }
 
 @font-face {
-  font-family: '나눔손글씨효남늘화이팅';
+  font-family: '나눔손글씨 효남 늘 화이팅';
   src: url(./hyonam-neul-hwa-iting.eot);
-  src: local('나눔손글씨효남늘화이팅 '),
-       local('나눔손글씨효남늘화이팅'),
+  src: local('나눔손글씨 효남 늘 화이팅 '),
+       local('나눔손글씨 효남 늘 화이팅'),
        url(./hyonam-neul-hwa-iting.eot?#iefix) format('embedded-opentype'),
        url(./hyonam-neul-hwa-iting.woff2) format('woff2'),
        url(./hyonam-neul-hwa-iting.woff) format('woff'),
+       
        url(./hyonam-neul-hwa-iting.ttf) format('truetype'),
-       url(./hyonam-neul-hwa-iting.otf) format('otf'),
        url(./hyonam-neul-hwa-iting.svg#hyonam-neul-hwa-iting) format('svg');
   font-display: swap;
   font-style: normal;
@@ -39,8 +39,8 @@
        url(./hyonam-neul-hwa-iting.eot?#iefix) format('embedded-opentype'),
        url(./hyonam-neul-hwa-iting.woff2) format('woff2'),
        url(./hyonam-neul-hwa-iting.woff) format('woff'),
+       
        url(./hyonam-neul-hwa-iting.ttf) format('truetype'),
-       url(./hyonam-neul-hwa-iting.otf) format('otf'),
        url(./hyonam-neul-hwa-iting.svg#hyonam-neul-hwa-iting) format('svg');
   font-display: swap;
   font-style: normal;

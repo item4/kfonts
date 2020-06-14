@@ -16,10 +16,10 @@
 }
 
 @font-face {
-  font-family: '배달의민족을지로체';
+  font-family: '배달의민족 을지로체';
   src: url(./BMEULJIRO.eot);
-  src: local('배달의민족을지로체 '),
-       local('배달의민족을지로체'),
+  src: local('배달의민족 을지로체 '),
+       local('배달의민족 을지로체'),
        url(./BMEULJIRO.eot?#iefix) format('embedded-opentype'),
        url(./BMEULJIRO.woff2) format('woff2'),
        url(./BMEULJIRO.woff) format('woff'),

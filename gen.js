@@ -61,10 +61,6 @@ const main = async () => {
     const otf_based = 'otf_based' in metadata && metadata.otf_based;
     const base_font_family = metadata['font-family'];
     const font_families = [base_font_family];
-    const first_ext = otf_based ? 'otf' : 'ttf';
-    const first_format = otf_based ? 'otf' : 'truetype';
-    const second_ext = otf_based ? 'ttf' : 'otf';
-    const second_format = otf_based ? 'truetype' : 'otf';
     if (base_font_family.indexOf(' ') !== -1) {
       font_families.push(base_font_family.replace('/ /g', ''));
     }
@@ -89,8 +85,8 @@ const main = async () => {
        url(./${name}.eot?#iefix) format('embedded-opentype'),
        url(./${name}.woff2) format('woff2'),
        url(./${name}.woff) format('woff'),
-       url(./${name}.${first_ext}) format('${first_format}'),
-       url(./${name}.${second_ext}) format('${second_format}'),
+       ${otf_based ? `url(./${name}.otf) format('otf'),` : ''}
+       url(./${name}.ttf) format('truetype'),
        url(./${name}.svg#${name}) format('svg');
   font-display: swap;
   font-style: ${data.style};
@@ -139,7 +135,7 @@ import '@kfonts/${package_dir.name}';
 \`\`\`css
 body {
     font-family: ${font_families.map(f => `"${f}"`).join(', ')};
-
+}
 \`\`\`
 
 ### 주의사항 (Warning)

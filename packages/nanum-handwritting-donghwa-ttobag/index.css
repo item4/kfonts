@@ -7,8 +7,8 @@
        url(./donghwa-ttobag.eot?#iefix) format('embedded-opentype'),
        url(./donghwa-ttobag.woff2) format('woff2'),
        url(./donghwa-ttobag.woff) format('woff'),
+       
        url(./donghwa-ttobag.ttf) format('truetype'),
-       url(./donghwa-ttobag.otf) format('otf'),
        url(./donghwa-ttobag.svg#donghwa-ttobag) format('svg');
   font-display: swap;
   font-style: normal;
@@ -16,15 +16,15 @@
 }
 
 @font-face {
-  font-family: '나눔손글씨동화또박';
+  font-family: '나눔손글씨 동화또박';
   src: url(./donghwa-ttobag.eot);
-  src: local('나눔손글씨동화또박 '),
-       local('나눔손글씨동화또박'),
+  src: local('나눔손글씨 동화또박 '),
+       local('나눔손글씨 동화또박'),
        url(./donghwa-ttobag.eot?#iefix) format('embedded-opentype'),
        url(./donghwa-ttobag.woff2) format('woff2'),
        url(./donghwa-ttobag.woff) format('woff'),
+       
        url(./donghwa-ttobag.ttf) format('truetype'),
-       url(./donghwa-ttobag.otf) format('otf'),
        url(./donghwa-ttobag.svg#donghwa-ttobag) format('svg');
   font-display: swap;
   font-style: normal;
@@ -39,8 +39,8 @@
        url(./donghwa-ttobag.eot?#iefix) format('embedded-opentype'),
        url(./donghwa-ttobag.woff2) format('woff2'),
        url(./donghwa-ttobag.woff) format('woff'),
+       
        url(./donghwa-ttobag.ttf) format('truetype'),
-       url(./donghwa-ttobag.otf) format('otf'),
        url(./donghwa-ttobag.svg#donghwa-ttobag) format('svg');
   font-display: swap;
   font-style: normal;

@@ -7,8 +7,8 @@
        url(./jangmiche.eot?#iefix) format('embedded-opentype'),
        url(./jangmiche.woff2) format('woff2'),
        url(./jangmiche.woff) format('woff'),
+       
        url(./jangmiche.ttf) format('truetype'),
-       url(./jangmiche.otf) format('otf'),
        url(./jangmiche.svg#jangmiche) format('svg');
   font-display: swap;
   font-style: normal;
@@ -16,15 +16,15 @@
 }
 
 @font-face {
-  font-family: '나눔손글씨장미체';
+  font-family: '나눔손글씨 장미체';
   src: url(./jangmiche.eot);
-  src: local('나눔손글씨장미체 '),
-       local('나눔손글씨장미체'),
+  src: local('나눔손글씨 장미체 '),
+       local('나눔손글씨 장미체'),
        url(./jangmiche.eot?#iefix) format('embedded-opentype'),
        url(./jangmiche.woff2) format('woff2'),
        url(./jangmiche.woff) format('woff'),
+       
        url(./jangmiche.ttf) format('truetype'),
-       url(./jangmiche.otf) format('otf'),
        url(./jangmiche.svg#jangmiche) format('svg');
   font-display: swap;
   font-style: normal;
@@ -39,8 +39,8 @@
        url(./jangmiche.eot?#iefix) format('embedded-opentype'),
        url(./jangmiche.woff2) format('woff2'),
        url(./jangmiche.woff) format('woff'),
+       
        url(./jangmiche.ttf) format('truetype'),
-       url(./jangmiche.otf) format('otf'),
        url(./jangmiche.svg#jangmiche) format('svg');
   font-display: swap;
   font-style: normal;

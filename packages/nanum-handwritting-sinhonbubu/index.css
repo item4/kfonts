@@ -7,8 +7,8 @@
        url(./sinhonbubu.eot?#iefix) format('embedded-opentype'),
        url(./sinhonbubu.woff2) format('woff2'),
        url(./sinhonbubu.woff) format('woff'),
+       
        url(./sinhonbubu.ttf) format('truetype'),
-       url(./sinhonbubu.otf) format('otf'),
        url(./sinhonbubu.svg#sinhonbubu) format('svg');
   font-display: swap;
   font-style: normal;
@@ -16,15 +16,15 @@
 }
 
 @font-face {
-  font-family: '나눔손글씨신혼부부';
+  font-family: '나눔손글씨 신혼부부';
   src: url(./sinhonbubu.eot);
-  src: local('나눔손글씨신혼부부 '),
-       local('나눔손글씨신혼부부'),
+  src: local('나눔손글씨 신혼부부 '),
+       local('나눔손글씨 신혼부부'),
        url(./sinhonbubu.eot?#iefix) format('embedded-opentype'),
        url(./sinhonbubu.woff2) format('woff2'),
        url(./sinhonbubu.woff) format('woff'),
+       
        url(./sinhonbubu.ttf) format('truetype'),
-       url(./sinhonbubu.otf) format('otf'),
        url(./sinhonbubu.svg#sinhonbubu) format('svg');
   font-display: swap;
   font-style: normal;
@@ -39,8 +39,8 @@
        url(./sinhonbubu.eot?#iefix) format('embedded-opentype'),
        url(./sinhonbubu.woff2) format('woff2'),
        url(./sinhonbubu.woff) format('woff'),
+       
        url(./sinhonbubu.ttf) format('truetype'),
-       url(./sinhonbubu.otf) format('otf'),
        url(./sinhonbubu.svg#sinhonbubu) format('svg');
   font-display: swap;
   font-style: normal;

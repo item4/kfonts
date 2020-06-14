@@ -7,8 +7,8 @@
        url(./NanumMyeongjo-YetHangul.eot?#iefix) format('embedded-opentype'),
        url(./NanumMyeongjo-YetHangul.woff2) format('woff2'),
        url(./NanumMyeongjo-YetHangul.woff) format('woff'),
+       
        url(./NanumMyeongjo-YetHangul.ttf) format('truetype'),
-       url(./NanumMyeongjo-YetHangul.otf) format('otf'),
        url(./NanumMyeongjo-YetHangul.svg#NanumMyeongjo-YetHangul) format('svg');
   font-display: swap;
   font-style: normal;
@@ -16,15 +16,15 @@
 }
 
 @font-face {
-  font-family: '나눔명조옛한글';
+  font-family: '나눔명조 옛한글';
   src: url(./NanumMyeongjo-YetHangul.eot);
-  src: local('나눔명조옛한글 '),
-       local('나눔명조옛한글'),
+  src: local('나눔명조 옛한글 '),
+       local('나눔명조 옛한글'),
        url(./NanumMyeongjo-YetHangul.eot?#iefix) format('embedded-opentype'),
        url(./NanumMyeongjo-YetHangul.woff2) format('woff2'),
        url(./NanumMyeongjo-YetHangul.woff) format('woff'),
+       
        url(./NanumMyeongjo-YetHangul.ttf) format('truetype'),
-       url(./NanumMyeongjo-YetHangul.otf) format('otf'),
        url(./NanumMyeongjo-YetHangul.svg#NanumMyeongjo-YetHangul) format('svg');
   font-display: swap;
   font-style: normal;
@@ -39,8 +39,8 @@
        url(./NanumMyeongjo-YetHangul.eot?#iefix) format('embedded-opentype'),
        url(./NanumMyeongjo-YetHangul.woff2) format('woff2'),
        url(./NanumMyeongjo-YetHangul.woff) format('woff'),
+       
        url(./NanumMyeongjo-YetHangul.ttf) format('truetype'),
-       url(./NanumMyeongjo-YetHangul.otf) format('otf'),
        url(./NanumMyeongjo-YetHangul.svg#NanumMyeongjo-YetHangul) format('svg');
   font-display: swap;
   font-style: normal;

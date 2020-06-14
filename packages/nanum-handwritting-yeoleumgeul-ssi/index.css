@@ -7,8 +7,8 @@
        url(./yeoleumgeul-ssi.eot?#iefix) format('embedded-opentype'),
        url(./yeoleumgeul-ssi.woff2) format('woff2'),
        url(./yeoleumgeul-ssi.woff) format('woff'),
+       
        url(./yeoleumgeul-ssi.ttf) format('truetype'),
-       url(./yeoleumgeul-ssi.otf) format('otf'),
        url(./yeoleumgeul-ssi.svg#yeoleumgeul-ssi) format('svg');
   font-display: swap;
   font-style: normal;
@@ -16,15 +16,15 @@
 }
 
 @font-face {
-  font-family: '나눔손글씨여름글씨';
+  font-family: '나눔손글씨 여름글씨';
   src: url(./yeoleumgeul-ssi.eot);
-  src: local('나눔손글씨여름글씨 '),
-       local('나눔손글씨여름글씨'),
+  src: local('나눔손글씨 여름글씨 '),
+       local('나눔손글씨 여름글씨'),
        url(./yeoleumgeul-ssi.eot?#iefix) format('embedded-opentype'),
        url(./yeoleumgeul-ssi.woff2) format('woff2'),
        url(./yeoleumgeul-ssi.woff) format('woff'),
+       
        url(./yeoleumgeul-ssi.ttf) format('truetype'),
-       url(./yeoleumgeul-ssi.otf) format('otf'),
        url(./yeoleumgeul-ssi.svg#yeoleumgeul-ssi) format('svg');
   font-display: swap;
   font-style: normal;
@@ -39,8 +39,8 @@
        url(./yeoleumgeul-ssi.eot?#iefix) format('embedded-opentype'),
        url(./yeoleumgeul-ssi.woff2) format('woff2'),
        url(./yeoleumgeul-ssi.woff) format('woff'),
+       
        url(./yeoleumgeul-ssi.ttf) format('truetype'),
-       url(./yeoleumgeul-ssi.otf) format('otf'),
        url(./yeoleumgeul-ssi.svg#yeoleumgeul-ssi) format('svg');
   font-display: swap;
   font-style: normal;

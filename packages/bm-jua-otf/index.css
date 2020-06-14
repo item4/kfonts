@@ -16,10 +16,10 @@
 }
 
 @font-face {
-  font-family: '배달의민족주아OTF';
+  font-family: '배달의민족 주아 OTF';
   src: url(./BMJUA_otf.eot);
-  src: local('배달의민족주아OTF '),
-       local('배달의민족주아OTF'),
+  src: local('배달의민족 주아 OTF '),
+       local('배달의민족 주아 OTF'),
        url(./BMJUA_otf.eot?#iefix) format('embedded-opentype'),
        url(./BMJUA_otf.woff2) format('woff2'),
        url(./BMJUA_otf.woff) format('woff'),

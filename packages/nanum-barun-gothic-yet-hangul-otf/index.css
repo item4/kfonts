@@ -16,10 +16,10 @@
 }
 
 @font-face {
-  font-family: '나눔바른고딕OTF옛한글';
+  font-family: '나눔바른고딕OTF 옛한글';
   src: url(./NanumBarunGothicOTF-YetHangul.eot);
-  src: local('나눔바른고딕OTF옛한글 '),
-       local('나눔바른고딕OTF옛한글'),
+  src: local('나눔바른고딕OTF 옛한글 '),
+       local('나눔바른고딕OTF 옛한글'),
        url(./NanumBarunGothicOTF-YetHangul.eot?#iefix) format('embedded-opentype'),
        url(./NanumBarunGothicOTF-YetHangul.woff2) format('woff2'),
        url(./NanumBarunGothicOTF-YetHangul.woff) format('woff'),

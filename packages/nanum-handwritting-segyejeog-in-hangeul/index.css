@@ -7,8 +7,8 @@
        url(./segyejeog-in-hangeul.eot?#iefix) format('embedded-opentype'),
        url(./segyejeog-in-hangeul.woff2) format('woff2'),
        url(./segyejeog-in-hangeul.woff) format('woff'),
+       
        url(./segyejeog-in-hangeul.ttf) format('truetype'),
-       url(./segyejeog-in-hangeul.otf) format('otf'),
        url(./segyejeog-in-hangeul.svg#segyejeog-in-hangeul) format('svg');
   font-display: swap;
   font-style: normal;
@@ -16,15 +16,15 @@
 }
 
 @font-face {
-  font-family: '나눔손글씨세계적인한글';
+  font-family: '나눔손글씨 세계적인 한글';
   src: url(./segyejeog-in-hangeul.eot);
-  src: local('나눔손글씨세계적인한글 '),
-       local('나눔손글씨세계적인한글'),
+  src: local('나눔손글씨 세계적인 한글 '),
+       local('나눔손글씨 세계적인 한글'),
        url(./segyejeog-in-hangeul.eot?#iefix) format('embedded-opentype'),
        url(./segyejeog-in-hangeul.woff2) format('woff2'),
        url(./segyejeog-in-hangeul.woff) format('woff'),
+       
        url(./segyejeog-in-hangeul.ttf) format('truetype'),
-       url(./segyejeog-in-hangeul.otf) format('otf'),
        url(./segyejeog-in-hangeul.svg#segyejeog-in-hangeul) format('svg');
   font-display: swap;
   font-style: normal;
@@ -39,8 +39,8 @@
        url(./segyejeog-in-hangeul.eot?#iefix) format('embedded-opentype'),
        url(./segyejeog-in-hangeul.woff2) format('woff2'),
        url(./segyejeog-in-hangeul.woff) format('woff'),
+       
        url(./segyejeog-in-hangeul.ttf) format('truetype'),
-       url(./segyejeog-in-hangeul.otf) format('otf'),
        url(./segyejeog-in-hangeul.svg#segyejeog-in-hangeul) format('svg');
   font-display: swap;
   font-style: normal;

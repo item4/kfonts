@@ -16,10 +16,10 @@
 }
 
 @font-face {
-  font-family: '배달의민족기랑해랑OTF';
+  font-family: '배달의민족 기랑해랑 OTF';
   src: url(./BMKIRANGHAERANG-OTF.eot);
-  src: local('배달의민족기랑해랑OTF '),
-       local('배달의민족기랑해랑OTF'),
+  src: local('배달의민족 기랑해랑 OTF '),
+       local('배달의민족 기랑해랑 OTF'),
        url(./BMKIRANGHAERANG-OTF.eot?#iefix) format('embedded-opentype'),
        url(./BMKIRANGHAERANG-OTF.woff2) format('woff2'),
        url(./BMKIRANGHAERANG-OTF.woff) format('woff'),

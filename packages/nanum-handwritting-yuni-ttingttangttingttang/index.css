@@ -7,8 +7,8 @@
        url(./yuni-ttingttangttingttang.eot?#iefix) format('embedded-opentype'),
        url(./yuni-ttingttangttingttang.woff2) format('woff2'),
        url(./yuni-ttingttangttingttang.woff) format('woff'),
+       
        url(./yuni-ttingttangttingttang.ttf) format('truetype'),
-       url(./yuni-ttingttangttingttang.otf) format('otf'),
        url(./yuni-ttingttangttingttang.svg#yuni-ttingttangttingttang) format('svg');
   font-display: swap;
   font-style: normal;
@@ -16,15 +16,15 @@
 }
 
 @font-face {
-  font-family: '나눔손글씨유니띵땅띵땅';
+  font-family: '나눔손글씨 유니 띵땅띵땅';
   src: url(./yuni-ttingttangttingttang.eot);
-  src: local('나눔손글씨유니띵땅띵땅 '),
-       local('나눔손글씨유니띵땅띵땅'),
+  src: local('나눔손글씨 유니 띵땅띵땅 '),
+       local('나눔손글씨 유니 띵땅띵땅'),
        url(./yuni-ttingttangttingttang.eot?#iefix) format('embedded-opentype'),
        url(./yuni-ttingttangttingttang.woff2) format('woff2'),
        url(./yuni-ttingttangttingttang.woff) format('woff'),
+       
        url(./yuni-ttingttangttingttang.ttf) format('truetype'),
-       url(./yuni-ttingttangttingttang.otf) format('otf'),
        url(./yuni-ttingttangttingttang.svg#yuni-ttingttangttingttang) format('svg');
   font-display: swap;
   font-style: normal;
@@ -39,8 +39,8 @@
        url(./yuni-ttingttangttingttang.eot?#iefix) format('embedded-opentype'),
        url(./yuni-ttingttangttingttang.woff2) format('woff2'),
        url(./yuni-ttingttangttingttang.woff) format('woff'),
+       
        url(./yuni-ttingttangttingttang.ttf) format('truetype'),
-       url(./yuni-ttingttangttingttang.otf) format('otf'),
        url(./yuni-ttingttangttingttang.svg#yuni-ttingttangttingttang) format('svg');
   font-display: swap;
   font-style: normal;
