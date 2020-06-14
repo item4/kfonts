@@ -1,0 +1,12 @@
+{
+    "font-family": "배찌체",
+    "version": "0.1.0",
+    "files": [
+        {
+            "filename": "Bazzi.ttf",
+            "weight": 300,
+            "style": "normal"
+        }
+    ],
+    "license_link": "http://levelup.nexon.com/font/index.aspx"
+}

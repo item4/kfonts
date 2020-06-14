@@ -1,0 +1,48 @@
+
+@font-face {
+  font-family: '배찌체 OTF';
+  src: url(./Bazzi_OTF.eot);
+  src: local('배찌체 OTF '),
+       local('배찌체 OTF'),
+       url(./Bazzi_OTF.eot?#iefix) format('embedded-opentype'),
+       url(./Bazzi_OTF.woff2) format('woff2'),
+       url(./Bazzi_OTF.woff) format('woff'),
+       url(./Bazzi_OTF.otf) format('otf'),
+       url(./Bazzi_OTF.ttf) format('truetype'),
+       url(./Bazzi_OTF.svg#Bazzi_OTF) format('svg');
+  font-display: swap;
+  font-style: normal;
+  font-weight: 300;
+}
+
+@font-face {
+  font-family: '배찌체 OTF';
+  src: url(./Bazzi_OTF.eot);
+  src: local('배찌체 OTF '),
+       local('배찌체 OTF'),
+       url(./Bazzi_OTF.eot?#iefix) format('embedded-opentype'),
+       url(./Bazzi_OTF.woff2) format('woff2'),
+       url(./Bazzi_OTF.woff) format('woff'),
+       url(./Bazzi_OTF.otf) format('otf'),
+       url(./Bazzi_OTF.ttf) format('truetype'),
+       url(./Bazzi_OTF.svg#Bazzi_OTF) format('svg');
+  font-display: swap;
+  font-style: normal;
+  font-weight: 300;
+}
+
+@font-face {
+  font-family: 'nexon-bazzi-otf';
+  src: url(./Bazzi_OTF.eot);
+  src: local('nexon-bazzi-otf '),
+       local('nexon-bazzi-otf'),
+       url(./Bazzi_OTF.eot?#iefix) format('embedded-opentype'),
+       url(./Bazzi_OTF.woff2) format('woff2'),
+       url(./Bazzi_OTF.woff) format('woff'),
+       url(./Bazzi_OTF.otf) format('otf'),
+       url(./Bazzi_OTF.ttf) format('truetype'),
+       url(./Bazzi_OTF.svg#Bazzi_OTF) format('svg');
+  font-display: swap;
+  font-style: normal;
+  font-weight: 300;
+}

@@ -1,0 +1,27 @@
+{
+    "font-family": "넥슨Lv2고딕",
+    "version": "0.1.0",
+    "files": [
+        {
+            "filename": "NEXON_Lv2_Gothic_Light.ttf",
+            "weight": 300,
+            "style": "normal"
+        },
+        {
+            "filename": "NEXON_Lv2_Gothic.ttf",
+            "weight": 400,
+            "style": "normal"
+        },
+        {
+            "filename": "NEXON_Lv2_Gothic_Medium.ttf",
+            "weight": 500,
+            "style": "normal"
+        },
+        {
+            "filename": "NEXON_Lv2_Gothic_Bold.ttf",
+            "weight": 700,
+            "style": "normal"
+        }
+    ],
+    "license_link": "http://levelup.nexon.com/font/index.aspx"
+}

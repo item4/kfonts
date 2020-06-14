@@ -1,0 +1,8 @@
+
+*.ttf
+*.otf
+*.svg
+*.eot
+*.woff
+*.woff2
+!Bazzi_OTF.otf

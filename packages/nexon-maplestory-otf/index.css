@@ -1,0 +1,96 @@
+
+@font-face {
+  font-family: '메이플스토리 OTF';
+  src: url(./Maplestory_OTF_Light.eot);
+  src: local('메이플스토리 OTF '),
+       local('메이플스토리 OTF'),
+       url(./Maplestory_OTF_Light.eot?#iefix) format('embedded-opentype'),
+       url(./Maplestory_OTF_Light.woff2) format('woff2'),
+       url(./Maplestory_OTF_Light.woff) format('woff'),
+       url(./Maplestory_OTF_Light.otf) format('otf'),
+       url(./Maplestory_OTF_Light.ttf) format('truetype'),
+       url(./Maplestory_OTF_Light.svg#Maplestory_OTF_Light) format('svg');
+  font-display: swap;
+  font-style: normal;
+  font-weight: 300;
+}
+
+@font-face {
+  font-family: '메이플스토리 OTF';
+  src: url(./Maplestory_OTF_Light.eot);
+  src: local('메이플스토리 OTF '),
+       local('메이플스토리 OTF'),
+       url(./Maplestory_OTF_Light.eot?#iefix) format('embedded-opentype'),
+       url(./Maplestory_OTF_Light.woff2) format('woff2'),
+       url(./Maplestory_OTF_Light.woff) format('woff'),
+       url(./Maplestory_OTF_Light.otf) format('otf'),
+       url(./Maplestory_OTF_Light.ttf) format('truetype'),
+       url(./Maplestory_OTF_Light.svg#Maplestory_OTF_Light) format('svg');
+  font-display: swap;
+  font-style: normal;
+  font-weight: 300;
+}
+
+@font-face {
+  font-family: 'nexon-maplestory-otf';
+  src: url(./Maplestory_OTF_Light.eot);
+  src: local('nexon-maplestory-otf '),
+       local('nexon-maplestory-otf'),
+       url(./Maplestory_OTF_Light.eot?#iefix) format('embedded-opentype'),
+       url(./Maplestory_OTF_Light.woff2) format('woff2'),
+       url(./Maplestory_OTF_Light.woff) format('woff'),
+       url(./Maplestory_OTF_Light.otf) format('otf'),
+       url(./Maplestory_OTF_Light.ttf) format('truetype'),
+       url(./Maplestory_OTF_Light.svg#Maplestory_OTF_Light) format('svg');
+  font-display: swap;
+  font-style: normal;
+  font-weight: 300;
+}
+
+@font-face {
+  font-family: '메이플스토리 OTF';
+  src: url(./Maplestory_OTF_Bold.eot);
+  src: local('메이플스토리 OTF '),
+       local('메이플스토리 OTF'),
+       url(./Maplestory_OTF_Bold.eot?#iefix) format('embedded-opentype'),
+       url(./Maplestory_OTF_Bold.woff2) format('woff2'),
+       url(./Maplestory_OTF_Bold.woff) format('woff'),
+       url(./Maplestory_OTF_Bold.otf) format('otf'),
+       url(./Maplestory_OTF_Bold.ttf) format('truetype'),
+       url(./Maplestory_OTF_Bold.svg#Maplestory_OTF_Bold) format('svg');
+  font-display: swap;
+  font-style: normal;
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: '메이플스토리 OTF';
+  src: url(./Maplestory_OTF_Bold.eot);
+  src: local('메이플스토리 OTF '),
+       local('메이플스토리 OTF'),
+       url(./Maplestory_OTF_Bold.eot?#iefix) format('embedded-opentype'),
+       url(./Maplestory_OTF_Bold.woff2) format('woff2'),
+       url(./Maplestory_OTF_Bold.woff) format('woff'),
+       url(./Maplestory_OTF_Bold.otf) format('otf'),
+       url(./Maplestory_OTF_Bold.ttf) format('truetype'),
+       url(./Maplestory_OTF_Bold.svg#Maplestory_OTF_Bold) format('svg');
+  font-display: swap;
+  font-style: normal;
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: 'nexon-maplestory-otf';
+  src: url(./Maplestory_OTF_Bold.eot);
+  src: local('nexon-maplestory-otf '),
+       local('nexon-maplestory-otf'),
+       url(./Maplestory_OTF_Bold.eot?#iefix) format('embedded-opentype'),
+       url(./Maplestory_OTF_Bold.woff2) format('woff2'),
+       url(./Maplestory_OTF_Bold.woff) format('woff'),
+       url(./Maplestory_OTF_Bold.otf) format('otf'),
+       url(./Maplestory_OTF_Bold.ttf) format('truetype'),
+       url(./Maplestory_OTF_Bold.svg#Maplestory_OTF_Bold) format('svg');
+  font-display: swap;
+  font-style: normal;
+  font-weight: 700;
+}

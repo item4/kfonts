@@ -1,0 +1,96 @@
+
+@font-face {
+  font-family: '넥슨 풋볼고딕';
+  src: url(./NEXON_Football_Gothic_L.eot);
+  src: local('넥슨 풋볼고딕 '),
+       local('넥슨 풋볼고딕'),
+       url(./NEXON_Football_Gothic_L.eot?#iefix) format('embedded-opentype'),
+       url(./NEXON_Football_Gothic_L.woff2) format('woff2'),
+       url(./NEXON_Football_Gothic_L.woff) format('woff'),
+       url(./NEXON_Football_Gothic_L.otf) format('otf'),
+       url(./NEXON_Football_Gothic_L.ttf) format('truetype'),
+       url(./NEXON_Football_Gothic_L.svg#NEXON_Football_Gothic_L) format('svg');
+  font-display: swap;
+  font-style: normal;
+  font-weight: 300;
+}
+
+@font-face {
+  font-family: '넥슨 풋볼고딕';
+  src: url(./NEXON_Football_Gothic_L.eot);
+  src: local('넥슨 풋볼고딕 '),
+       local('넥슨 풋볼고딕'),
+       url(./NEXON_Football_Gothic_L.eot?#iefix) format('embedded-opentype'),
+       url(./NEXON_Football_Gothic_L.woff2) format('woff2'),
+       url(./NEXON_Football_Gothic_L.woff) format('woff'),
+       url(./NEXON_Football_Gothic_L.otf) format('otf'),
+       url(./NEXON_Football_Gothic_L.ttf) format('truetype'),
+       url(./NEXON_Football_Gothic_L.svg#NEXON_Football_Gothic_L) format('svg');
+  font-display: swap;
+  font-style: normal;
+  font-weight: 300;
+}
+
+@font-face {
+  font-family: 'nexon-football-gothic-otf';
+  src: url(./NEXON_Football_Gothic_L.eot);
+  src: local('nexon-football-gothic-otf '),
+       local('nexon-football-gothic-otf'),
+       url(./NEXON_Football_Gothic_L.eot?#iefix) format('embedded-opentype'),
+       url(./NEXON_Football_Gothic_L.woff2) format('woff2'),
+       url(./NEXON_Football_Gothic_L.woff) format('woff'),
+       url(./NEXON_Football_Gothic_L.otf) format('otf'),
+       url(./NEXON_Football_Gothic_L.ttf) format('truetype'),
+       url(./NEXON_Football_Gothic_L.svg#NEXON_Football_Gothic_L) format('svg');
+  font-display: swap;
+  font-style: normal;
+  font-weight: 300;
+}
+
+@font-face {
+  font-family: '넥슨 풋볼고딕';
+  src: url(./NEXON_Football_Gothic_B.eot);
+  src: local('넥슨 풋볼고딕 '),
+       local('넥슨 풋볼고딕'),
+       url(./NEXON_Football_Gothic_B.eot?#iefix) format('embedded-opentype'),
+       url(./NEXON_Football_Gothic_B.woff2) format('woff2'),
+       url(./NEXON_Football_Gothic_B.woff) format('woff'),
+       url(./NEXON_Football_Gothic_B.otf) format('otf'),
+       url(./NEXON_Football_Gothic_B.ttf) format('truetype'),
+       url(./NEXON_Football_Gothic_B.svg#NEXON_Football_Gothic_B) format('svg');
+  font-display: swap;
+  font-style: normal;
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: '넥슨 풋볼고딕';
+  src: url(./NEXON_Football_Gothic_B.eot);
+  src: local('넥슨 풋볼고딕 '),
+       local('넥슨 풋볼고딕'),
+       url(./NEXON_Football_Gothic_B.eot?#iefix) format('embedded-opentype'),
+       url(./NEXON_Football_Gothic_B.woff2) format('woff2'),
+       url(./NEXON_Football_Gothic_B.woff) format('woff'),
+       url(./NEXON_Football_Gothic_B.otf) format('otf'),
+       url(./NEXON_Football_Gothic_B.ttf) format('truetype'),
+       url(./NEXON_Football_Gothic_B.svg#NEXON_Football_Gothic_B) format('svg');
+  font-display: swap;
+  font-style: normal;
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: 'nexon-football-gothic-otf';
+  src: url(./NEXON_Football_Gothic_B.eot);
+  src: local('nexon-football-gothic-otf '),
+       local('nexon-football-gothic-otf'),
+       url(./NEXON_Football_Gothic_B.eot?#iefix) format('embedded-opentype'),
+       url(./NEXON_Football_Gothic_B.woff2) format('woff2'),
+       url(./NEXON_Football_Gothic_B.woff) format('woff'),
+       url(./NEXON_Football_Gothic_B.otf) format('otf'),
+       url(./NEXON_Football_Gothic_B.ttf) format('truetype'),
+       url(./NEXON_Football_Gothic_B.svg#NEXON_Football_Gothic_B) format('svg');
+  font-display: swap;
+  font-style: normal;
+  font-weight: 700;
+}

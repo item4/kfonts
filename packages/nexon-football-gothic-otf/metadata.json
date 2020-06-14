@@ -1,0 +1,18 @@
+{
+    "font-family": "넥슨 풋볼고딕",
+    "version": "0.1.0",
+    "otf_based": true,
+    "files": [
+        {
+            "filename": "NEXON_Football_Gothic_L.otf",
+            "weight": 300,
+            "style": "normal"
+        },
+        {
+            "filename": "NEXON_Football_Gothic_B.otf",
+            "weight": 700,
+            "style": "normal"
+        }
+    ],
+    "license_link": "http://levelup.nexon.com/font/index.aspx"
+}

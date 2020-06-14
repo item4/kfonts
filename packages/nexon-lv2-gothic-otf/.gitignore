@@ -1,0 +1,11 @@
+
+*.ttf
+*.otf
+*.svg
+*.eot
+*.woff
+*.woff2
+!NEXON_Lv2_Gothic_OTF_Light.otf
+!NEXON_Lv2_Gothic_OTF.otf
+!NEXON_Lv2_Gothic_OTF_Medium.otf
+!NEXON_Lv2_Gothic_OTF_Bold.otf
