@@ -2,14 +2,14 @@ const fs = require('fs');
 const path = require('path');
 const fontfacegen = require('fontfacegen');
 
-const IGNORE_BASE = `
+const IGNORE_BASE = `\
 *.ttf
 *.otf
 *.svg
 *.eot
 *.woff
 *.woff2
-!src
+!src/*
 `;
 
 const exists = async path => {
