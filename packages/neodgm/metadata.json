@@ -1,0 +1,12 @@
+{
+    "font-family": "Neo둥근모",
+    "version": "0.1.0",
+    "files": [
+        {
+            "filename": "neodgm.ttf",
+            "weight": 300,
+            "style": "normal"
+        }
+    ],
+    "license_link": "https://github.com/Dalgona/neodgm/blob/master/LICENSE.txt"
+}

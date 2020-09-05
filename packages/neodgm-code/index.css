@@ -1,0 +1,48 @@
+
+@font-face {
+  font-family: 'Neo둥근모 Code';
+  src: url(./neodgm_code.eot);
+  src: local('Neo둥근모 Code '),
+       local('Neo둥근모 Code'),
+       url(./neodgm_code.eot?#iefix) format('embedded-opentype'),
+       url(./neodgm_code.woff2) format('woff2'),
+       url(./neodgm_code.woff) format('woff'),
+       
+       url(./neodgm_code.ttf) format('truetype'),
+       url(./neodgm_code.svg#neodgm_code) format('svg');
+  font-display: swap;
+  font-style: normal;
+  font-weight: 300;
+}
+
+@font-face {
+  font-family: 'Neo둥근모 Code';
+  src: url(./neodgm_code.eot);
+  src: local('Neo둥근모 Code '),
+       local('Neo둥근모 Code'),
+       url(./neodgm_code.eot?#iefix) format('embedded-opentype'),
+       url(./neodgm_code.woff2) format('woff2'),
+       url(./neodgm_code.woff) format('woff'),
+       
+       url(./neodgm_code.ttf) format('truetype'),
+       url(./neodgm_code.svg#neodgm_code) format('svg');
+  font-display: swap;
+  font-style: normal;
+  font-weight: 300;
+}
+
+@font-face {
+  font-family: 'neodgm-code';
+  src: url(./neodgm_code.eot);
+  src: local('neodgm-code '),
+       local('neodgm-code'),
+       url(./neodgm_code.eot?#iefix) format('embedded-opentype'),
+       url(./neodgm_code.woff2) format('woff2'),
+       url(./neodgm_code.woff) format('woff'),
+       
+       url(./neodgm_code.ttf) format('truetype'),
+       url(./neodgm_code.svg#neodgm_code) format('svg');
+  font-display: swap;
+  font-style: normal;
+  font-weight: 300;
+}
