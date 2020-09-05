@@ -9,6 +9,7 @@ const IGNORE_BASE = `
 *.eot
 *.woff
 *.woff2
+!src
 `;
 
 const exists = async path => {
@@ -66,7 +67,7 @@ const main = async () => {
     }
     font_families.push(package_dir.name);
     for (const data of metadata.files) {
-      const source_path = path.join(package_dir_path, data.filename);
+      const source_path = path.join(package_dir_path, 'src', data.filename);
       const { name } = path.parse(data.filename);
       console.log(`Start: convert ${source_path}`);
       fontfacegen({
@@ -185,7 +186,7 @@ ${license_text}
     await write(path.join(package_dir_path, 'index.css'), css);
     await write(
       path.join(package_dir_path, '.gitignore'),
-      IGNORE_BASE + metadata.files.map(f => `!${f.filename}`).join('\n'),
+      IGNORE_BASE,
     );
     await write(path.join(package_dir_path, '.npmignore'), '');
     await write_json(packagejson_path, {
