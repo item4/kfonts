@@ -9,8 +9,7 @@ const IGNORE_BASE = `\
 *.eot
 *.woff
 *.woff2
-!src/*
-`;
+!src/*`;
 
 const exists = async path => {
   try {
@@ -77,7 +76,7 @@ const main = async () => {
       });
       console.log(`End: convert ${source_path}`);
       font_families.forEach(font_family => {
-        css += `
+        css += `\
 @font-face {
   font-family: '${font_family}';
   src: url(./${name}.eot);
@@ -97,7 +96,7 @@ const main = async () => {
       });
     }
 
-    let readme = `
+    let readme = `\
 # @kfonts/${package_dir.name}
 
 ${base_font_family} 폰트를 self-host 하기 위한 webfont 파일과 css 파일
@@ -209,8 +208,9 @@ ${license_text}
       ],
       author: 'Kim, Jinsu <item4_hun@hotmail.com>',
       license: 'SEE LICENSE IN LICENSE',
-      repository: `https://github.com/item4/kfonts/tree/master/packages/${package_dir.name}`,
+      repository: `https://github.com/item4/kfonts/tree/main/packages/${package_dir.name}`,
     });
   }
 };
 main().catch(console.error);
+
