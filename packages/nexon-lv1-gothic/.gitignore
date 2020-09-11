@@ -1,10 +1,7 @@
-
 *.ttf
 *.otf
 *.svg
 *.eot
 *.woff
 *.woff2
-!NEXONLv1GothicLight.ttf
-!NEXONLv1GothicRegular.ttf
-!NEXONLv1GothicBold.ttf
+!src/*

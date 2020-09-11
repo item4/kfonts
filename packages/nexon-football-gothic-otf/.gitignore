@@ -1,9 +1,7 @@
-
 *.ttf
 *.otf
 *.svg
 *.eot
 *.woff
 *.woff2
-!NEXON_Football_Gothic_L.otf
-!NEXON_Football_Gothic_B.otf
+!src/*

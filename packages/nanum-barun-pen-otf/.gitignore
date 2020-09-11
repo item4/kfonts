@@ -1,9 +1,7 @@
-
 *.ttf
 *.otf
 *.svg
 *.eot
 *.woff
 *.woff2
-!NanumBarunpenRegular.otf
-!NanumBarunpenBold.otf
+!src/*

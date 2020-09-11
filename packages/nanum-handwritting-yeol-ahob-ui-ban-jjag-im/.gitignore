@@ -1,8 +1,7 @@
-
 *.ttf
 *.otf
 *.svg
 *.eot
 *.woff
 *.woff2
-!yeol-ahob-ui-ban-jjag-im.ttf
+!src/*

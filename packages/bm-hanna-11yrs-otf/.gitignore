@@ -1,8 +1,7 @@
-
 *.ttf
 *.otf
 *.svg
 *.eot
 *.woff
 *.woff2
-!BMHANNA_11yrs_otf.otf
+!src/*

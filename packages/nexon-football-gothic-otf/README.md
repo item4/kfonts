@@ -1,4 +1,3 @@
-
 # @kfonts/nexon-football-gothic-otf
 
 넥슨 풋볼고딕 폰트를 self-host 하기 위한 webfont 파일과 css 파일

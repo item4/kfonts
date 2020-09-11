@@ -1,9 +1,7 @@
-
 *.ttf
 *.otf
 *.svg
 *.eot
 *.woff
 *.woff2
-!D2Coding-ligature.ttf
-!D2CodingBold-ligature.ttf
+!src/*

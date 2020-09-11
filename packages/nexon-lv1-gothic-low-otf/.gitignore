@@ -1,10 +1,7 @@
-
 *.ttf
 *.otf
 *.svg
 *.eot
 *.woff
 *.woff2
-!NEXON_Lv1_Gothic_Low_OTF_Light.otf
-!NEXON_Lv1_Gothic_Low_OTF.otf
-!NEXON_Lv1_Gothic_Low_OTF_Bold.otf
+!src/*

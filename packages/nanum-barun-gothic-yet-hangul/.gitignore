@@ -1,8 +1,7 @@
-
 *.ttf
 *.otf
 *.svg
 *.eot
 *.woff
 *.woff2
-!NanumBarunGothic-YetHangul.ttf
+!src/*

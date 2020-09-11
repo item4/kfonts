@@ -1,8 +1,7 @@
-
 *.ttf
 *.otf
 *.svg
 *.eot
 *.woff
 *.woff2
-!godig-anigo-goding.ttf
+!src/*

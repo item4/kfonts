@@ -1,4 +1,3 @@
-
 # @kfonts/nexon-lv1-gothic-otf
 
 넥슨Lv1고딕 OTF 폰트를 self-host 하기 위한 webfont 파일과 css 파일

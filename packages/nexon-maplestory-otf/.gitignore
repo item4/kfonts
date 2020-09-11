@@ -1,9 +1,7 @@
-
 *.ttf
 *.otf
 *.svg
 *.eot
 *.woff
 *.woff2
-!Maplestory_OTF_Light.otf
-!Maplestory_OTF_Bold.otf
+!src/*

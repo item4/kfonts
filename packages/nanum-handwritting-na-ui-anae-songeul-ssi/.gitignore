@@ -1,8 +1,7 @@
-
 *.ttf
 *.otf
 *.svg
 *.eot
 *.woff
 *.woff2
-!na-ui-anae-songeul-ssi.ttf
+!src/*
