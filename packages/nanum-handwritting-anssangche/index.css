@@ -6,24 +6,20 @@
        url(./anssangche.eot?#iefix) format('embedded-opentype'),
        url(./anssangche.woff2) format('woff2'),
        url(./anssangche.woff) format('woff'),
-       
-       url(./anssangche.ttf) format('truetype'),
-       url(./anssangche.svg#anssangche) format('svg');
+       url(./anssangche.ttf) format('truetype');
   font-display: swap;
   font-style: normal;
   font-weight: 400;
 }
 @font-face {
-  font-family: '나눔손글씨 안쌍체';
+  font-family: '나눔손글씨안쌍체';
   src: url(./anssangche.eot);
-  src: local('나눔손글씨 안쌍체 '),
-       local('나눔손글씨 안쌍체'),
+  src: local('나눔손글씨안쌍체 '),
+       local('나눔손글씨안쌍체'),
        url(./anssangche.eot?#iefix) format('embedded-opentype'),
        url(./anssangche.woff2) format('woff2'),
        url(./anssangche.woff) format('woff'),
-       
-       url(./anssangche.ttf) format('truetype'),
-       url(./anssangche.svg#anssangche) format('svg');
+       url(./anssangche.ttf) format('truetype');
   font-display: swap;
   font-style: normal;
   font-weight: 400;
@@ -36,9 +32,7 @@
        url(./anssangche.eot?#iefix) format('embedded-opentype'),
        url(./anssangche.woff2) format('woff2'),
        url(./anssangche.woff) format('woff'),
-       
-       url(./anssangche.ttf) format('truetype'),
-       url(./anssangche.svg#anssangche) format('svg');
+       url(./anssangche.ttf) format('truetype');
   font-display: swap;
   font-style: normal;
   font-weight: 400;

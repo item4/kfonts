@@ -35,7 +35,7 @@ import '@kfonts/nanum-handwritting-geum-eunbohwa';
 
 ```css
 body {
-    font-family: "나눔손글씨 금은보화", "나눔손글씨 금은보화", "nanum-handwritting-geum-eunbohwa";
+    font-family: "나눔손글씨 금은보화", "나눔손글씨금은보화", "nanum-handwritting-geum-eunbohwa";
 }
 ```
 

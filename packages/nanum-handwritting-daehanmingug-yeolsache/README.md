@@ -35,7 +35,7 @@ import '@kfonts/nanum-handwritting-daehanmingug-yeolsache';
 
 ```css
 body {
-    font-family: "나눔손글씨 대한민국 열사체", "나눔손글씨 대한민국 열사체", "nanum-handwritting-daehanmingug-yeolsache";
+    font-family: "나눔손글씨 대한민국 열사체", "나눔손글씨대한민국열사체", "nanum-handwritting-daehanmingug-yeolsache";
 }
 ```
 

@@ -6,24 +6,20 @@
        url(./BMHANNAAir_ttf.eot?#iefix) format('embedded-opentype'),
        url(./BMHANNAAir_ttf.woff2) format('woff2'),
        url(./BMHANNAAir_ttf.woff) format('woff'),
-       
-       url(./BMHANNAAir_ttf.ttf) format('truetype'),
-       url(./BMHANNAAir_ttf.svg#BMHANNAAir_ttf) format('svg');
+       url(./BMHANNAAir_ttf.ttf) format('truetype');
   font-display: swap;
   font-style: normal;
   font-weight: 400;
 }
 @font-face {
-  font-family: '배달의민족 한나체 Air';
+  font-family: '배달의민족한나체Air';
   src: url(./BMHANNAAir_ttf.eot);
-  src: local('배달의민족 한나체 Air '),
-       local('배달의민족 한나체 Air'),
+  src: local('배달의민족한나체Air '),
+       local('배달의민족한나체Air'),
        url(./BMHANNAAir_ttf.eot?#iefix) format('embedded-opentype'),
        url(./BMHANNAAir_ttf.woff2) format('woff2'),
        url(./BMHANNAAir_ttf.woff) format('woff'),
-       
-       url(./BMHANNAAir_ttf.ttf) format('truetype'),
-       url(./BMHANNAAir_ttf.svg#BMHANNAAir_ttf) format('svg');
+       url(./BMHANNAAir_ttf.ttf) format('truetype');
   font-display: swap;
   font-style: normal;
   font-weight: 400;
@@ -36,9 +32,7 @@
        url(./BMHANNAAir_ttf.eot?#iefix) format('embedded-opentype'),
        url(./BMHANNAAir_ttf.woff2) format('woff2'),
        url(./BMHANNAAir_ttf.woff) format('woff'),
-       
-       url(./BMHANNAAir_ttf.ttf) format('truetype'),
-       url(./BMHANNAAir_ttf.svg#BMHANNAAir_ttf) format('svg');
+       url(./BMHANNAAir_ttf.ttf) format('truetype');
   font-display: swap;
   font-style: normal;
   font-weight: 400;

@@ -35,7 +35,7 @@ import '@kfonts/nanum-handwritting-yeoleumgeul-ssi';
 
 ```css
 body {
-    font-family: "나눔손글씨 여름글씨", "나눔손글씨 여름글씨", "nanum-handwritting-yeoleumgeul-ssi";
+    font-family: "나눔손글씨 여름글씨", "나눔손글씨여름글씨", "nanum-handwritting-yeoleumgeul-ssi";
 }
 ```
 

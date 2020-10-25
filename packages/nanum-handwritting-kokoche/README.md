@@ -35,7 +35,7 @@ import '@kfonts/nanum-handwritting-kokoche';
 
 ```css
 body {
-    font-family: "나눔손글씨 코코체", "나눔손글씨 코코체", "nanum-handwritting-kokoche";
+    font-family: "나눔손글씨 코코체", "나눔손글씨코코체", "nanum-handwritting-kokoche";
 }
 ```
 

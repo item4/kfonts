@@ -2,3 +2,13 @@ __pycache__/
 *.pyc
 *.swp
 node_modules
+.idea
+packages/**/*.ttf
+packages/**/*.otf
+packages/**/*.eot
+packages/**/*.svg
+packages/**/*.woff
+packages/**/*.woff2
+!packages/**/src/*.ttf
+!packages/**/src/*.otf
+.DS_Store

@@ -35,7 +35,7 @@ import '@kfonts/nanum-handwritting-ye-ppeun-mingyeongche';
 
 ```css
 body {
-    font-family: "나눔손글씨 예쁜 민경체", "나눔손글씨 예쁜 민경체", "nanum-handwritting-ye-ppeun-mingyeongche";
+    font-family: "나눔손글씨 예쁜 민경체", "나눔손글씨예쁜민경체", "nanum-handwritting-ye-ppeun-mingyeongche";
 }
 ```
 

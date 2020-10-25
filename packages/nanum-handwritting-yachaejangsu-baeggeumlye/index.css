@@ -6,24 +6,20 @@
        url(./yachaejangsu-baeggeumlye.eot?#iefix) format('embedded-opentype'),
        url(./yachaejangsu-baeggeumlye.woff2) format('woff2'),
        url(./yachaejangsu-baeggeumlye.woff) format('woff'),
-       
-       url(./yachaejangsu-baeggeumlye.ttf) format('truetype'),
-       url(./yachaejangsu-baeggeumlye.svg#yachaejangsu-baeggeumlye) format('svg');
+       url(./yachaejangsu-baeggeumlye.ttf) format('truetype');
   font-display: swap;
   font-style: normal;
   font-weight: 400;
 }
 @font-face {
-  font-family: '나눔손글씨 야채장수 백금례';
+  font-family: '나눔손글씨야채장수백금례';
   src: url(./yachaejangsu-baeggeumlye.eot);
-  src: local('나눔손글씨 야채장수 백금례 '),
-       local('나눔손글씨 야채장수 백금례'),
+  src: local('나눔손글씨야채장수백금례 '),
+       local('나눔손글씨야채장수백금례'),
        url(./yachaejangsu-baeggeumlye.eot?#iefix) format('embedded-opentype'),
        url(./yachaejangsu-baeggeumlye.woff2) format('woff2'),
        url(./yachaejangsu-baeggeumlye.woff) format('woff'),
-       
-       url(./yachaejangsu-baeggeumlye.ttf) format('truetype'),
-       url(./yachaejangsu-baeggeumlye.svg#yachaejangsu-baeggeumlye) format('svg');
+       url(./yachaejangsu-baeggeumlye.ttf) format('truetype');
   font-display: swap;
   font-style: normal;
   font-weight: 400;
@@ -36,9 +32,7 @@
        url(./yachaejangsu-baeggeumlye.eot?#iefix) format('embedded-opentype'),
        url(./yachaejangsu-baeggeumlye.woff2) format('woff2'),
        url(./yachaejangsu-baeggeumlye.woff) format('woff'),
-       
-       url(./yachaejangsu-baeggeumlye.ttf) format('truetype'),
-       url(./yachaejangsu-baeggeumlye.svg#yachaejangsu-baeggeumlye) format('svg');
+       url(./yachaejangsu-baeggeumlye.ttf) format('truetype');
   font-display: swap;
   font-style: normal;
   font-weight: 400;

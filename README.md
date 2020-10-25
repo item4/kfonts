@@ -49,5 +49,6 @@
 이미 배포된 버전이 아닌, 직접 빌드한 버전을 쓰고 싶다면 다음 의존성을 확인해주세요.
 
 - [fontforge](http://fontforge.github.io/en-US/)
+- woff2
 
 `$ node gen.js` 명령어를 통해 폰트를 생성할 수 있습니다.

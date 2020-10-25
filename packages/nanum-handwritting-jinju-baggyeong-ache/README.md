@@ -35,7 +35,7 @@ import '@kfonts/nanum-handwritting-jinju-baggyeong-ache';
 
 ```css
 body {
-    font-family: "나눔손글씨 진주 박경아체", "나눔손글씨 진주 박경아체", "nanum-handwritting-jinju-baggyeong-ache";
+    font-family: "나눔손글씨 진주 박경아체", "나눔손글씨진주박경아체", "nanum-handwritting-jinju-baggyeong-ache";
 }
 ```
 

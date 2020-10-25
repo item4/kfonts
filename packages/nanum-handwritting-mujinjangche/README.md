@@ -35,7 +35,7 @@ import '@kfonts/nanum-handwritting-mujinjangche';
 
 ```css
 body {
-    font-family: "나눔손글씨 무진장체", "나눔손글씨 무진장체", "nanum-handwritting-mujinjangche";
+    font-family: "나눔손글씨 무진장체", "나눔손글씨무진장체", "nanum-handwritting-mujinjangche";
 }
 ```
 

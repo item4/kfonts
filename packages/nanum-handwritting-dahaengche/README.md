@@ -35,7 +35,7 @@ import '@kfonts/nanum-handwritting-dahaengche';
 
 ```css
 body {
-    font-family: "나눔손글씨 다행체", "나눔손글씨 다행체", "nanum-handwritting-dahaengche";
+    font-family: "나눔손글씨 다행체", "나눔손글씨다행체", "nanum-handwritting-dahaengche";
 }
 ```
 

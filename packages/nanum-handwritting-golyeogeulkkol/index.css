@@ -6,24 +6,20 @@
        url(./golyeogeulkkol.eot?#iefix) format('embedded-opentype'),
        url(./golyeogeulkkol.woff2) format('woff2'),
        url(./golyeogeulkkol.woff) format('woff'),
-       
-       url(./golyeogeulkkol.ttf) format('truetype'),
-       url(./golyeogeulkkol.svg#golyeogeulkkol) format('svg');
+       url(./golyeogeulkkol.ttf) format('truetype');
   font-display: swap;
   font-style: normal;
   font-weight: 400;
 }
 @font-face {
-  font-family: '나눔손글씨 고려글꼴';
+  font-family: '나눔손글씨고려글꼴';
   src: url(./golyeogeulkkol.eot);
-  src: local('나눔손글씨 고려글꼴 '),
-       local('나눔손글씨 고려글꼴'),
+  src: local('나눔손글씨고려글꼴 '),
+       local('나눔손글씨고려글꼴'),
        url(./golyeogeulkkol.eot?#iefix) format('embedded-opentype'),
        url(./golyeogeulkkol.woff2) format('woff2'),
        url(./golyeogeulkkol.woff) format('woff'),
-       
-       url(./golyeogeulkkol.ttf) format('truetype'),
-       url(./golyeogeulkkol.svg#golyeogeulkkol) format('svg');
+       url(./golyeogeulkkol.ttf) format('truetype');
   font-display: swap;
   font-style: normal;
   font-weight: 400;
@@ -36,9 +32,7 @@
        url(./golyeogeulkkol.eot?#iefix) format('embedded-opentype'),
        url(./golyeogeulkkol.woff2) format('woff2'),
        url(./golyeogeulkkol.woff) format('woff'),
-       
-       url(./golyeogeulkkol.ttf) format('truetype'),
-       url(./golyeogeulkkol.svg#golyeogeulkkol) format('svg');
+       url(./golyeogeulkkol.ttf) format('truetype');
   font-display: swap;
   font-style: normal;
   font-weight: 400;

@@ -6,24 +6,20 @@
        url(./huinkkolisuli.eot?#iefix) format('embedded-opentype'),
        url(./huinkkolisuli.woff2) format('woff2'),
        url(./huinkkolisuli.woff) format('woff'),
-       
-       url(./huinkkolisuli.ttf) format('truetype'),
-       url(./huinkkolisuli.svg#huinkkolisuli) format('svg');
+       url(./huinkkolisuli.ttf) format('truetype');
   font-display: swap;
   font-style: normal;
   font-weight: 400;
 }
 @font-face {
-  font-family: '나눔손글씨 흰꼬리수리';
+  font-family: '나눔손글씨흰꼬리수리';
   src: url(./huinkkolisuli.eot);
-  src: local('나눔손글씨 흰꼬리수리 '),
-       local('나눔손글씨 흰꼬리수리'),
+  src: local('나눔손글씨흰꼬리수리 '),
+       local('나눔손글씨흰꼬리수리'),
        url(./huinkkolisuli.eot?#iefix) format('embedded-opentype'),
        url(./huinkkolisuli.woff2) format('woff2'),
        url(./huinkkolisuli.woff) format('woff'),
-       
-       url(./huinkkolisuli.ttf) format('truetype'),
-       url(./huinkkolisuli.svg#huinkkolisuli) format('svg');
+       url(./huinkkolisuli.ttf) format('truetype');
   font-display: swap;
   font-style: normal;
   font-weight: 400;
@@ -36,9 +32,7 @@
        url(./huinkkolisuli.eot?#iefix) format('embedded-opentype'),
        url(./huinkkolisuli.woff2) format('woff2'),
        url(./huinkkolisuli.woff) format('woff'),
-       
-       url(./huinkkolisuli.ttf) format('truetype'),
-       url(./huinkkolisuli.svg#huinkkolisuli) format('svg');
+       url(./huinkkolisuli.ttf) format('truetype');
   font-display: swap;
   font-style: normal;
   font-weight: 400;

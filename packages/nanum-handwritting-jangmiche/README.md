@@ -35,7 +35,7 @@ import '@kfonts/nanum-handwritting-jangmiche';
 
 ```css
 body {
-    font-family: "나눔손글씨 장미체", "나눔손글씨 장미체", "nanum-handwritting-jangmiche";
+    font-family: "나눔손글씨 장미체", "나눔손글씨장미체", "nanum-handwritting-jangmiche";
 }
 ```
 

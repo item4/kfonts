@@ -35,7 +35,7 @@ import '@kfonts/nanum-handwritting-a-inmam-songeul-ssi';
 
 ```css
 body {
-    font-family: "나눔손글씨 아인맘 손글씨", "나눔손글씨 아인맘 손글씨", "nanum-handwritting-a-inmam-songeul-ssi";
+    font-family: "나눔손글씨 아인맘 손글씨", "나눔손글씨아인맘손글씨", "nanum-handwritting-a-inmam-songeul-ssi";
 }
 ```
 

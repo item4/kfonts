@@ -35,7 +35,7 @@ import '@kfonts/nanum-handwritting-ttobagttobag';
 
 ```css
 body {
-    font-family: "나눔손글씨 또박또박", "나눔손글씨 또박또박", "nanum-handwritting-ttobagttobag";
+    font-family: "나눔손글씨 또박또박", "나눔손글씨또박또박", "nanum-handwritting-ttobagttobag";
 }
 ```
 

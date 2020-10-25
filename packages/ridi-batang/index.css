@@ -7,8 +7,7 @@
        url(./RIDIBatang.woff2) format('woff2'),
        url(./RIDIBatang.woff) format('woff'),
        url(./RIDIBatang.otf) format('otf'),
-       url(./RIDIBatang.ttf) format('truetype'),
-       url(./RIDIBatang.svg#RIDIBatang) format('svg');
+       url(./RIDIBatang.ttf) format('truetype');
   font-display: swap;
   font-style: normal;
   font-weight: 400;
@@ -22,8 +21,7 @@
        url(./RIDIBatang.woff2) format('woff2'),
        url(./RIDIBatang.woff) format('woff'),
        url(./RIDIBatang.otf) format('otf'),
-       url(./RIDIBatang.ttf) format('truetype'),
-       url(./RIDIBatang.svg#RIDIBatang) format('svg');
+       url(./RIDIBatang.ttf) format('truetype');
   font-display: swap;
   font-style: normal;
   font-weight: 400;

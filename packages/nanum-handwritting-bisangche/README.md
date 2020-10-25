@@ -35,7 +35,7 @@ import '@kfonts/nanum-handwritting-bisangche';
 
 ```css
 body {
-    font-family: "나눔손글씨 비상체", "나눔손글씨 비상체", "nanum-handwritting-bisangche";
+    font-family: "나눔손글씨 비상체", "나눔손글씨비상체", "nanum-handwritting-bisangche";
 }
 ```
 

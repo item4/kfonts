@@ -6,24 +6,20 @@
        url(./hal-abeoji-uinanum.eot?#iefix) format('embedded-opentype'),
        url(./hal-abeoji-uinanum.woff2) format('woff2'),
        url(./hal-abeoji-uinanum.woff) format('woff'),
-       
-       url(./hal-abeoji-uinanum.ttf) format('truetype'),
-       url(./hal-abeoji-uinanum.svg#hal-abeoji-uinanum) format('svg');
+       url(./hal-abeoji-uinanum.ttf) format('truetype');
   font-display: swap;
   font-style: normal;
   font-weight: 400;
 }
 @font-face {
-  font-family: '나눔손글씨 할아버지의나눔';
+  font-family: '나눔손글씨할아버지의나눔';
   src: url(./hal-abeoji-uinanum.eot);
-  src: local('나눔손글씨 할아버지의나눔 '),
-       local('나눔손글씨 할아버지의나눔'),
+  src: local('나눔손글씨할아버지의나눔 '),
+       local('나눔손글씨할아버지의나눔'),
        url(./hal-abeoji-uinanum.eot?#iefix) format('embedded-opentype'),
        url(./hal-abeoji-uinanum.woff2) format('woff2'),
        url(./hal-abeoji-uinanum.woff) format('woff'),
-       
-       url(./hal-abeoji-uinanum.ttf) format('truetype'),
-       url(./hal-abeoji-uinanum.svg#hal-abeoji-uinanum) format('svg');
+       url(./hal-abeoji-uinanum.ttf) format('truetype');
   font-display: swap;
   font-style: normal;
   font-weight: 400;
@@ -36,9 +32,7 @@
        url(./hal-abeoji-uinanum.eot?#iefix) format('embedded-opentype'),
        url(./hal-abeoji-uinanum.woff2) format('woff2'),
        url(./hal-abeoji-uinanum.woff) format('woff'),
-       
-       url(./hal-abeoji-uinanum.ttf) format('truetype'),
-       url(./hal-abeoji-uinanum.svg#hal-abeoji-uinanum) format('svg');
+       url(./hal-abeoji-uinanum.ttf) format('truetype');
   font-display: swap;
   font-style: normal;
   font-weight: 400;

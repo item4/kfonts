@@ -35,7 +35,7 @@ import '@kfonts/nanum-handwritting-eommasalang';
 
 ```css
 body {
-    font-family: "나눔손글씨 엄마사랑", "나눔손글씨 엄마사랑", "nanum-handwritting-eommasalang";
+    font-family: "나눔손글씨 엄마사랑", "나눔손글씨엄마사랑", "nanum-handwritting-eommasalang";
 }
 ```
 

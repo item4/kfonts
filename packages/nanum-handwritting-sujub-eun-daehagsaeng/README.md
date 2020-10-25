@@ -35,7 +35,7 @@ import '@kfonts/nanum-handwritting-sujub-eun-daehagsaeng';
 
 ```css
 body {
-    font-family: "나눔손글씨 수줍은 대학생", "나눔손글씨 수줍은 대학생", "nanum-handwritting-sujub-eun-daehagsaeng";
+    font-family: "나눔손글씨 수줍은 대학생", "나눔손글씨수줍은대학생", "nanum-handwritting-sujub-eun-daehagsaeng";
 }
 ```
 

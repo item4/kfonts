@@ -35,7 +35,7 @@ import '@kfonts/nanum-handwritting-chodinghuimang';
 
 ```css
 body {
-    font-family: "나눔손글씨 초딩희망", "나눔손글씨 초딩희망", "nanum-handwritting-chodinghuimang";
+    font-family: "나눔손글씨 초딩희망", "나눔손글씨초딩희망", "nanum-handwritting-chodinghuimang";
 }
 ```
 

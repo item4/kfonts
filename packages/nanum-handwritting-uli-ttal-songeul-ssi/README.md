@@ -35,7 +35,7 @@ import '@kfonts/nanum-handwritting-uli-ttal-songeul-ssi';
 
 ```css
 body {
-    font-family: "나눔손글씨 우리딸 손글씨", "나눔손글씨 우리딸 손글씨", "nanum-handwritting-uli-ttal-songeul-ssi";
+    font-family: "나눔손글씨 우리딸 손글씨", "나눔손글씨우리딸손글씨", "nanum-handwritting-uli-ttal-songeul-ssi";
 }
 ```
 

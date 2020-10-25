@@ -35,7 +35,7 @@ import '@kfonts/nanum-handwritting-yeol-ilche';
 
 ```css
 body {
-    font-family: "나눔손글씨 열일체", "나눔손글씨 열일체", "nanum-handwritting-yeol-ilche";
+    font-family: "나눔손글씨 열일체", "나눔손글씨열일체", "nanum-handwritting-yeol-ilche";
 }
 ```
 

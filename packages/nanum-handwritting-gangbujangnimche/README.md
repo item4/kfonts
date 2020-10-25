@@ -35,7 +35,7 @@ import '@kfonts/nanum-handwritting-gangbujangnimche';
 
 ```css
 body {
-    font-family: "나눔손글씨 강부장님체", "나눔손글씨 강부장님체", "nanum-handwritting-gangbujangnimche";
+    font-family: "나눔손글씨 강부장님체", "나눔손글씨강부장님체", "nanum-handwritting-gangbujangnimche";
 }
 ```
 

@@ -35,7 +35,7 @@ import '@kfonts/nanum-handwritting-cheolpilgeul-ssi';
 
 ```css
 body {
-    font-family: "나눔손글씨 철필글씨", "나눔손글씨 철필글씨", "nanum-handwritting-cheolpilgeul-ssi";
+    font-family: "나눔손글씨 철필글씨", "나눔손글씨철필글씨", "nanum-handwritting-cheolpilgeul-ssi";
 }
 ```
 

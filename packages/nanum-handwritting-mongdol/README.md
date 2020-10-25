@@ -35,7 +35,7 @@ import '@kfonts/nanum-handwritting-mongdol';
 
 ```css
 body {
-    font-family: "나눔손글씨 몽돌", "나눔손글씨 몽돌", "nanum-handwritting-mongdol";
+    font-family: "나눔손글씨 몽돌", "나눔손글씨몽돌", "nanum-handwritting-mongdol";
 }
 ```
 

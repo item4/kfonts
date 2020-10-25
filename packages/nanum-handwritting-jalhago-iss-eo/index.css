@@ -6,24 +6,20 @@
        url(./jalhago-iss-eo.eot?#iefix) format('embedded-opentype'),
        url(./jalhago-iss-eo.woff2) format('woff2'),
        url(./jalhago-iss-eo.woff) format('woff'),
-       
-       url(./jalhago-iss-eo.ttf) format('truetype'),
-       url(./jalhago-iss-eo.svg#jalhago-iss-eo) format('svg');
+       url(./jalhago-iss-eo.ttf) format('truetype');
   font-display: swap;
   font-style: normal;
   font-weight: 400;
 }
 @font-face {
-  font-family: '나눔손글씨 잘하고 있어';
+  font-family: '나눔손글씨잘하고있어';
   src: url(./jalhago-iss-eo.eot);
-  src: local('나눔손글씨 잘하고 있어 '),
-       local('나눔손글씨 잘하고 있어'),
+  src: local('나눔손글씨잘하고있어 '),
+       local('나눔손글씨잘하고있어'),
        url(./jalhago-iss-eo.eot?#iefix) format('embedded-opentype'),
        url(./jalhago-iss-eo.woff2) format('woff2'),
        url(./jalhago-iss-eo.woff) format('woff'),
-       
-       url(./jalhago-iss-eo.ttf) format('truetype'),
-       url(./jalhago-iss-eo.svg#jalhago-iss-eo) format('svg');
+       url(./jalhago-iss-eo.ttf) format('truetype');
   font-display: swap;
   font-style: normal;
   font-weight: 400;
@@ -36,9 +32,7 @@
        url(./jalhago-iss-eo.eot?#iefix) format('embedded-opentype'),
        url(./jalhago-iss-eo.woff2) format('woff2'),
        url(./jalhago-iss-eo.woff) format('woff'),
-       
-       url(./jalhago-iss-eo.ttf) format('truetype'),
-       url(./jalhago-iss-eo.svg#jalhago-iss-eo) format('svg');
+       url(./jalhago-iss-eo.ttf) format('truetype');
   font-display: swap;
   font-style: normal;
   font-weight: 400;

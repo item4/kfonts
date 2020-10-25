@@ -6,24 +6,20 @@
        url(./buggeugseong.eot?#iefix) format('embedded-opentype'),
        url(./buggeugseong.woff2) format('woff2'),
        url(./buggeugseong.woff) format('woff'),
-       
-       url(./buggeugseong.ttf) format('truetype'),
-       url(./buggeugseong.svg#buggeugseong) format('svg');
+       url(./buggeugseong.ttf) format('truetype');
   font-display: swap;
   font-style: normal;
   font-weight: 400;
 }
 @font-face {
-  font-family: '나눔손글씨 북극성';
+  font-family: '나눔손글씨북극성';
   src: url(./buggeugseong.eot);
-  src: local('나눔손글씨 북극성 '),
-       local('나눔손글씨 북극성'),
+  src: local('나눔손글씨북극성 '),
+       local('나눔손글씨북극성'),
        url(./buggeugseong.eot?#iefix) format('embedded-opentype'),
        url(./buggeugseong.woff2) format('woff2'),
        url(./buggeugseong.woff) format('woff'),
-       
-       url(./buggeugseong.ttf) format('truetype'),
-       url(./buggeugseong.svg#buggeugseong) format('svg');
+       url(./buggeugseong.ttf) format('truetype');
   font-display: swap;
   font-style: normal;
   font-weight: 400;
@@ -36,9 +32,7 @@
        url(./buggeugseong.eot?#iefix) format('embedded-opentype'),
        url(./buggeugseong.woff2) format('woff2'),
        url(./buggeugseong.woff) format('woff'),
-       
-       url(./buggeugseong.ttf) format('truetype'),
-       url(./buggeugseong.svg#buggeugseong) format('svg');
+       url(./buggeugseong.ttf) format('truetype');
   font-display: swap;
   font-style: normal;
   font-weight: 400;

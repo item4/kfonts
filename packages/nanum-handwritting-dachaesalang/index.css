@@ -6,24 +6,20 @@
        url(./dachaesalang.eot?#iefix) format('embedded-opentype'),
        url(./dachaesalang.woff2) format('woff2'),
        url(./dachaesalang.woff) format('woff'),
-       
-       url(./dachaesalang.ttf) format('truetype'),
-       url(./dachaesalang.svg#dachaesalang) format('svg');
+       url(./dachaesalang.ttf) format('truetype');
   font-display: swap;
   font-style: normal;
   font-weight: 400;
 }
 @font-face {
-  font-family: '나눔손글씨 다채사랑';
+  font-family: '나눔손글씨다채사랑';
   src: url(./dachaesalang.eot);
-  src: local('나눔손글씨 다채사랑 '),
-       local('나눔손글씨 다채사랑'),
+  src: local('나눔손글씨다채사랑 '),
+       local('나눔손글씨다채사랑'),
        url(./dachaesalang.eot?#iefix) format('embedded-opentype'),
        url(./dachaesalang.woff2) format('woff2'),
        url(./dachaesalang.woff) format('woff'),
-       
-       url(./dachaesalang.ttf) format('truetype'),
-       url(./dachaesalang.svg#dachaesalang) format('svg');
+       url(./dachaesalang.ttf) format('truetype');
   font-display: swap;
   font-style: normal;
   font-weight: 400;
@@ -36,9 +32,7 @@
        url(./dachaesalang.eot?#iefix) format('embedded-opentype'),
        url(./dachaesalang.woff2) format('woff2'),
        url(./dachaesalang.woff) format('woff'),
-       
-       url(./dachaesalang.ttf) format('truetype'),
-       url(./dachaesalang.svg#dachaesalang) format('svg');
+       url(./dachaesalang.ttf) format('truetype');
   font-display: swap;
   font-style: normal;
   font-weight: 400;

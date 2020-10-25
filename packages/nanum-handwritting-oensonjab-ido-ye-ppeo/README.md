@@ -35,7 +35,7 @@ import '@kfonts/nanum-handwritting-oensonjab-ido-ye-ppeo';
 
 ```css
 body {
-    font-family: "나눔손글씨 왼손잡이도 예뻐", "나눔손글씨 왼손잡이도 예뻐", "nanum-handwritting-oensonjab-ido-ye-ppeo";
+    font-family: "나눔손글씨 왼손잡이도 예뻐", "나눔손글씨왼손잡이도예뻐", "nanum-handwritting-oensonjab-ido-ye-ppeo";
 }
 ```
 

@@ -35,7 +35,7 @@ import '@kfonts/nanum-handwritting-galmaesgeul';
 
 ```css
 body {
-    font-family: "나눔손글씨 갈맷글", "나눔손글씨 갈맷글", "nanum-handwritting-galmaesgeul";
+    font-family: "나눔손글씨 갈맷글", "나눔손글씨갈맷글", "nanum-handwritting-galmaesgeul";
 }
 ```
 

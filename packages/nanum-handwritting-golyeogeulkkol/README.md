@@ -35,7 +35,7 @@ import '@kfonts/nanum-handwritting-golyeogeulkkol';
 
 ```css
 body {
-    font-family: "나눔손글씨 고려글꼴", "나눔손글씨 고려글꼴", "nanum-handwritting-golyeogeulkkol";
+    font-family: "나눔손글씨 고려글꼴", "나눔손글씨고려글꼴", "nanum-handwritting-golyeogeulkkol";
 }
 ```
 

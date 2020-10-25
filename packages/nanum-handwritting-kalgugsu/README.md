@@ -35,7 +35,7 @@ import '@kfonts/nanum-handwritting-kalgugsu';
 
 ```css
 body {
-    font-family: "나눔손글씨 칼국수", "나눔손글씨 칼국수", "nanum-handwritting-kalgugsu";
+    font-family: "나눔손글씨 칼국수", "나눔손글씨칼국수", "nanum-handwritting-kalgugsu";
 }
 ```
 

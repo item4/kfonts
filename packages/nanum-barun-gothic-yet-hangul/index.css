@@ -6,24 +6,20 @@
        url(./NanumBarunGothic-YetHangul.eot?#iefix) format('embedded-opentype'),
        url(./NanumBarunGothic-YetHangul.woff2) format('woff2'),
        url(./NanumBarunGothic-YetHangul.woff) format('woff'),
-       
-       url(./NanumBarunGothic-YetHangul.ttf) format('truetype'),
-       url(./NanumBarunGothic-YetHangul.svg#NanumBarunGothic-YetHangul) format('svg');
+       url(./NanumBarunGothic-YetHangul.ttf) format('truetype');
   font-display: swap;
   font-style: normal;
   font-weight: 400;
 }
 @font-face {
-  font-family: '나눔바른고딕 옛한글';
+  font-family: '나눔바른고딕옛한글';
   src: url(./NanumBarunGothic-YetHangul.eot);
-  src: local('나눔바른고딕 옛한글 '),
-       local('나눔바른고딕 옛한글'),
+  src: local('나눔바른고딕옛한글 '),
+       local('나눔바른고딕옛한글'),
        url(./NanumBarunGothic-YetHangul.eot?#iefix) format('embedded-opentype'),
        url(./NanumBarunGothic-YetHangul.woff2) format('woff2'),
        url(./NanumBarunGothic-YetHangul.woff) format('woff'),
-       
-       url(./NanumBarunGothic-YetHangul.ttf) format('truetype'),
-       url(./NanumBarunGothic-YetHangul.svg#NanumBarunGothic-YetHangul) format('svg');
+       url(./NanumBarunGothic-YetHangul.ttf) format('truetype');
   font-display: swap;
   font-style: normal;
   font-weight: 400;
@@ -36,9 +32,7 @@
        url(./NanumBarunGothic-YetHangul.eot?#iefix) format('embedded-opentype'),
        url(./NanumBarunGothic-YetHangul.woff2) format('woff2'),
        url(./NanumBarunGothic-YetHangul.woff) format('woff'),
-       
-       url(./NanumBarunGothic-YetHangul.ttf) format('truetype'),
-       url(./NanumBarunGothic-YetHangul.svg#NanumBarunGothic-YetHangul) format('svg');
+       url(./NanumBarunGothic-YetHangul.ttf) format('truetype');
   font-display: swap;
   font-style: normal;
   font-weight: 400;

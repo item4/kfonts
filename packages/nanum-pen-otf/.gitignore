@@ -1,7 +1,7 @@
 *.ttf
 *.otf
-*.svg
 *.eot
 *.woff
 *.woff2
-!src/*
+!src/*.ttf
+!src/*.otf

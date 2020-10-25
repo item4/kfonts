@@ -35,7 +35,7 @@ import '@kfonts/nanum-handwritting-sobanggwan-ui-gido';
 
 ```css
 body {
-    font-family: "나눔손글씨 소방관의 기도", "나눔손글씨 소방관의 기도", "nanum-handwritting-sobanggwan-ui-gido";
+    font-family: "나눔손글씨 소방관의 기도", "나눔손글씨소방관의기도", "nanum-handwritting-sobanggwan-ui-gido";
 }
 ```
 

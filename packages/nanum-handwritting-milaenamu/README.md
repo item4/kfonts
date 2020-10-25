@@ -35,7 +35,7 @@ import '@kfonts/nanum-handwritting-milaenamu';
 
 ```css
 body {
-    font-family: "나눔손글씨 미래나무", "나눔손글씨 미래나무", "nanum-handwritting-milaenamu";
+    font-family: "나눔손글씨 미래나무", "나눔손글씨미래나무", "nanum-handwritting-milaenamu";
 }
 ```
 

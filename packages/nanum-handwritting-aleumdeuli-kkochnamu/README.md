@@ -35,7 +35,7 @@ import '@kfonts/nanum-handwritting-aleumdeuli-kkochnamu';
 
 ```css
 body {
-    font-family: "나눔손글씨 아름드리 꽃나무", "나눔손글씨 아름드리 꽃나무", "nanum-handwritting-aleumdeuli-kkochnamu";
+    font-family: "나눔손글씨 아름드리 꽃나무", "나눔손글씨아름드리꽃나무", "nanum-handwritting-aleumdeuli-kkochnamu";
 }
 ```
 

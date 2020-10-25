@@ -35,7 +35,7 @@ import '@kfonts/nanum-handwritting-gim-yu-iche';
 
 ```css
 body {
-    font-family: "나눔손글씨 김유이체", "나눔손글씨 김유이체", "nanum-handwritting-gim-yu-iche";
+    font-family: "나눔손글씨 김유이체", "나눔손글씨김유이체", "nanum-handwritting-gim-yu-iche";
 }
 ```
 

@@ -1,119 +1,103 @@
 @font-face {
   font-family: '나눔스퀘어';
-  src: url(./NanumSquareRegular.eot);
+  src: url(./NanumSquareR.eot);
   src: local('나눔스퀘어 '),
        local('나눔스퀘어'),
-       url(./NanumSquareRegular.eot?#iefix) format('embedded-opentype'),
-       url(./NanumSquareRegular.woff2) format('woff2'),
-       url(./NanumSquareRegular.woff) format('woff'),
-       
-       url(./NanumSquareRegular.ttf) format('truetype'),
-       url(./NanumSquareRegular.svg#NanumSquareRegular) format('svg');
+       url(./NanumSquareR.eot?#iefix) format('embedded-opentype'),
+       url(./NanumSquareR.woff2) format('woff2'),
+       url(./NanumSquareR.woff) format('woff'),
+       url(./NanumSquareR.ttf) format('truetype');
   font-display: swap;
   font-style: normal;
   font-weight: 400;
 }
 @font-face {
   font-family: 'nanum-square';
-  src: url(./NanumSquareRegular.eot);
+  src: url(./NanumSquareR.eot);
   src: local('nanum-square '),
        local('nanum-square'),
-       url(./NanumSquareRegular.eot?#iefix) format('embedded-opentype'),
-       url(./NanumSquareRegular.woff2) format('woff2'),
-       url(./NanumSquareRegular.woff) format('woff'),
-       
-       url(./NanumSquareRegular.ttf) format('truetype'),
-       url(./NanumSquareRegular.svg#NanumSquareRegular) format('svg');
+       url(./NanumSquareR.eot?#iefix) format('embedded-opentype'),
+       url(./NanumSquareR.woff2) format('woff2'),
+       url(./NanumSquareR.woff) format('woff'),
+       url(./NanumSquareR.ttf) format('truetype');
   font-display: swap;
   font-style: normal;
   font-weight: 400;
 }
 @font-face {
   font-family: '나눔스퀘어';
-  src: url(./NanumSquareLight.eot);
+  src: url(./NanumSquareL.eot);
   src: local('나눔스퀘어 '),
        local('나눔스퀘어'),
-       url(./NanumSquareLight.eot?#iefix) format('embedded-opentype'),
-       url(./NanumSquareLight.woff2) format('woff2'),
-       url(./NanumSquareLight.woff) format('woff'),
-       
-       url(./NanumSquareLight.ttf) format('truetype'),
-       url(./NanumSquareLight.svg#NanumSquareLight) format('svg');
+       url(./NanumSquareL.eot?#iefix) format('embedded-opentype'),
+       url(./NanumSquareL.woff2) format('woff2'),
+       url(./NanumSquareL.woff) format('woff'),
+       url(./NanumSquareL.ttf) format('truetype');
   font-display: swap;
   font-style: normal;
   font-weight: 300;
 }
 @font-face {
   font-family: 'nanum-square';
-  src: url(./NanumSquareLight.eot);
+  src: url(./NanumSquareL.eot);
   src: local('nanum-square '),
        local('nanum-square'),
-       url(./NanumSquareLight.eot?#iefix) format('embedded-opentype'),
-       url(./NanumSquareLight.woff2) format('woff2'),
-       url(./NanumSquareLight.woff) format('woff'),
-       
-       url(./NanumSquareLight.ttf) format('truetype'),
-       url(./NanumSquareLight.svg#NanumSquareLight) format('svg');
+       url(./NanumSquareL.eot?#iefix) format('embedded-opentype'),
+       url(./NanumSquareL.woff2) format('woff2'),
+       url(./NanumSquareL.woff) format('woff'),
+       url(./NanumSquareL.ttf) format('truetype');
   font-display: swap;
   font-style: normal;
   font-weight: 300;
 }
 @font-face {
   font-family: '나눔스퀘어';
-  src: url(./NanumSquareBold.eot);
+  src: url(./NanumSquareB.eot);
   src: local('나눔스퀘어 '),
        local('나눔스퀘어'),
-       url(./NanumSquareBold.eot?#iefix) format('embedded-opentype'),
-       url(./NanumSquareBold.woff2) format('woff2'),
-       url(./NanumSquareBold.woff) format('woff'),
-       
-       url(./NanumSquareBold.ttf) format('truetype'),
-       url(./NanumSquareBold.svg#NanumSquareBold) format('svg');
+       url(./NanumSquareB.eot?#iefix) format('embedded-opentype'),
+       url(./NanumSquareB.woff2) format('woff2'),
+       url(./NanumSquareB.woff) format('woff'),
+       url(./NanumSquareB.ttf) format('truetype');
   font-display: swap;
   font-style: normal;
   font-weight: 700;
 }
 @font-face {
   font-family: 'nanum-square';
-  src: url(./NanumSquareBold.eot);
+  src: url(./NanumSquareB.eot);
   src: local('nanum-square '),
        local('nanum-square'),
-       url(./NanumSquareBold.eot?#iefix) format('embedded-opentype'),
-       url(./NanumSquareBold.woff2) format('woff2'),
-       url(./NanumSquareBold.woff) format('woff'),
-       
-       url(./NanumSquareBold.ttf) format('truetype'),
-       url(./NanumSquareBold.svg#NanumSquareBold) format('svg');
+       url(./NanumSquareB.eot?#iefix) format('embedded-opentype'),
+       url(./NanumSquareB.woff2) format('woff2'),
+       url(./NanumSquareB.woff) format('woff'),
+       url(./NanumSquareB.ttf) format('truetype');
   font-display: swap;
   font-style: normal;
   font-weight: 700;
 }
 @font-face {
   font-family: '나눔스퀘어';
-  src: url(./NanumSquareExtraBold.eot);
+  src: url(./NanumSquareEB.eot);
   src: local('나눔스퀘어 '),
        local('나눔스퀘어'),
-       url(./NanumSquareExtraBold.eot?#iefix) format('embedded-opentype'),
-       url(./NanumSquareExtraBold.woff2) format('woff2'),
-       url(./NanumSquareExtraBold.woff) format('woff'),
-       
-       url(./NanumSquareExtraBold.ttf) format('truetype'),
-       url(./NanumSquareExtraBold.svg#NanumSquareExtraBold) format('svg');
+       url(./NanumSquareEB.eot?#iefix) format('embedded-opentype'),
+       url(./NanumSquareEB.woff2) format('woff2'),
+       url(./NanumSquareEB.woff) format('woff'),
+       url(./NanumSquareEB.ttf) format('truetype');
   font-display: swap;
   font-style: normal;
   font-weight: 800;
 }
 @font-face {
   font-family: 'nanum-square';
-  src: url(./NanumSquareExtraBold.eot);
+  src: url(./NanumSquareEB.eot);
   src: local('nanum-square '),
        local('nanum-square'),
-       url(./NanumSquareExtraBold.eot?#iefix) format('embedded-opentype'),
-       url(./NanumSquareExtraBold.woff2) format('woff2'),
-       url(./NanumSquareExtraBold.woff) format('woff'),
-       
-       url(./NanumSquareExtraBold.ttf) format('truetype'),
-       url(./NanumSquareExtraBold.svg#NanumSquareExtraBold) format('svg');
+       url(./NanumSquareEB.eot?#iefix) format('embedded-opentype'),
+       url(./NanumSquareEB.woff2) format('woff2'),
+       url(./NanumSquareEB.woff) format('woff'),
+       url(./NanumSquareEB.ttf) format('truetype');
   font-display: swap;
   font-style: normal;
   font-weight: 800;

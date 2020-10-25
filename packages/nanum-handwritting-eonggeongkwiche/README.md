@@ -35,7 +35,7 @@ import '@kfonts/nanum-handwritting-eonggeongkwiche';
 
 ```css
 body {
-    font-family: "나눔손글씨 엉겅퀴체", "나눔손글씨 엉겅퀴체", "nanum-handwritting-eonggeongkwiche";
+    font-family: "나눔손글씨 엉겅퀴체", "나눔손글씨엉겅퀴체", "nanum-handwritting-eonggeongkwiche";
 }
 ```
 

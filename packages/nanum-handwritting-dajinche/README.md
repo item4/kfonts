@@ -35,7 +35,7 @@ import '@kfonts/nanum-handwritting-dajinche';
 
 ```css
 body {
-    font-family: "나눔손글씨 다진체", "나눔손글씨 다진체", "nanum-handwritting-dajinche";
+    font-family: "나눔손글씨 다진체", "나눔손글씨다진체", "nanum-handwritting-dajinche";
 }
 ```
 

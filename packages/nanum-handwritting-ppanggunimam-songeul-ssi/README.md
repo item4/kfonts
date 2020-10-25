@@ -35,7 +35,7 @@ import '@kfonts/nanum-handwritting-ppanggunimam-songeul-ssi';
 
 ```css
 body {
-    font-family: "나눔손글씨 빵구니맘 손글씨", "나눔손글씨 빵구니맘 손글씨", "nanum-handwritting-ppanggunimam-songeul-ssi";
+    font-family: "나눔손글씨 빵구니맘 손글씨", "나눔손글씨빵구니맘손글씨", "nanum-handwritting-ppanggunimam-songeul-ssi";
 }
 ```
 

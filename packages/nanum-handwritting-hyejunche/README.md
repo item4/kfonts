@@ -35,7 +35,7 @@ import '@kfonts/nanum-handwritting-hyejunche';
 
 ```css
 body {
-    font-family: "나눔손글씨 혜준체", "나눔손글씨 혜준체", "nanum-handwritting-hyejunche";
+    font-family: "나눔손글씨 혜준체", "나눔손글씨혜준체", "nanum-handwritting-hyejunche";
 }
 ```
 

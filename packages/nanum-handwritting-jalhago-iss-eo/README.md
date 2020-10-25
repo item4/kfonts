@@ -35,7 +35,7 @@ import '@kfonts/nanum-handwritting-jalhago-iss-eo';
 
 ```css
 body {
-    font-family: "나눔손글씨 잘하고 있어", "나눔손글씨 잘하고 있어", "nanum-handwritting-jalhago-iss-eo";
+    font-family: "나눔손글씨 잘하고 있어", "나눔손글씨잘하고있어", "nanum-handwritting-jalhago-iss-eo";
 }
 ```
 

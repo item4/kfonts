@@ -6,24 +6,20 @@
        url(./BMEULJIROTTF.eot?#iefix) format('embedded-opentype'),
        url(./BMEULJIROTTF.woff2) format('woff2'),
        url(./BMEULJIROTTF.woff) format('woff'),
-       
-       url(./BMEULJIROTTF.ttf) format('truetype'),
-       url(./BMEULJIROTTF.svg#BMEULJIROTTF) format('svg');
+       url(./BMEULJIROTTF.ttf) format('truetype');
   font-display: swap;
   font-style: normal;
   font-weight: 400;
 }
 @font-face {
-  font-family: '배달의민족 을지로체 TTF';
+  font-family: '배달의민족을지로체TTF';
   src: url(./BMEULJIROTTF.eot);
-  src: local('배달의민족 을지로체 TTF '),
-       local('배달의민족 을지로체 TTF'),
+  src: local('배달의민족을지로체TTF '),
+       local('배달의민족을지로체TTF'),
        url(./BMEULJIROTTF.eot?#iefix) format('embedded-opentype'),
        url(./BMEULJIROTTF.woff2) format('woff2'),
        url(./BMEULJIROTTF.woff) format('woff'),
-       
-       url(./BMEULJIROTTF.ttf) format('truetype'),
-       url(./BMEULJIROTTF.svg#BMEULJIROTTF) format('svg');
+       url(./BMEULJIROTTF.ttf) format('truetype');
   font-display: swap;
   font-style: normal;
   font-weight: 400;
@@ -36,9 +32,7 @@
        url(./BMEULJIROTTF.eot?#iefix) format('embedded-opentype'),
        url(./BMEULJIROTTF.woff2) format('woff2'),
        url(./BMEULJIROTTF.woff) format('woff'),
-       
-       url(./BMEULJIROTTF.ttf) format('truetype'),
-       url(./BMEULJIROTTF.svg#BMEULJIROTTF) format('svg');
+       url(./BMEULJIROTTF.ttf) format('truetype');
   font-display: swap;
   font-style: normal;
   font-weight: 400;

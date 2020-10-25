@@ -35,7 +35,7 @@ import '@kfonts/nanum-handwritting-huimangnuli';
 
 ```css
 body {
-    font-family: "나눔손글씨 희망누리", "나눔손글씨 희망누리", "nanum-handwritting-huimangnuli";
+    font-family: "나눔손글씨 희망누리", "나눔손글씨희망누리", "nanum-handwritting-huimangnuli";
 }
 ```
 

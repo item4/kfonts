@@ -35,7 +35,7 @@ import '@kfonts/nanum-handwritting-nolyeoghaneun-donghui';
 
 ```css
 body {
-    font-family: "나눔손글씨 노력하는 동희", "나눔손글씨 노력하는 동희", "nanum-handwritting-nolyeoghaneun-donghui";
+    font-family: "나눔손글씨 노력하는 동희", "나눔손글씨노력하는동희", "nanum-handwritting-nolyeoghaneun-donghui";
 }
 ```
 

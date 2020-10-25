@@ -35,7 +35,7 @@ import '@kfonts/nanum-handwritting-tta-agdandan';
 
 ```css
 body {
-    font-family: "나눔손글씨 따악단단", "나눔손글씨 따악단단", "nanum-handwritting-tta-agdandan";
+    font-family: "나눔손글씨 따악단단", "나눔손글씨따악단단", "nanum-handwritting-tta-agdandan";
 }
 ```
 

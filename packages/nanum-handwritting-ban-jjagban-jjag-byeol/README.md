@@ -35,7 +35,7 @@ import '@kfonts/nanum-handwritting-ban-jjagban-jjag-byeol';
 
 ```css
 body {
-    font-family: "나눔손글씨 반짝반짝 별", "나눔손글씨 반짝반짝 별", "nanum-handwritting-ban-jjagban-jjag-byeol";
+    font-family: "나눔손글씨 반짝반짝 별", "나눔손글씨반짝반짝별", "nanum-handwritting-ban-jjagban-jjag-byeol";
 }
 ```
 

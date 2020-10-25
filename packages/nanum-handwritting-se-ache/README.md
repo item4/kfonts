@@ -35,7 +35,7 @@ import '@kfonts/nanum-handwritting-se-ache';
 
 ```css
 body {
-    font-family: "나눔손글씨 세아체", "나눔손글씨 세아체", "nanum-handwritting-se-ache";
+    font-family: "나눔손글씨 세아체", "나눔손글씨세아체", "nanum-handwritting-se-ache";
 }
 ```
 

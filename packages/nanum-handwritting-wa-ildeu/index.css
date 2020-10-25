@@ -6,24 +6,20 @@
        url(./wa-ildeu.eot?#iefix) format('embedded-opentype'),
        url(./wa-ildeu.woff2) format('woff2'),
        url(./wa-ildeu.woff) format('woff'),
-       
-       url(./wa-ildeu.ttf) format('truetype'),
-       url(./wa-ildeu.svg#wa-ildeu) format('svg');
+       url(./wa-ildeu.ttf) format('truetype');
   font-display: swap;
   font-style: normal;
   font-weight: 400;
 }
 @font-face {
-  font-family: '나눔손글씨 와일드';
+  font-family: '나눔손글씨와일드';
   src: url(./wa-ildeu.eot);
-  src: local('나눔손글씨 와일드 '),
-       local('나눔손글씨 와일드'),
+  src: local('나눔손글씨와일드 '),
+       local('나눔손글씨와일드'),
        url(./wa-ildeu.eot?#iefix) format('embedded-opentype'),
        url(./wa-ildeu.woff2) format('woff2'),
        url(./wa-ildeu.woff) format('woff'),
-       
-       url(./wa-ildeu.ttf) format('truetype'),
-       url(./wa-ildeu.svg#wa-ildeu) format('svg');
+       url(./wa-ildeu.ttf) format('truetype');
   font-display: swap;
   font-style: normal;
   font-weight: 400;
@@ -36,9 +32,7 @@
        url(./wa-ildeu.eot?#iefix) format('embedded-opentype'),
        url(./wa-ildeu.woff2) format('woff2'),
        url(./wa-ildeu.woff) format('woff'),
-       
-       url(./wa-ildeu.ttf) format('truetype'),
-       url(./wa-ildeu.svg#wa-ildeu) format('svg');
+       url(./wa-ildeu.ttf) format('truetype');
   font-display: swap;
   font-style: normal;
   font-weight: 400;

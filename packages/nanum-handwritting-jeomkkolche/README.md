@@ -35,7 +35,7 @@ import '@kfonts/nanum-handwritting-jeomkkolche';
 
 ```css
 body {
-    font-family: "나눔손글씨 점꼴체", "나눔손글씨 점꼴체", "nanum-handwritting-jeomkkolche";
+    font-family: "나눔손글씨 점꼴체", "나눔손글씨점꼴체", "nanum-handwritting-jeomkkolche";
 }
 ```
 

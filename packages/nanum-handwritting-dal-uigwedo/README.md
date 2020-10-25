@@ -35,7 +35,7 @@ import '@kfonts/nanum-handwritting-dal-uigwedo';
 
 ```css
 body {
-    font-family: "나눔손글씨 달의궤도", "나눔손글씨 달의궤도", "nanum-handwritting-dal-uigwedo";
+    font-family: "나눔손글씨 달의궤도", "나눔손글씨달의궤도", "nanum-handwritting-dal-uigwedo";
 }
 ```
 

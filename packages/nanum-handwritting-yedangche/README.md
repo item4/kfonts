@@ -35,7 +35,7 @@ import '@kfonts/nanum-handwritting-yedangche';
 
 ```css
 body {
-    font-family: "나눔손글씨 예당체", "나눔손글씨 예당체", "nanum-handwritting-yedangche";
+    font-family: "나눔손글씨 예당체", "나눔손글씨예당체", "nanum-handwritting-yedangche";
 }
 ```
 

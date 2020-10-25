@@ -35,7 +35,7 @@ import '@kfonts/nanum-handwritting-wa-ildeu';
 
 ```css
 body {
-    font-family: "나눔손글씨 와일드", "나눔손글씨 와일드", "nanum-handwritting-wa-ildeu";
+    font-family: "나눔손글씨 와일드", "나눔손글씨와일드", "nanum-handwritting-wa-ildeu";
 }
 ```
 

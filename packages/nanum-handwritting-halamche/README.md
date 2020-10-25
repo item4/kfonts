@@ -35,7 +35,7 @@ import '@kfonts/nanum-handwritting-halamche';
 
 ```css
 body {
-    font-family: "나눔손글씨 하람체", "나눔손글씨 하람체", "nanum-handwritting-halamche";
+    font-family: "나눔손글씨 하람체", "나눔손글씨하람체", "nanum-handwritting-halamche";
 }
 ```
 

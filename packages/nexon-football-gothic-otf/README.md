@@ -35,7 +35,7 @@ import '@kfonts/nexon-football-gothic-otf';
 
 ```css
 body {
-    font-family: "넥슨 풋볼고딕", "넥슨 풋볼고딕", "nexon-football-gothic-otf";
+    font-family: "넥슨 풋볼고딕", "넥슨풋볼고딕", "nexon-football-gothic-otf";
 }
 ```
 

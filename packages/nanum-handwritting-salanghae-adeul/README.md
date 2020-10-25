@@ -35,7 +35,7 @@ import '@kfonts/nanum-handwritting-salanghae-adeul';
 
 ```css
 body {
-    font-family: "나눔손글씨 사랑해 아들", "나눔손글씨 사랑해 아들", "nanum-handwritting-salanghae-adeul";
+    font-family: "나눔손글씨 사랑해 아들", "나눔손글씨사랑해아들", "nanum-handwritting-salanghae-adeul";
 }
 ```
 

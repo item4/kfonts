@@ -35,7 +35,7 @@ import '@kfonts/nanum-handwritting-donghwa-ttobag';
 
 ```css
 body {
-    font-family: "나눔손글씨 동화또박", "나눔손글씨 동화또박", "nanum-handwritting-donghwa-ttobag";
+    font-family: "나눔손글씨 동화또박", "나눔손글씨동화또박", "nanum-handwritting-donghwa-ttobag";
 }
 ```
 

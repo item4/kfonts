@@ -6,24 +6,20 @@
        url(./eonggeongkwiche.eot?#iefix) format('embedded-opentype'),
        url(./eonggeongkwiche.woff2) format('woff2'),
        url(./eonggeongkwiche.woff) format('woff'),
-       
-       url(./eonggeongkwiche.ttf) format('truetype'),
-       url(./eonggeongkwiche.svg#eonggeongkwiche) format('svg');
+       url(./eonggeongkwiche.ttf) format('truetype');
   font-display: swap;
   font-style: normal;
   font-weight: 400;
 }
 @font-face {
-  font-family: '나눔손글씨 엉겅퀴체';
+  font-family: '나눔손글씨엉겅퀴체';
   src: url(./eonggeongkwiche.eot);
-  src: local('나눔손글씨 엉겅퀴체 '),
-       local('나눔손글씨 엉겅퀴체'),
+  src: local('나눔손글씨엉겅퀴체 '),
+       local('나눔손글씨엉겅퀴체'),
        url(./eonggeongkwiche.eot?#iefix) format('embedded-opentype'),
        url(./eonggeongkwiche.woff2) format('woff2'),
        url(./eonggeongkwiche.woff) format('woff'),
-       
-       url(./eonggeongkwiche.ttf) format('truetype'),
-       url(./eonggeongkwiche.svg#eonggeongkwiche) format('svg');
+       url(./eonggeongkwiche.ttf) format('truetype');
   font-display: swap;
   font-style: normal;
   font-weight: 400;
@@ -36,9 +32,7 @@
        url(./eonggeongkwiche.eot?#iefix) format('embedded-opentype'),
        url(./eonggeongkwiche.woff2) format('woff2'),
        url(./eonggeongkwiche.woff) format('woff'),
-       
-       url(./eonggeongkwiche.ttf) format('truetype'),
-       url(./eonggeongkwiche.svg#eonggeongkwiche) format('svg');
+       url(./eonggeongkwiche.ttf) format('truetype');
   font-display: swap;
   font-style: normal;
   font-weight: 400;

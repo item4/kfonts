@@ -6,24 +6,20 @@
        url(./BMDOHYEON_ttf.eot?#iefix) format('embedded-opentype'),
        url(./BMDOHYEON_ttf.woff2) format('woff2'),
        url(./BMDOHYEON_ttf.woff) format('woff'),
-       
-       url(./BMDOHYEON_ttf.ttf) format('truetype'),
-       url(./BMDOHYEON_ttf.svg#BMDOHYEON_ttf) format('svg');
+       url(./BMDOHYEON_ttf.ttf) format('truetype');
   font-display: swap;
   font-style: normal;
   font-weight: 400;
 }
 @font-face {
-  font-family: '배달의민족 도현';
+  font-family: '배달의민족도현';
   src: url(./BMDOHYEON_ttf.eot);
-  src: local('배달의민족 도현 '),
-       local('배달의민족 도현'),
+  src: local('배달의민족도현 '),
+       local('배달의민족도현'),
        url(./BMDOHYEON_ttf.eot?#iefix) format('embedded-opentype'),
        url(./BMDOHYEON_ttf.woff2) format('woff2'),
        url(./BMDOHYEON_ttf.woff) format('woff'),
-       
-       url(./BMDOHYEON_ttf.ttf) format('truetype'),
-       url(./BMDOHYEON_ttf.svg#BMDOHYEON_ttf) format('svg');
+       url(./BMDOHYEON_ttf.ttf) format('truetype');
   font-display: swap;
   font-style: normal;
   font-weight: 400;
@@ -36,9 +32,7 @@
        url(./BMDOHYEON_ttf.eot?#iefix) format('embedded-opentype'),
        url(./BMDOHYEON_ttf.woff2) format('woff2'),
        url(./BMDOHYEON_ttf.woff) format('woff'),
-       
-       url(./BMDOHYEON_ttf.ttf) format('truetype'),
-       url(./BMDOHYEON_ttf.svg#BMDOHYEON_ttf) format('svg');
+       url(./BMDOHYEON_ttf.ttf) format('truetype');
   font-display: swap;
   font-style: normal;
   font-weight: 400;

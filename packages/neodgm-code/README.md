@@ -35,7 +35,7 @@ import '@kfonts/neodgm-code';
 
 ```css
 body {
-    font-family: "Neo둥근모 Code", "Neo둥근모 Code", "neodgm-code";
+    font-family: "Neo둥근모 Code", "Neo둥근모Code", "neodgm-code";
 }
 ```
 

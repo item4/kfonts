@@ -35,7 +35,7 @@ import '@kfonts/nanum-handwritting-seongsilche';
 
 ```css
 body {
-    font-family: "나눔손글씨 성실체", "나눔손글씨 성실체", "nanum-handwritting-seongsilche";
+    font-family: "나눔손글씨 성실체", "나눔손글씨성실체", "nanum-handwritting-seongsilche";
 }
 ```
 

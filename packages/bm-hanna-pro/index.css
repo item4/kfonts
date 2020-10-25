@@ -6,24 +6,20 @@
        url(./BMHANNAPro.eot?#iefix) format('embedded-opentype'),
        url(./BMHANNAPro.woff2) format('woff2'),
        url(./BMHANNAPro.woff) format('woff'),
-       
-       url(./BMHANNAPro.ttf) format('truetype'),
-       url(./BMHANNAPro.svg#BMHANNAPro) format('svg');
+       url(./BMHANNAPro.ttf) format('truetype');
   font-display: swap;
   font-style: normal;
   font-weight: 400;
 }
 @font-face {
-  font-family: '배달의민족 한나체 Pro';
+  font-family: '배달의민족한나체Pro';
   src: url(./BMHANNAPro.eot);
-  src: local('배달의민족 한나체 Pro '),
-       local('배달의민족 한나체 Pro'),
+  src: local('배달의민족한나체Pro '),
+       local('배달의민족한나체Pro'),
        url(./BMHANNAPro.eot?#iefix) format('embedded-opentype'),
        url(./BMHANNAPro.woff2) format('woff2'),
        url(./BMHANNAPro.woff) format('woff'),
-       
-       url(./BMHANNAPro.ttf) format('truetype'),
-       url(./BMHANNAPro.svg#BMHANNAPro) format('svg');
+       url(./BMHANNAPro.ttf) format('truetype');
   font-display: swap;
   font-style: normal;
   font-weight: 400;
@@ -36,9 +32,7 @@
        url(./BMHANNAPro.eot?#iefix) format('embedded-opentype'),
        url(./BMHANNAPro.woff2) format('woff2'),
        url(./BMHANNAPro.woff) format('woff'),
-       
-       url(./BMHANNAPro.ttf) format('truetype'),
-       url(./BMHANNAPro.svg#BMHANNAPro) format('svg');
+       url(./BMHANNAPro.ttf) format('truetype');
   font-display: swap;
   font-style: normal;
   font-weight: 400;

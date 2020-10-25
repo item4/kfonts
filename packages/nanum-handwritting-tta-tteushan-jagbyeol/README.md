@@ -35,7 +35,7 @@ import '@kfonts/nanum-handwritting-tta-tteushan-jagbyeol';
 
 ```css
 body {
-    font-family: "나눔손글씨 따뜻한 작별", "나눔손글씨 따뜻한 작별", "nanum-handwritting-tta-tteushan-jagbyeol";
+    font-family: "나눔손글씨 따뜻한 작별", "나눔손글씨따뜻한작별", "nanum-handwritting-tta-tteushan-jagbyeol";
 }
 ```
 

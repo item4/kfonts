@@ -35,7 +35,7 @@ import '@kfonts/nanum-handwritting-sonpyeonjiche';
 
 ```css
 body {
-    font-family: "나눔손글씨 손편지체", "나눔손글씨 손편지체", "nanum-handwritting-sonpyeonjiche";
+    font-family: "나눔손글씨 손편지체", "나눔손글씨손편지체", "nanum-handwritting-sonpyeonjiche";
 }
 ```
 

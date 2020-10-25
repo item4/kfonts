@@ -6,24 +6,20 @@
        url(./BMKIRANGHAERANG-TTF.eot?#iefix) format('embedded-opentype'),
        url(./BMKIRANGHAERANG-TTF.woff2) format('woff2'),
        url(./BMKIRANGHAERANG-TTF.woff) format('woff'),
-       
-       url(./BMKIRANGHAERANG-TTF.ttf) format('truetype'),
-       url(./BMKIRANGHAERANG-TTF.svg#BMKIRANGHAERANG-TTF) format('svg');
+       url(./BMKIRANGHAERANG-TTF.ttf) format('truetype');
   font-display: swap;
   font-style: normal;
   font-weight: 400;
 }
 @font-face {
-  font-family: '배달의민족 주아 OTF';
+  font-family: '배달의민족주아OTF';
   src: url(./BMKIRANGHAERANG-TTF.eot);
-  src: local('배달의민족 주아 OTF '),
-       local('배달의민족 주아 OTF'),
+  src: local('배달의민족주아OTF '),
+       local('배달의민족주아OTF'),
        url(./BMKIRANGHAERANG-TTF.eot?#iefix) format('embedded-opentype'),
        url(./BMKIRANGHAERANG-TTF.woff2) format('woff2'),
        url(./BMKIRANGHAERANG-TTF.woff) format('woff'),
-       
-       url(./BMKIRANGHAERANG-TTF.ttf) format('truetype'),
-       url(./BMKIRANGHAERANG-TTF.svg#BMKIRANGHAERANG-TTF) format('svg');
+       url(./BMKIRANGHAERANG-TTF.ttf) format('truetype');
   font-display: swap;
   font-style: normal;
   font-weight: 400;
@@ -36,9 +32,7 @@
        url(./BMKIRANGHAERANG-TTF.eot?#iefix) format('embedded-opentype'),
        url(./BMKIRANGHAERANG-TTF.woff2) format('woff2'),
        url(./BMKIRANGHAERANG-TTF.woff) format('woff'),
-       
-       url(./BMKIRANGHAERANG-TTF.ttf) format('truetype'),
-       url(./BMKIRANGHAERANG-TTF.svg#BMKIRANGHAERANG-TTF) format('svg');
+       url(./BMKIRANGHAERANG-TTF.ttf) format('truetype');
   font-display: swap;
   font-style: normal;
   font-weight: 400;

@@ -7,8 +7,7 @@
        url(./NanumGothic.woff2) format('woff2'),
        url(./NanumGothic.woff) format('woff'),
        url(./NanumGothic.otf) format('otf'),
-       url(./NanumGothic.ttf) format('truetype'),
-       url(./NanumGothic.svg#NanumGothic) format('svg');
+       url(./NanumGothic.ttf) format('truetype');
   font-display: swap;
   font-style: normal;
   font-weight: 400;
@@ -22,8 +21,7 @@
        url(./NanumGothic.woff2) format('woff2'),
        url(./NanumGothic.woff) format('woff'),
        url(./NanumGothic.otf) format('otf'),
-       url(./NanumGothic.ttf) format('truetype'),
-       url(./NanumGothic.svg#NanumGothic) format('svg');
+       url(./NanumGothic.ttf) format('truetype');
   font-display: swap;
   font-style: normal;
   font-weight: 400;
@@ -37,8 +35,7 @@
        url(./NanumGothicLight.woff2) format('woff2'),
        url(./NanumGothicLight.woff) format('woff'),
        url(./NanumGothicLight.otf) format('otf'),
-       url(./NanumGothicLight.ttf) format('truetype'),
-       url(./NanumGothicLight.svg#NanumGothicLight) format('svg');
+       url(./NanumGothicLight.ttf) format('truetype');
   font-display: swap;
   font-style: normal;
   font-weight: 300;
@@ -52,8 +49,7 @@
        url(./NanumGothicLight.woff2) format('woff2'),
        url(./NanumGothicLight.woff) format('woff'),
        url(./NanumGothicLight.otf) format('otf'),
-       url(./NanumGothicLight.ttf) format('truetype'),
-       url(./NanumGothicLight.svg#NanumGothicLight) format('svg');
+       url(./NanumGothicLight.ttf) format('truetype');
   font-display: swap;
   font-style: normal;
   font-weight: 300;
@@ -67,8 +63,7 @@
        url(./NanumGothicBold.woff2) format('woff2'),
        url(./NanumGothicBold.woff) format('woff'),
        url(./NanumGothicBold.otf) format('otf'),
-       url(./NanumGothicBold.ttf) format('truetype'),
-       url(./NanumGothicBold.svg#NanumGothicBold) format('svg');
+       url(./NanumGothicBold.ttf) format('truetype');
   font-display: swap;
   font-style: normal;
   font-weight: 700;
@@ -82,8 +77,7 @@
        url(./NanumGothicBold.woff2) format('woff2'),
        url(./NanumGothicBold.woff) format('woff'),
        url(./NanumGothicBold.otf) format('otf'),
-       url(./NanumGothicBold.ttf) format('truetype'),
-       url(./NanumGothicBold.svg#NanumGothicBold) format('svg');
+       url(./NanumGothicBold.ttf) format('truetype');
   font-display: swap;
   font-style: normal;
   font-weight: 700;
@@ -97,8 +91,7 @@
        url(./NanumGothicExtraBold.woff2) format('woff2'),
        url(./NanumGothicExtraBold.woff) format('woff'),
        url(./NanumGothicExtraBold.otf) format('otf'),
-       url(./NanumGothicExtraBold.ttf) format('truetype'),
-       url(./NanumGothicExtraBold.svg#NanumGothicExtraBold) format('svg');
+       url(./NanumGothicExtraBold.ttf) format('truetype');
   font-display: swap;
   font-style: normal;
   font-weight: 800;
@@ -112,8 +105,7 @@
        url(./NanumGothicExtraBold.woff2) format('woff2'),
        url(./NanumGothicExtraBold.woff) format('woff'),
        url(./NanumGothicExtraBold.otf) format('otf'),
-       url(./NanumGothicExtraBold.ttf) format('truetype'),
-       url(./NanumGothicExtraBold.svg#NanumGothicExtraBold) format('svg');
+       url(./NanumGothicExtraBold.ttf) format('truetype');
   font-display: swap;
   font-style: normal;
   font-weight: 800;

@@ -35,7 +35,7 @@ import '@kfonts/d2coding-ligature';
 
 ```css
 body {
-    font-family: "D2Coding ligature", "D2Coding ligature", "d2coding-ligature";
+    font-family: "D2Coding ligature", "D2Codingligature", "d2coding-ligature";
 }
 ```
 

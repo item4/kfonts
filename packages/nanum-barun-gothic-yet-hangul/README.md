@@ -35,7 +35,7 @@ import '@kfonts/nanum-barun-gothic-yet-hangul';
 
 ```css
 body {
-    font-family: "나눔바른고딕 옛한글", "나눔바른고딕 옛한글", "nanum-barun-gothic-yet-hangul";
+    font-family: "나눔바른고딕 옛한글", "나눔바른고딕옛한글", "nanum-barun-gothic-yet-hangul";
 }
 ```
 

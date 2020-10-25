@@ -35,7 +35,7 @@ import '@kfonts/nanum-handwritting-gang-inhan-wilo';
 
 ```css
 body {
-    font-family: "나눔손글씨 강인한 위로", "나눔손글씨 강인한 위로", "nanum-handwritting-gang-inhan-wilo";
+    font-family: "나눔손글씨 강인한 위로", "나눔손글씨강인한위로", "nanum-handwritting-gang-inhan-wilo";
 }
 ```
 

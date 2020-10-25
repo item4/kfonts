@@ -35,7 +35,7 @@ import '@kfonts/nanum-handwritting-segyejeog-in-hangeul';
 
 ```css
 body {
-    font-family: "나눔손글씨 세계적인 한글", "나눔손글씨 세계적인 한글", "nanum-handwritting-segyejeog-in-hangeul";
+    font-family: "나눔손글씨 세계적인 한글", "나눔손글씨세계적인한글", "nanum-handwritting-segyejeog-in-hangeul";
 }
 ```
 

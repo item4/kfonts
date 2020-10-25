@@ -6,9 +6,7 @@
        url(./Bazzi.eot?#iefix) format('embedded-opentype'),
        url(./Bazzi.woff2) format('woff2'),
        url(./Bazzi.woff) format('woff'),
-       
-       url(./Bazzi.ttf) format('truetype'),
-       url(./Bazzi.svg#Bazzi) format('svg');
+       url(./Bazzi.ttf) format('truetype');
   font-display: swap;
   font-style: normal;
   font-weight: 300;
@@ -21,9 +19,7 @@
        url(./Bazzi.eot?#iefix) format('embedded-opentype'),
        url(./Bazzi.woff2) format('woff2'),
        url(./Bazzi.woff) format('woff'),
-       
-       url(./Bazzi.ttf) format('truetype'),
-       url(./Bazzi.svg#Bazzi) format('svg');
+       url(./Bazzi.ttf) format('truetype');
   font-display: swap;
   font-style: normal;
   font-weight: 300;

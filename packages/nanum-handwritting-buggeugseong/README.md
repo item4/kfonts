@@ -35,7 +35,7 @@ import '@kfonts/nanum-handwritting-buggeugseong';
 
 ```css
 body {
-    font-family: "나눔손글씨 북극성", "나눔손글씨 북극성", "nanum-handwritting-buggeugseong";
+    font-family: "나눔손글씨 북극성", "나눔손글씨북극성", "nanum-handwritting-buggeugseong";
 }
 ```
 

@@ -7,8 +7,7 @@
        url(./NanumBarunGothic.woff2) format('woff2'),
        url(./NanumBarunGothic.woff) format('woff'),
        url(./NanumBarunGothic.otf) format('otf'),
-       url(./NanumBarunGothic.ttf) format('truetype'),
-       url(./NanumBarunGothic.svg#NanumBarunGothic) format('svg');
+       url(./NanumBarunGothic.ttf) format('truetype');
   font-display: swap;
   font-style: normal;
   font-weight: 400;
@@ -22,8 +21,7 @@
        url(./NanumBarunGothic.woff2) format('woff2'),
        url(./NanumBarunGothic.woff) format('woff'),
        url(./NanumBarunGothic.otf) format('otf'),
-       url(./NanumBarunGothic.ttf) format('truetype'),
-       url(./NanumBarunGothic.svg#NanumBarunGothic) format('svg');
+       url(./NanumBarunGothic.ttf) format('truetype');
   font-display: swap;
   font-style: normal;
   font-weight: 400;
@@ -37,8 +35,7 @@
        url(./NanumBarunGothicBold.woff2) format('woff2'),
        url(./NanumBarunGothicBold.woff) format('woff'),
        url(./NanumBarunGothicBold.otf) format('otf'),
-       url(./NanumBarunGothicBold.ttf) format('truetype'),
-       url(./NanumBarunGothicBold.svg#NanumBarunGothicBold) format('svg');
+       url(./NanumBarunGothicBold.ttf) format('truetype');
   font-display: swap;
   font-style: normal;
   font-weight: 700;
@@ -52,8 +49,7 @@
        url(./NanumBarunGothicBold.woff2) format('woff2'),
        url(./NanumBarunGothicBold.woff) format('woff'),
        url(./NanumBarunGothicBold.otf) format('otf'),
-       url(./NanumBarunGothicBold.ttf) format('truetype'),
-       url(./NanumBarunGothicBold.svg#NanumBarunGothicBold) format('svg');
+       url(./NanumBarunGothicBold.ttf) format('truetype');
   font-display: swap;
   font-style: normal;
   font-weight: 700;
@@ -67,8 +63,7 @@
        url(./NanumBarunGothicLight.woff2) format('woff2'),
        url(./NanumBarunGothicLight.woff) format('woff'),
        url(./NanumBarunGothicLight.otf) format('otf'),
-       url(./NanumBarunGothicLight.ttf) format('truetype'),
-       url(./NanumBarunGothicLight.svg#NanumBarunGothicLight) format('svg');
+       url(./NanumBarunGothicLight.ttf) format('truetype');
   font-display: swap;
   font-style: normal;
   font-weight: 300;
@@ -82,8 +77,7 @@
        url(./NanumBarunGothicLight.woff2) format('woff2'),
        url(./NanumBarunGothicLight.woff) format('woff'),
        url(./NanumBarunGothicLight.otf) format('otf'),
-       url(./NanumBarunGothicLight.ttf) format('truetype'),
-       url(./NanumBarunGothicLight.svg#NanumBarunGothicLight) format('svg');
+       url(./NanumBarunGothicLight.ttf) format('truetype');
   font-display: swap;
   font-style: normal;
   font-weight: 300;
@@ -97,8 +91,7 @@
        url(./NanumBarunGothicUltraLight.woff2) format('woff2'),
        url(./NanumBarunGothicUltraLight.woff) format('woff'),
        url(./NanumBarunGothicUltraLight.otf) format('otf'),
-       url(./NanumBarunGothicUltraLight.ttf) format('truetype'),
-       url(./NanumBarunGothicUltraLight.svg#NanumBarunGothicUltraLight) format('svg');
+       url(./NanumBarunGothicUltraLight.ttf) format('truetype');
   font-display: swap;
   font-style: normal;
   font-weight: 100;
@@ -112,8 +105,7 @@
        url(./NanumBarunGothicUltraLight.woff2) format('woff2'),
        url(./NanumBarunGothicUltraLight.woff) format('woff'),
        url(./NanumBarunGothicUltraLight.otf) format('otf'),
-       url(./NanumBarunGothicUltraLight.ttf) format('truetype'),
-       url(./NanumBarunGothicUltraLight.svg#NanumBarunGothicUltraLight) format('svg');
+       url(./NanumBarunGothicUltraLight.ttf) format('truetype');
   font-display: swap;
   font-style: normal;
   font-weight: 100;

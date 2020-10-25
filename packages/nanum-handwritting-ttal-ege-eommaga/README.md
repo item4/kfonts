@@ -35,7 +35,7 @@ import '@kfonts/nanum-handwritting-ttal-ege-eommaga';
 
 ```css
 body {
-    font-family: "나눔손글씨 딸에게 엄마가", "나눔손글씨 딸에게 엄마가", "nanum-handwritting-ttal-ege-eommaga";
+    font-family: "나눔손글씨 딸에게 엄마가", "나눔손글씨딸에게엄마가", "nanum-handwritting-ttal-ege-eommaga";
 }
 ```
 

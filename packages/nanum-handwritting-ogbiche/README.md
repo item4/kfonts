@@ -35,7 +35,7 @@ import '@kfonts/nanum-handwritting-ogbiche';
 
 ```css
 body {
-    font-family: "나눔손글씨 옥비체", "나눔손글씨 옥비체", "nanum-handwritting-ogbiche";
+    font-family: "나눔손글씨 옥비체", "나눔손글씨옥비체", "nanum-handwritting-ogbiche";
 }
 ```
 

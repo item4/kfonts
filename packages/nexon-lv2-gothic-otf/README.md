@@ -35,7 +35,7 @@ import '@kfonts/nexon-lv2-gothic-otf';
 
 ```css
 body {
-    font-family: "넥슨Lv2고딕 OTF", "넥슨Lv2고딕 OTF", "nexon-lv2-gothic-otf";
+    font-family: "넥슨Lv2고딕 OTF", "넥슨Lv2고딕OTF", "nexon-lv2-gothic-otf";
 }
 ```
 

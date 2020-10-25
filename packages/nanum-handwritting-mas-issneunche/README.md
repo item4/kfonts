@@ -35,7 +35,7 @@ import '@kfonts/nanum-handwritting-mas-issneunche';
 
 ```css
 body {
-    font-family: "나눔손글씨 맛있는체", "나눔손글씨 맛있는체", "nanum-handwritting-mas-issneunche";
+    font-family: "나눔손글씨 맛있는체", "나눔손글씨맛있는체", "nanum-handwritting-mas-issneunche";
 }
 ```
 

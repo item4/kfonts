@@ -1,15 +1,15 @@
 {
     "font-family": "나눔바른펜",
-    "version": "0.1.1",
+    "version": "0.1.2",
     "otf_based": true,
     "files": [
         {
-            "filename": "NanumBarunpenRegular.otf",
+            "filename": "NanumBarunpenR.otf",
             "weight": 400,
             "style": "normal"
         },
         {
-            "filename": "NanumBarunpenBold.otf",
+            "filename": "NanumBarunpenB.otf",
             "weight": 700,
             "style": "normal"
         }

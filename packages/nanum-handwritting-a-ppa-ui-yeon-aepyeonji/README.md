@@ -35,7 +35,7 @@ import '@kfonts/nanum-handwritting-a-ppa-ui-yeon-aepyeonji';
 
 ```css
 body {
-    font-family: "나눔손글씨 아빠의 연애편지", "나눔손글씨 아빠의 연애편지", "nanum-handwritting-a-ppa-ui-yeon-aepyeonji";
+    font-family: "나눔손글씨 아빠의 연애편지", "나눔손글씨아빠의연애편지", "nanum-handwritting-a-ppa-ui-yeon-aepyeonji";
 }
 ```
 

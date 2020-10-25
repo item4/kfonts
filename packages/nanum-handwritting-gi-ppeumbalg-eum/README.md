@@ -35,7 +35,7 @@ import '@kfonts/nanum-handwritting-gi-ppeumbalg-eum';
 
 ```css
 body {
-    font-family: "나눔손글씨 기쁨밝음", "나눔손글씨 기쁨밝음", "nanum-handwritting-gi-ppeumbalg-eum";
+    font-family: "나눔손글씨 기쁨밝음", "나눔손글씨기쁨밝음", "nanum-handwritting-gi-ppeumbalg-eum";
 }
 ```
 

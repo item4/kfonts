@@ -6,24 +6,20 @@
        url(./galam-yeonkkoch.eot?#iefix) format('embedded-opentype'),
        url(./galam-yeonkkoch.woff2) format('woff2'),
        url(./galam-yeonkkoch.woff) format('woff'),
-       
-       url(./galam-yeonkkoch.ttf) format('truetype'),
-       url(./galam-yeonkkoch.svg#galam-yeonkkoch) format('svg');
+       url(./galam-yeonkkoch.ttf) format('truetype');
   font-display: swap;
   font-style: normal;
   font-weight: 400;
 }
 @font-face {
-  font-family: '나눔손글씨 가람연꽃';
+  font-family: '나눔손글씨가람연꽃';
   src: url(./galam-yeonkkoch.eot);
-  src: local('나눔손글씨 가람연꽃 '),
-       local('나눔손글씨 가람연꽃'),
+  src: local('나눔손글씨가람연꽃 '),
+       local('나눔손글씨가람연꽃'),
        url(./galam-yeonkkoch.eot?#iefix) format('embedded-opentype'),
        url(./galam-yeonkkoch.woff2) format('woff2'),
        url(./galam-yeonkkoch.woff) format('woff'),
-       
-       url(./galam-yeonkkoch.ttf) format('truetype'),
-       url(./galam-yeonkkoch.svg#galam-yeonkkoch) format('svg');
+       url(./galam-yeonkkoch.ttf) format('truetype');
   font-display: swap;
   font-style: normal;
   font-weight: 400;
@@ -36,9 +32,7 @@
        url(./galam-yeonkkoch.eot?#iefix) format('embedded-opentype'),
        url(./galam-yeonkkoch.woff2) format('woff2'),
        url(./galam-yeonkkoch.woff) format('woff'),
-       
-       url(./galam-yeonkkoch.ttf) format('truetype'),
-       url(./galam-yeonkkoch.svg#galam-yeonkkoch) format('svg');
+       url(./galam-yeonkkoch.ttf) format('truetype');
   font-display: swap;
   font-style: normal;
   font-weight: 400;

@@ -35,7 +35,7 @@ import '@kfonts/nanum-handwritting-huinkkolisuli';
 
 ```css
 body {
-    font-family: "나눔손글씨 흰꼬리수리", "나눔손글씨 흰꼬리수리", "nanum-handwritting-huinkkolisuli";
+    font-family: "나눔손글씨 흰꼬리수리", "나눔손글씨흰꼬리수리", "nanum-handwritting-huinkkolisuli";
 }
 ```
 

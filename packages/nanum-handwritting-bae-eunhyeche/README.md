@@ -35,7 +35,7 @@ import '@kfonts/nanum-handwritting-bae-eunhyeche';
 
 ```css
 body {
-    font-family: "나눔손글씨 배은혜체", "나눔손글씨 배은혜체", "nanum-handwritting-bae-eunhyeche";
+    font-family: "나눔손글씨 배은혜체", "나눔손글씨배은혜체", "nanum-handwritting-bae-eunhyeche";
 }
 ```
 

@@ -35,7 +35,7 @@ import '@kfonts/nanum-handwritting-mini-songeul-ssi';
 
 ```css
 body {
-    font-family: "나눔손글씨 미니 손글씨", "나눔손글씨 미니 손글씨", "nanum-handwritting-mini-songeul-ssi";
+    font-family: "나눔손글씨 미니 손글씨", "나눔손글씨미니손글씨", "nanum-handwritting-mini-songeul-ssi";
 }
 ```
 

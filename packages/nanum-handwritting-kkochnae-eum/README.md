@@ -35,7 +35,7 @@ import '@kfonts/nanum-handwritting-kkochnae-eum';
 
 ```css
 body {
-    font-family: "나눔손글씨 꽃내음", "나눔손글씨 꽃내음", "nanum-handwritting-kkochnae-eum";
+    font-family: "나눔손글씨 꽃내음", "나눔손글씨꽃내음", "nanum-handwritting-kkochnae-eum";
 }
 ```
 

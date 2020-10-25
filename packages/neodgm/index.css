@@ -6,9 +6,7 @@
        url(./neodgm.eot?#iefix) format('embedded-opentype'),
        url(./neodgm.woff2) format('woff2'),
        url(./neodgm.woff) format('woff'),
-       
-       url(./neodgm.ttf) format('truetype'),
-       url(./neodgm.svg#neodgm) format('svg');
+       url(./neodgm.ttf) format('truetype');
   font-display: swap;
   font-style: normal;
   font-weight: 300;
@@ -21,9 +19,7 @@
        url(./neodgm.eot?#iefix) format('embedded-opentype'),
        url(./neodgm.woff2) format('woff2'),
        url(./neodgm.woff) format('woff'),
-       
-       url(./neodgm.ttf) format('truetype'),
-       url(./neodgm.svg#neodgm) format('svg');
+       url(./neodgm.ttf) format('truetype');
   font-display: swap;
   font-style: normal;
   font-weight: 300;

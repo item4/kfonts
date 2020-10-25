@@ -6,24 +6,20 @@
        url(./sanghaechanmiche.eot?#iefix) format('embedded-opentype'),
        url(./sanghaechanmiche.woff2) format('woff2'),
        url(./sanghaechanmiche.woff) format('woff'),
-       
-       url(./sanghaechanmiche.ttf) format('truetype'),
-       url(./sanghaechanmiche.svg#sanghaechanmiche) format('svg');
+       url(./sanghaechanmiche.ttf) format('truetype');
   font-display: swap;
   font-style: normal;
   font-weight: 400;
 }
 @font-face {
-  font-family: '나눔손글씨 상해찬미체';
+  font-family: '나눔손글씨상해찬미체';
   src: url(./sanghaechanmiche.eot);
-  src: local('나눔손글씨 상해찬미체 '),
-       local('나눔손글씨 상해찬미체'),
+  src: local('나눔손글씨상해찬미체 '),
+       local('나눔손글씨상해찬미체'),
        url(./sanghaechanmiche.eot?#iefix) format('embedded-opentype'),
        url(./sanghaechanmiche.woff2) format('woff2'),
        url(./sanghaechanmiche.woff) format('woff'),
-       
-       url(./sanghaechanmiche.ttf) format('truetype'),
-       url(./sanghaechanmiche.svg#sanghaechanmiche) format('svg');
+       url(./sanghaechanmiche.ttf) format('truetype');
   font-display: swap;
   font-style: normal;
   font-weight: 400;
@@ -36,9 +32,7 @@
        url(./sanghaechanmiche.eot?#iefix) format('embedded-opentype'),
        url(./sanghaechanmiche.woff2) format('woff2'),
        url(./sanghaechanmiche.woff) format('woff'),
-       
-       url(./sanghaechanmiche.ttf) format('truetype'),
-       url(./sanghaechanmiche.svg#sanghaechanmiche) format('svg');
+       url(./sanghaechanmiche.ttf) format('truetype');
   font-display: swap;
   font-style: normal;
   font-weight: 400;

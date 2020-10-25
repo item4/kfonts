@@ -35,7 +35,7 @@ import '@kfonts/nanum-handwritting-jeong-eunche';
 
 ```css
 body {
-    font-family: "나눔손글씨 정은체", "나눔손글씨 정은체", "nanum-handwritting-jeong-eunche";
+    font-family: "나눔손글씨 정은체", "나눔손글씨정은체", "nanum-handwritting-jeong-eunche";
 }
 ```
 

@@ -1,44 +1,41 @@
 @font-face {
   font-family: '나눔명조OTF 옛한글';
-  src: url(./NanumMyeongjoOTF-YetHangul.eot);
+  src: url(./NanumMyeongjo-YetHangul.eot);
   src: local('나눔명조OTF 옛한글 '),
        local('나눔명조OTF 옛한글'),
-       url(./NanumMyeongjoOTF-YetHangul.eot?#iefix) format('embedded-opentype'),
-       url(./NanumMyeongjoOTF-YetHangul.woff2) format('woff2'),
-       url(./NanumMyeongjoOTF-YetHangul.woff) format('woff'),
-       url(./NanumMyeongjoOTF-YetHangul.otf) format('otf'),
-       url(./NanumMyeongjoOTF-YetHangul.ttf) format('truetype'),
-       url(./NanumMyeongjoOTF-YetHangul.svg#NanumMyeongjoOTF-YetHangul) format('svg');
+       url(./NanumMyeongjo-YetHangul.eot?#iefix) format('embedded-opentype'),
+       url(./NanumMyeongjo-YetHangul.woff2) format('woff2'),
+       url(./NanumMyeongjo-YetHangul.woff) format('woff'),
+       url(./NanumMyeongjo-YetHangul.otf) format('otf'),
+       url(./NanumMyeongjo-YetHangul.ttf) format('truetype');
   font-display: swap;
   font-style: normal;
   font-weight: 400;
 }
 @font-face {
-  font-family: '나눔명조OTF 옛한글';
-  src: url(./NanumMyeongjoOTF-YetHangul.eot);
-  src: local('나눔명조OTF 옛한글 '),
-       local('나눔명조OTF 옛한글'),
-       url(./NanumMyeongjoOTF-YetHangul.eot?#iefix) format('embedded-opentype'),
-       url(./NanumMyeongjoOTF-YetHangul.woff2) format('woff2'),
-       url(./NanumMyeongjoOTF-YetHangul.woff) format('woff'),
-       url(./NanumMyeongjoOTF-YetHangul.otf) format('otf'),
-       url(./NanumMyeongjoOTF-YetHangul.ttf) format('truetype'),
-       url(./NanumMyeongjoOTF-YetHangul.svg#NanumMyeongjoOTF-YetHangul) format('svg');
+  font-family: '나눔명조OTF옛한글';
+  src: url(./NanumMyeongjo-YetHangul.eot);
+  src: local('나눔명조OTF옛한글 '),
+       local('나눔명조OTF옛한글'),
+       url(./NanumMyeongjo-YetHangul.eot?#iefix) format('embedded-opentype'),
+       url(./NanumMyeongjo-YetHangul.woff2) format('woff2'),
+       url(./NanumMyeongjo-YetHangul.woff) format('woff'),
+       url(./NanumMyeongjo-YetHangul.otf) format('otf'),
+       url(./NanumMyeongjo-YetHangul.ttf) format('truetype');
   font-display: swap;
   font-style: normal;
   font-weight: 400;
 }
 @font-face {
   font-family: 'nanum-myeongjo-yet-hangul-otf';
-  src: url(./NanumMyeongjoOTF-YetHangul.eot);
+  src: url(./NanumMyeongjo-YetHangul.eot);
   src: local('nanum-myeongjo-yet-hangul-otf '),
        local('nanum-myeongjo-yet-hangul-otf'),
-       url(./NanumMyeongjoOTF-YetHangul.eot?#iefix) format('embedded-opentype'),
-       url(./NanumMyeongjoOTF-YetHangul.woff2) format('woff2'),
-       url(./NanumMyeongjoOTF-YetHangul.woff) format('woff'),
-       url(./NanumMyeongjoOTF-YetHangul.otf) format('otf'),
-       url(./NanumMyeongjoOTF-YetHangul.ttf) format('truetype'),
-       url(./NanumMyeongjoOTF-YetHangul.svg#NanumMyeongjoOTF-YetHangul) format('svg');
+       url(./NanumMyeongjo-YetHangul.eot?#iefix) format('embedded-opentype'),
+       url(./NanumMyeongjo-YetHangul.woff2) format('woff2'),
+       url(./NanumMyeongjo-YetHangul.woff) format('woff'),
+       url(./NanumMyeongjo-YetHangul.otf) format('otf'),
+       url(./NanumMyeongjo-YetHangul.ttf) format('truetype');
   font-display: swap;
   font-style: normal;
   font-weight: 400;

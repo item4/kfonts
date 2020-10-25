@@ -35,7 +35,7 @@ import '@kfonts/nanum-handwritting-yageunhaneun-gimju-im';
 
 ```css
 body {
-    font-family: "나눔손글씨 야근하는 김주임", "나눔손글씨 야근하는 김주임", "nanum-handwritting-yageunhaneun-gimju-im";
+    font-family: "나눔손글씨 야근하는 김주임", "나눔손글씨야근하는김주임", "nanum-handwritting-yageunhaneun-gimju-im";
 }
 ```
 

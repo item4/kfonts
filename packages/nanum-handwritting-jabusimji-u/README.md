@@ -35,7 +35,7 @@ import '@kfonts/nanum-handwritting-jabusimji-u';
 
 ```css
 body {
-    font-family: "나눔손글씨 자부심지우", "나눔손글씨 자부심지우", "nanum-handwritting-jabusimji-u";
+    font-family: "나눔손글씨 자부심지우", "나눔손글씨자부심지우", "nanum-handwritting-jabusimji-u";
 }
 ```
 

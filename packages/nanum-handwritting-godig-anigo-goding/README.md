@@ -35,7 +35,7 @@ import '@kfonts/nanum-handwritting-godig-anigo-goding';
 
 ```css
 body {
-    font-family: "나눔손글씨 고딕 아니고 고딩", "나눔손글씨 고딕 아니고 고딩", "nanum-handwritting-godig-anigo-goding";
+    font-family: "나눔손글씨 고딕 아니고 고딩", "나눔손글씨고딕아니고고딩", "nanum-handwritting-godig-anigo-goding";
 }
 ```
 

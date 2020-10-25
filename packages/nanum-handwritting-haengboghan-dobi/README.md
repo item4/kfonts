@@ -35,7 +35,7 @@ import '@kfonts/nanum-handwritting-haengboghan-dobi';
 
 ```css
 body {
-    font-family: "나눔손글씨 행복한 도비", "나눔손글씨 행복한 도비", "nanum-handwritting-haengboghan-dobi";
+    font-family: "나눔손글씨 행복한 도비", "나눔손글씨행복한도비", "nanum-handwritting-haengboghan-dobi";
 }
 ```
 

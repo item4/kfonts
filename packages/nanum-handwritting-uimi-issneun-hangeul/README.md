@@ -35,7 +35,7 @@ import '@kfonts/nanum-handwritting-uimi-issneun-hangeul';
 
 ```css
 body {
-    font-family: "나눔손글씨 의미있는 한글", "나눔손글씨 의미있는 한글", "nanum-handwritting-uimi-issneun-hangeul";
+    font-family: "나눔손글씨 의미있는 한글", "나눔손글씨의미있는한글", "nanum-handwritting-uimi-issneun-hangeul";
 }
 ```
 

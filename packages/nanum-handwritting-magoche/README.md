@@ -35,7 +35,7 @@ import '@kfonts/nanum-handwritting-magoche';
 
 ```css
 body {
-    font-family: "나눔손글씨 마고체", "나눔손글씨 마고체", "nanum-handwritting-magoche";
+    font-family: "나눔손글씨 마고체", "나눔손글씨마고체", "nanum-handwritting-magoche";
 }
 ```
 

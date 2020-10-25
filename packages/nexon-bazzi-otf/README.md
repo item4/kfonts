@@ -35,7 +35,7 @@ import '@kfonts/nexon-bazzi-otf';
 
 ```css
 body {
-    font-family: "배찌체 OTF", "배찌체 OTF", "nexon-bazzi-otf";
+    font-family: "배찌체 OTF", "배찌체OTF", "nexon-bazzi-otf";
 }
 ```
 

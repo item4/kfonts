@@ -35,7 +35,7 @@ import '@kfonts/nanum-handwritting-hal-abeoji-uinanum';
 
 ```css
 body {
-    font-family: "나눔손글씨 할아버지의나눔", "나눔손글씨 할아버지의나눔", "nanum-handwritting-hal-abeoji-uinanum";
+    font-family: "나눔손글씨 할아버지의나눔", "나눔손글씨할아버지의나눔", "nanum-handwritting-hal-abeoji-uinanum";
 }
 ```
 

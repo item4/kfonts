@@ -1,119 +1,111 @@
 @font-face {
   font-family: '나눔스퀘어OTF';
-  src: url(./NanumSquareOTFRegular.eot);
+  src: url(./NanumSquareR.eot);
   src: local('나눔스퀘어OTF '),
        local('나눔스퀘어OTF'),
-       url(./NanumSquareOTFRegular.eot?#iefix) format('embedded-opentype'),
-       url(./NanumSquareOTFRegular.woff2) format('woff2'),
-       url(./NanumSquareOTFRegular.woff) format('woff'),
-       url(./NanumSquareOTFRegular.otf) format('otf'),
-       url(./NanumSquareOTFRegular.ttf) format('truetype'),
-       url(./NanumSquareOTFRegular.svg#NanumSquareOTFRegular) format('svg');
+       url(./NanumSquareR.eot?#iefix) format('embedded-opentype'),
+       url(./NanumSquareR.woff2) format('woff2'),
+       url(./NanumSquareR.woff) format('woff'),
+       url(./NanumSquareR.otf) format('otf'),
+       url(./NanumSquareR.ttf) format('truetype');
   font-display: swap;
   font-style: normal;
   font-weight: 400;
 }
 @font-face {
   font-family: 'nanum-square-otf';
-  src: url(./NanumSquareOTFRegular.eot);
+  src: url(./NanumSquareR.eot);
   src: local('nanum-square-otf '),
        local('nanum-square-otf'),
-       url(./NanumSquareOTFRegular.eot?#iefix) format('embedded-opentype'),
-       url(./NanumSquareOTFRegular.woff2) format('woff2'),
-       url(./NanumSquareOTFRegular.woff) format('woff'),
-       url(./NanumSquareOTFRegular.otf) format('otf'),
-       url(./NanumSquareOTFRegular.ttf) format('truetype'),
-       url(./NanumSquareOTFRegular.svg#NanumSquareOTFRegular) format('svg');
+       url(./NanumSquareR.eot?#iefix) format('embedded-opentype'),
+       url(./NanumSquareR.woff2) format('woff2'),
+       url(./NanumSquareR.woff) format('woff'),
+       url(./NanumSquareR.otf) format('otf'),
+       url(./NanumSquareR.ttf) format('truetype');
   font-display: swap;
   font-style: normal;
   font-weight: 400;
 }
 @font-face {
   font-family: '나눔스퀘어OTF';
-  src: url(./NanumSquareOTFLight.eot);
+  src: url(./NanumSquareL.eot);
   src: local('나눔스퀘어OTF '),
        local('나눔스퀘어OTF'),
-       url(./NanumSquareOTFLight.eot?#iefix) format('embedded-opentype'),
-       url(./NanumSquareOTFLight.woff2) format('woff2'),
-       url(./NanumSquareOTFLight.woff) format('woff'),
-       url(./NanumSquareOTFLight.otf) format('otf'),
-       url(./NanumSquareOTFLight.ttf) format('truetype'),
-       url(./NanumSquareOTFLight.svg#NanumSquareOTFLight) format('svg');
+       url(./NanumSquareL.eot?#iefix) format('embedded-opentype'),
+       url(./NanumSquareL.woff2) format('woff2'),
+       url(./NanumSquareL.woff) format('woff'),
+       url(./NanumSquareL.otf) format('otf'),
+       url(./NanumSquareL.ttf) format('truetype');
   font-display: swap;
   font-style: normal;
   font-weight: 300;
 }
 @font-face {
   font-family: 'nanum-square-otf';
-  src: url(./NanumSquareOTFLight.eot);
+  src: url(./NanumSquareL.eot);
   src: local('nanum-square-otf '),
        local('nanum-square-otf'),
-       url(./NanumSquareOTFLight.eot?#iefix) format('embedded-opentype'),
-       url(./NanumSquareOTFLight.woff2) format('woff2'),
-       url(./NanumSquareOTFLight.woff) format('woff'),
-       url(./NanumSquareOTFLight.otf) format('otf'),
-       url(./NanumSquareOTFLight.ttf) format('truetype'),
-       url(./NanumSquareOTFLight.svg#NanumSquareOTFLight) format('svg');
+       url(./NanumSquareL.eot?#iefix) format('embedded-opentype'),
+       url(./NanumSquareL.woff2) format('woff2'),
+       url(./NanumSquareL.woff) format('woff'),
+       url(./NanumSquareL.otf) format('otf'),
+       url(./NanumSquareL.ttf) format('truetype');
   font-display: swap;
   font-style: normal;
   font-weight: 300;
 }
 @font-face {
   font-family: '나눔스퀘어OTF';
-  src: url(./NanumSquareOTFBold.eot);
+  src: url(./NanumSquareB.eot);
   src: local('나눔스퀘어OTF '),
        local('나눔스퀘어OTF'),
-       url(./NanumSquareOTFBold.eot?#iefix) format('embedded-opentype'),
-       url(./NanumSquareOTFBold.woff2) format('woff2'),
-       url(./NanumSquareOTFBold.woff) format('woff'),
-       url(./NanumSquareOTFBold.otf) format('otf'),
-       url(./NanumSquareOTFBold.ttf) format('truetype'),
-       url(./NanumSquareOTFBold.svg#NanumSquareOTFBold) format('svg');
+       url(./NanumSquareB.eot?#iefix) format('embedded-opentype'),
+       url(./NanumSquareB.woff2) format('woff2'),
+       url(./NanumSquareB.woff) format('woff'),
+       url(./NanumSquareB.otf) format('otf'),
+       url(./NanumSquareB.ttf) format('truetype');
   font-display: swap;
   font-style: normal;
   font-weight: 700;
 }
 @font-face {
   font-family: 'nanum-square-otf';
-  src: url(./NanumSquareOTFBold.eot);
+  src: url(./NanumSquareB.eot);
   src: local('nanum-square-otf '),
        local('nanum-square-otf'),
-       url(./NanumSquareOTFBold.eot?#iefix) format('embedded-opentype'),
-       url(./NanumSquareOTFBold.woff2) format('woff2'),
-       url(./NanumSquareOTFBold.woff) format('woff'),
-       url(./NanumSquareOTFBold.otf) format('otf'),
-       url(./NanumSquareOTFBold.ttf) format('truetype'),
-       url(./NanumSquareOTFBold.svg#NanumSquareOTFBold) format('svg');
+       url(./NanumSquareB.eot?#iefix) format('embedded-opentype'),
+       url(./NanumSquareB.woff2) format('woff2'),
+       url(./NanumSquareB.woff) format('woff'),
+       url(./NanumSquareB.otf) format('otf'),
+       url(./NanumSquareB.ttf) format('truetype');
   font-display: swap;
   font-style: normal;
   font-weight: 700;
 }
 @font-face {
   font-family: '나눔스퀘어OTF';
-  src: url(./NanumSquareOTFExtraBold.eot);
+  src: url(./NanumSquareEB.eot);
   src: local('나눔스퀘어OTF '),
        local('나눔스퀘어OTF'),
-       url(./NanumSquareOTFExtraBold.eot?#iefix) format('embedded-opentype'),
-       url(./NanumSquareOTFExtraBold.woff2) format('woff2'),
-       url(./NanumSquareOTFExtraBold.woff) format('woff'),
-       url(./NanumSquareOTFExtraBold.otf) format('otf'),
-       url(./NanumSquareOTFExtraBold.ttf) format('truetype'),
-       url(./NanumSquareOTFExtraBold.svg#NanumSquareOTFExtraBold) format('svg');
+       url(./NanumSquareEB.eot?#iefix) format('embedded-opentype'),
+       url(./NanumSquareEB.woff2) format('woff2'),
+       url(./NanumSquareEB.woff) format('woff'),
+       url(./NanumSquareEB.otf) format('otf'),
+       url(./NanumSquareEB.ttf) format('truetype');
   font-display: swap;
   font-style: normal;
   font-weight: 800;
 }
 @font-face {
   font-family: 'nanum-square-otf';
-  src: url(./NanumSquareOTFExtraBold.eot);
+  src: url(./NanumSquareEB.eot);
   src: local('nanum-square-otf '),
        local('nanum-square-otf'),
-       url(./NanumSquareOTFExtraBold.eot?#iefix) format('embedded-opentype'),
-       url(./NanumSquareOTFExtraBold.woff2) format('woff2'),
-       url(./NanumSquareOTFExtraBold.woff) format('woff'),
-       url(./NanumSquareOTFExtraBold.otf) format('otf'),
-       url(./NanumSquareOTFExtraBold.ttf) format('truetype'),
-       url(./NanumSquareOTFExtraBold.svg#NanumSquareOTFExtraBold) format('svg');
+       url(./NanumSquareEB.eot?#iefix) format('embedded-opentype'),
+       url(./NanumSquareEB.woff2) format('woff2'),
+       url(./NanumSquareEB.woff) format('woff'),
+       url(./NanumSquareEB.otf) format('otf'),
+       url(./NanumSquareEB.ttf) format('truetype');
   font-display: swap;
   font-style: normal;
   font-weight: 800;

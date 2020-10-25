@@ -35,7 +35,7 @@ import '@kfonts/nanum-handwritting-amseuteleudam';
 
 ```css
 body {
-    font-family: "나눔손글씨 암스테르담", "나눔손글씨 암스테르담", "nanum-handwritting-amseuteleudam";
+    font-family: "나눔손글씨 암스테르담", "나눔손글씨암스테르담", "nanum-handwritting-amseuteleudam";
 }
 ```
 

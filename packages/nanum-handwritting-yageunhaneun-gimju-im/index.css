@@ -6,24 +6,20 @@
        url(./yageunhaneun-gimju-im.eot?#iefix) format('embedded-opentype'),
        url(./yageunhaneun-gimju-im.woff2) format('woff2'),
        url(./yageunhaneun-gimju-im.woff) format('woff'),
-       
-       url(./yageunhaneun-gimju-im.ttf) format('truetype'),
-       url(./yageunhaneun-gimju-im.svg#yageunhaneun-gimju-im) format('svg');
+       url(./yageunhaneun-gimju-im.ttf) format('truetype');
   font-display: swap;
   font-style: normal;
   font-weight: 400;
 }
 @font-face {
-  font-family: '나눔손글씨 야근하는 김주임';
+  font-family: '나눔손글씨야근하는김주임';
   src: url(./yageunhaneun-gimju-im.eot);
-  src: local('나눔손글씨 야근하는 김주임 '),
-       local('나눔손글씨 야근하는 김주임'),
+  src: local('나눔손글씨야근하는김주임 '),
+       local('나눔손글씨야근하는김주임'),
        url(./yageunhaneun-gimju-im.eot?#iefix) format('embedded-opentype'),
        url(./yageunhaneun-gimju-im.woff2) format('woff2'),
        url(./yageunhaneun-gimju-im.woff) format('woff'),
-       
-       url(./yageunhaneun-gimju-im.ttf) format('truetype'),
-       url(./yageunhaneun-gimju-im.svg#yageunhaneun-gimju-im) format('svg');
+       url(./yageunhaneun-gimju-im.ttf) format('truetype');
   font-display: swap;
   font-style: normal;
   font-weight: 400;
@@ -36,9 +32,7 @@
        url(./yageunhaneun-gimju-im.eot?#iefix) format('embedded-opentype'),
        url(./yageunhaneun-gimju-im.woff2) format('woff2'),
        url(./yageunhaneun-gimju-im.woff) format('woff'),
-       
-       url(./yageunhaneun-gimju-im.ttf) format('truetype'),
-       url(./yageunhaneun-gimju-im.svg#yageunhaneun-gimju-im) format('svg');
+       url(./yageunhaneun-gimju-im.ttf) format('truetype');
   font-display: swap;
   font-style: normal;
   font-weight: 400;

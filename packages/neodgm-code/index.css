@@ -6,24 +6,20 @@
        url(./neodgm_code.eot?#iefix) format('embedded-opentype'),
        url(./neodgm_code.woff2) format('woff2'),
        url(./neodgm_code.woff) format('woff'),
-       
-       url(./neodgm_code.ttf) format('truetype'),
-       url(./neodgm_code.svg#neodgm_code) format('svg');
+       url(./neodgm_code.ttf) format('truetype');
   font-display: swap;
   font-style: normal;
   font-weight: 300;
 }
 @font-face {
-  font-family: 'Neo둥근모 Code';
+  font-family: 'Neo둥근모Code';
   src: url(./neodgm_code.eot);
-  src: local('Neo둥근모 Code '),
-       local('Neo둥근모 Code'),
+  src: local('Neo둥근모Code '),
+       local('Neo둥근모Code'),
        url(./neodgm_code.eot?#iefix) format('embedded-opentype'),
        url(./neodgm_code.woff2) format('woff2'),
        url(./neodgm_code.woff) format('woff'),
-       
-       url(./neodgm_code.ttf) format('truetype'),
-       url(./neodgm_code.svg#neodgm_code) format('svg');
+       url(./neodgm_code.ttf) format('truetype');
   font-display: swap;
   font-style: normal;
   font-weight: 300;
@@ -36,9 +32,7 @@
        url(./neodgm_code.eot?#iefix) format('embedded-opentype'),
        url(./neodgm_code.woff2) format('woff2'),
        url(./neodgm_code.woff) format('woff'),
-       
-       url(./neodgm_code.ttf) format('truetype'),
-       url(./neodgm_code.svg#neodgm_code) format('svg');
+       url(./neodgm_code.ttf) format('truetype');
   font-display: swap;
   font-style: normal;
   font-weight: 300;

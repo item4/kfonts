@@ -35,7 +35,7 @@ import '@kfonts/nanum-handwritting-na-ui-anae-songeul-ssi';
 
 ```css
 body {
-    font-family: "나눔손글씨 나의 아내 손글씨", "나눔손글씨 나의 아내 손글씨", "nanum-handwritting-na-ui-anae-songeul-ssi";
+    font-family: "나눔손글씨 나의 아내 손글씨", "나눔손글씨나의아내손글씨", "nanum-handwritting-na-ui-anae-songeul-ssi";
 }
 ```
 

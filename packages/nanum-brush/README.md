@@ -35,7 +35,7 @@ import '@kfonts/nanum-brush';
 
 ```css
 body {
-    font-family: "나눔손글씨 붓", "나눔손글씨 붓", "nanum-brush";
+    font-family: "나눔손글씨 붓", "나눔손글씨붓", "nanum-brush";
 }
 ```
 

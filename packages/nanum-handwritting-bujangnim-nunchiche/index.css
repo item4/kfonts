@@ -6,24 +6,20 @@
        url(./bujangnim-nunchiche.eot?#iefix) format('embedded-opentype'),
        url(./bujangnim-nunchiche.woff2) format('woff2'),
        url(./bujangnim-nunchiche.woff) format('woff'),
-       
-       url(./bujangnim-nunchiche.ttf) format('truetype'),
-       url(./bujangnim-nunchiche.svg#bujangnim-nunchiche) format('svg');
+       url(./bujangnim-nunchiche.ttf) format('truetype');
   font-display: swap;
   font-style: normal;
   font-weight: 400;
 }
 @font-face {
-  font-family: '나눔손글씨 부장님 눈치체';
+  font-family: '나눔손글씨부장님눈치체';
   src: url(./bujangnim-nunchiche.eot);
-  src: local('나눔손글씨 부장님 눈치체 '),
-       local('나눔손글씨 부장님 눈치체'),
+  src: local('나눔손글씨부장님눈치체 '),
+       local('나눔손글씨부장님눈치체'),
        url(./bujangnim-nunchiche.eot?#iefix) format('embedded-opentype'),
        url(./bujangnim-nunchiche.woff2) format('woff2'),
        url(./bujangnim-nunchiche.woff) format('woff'),
-       
-       url(./bujangnim-nunchiche.ttf) format('truetype'),
-       url(./bujangnim-nunchiche.svg#bujangnim-nunchiche) format('svg');
+       url(./bujangnim-nunchiche.ttf) format('truetype');
   font-display: swap;
   font-style: normal;
   font-weight: 400;
@@ -36,9 +32,7 @@
        url(./bujangnim-nunchiche.eot?#iefix) format('embedded-opentype'),
        url(./bujangnim-nunchiche.woff2) format('woff2'),
        url(./bujangnim-nunchiche.woff) format('woff'),
-       
-       url(./bujangnim-nunchiche.ttf) format('truetype'),
-       url(./bujangnim-nunchiche.svg#bujangnim-nunchiche) format('svg');
+       url(./bujangnim-nunchiche.ttf) format('truetype');
   font-display: swap;
   font-style: normal;
   font-weight: 400;

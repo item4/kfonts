@@ -7,23 +7,21 @@
        url(./BMYEONSUNG_otf.woff2) format('woff2'),
        url(./BMYEONSUNG_otf.woff) format('woff'),
        url(./BMYEONSUNG_otf.otf) format('otf'),
-       url(./BMYEONSUNG_otf.ttf) format('truetype'),
-       url(./BMYEONSUNG_otf.svg#BMYEONSUNG_otf) format('svg');
+       url(./BMYEONSUNG_otf.ttf) format('truetype');
   font-display: swap;
   font-style: normal;
   font-weight: 400;
 }
 @font-face {
-  font-family: '배달의민족 연성 OTF';
+  font-family: '배달의민족연성OTF';
   src: url(./BMYEONSUNG_otf.eot);
-  src: local('배달의민족 연성 OTF '),
-       local('배달의민족 연성 OTF'),
+  src: local('배달의민족연성OTF '),
+       local('배달의민족연성OTF'),
        url(./BMYEONSUNG_otf.eot?#iefix) format('embedded-opentype'),
        url(./BMYEONSUNG_otf.woff2) format('woff2'),
        url(./BMYEONSUNG_otf.woff) format('woff'),
        url(./BMYEONSUNG_otf.otf) format('otf'),
-       url(./BMYEONSUNG_otf.ttf) format('truetype'),
-       url(./BMYEONSUNG_otf.svg#BMYEONSUNG_otf) format('svg');
+       url(./BMYEONSUNG_otf.ttf) format('truetype');
   font-display: swap;
   font-style: normal;
   font-weight: 400;
@@ -37,8 +35,7 @@
        url(./BMYEONSUNG_otf.woff2) format('woff2'),
        url(./BMYEONSUNG_otf.woff) format('woff'),
        url(./BMYEONSUNG_otf.otf) format('otf'),
-       url(./BMYEONSUNG_otf.ttf) format('truetype'),
-       url(./BMYEONSUNG_otf.svg#BMYEONSUNG_otf) format('svg');
+       url(./BMYEONSUNG_otf.ttf) format('truetype');
   font-display: swap;
   font-style: normal;
   font-weight: 400;

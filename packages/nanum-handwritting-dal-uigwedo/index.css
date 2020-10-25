@@ -6,24 +6,20 @@
        url(./dal-uigwedo.eot?#iefix) format('embedded-opentype'),
        url(./dal-uigwedo.woff2) format('woff2'),
        url(./dal-uigwedo.woff) format('woff'),
-       
-       url(./dal-uigwedo.ttf) format('truetype'),
-       url(./dal-uigwedo.svg#dal-uigwedo) format('svg');
+       url(./dal-uigwedo.ttf) format('truetype');
   font-display: swap;
   font-style: normal;
   font-weight: 400;
 }
 @font-face {
-  font-family: '나눔손글씨 달의궤도';
+  font-family: '나눔손글씨달의궤도';
   src: url(./dal-uigwedo.eot);
-  src: local('나눔손글씨 달의궤도 '),
-       local('나눔손글씨 달의궤도'),
+  src: local('나눔손글씨달의궤도 '),
+       local('나눔손글씨달의궤도'),
        url(./dal-uigwedo.eot?#iefix) format('embedded-opentype'),
        url(./dal-uigwedo.woff2) format('woff2'),
        url(./dal-uigwedo.woff) format('woff'),
-       
-       url(./dal-uigwedo.ttf) format('truetype'),
-       url(./dal-uigwedo.svg#dal-uigwedo) format('svg');
+       url(./dal-uigwedo.ttf) format('truetype');
   font-display: swap;
   font-style: normal;
   font-weight: 400;
@@ -36,9 +32,7 @@
        url(./dal-uigwedo.eot?#iefix) format('embedded-opentype'),
        url(./dal-uigwedo.woff2) format('woff2'),
        url(./dal-uigwedo.woff) format('woff'),
-       
-       url(./dal-uigwedo.ttf) format('truetype'),
-       url(./dal-uigwedo.svg#dal-uigwedo) format('svg');
+       url(./dal-uigwedo.ttf) format('truetype');
   font-display: swap;
   font-style: normal;
   font-weight: 400;

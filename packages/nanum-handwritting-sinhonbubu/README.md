@@ -35,7 +35,7 @@ import '@kfonts/nanum-handwritting-sinhonbubu';
 
 ```css
 body {
-    font-family: "나눔손글씨 신혼부부", "나눔손글씨 신혼부부", "nanum-handwritting-sinhonbubu";
+    font-family: "나눔손글씨 신혼부부", "나눔손글씨신혼부부", "nanum-handwritting-sinhonbubu";
 }
 ```
 

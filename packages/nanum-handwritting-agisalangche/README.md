@@ -35,7 +35,7 @@ import '@kfonts/nanum-handwritting-agisalangche';
 
 ```css
 body {
-    font-family: "나눔손글씨 아기사랑체", "나눔손글씨 아기사랑체", "nanum-handwritting-agisalangche";
+    font-family: "나눔손글씨 아기사랑체", "나눔손글씨아기사랑체", "nanum-handwritting-agisalangche";
 }
 ```
 

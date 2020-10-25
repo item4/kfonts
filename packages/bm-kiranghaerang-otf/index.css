@@ -7,23 +7,21 @@
        url(./BMKIRANGHAERANG-OTF.woff2) format('woff2'),
        url(./BMKIRANGHAERANG-OTF.woff) format('woff'),
        url(./BMKIRANGHAERANG-OTF.otf) format('otf'),
-       url(./BMKIRANGHAERANG-OTF.ttf) format('truetype'),
-       url(./BMKIRANGHAERANG-OTF.svg#BMKIRANGHAERANG-OTF) format('svg');
+       url(./BMKIRANGHAERANG-OTF.ttf) format('truetype');
   font-display: swap;
   font-style: normal;
   font-weight: 400;
 }
 @font-face {
-  font-family: '배달의민족 기랑해랑 OTF';
+  font-family: '배달의민족기랑해랑OTF';
   src: url(./BMKIRANGHAERANG-OTF.eot);
-  src: local('배달의민족 기랑해랑 OTF '),
-       local('배달의민족 기랑해랑 OTF'),
+  src: local('배달의민족기랑해랑OTF '),
+       local('배달의민족기랑해랑OTF'),
        url(./BMKIRANGHAERANG-OTF.eot?#iefix) format('embedded-opentype'),
        url(./BMKIRANGHAERANG-OTF.woff2) format('woff2'),
        url(./BMKIRANGHAERANG-OTF.woff) format('woff'),
        url(./BMKIRANGHAERANG-OTF.otf) format('otf'),
-       url(./BMKIRANGHAERANG-OTF.ttf) format('truetype'),
-       url(./BMKIRANGHAERANG-OTF.svg#BMKIRANGHAERANG-OTF) format('svg');
+       url(./BMKIRANGHAERANG-OTF.ttf) format('truetype');
   font-display: swap;
   font-style: normal;
   font-weight: 400;
@@ -37,8 +35,7 @@
        url(./BMKIRANGHAERANG-OTF.woff2) format('woff2'),
        url(./BMKIRANGHAERANG-OTF.woff) format('woff'),
        url(./BMKIRANGHAERANG-OTF.otf) format('otf'),
-       url(./BMKIRANGHAERANG-OTF.ttf) format('truetype'),
-       url(./BMKIRANGHAERANG-OTF.svg#BMKIRANGHAERANG-OTF) format('svg');
+       url(./BMKIRANGHAERANG-OTF.ttf) format('truetype');
   font-display: swap;
   font-style: normal;
   font-weight: 400;

@@ -1,44 +1,41 @@
 @font-face {
   font-family: '나눔바른고딕OTF 옛한글';
-  src: url(./NanumBarunGothicOTF-YetHangul.eot);
+  src: url(./NanumBarunGothic-YetHangul.eot);
   src: local('나눔바른고딕OTF 옛한글 '),
        local('나눔바른고딕OTF 옛한글'),
-       url(./NanumBarunGothicOTF-YetHangul.eot?#iefix) format('embedded-opentype'),
-       url(./NanumBarunGothicOTF-YetHangul.woff2) format('woff2'),
-       url(./NanumBarunGothicOTF-YetHangul.woff) format('woff'),
-       url(./NanumBarunGothicOTF-YetHangul.otf) format('otf'),
-       url(./NanumBarunGothicOTF-YetHangul.ttf) format('truetype'),
-       url(./NanumBarunGothicOTF-YetHangul.svg#NanumBarunGothicOTF-YetHangul) format('svg');
+       url(./NanumBarunGothic-YetHangul.eot?#iefix) format('embedded-opentype'),
+       url(./NanumBarunGothic-YetHangul.woff2) format('woff2'),
+       url(./NanumBarunGothic-YetHangul.woff) format('woff'),
+       url(./NanumBarunGothic-YetHangul.otf) format('otf'),
+       url(./NanumBarunGothic-YetHangul.ttf) format('truetype');
   font-display: swap;
   font-style: normal;
   font-weight: 400;
 }
 @font-face {
-  font-family: '나눔바른고딕OTF 옛한글';
-  src: url(./NanumBarunGothicOTF-YetHangul.eot);
-  src: local('나눔바른고딕OTF 옛한글 '),
-       local('나눔바른고딕OTF 옛한글'),
-       url(./NanumBarunGothicOTF-YetHangul.eot?#iefix) format('embedded-opentype'),
-       url(./NanumBarunGothicOTF-YetHangul.woff2) format('woff2'),
-       url(./NanumBarunGothicOTF-YetHangul.woff) format('woff'),
-       url(./NanumBarunGothicOTF-YetHangul.otf) format('otf'),
-       url(./NanumBarunGothicOTF-YetHangul.ttf) format('truetype'),
-       url(./NanumBarunGothicOTF-YetHangul.svg#NanumBarunGothicOTF-YetHangul) format('svg');
+  font-family: '나눔바른고딕OTF옛한글';
+  src: url(./NanumBarunGothic-YetHangul.eot);
+  src: local('나눔바른고딕OTF옛한글 '),
+       local('나눔바른고딕OTF옛한글'),
+       url(./NanumBarunGothic-YetHangul.eot?#iefix) format('embedded-opentype'),
+       url(./NanumBarunGothic-YetHangul.woff2) format('woff2'),
+       url(./NanumBarunGothic-YetHangul.woff) format('woff'),
+       url(./NanumBarunGothic-YetHangul.otf) format('otf'),
+       url(./NanumBarunGothic-YetHangul.ttf) format('truetype');
   font-display: swap;
   font-style: normal;
   font-weight: 400;
 }
 @font-face {
   font-family: 'nanum-barun-gothic-yet-hangul-otf';
-  src: url(./NanumBarunGothicOTF-YetHangul.eot);
+  src: url(./NanumBarunGothic-YetHangul.eot);
   src: local('nanum-barun-gothic-yet-hangul-otf '),
        local('nanum-barun-gothic-yet-hangul-otf'),
-       url(./NanumBarunGothicOTF-YetHangul.eot?#iefix) format('embedded-opentype'),
-       url(./NanumBarunGothicOTF-YetHangul.woff2) format('woff2'),
-       url(./NanumBarunGothicOTF-YetHangul.woff) format('woff'),
-       url(./NanumBarunGothicOTF-YetHangul.otf) format('otf'),
-       url(./NanumBarunGothicOTF-YetHangul.ttf) format('truetype'),
-       url(./NanumBarunGothicOTF-YetHangul.svg#NanumBarunGothicOTF-YetHangul) format('svg');
+       url(./NanumBarunGothic-YetHangul.eot?#iefix) format('embedded-opentype'),
+       url(./NanumBarunGothic-YetHangul.woff2) format('woff2'),
+       url(./NanumBarunGothic-YetHangul.woff) format('woff'),
+       url(./NanumBarunGothic-YetHangul.otf) format('otf'),
+       url(./NanumBarunGothic-YetHangul.ttf) format('truetype');
   font-display: swap;
   font-style: normal;
   font-weight: 400;

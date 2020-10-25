@@ -35,7 +35,7 @@ import '@kfonts/nanum-handwritting-kkeuteumeoliche';
 
 ```css
 body {
-    font-family: "나눔손글씨 끄트머리체", "나눔손글씨 끄트머리체", "nanum-handwritting-kkeuteumeoliche";
+    font-family: "나눔손글씨 끄트머리체", "나눔손글씨끄트머리체", "nanum-handwritting-kkeuteumeoliche";
 }
 ```
 

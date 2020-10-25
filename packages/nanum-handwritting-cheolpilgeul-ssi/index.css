@@ -6,24 +6,20 @@
        url(./cheolpilgeul-ssi.eot?#iefix) format('embedded-opentype'),
        url(./cheolpilgeul-ssi.woff2) format('woff2'),
        url(./cheolpilgeul-ssi.woff) format('woff'),
-       
-       url(./cheolpilgeul-ssi.ttf) format('truetype'),
-       url(./cheolpilgeul-ssi.svg#cheolpilgeul-ssi) format('svg');
+       url(./cheolpilgeul-ssi.ttf) format('truetype');
   font-display: swap;
   font-style: normal;
   font-weight: 400;
 }
 @font-face {
-  font-family: '나눔손글씨 철필글씨';
+  font-family: '나눔손글씨철필글씨';
   src: url(./cheolpilgeul-ssi.eot);
-  src: local('나눔손글씨 철필글씨 '),
-       local('나눔손글씨 철필글씨'),
+  src: local('나눔손글씨철필글씨 '),
+       local('나눔손글씨철필글씨'),
        url(./cheolpilgeul-ssi.eot?#iefix) format('embedded-opentype'),
        url(./cheolpilgeul-ssi.woff2) format('woff2'),
        url(./cheolpilgeul-ssi.woff) format('woff'),
-       
-       url(./cheolpilgeul-ssi.ttf) format('truetype'),
-       url(./cheolpilgeul-ssi.svg#cheolpilgeul-ssi) format('svg');
+       url(./cheolpilgeul-ssi.ttf) format('truetype');
   font-display: swap;
   font-style: normal;
   font-weight: 400;
@@ -36,9 +32,7 @@
        url(./cheolpilgeul-ssi.eot?#iefix) format('embedded-opentype'),
        url(./cheolpilgeul-ssi.woff2) format('woff2'),
        url(./cheolpilgeul-ssi.woff) format('woff'),
-       
-       url(./cheolpilgeul-ssi.ttf) format('truetype'),
-       url(./cheolpilgeul-ssi.svg#cheolpilgeul-ssi) format('svg');
+       url(./cheolpilgeul-ssi.ttf) format('truetype');
   font-display: swap;
   font-style: normal;
   font-weight: 400;

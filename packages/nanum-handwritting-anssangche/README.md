@@ -35,7 +35,7 @@ import '@kfonts/nanum-handwritting-anssangche';
 
 ```css
 body {
-    font-family: "나눔손글씨 안쌍체", "나눔손글씨 안쌍체", "nanum-handwritting-anssangche";
+    font-family: "나눔손글씨 안쌍체", "나눔손글씨안쌍체", "nanum-handwritting-anssangche";
 }
 ```
 

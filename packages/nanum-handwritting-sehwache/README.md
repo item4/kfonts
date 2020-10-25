@@ -35,7 +35,7 @@ import '@kfonts/nanum-handwritting-sehwache';
 
 ```css
 body {
-    font-family: "나눔손글씨 세화체", "나눔손글씨 세화체", "nanum-handwritting-sehwache";
+    font-family: "나눔손글씨 세화체", "나눔손글씨세화체", "nanum-handwritting-sehwache";
 }
 ```
 

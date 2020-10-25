@@ -35,7 +35,7 @@ import '@kfonts/nanum-handwritting-dachaesalang';
 
 ```css
 body {
-    font-family: "나눔손글씨 다채사랑", "나눔손글씨 다채사랑", "nanum-handwritting-dachaesalang";
+    font-family: "나눔손글씨 다채사랑", "나눔손글씨다채사랑", "nanum-handwritting-dachaesalang";
 }
 ```
 

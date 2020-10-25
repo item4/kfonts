@@ -6,24 +6,20 @@
        url(./mugunghwa.eot?#iefix) format('embedded-opentype'),
        url(./mugunghwa.woff2) format('woff2'),
        url(./mugunghwa.woff) format('woff'),
-       
-       url(./mugunghwa.ttf) format('truetype'),
-       url(./mugunghwa.svg#mugunghwa) format('svg');
+       url(./mugunghwa.ttf) format('truetype');
   font-display: swap;
   font-style: normal;
   font-weight: 400;
 }
 @font-face {
-  font-family: '나눔손글씨 무궁화';
+  font-family: '나눔손글씨무궁화';
   src: url(./mugunghwa.eot);
-  src: local('나눔손글씨 무궁화 '),
-       local('나눔손글씨 무궁화'),
+  src: local('나눔손글씨무궁화 '),
+       local('나눔손글씨무궁화'),
        url(./mugunghwa.eot?#iefix) format('embedded-opentype'),
        url(./mugunghwa.woff2) format('woff2'),
        url(./mugunghwa.woff) format('woff'),
-       
-       url(./mugunghwa.ttf) format('truetype'),
-       url(./mugunghwa.svg#mugunghwa) format('svg');
+       url(./mugunghwa.ttf) format('truetype');
   font-display: swap;
   font-style: normal;
   font-weight: 400;
@@ -36,9 +32,7 @@
        url(./mugunghwa.eot?#iefix) format('embedded-opentype'),
        url(./mugunghwa.woff2) format('woff2'),
        url(./mugunghwa.woff) format('woff'),
-       
-       url(./mugunghwa.ttf) format('truetype'),
-       url(./mugunghwa.svg#mugunghwa) format('svg');
+       url(./mugunghwa.ttf) format('truetype');
   font-display: swap;
   font-style: normal;
   font-weight: 400;

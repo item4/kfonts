@@ -35,7 +35,7 @@ import '@kfonts/nanum-handwritting-dasi-sijaghae';
 
 ```css
 body {
-    font-family: "나눔손글씨 다시 시작해", "나눔손글씨 다시 시작해", "nanum-handwritting-dasi-sijaghae";
+    font-family: "나눔손글씨 다시 시작해", "나눔손글씨다시시작해", "nanum-handwritting-dasi-sijaghae";
 }
 ```
 

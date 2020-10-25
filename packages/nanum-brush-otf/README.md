@@ -35,7 +35,7 @@ import '@kfonts/nanum-brush-otf';
 
 ```css
 body {
-    font-family: "나눔손글씨 붓 OTF", "나눔손글씨 붓 OTF", "nanum-brush-otf";
+    font-family: "나눔손글씨 붓 OTF", "나눔손글씨붓OTF", "nanum-brush-otf";
 }
 ```
 

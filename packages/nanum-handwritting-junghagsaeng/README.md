@@ -35,7 +35,7 @@ import '@kfonts/nanum-handwritting-junghagsaeng';
 
 ```css
 body {
-    font-family: "나눔손글씨 중학생", "나눔손글씨 중학생", "nanum-handwritting-junghagsaeng";
+    font-family: "나눔손글씨 중학생", "나눔손글씨중학생", "nanum-handwritting-junghagsaeng";
 }
 ```
 

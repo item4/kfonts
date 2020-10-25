@@ -6,24 +6,20 @@
        url(./bisangche.eot?#iefix) format('embedded-opentype'),
        url(./bisangche.woff2) format('woff2'),
        url(./bisangche.woff) format('woff'),
-       
-       url(./bisangche.ttf) format('truetype'),
-       url(./bisangche.svg#bisangche) format('svg');
+       url(./bisangche.ttf) format('truetype');
   font-display: swap;
   font-style: normal;
   font-weight: 400;
 }
 @font-face {
-  font-family: '나눔손글씨 비상체';
+  font-family: '나눔손글씨비상체';
   src: url(./bisangche.eot);
-  src: local('나눔손글씨 비상체 '),
-       local('나눔손글씨 비상체'),
+  src: local('나눔손글씨비상체 '),
+       local('나눔손글씨비상체'),
        url(./bisangche.eot?#iefix) format('embedded-opentype'),
        url(./bisangche.woff2) format('woff2'),
        url(./bisangche.woff) format('woff'),
-       
-       url(./bisangche.ttf) format('truetype'),
-       url(./bisangche.svg#bisangche) format('svg');
+       url(./bisangche.ttf) format('truetype');
   font-display: swap;
   font-style: normal;
   font-weight: 400;
@@ -36,9 +32,7 @@
        url(./bisangche.eot?#iefix) format('embedded-opentype'),
        url(./bisangche.woff2) format('woff2'),
        url(./bisangche.woff) format('woff'),
-       
-       url(./bisangche.ttf) format('truetype'),
-       url(./bisangche.svg#bisangche) format('svg');
+       url(./bisangche.ttf) format('truetype');
   font-display: swap;
   font-style: normal;
   font-weight: 400;

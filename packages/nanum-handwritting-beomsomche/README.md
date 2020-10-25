@@ -35,7 +35,7 @@ import '@kfonts/nanum-handwritting-beomsomche';
 
 ```css
 body {
-    font-family: "나눔손글씨 범솜체", "나눔손글씨 범솜체", "nanum-handwritting-beomsomche";
+    font-family: "나눔손글씨 범솜체", "나눔손글씨범솜체", "nanum-handwritting-beomsomche";
 }
 ```
 

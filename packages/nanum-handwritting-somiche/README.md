@@ -35,7 +35,7 @@ import '@kfonts/nanum-handwritting-somiche';
 
 ```css
 body {
-    font-family: "나눔손글씨 소미체", "나눔손글씨 소미체", "nanum-handwritting-somiche";
+    font-family: "나눔손글씨 소미체", "나눔손글씨소미체", "nanum-handwritting-somiche";
 }
 ```
 

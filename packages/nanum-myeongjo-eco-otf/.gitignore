@@ -1,0 +1,7 @@
+*.ttf
+*.otf
+*.eot
+*.woff
+*.woff2
+!src/*.ttf
+!src/*.otf

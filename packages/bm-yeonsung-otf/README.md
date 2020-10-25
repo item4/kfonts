@@ -35,7 +35,7 @@ import '@kfonts/bm-yeonsung-otf';
 
 ```css
 body {
-    font-family: "배달의민족 연성 OTF", "배달의민족 연성 OTF", "bm-yeonsung-otf";
+    font-family: "배달의민족 연성 OTF", "배달의민족연성OTF", "bm-yeonsung-otf";
 }
 ```
 
@@ -60,15 +60,15 @@ I might upgrade css-loader or use alternative font name.)
 [Link](https://www.woowahan.com/#/fonts)
 
 ```
-배달의민족 한나체, 한나체 Air, 한나체 Pro, 주아체, 도현체, 연성체, 기랑해랑체, 을지로체의 지적 재산권은 ㈜우아한형제들에 있습니다. 배달의민족 한나체, 한나체 Air, 한나체 Pro, 주아체, 도현체, 연성체, 기랑해랑체, 을지로체는 개인 및 기업 사용자를 포함한 모든 사용자에게 무료로 제공되며 자유롭게 수정하고 재배포하실 수 있습니다.
+배달의민족 한나체, 한나체 Air, 한나체 Pro, 주아체, 도현체, 연성체, 기랑해랑체, 을지로체, 을지로10년후체의 지적 재산권은 ㈜우아한형제들에 있습니다. 배달의민족 한나체, 한나체 Air, 한나체 Pro, 주아체, 도현체, 연성체, 기랑해랑체, 을지로체, 을지로10년후체는 개인 및 기업 사용자를 포함한 모든 사용자에게 무료로 제공되며 자유롭게 수정하고 재배포하실 수 있습니다.
 
-단, 글꼴 자체를 유료로 판매하는 것은 금지하며, 배달의민족 한나체, 한나체 Air, 한나체 Pro, 주아체, 도현체, 연성체, 기랑해랑체, 을지로체는 본 저작권 안내와 라이선스 전문을 포함해서 다른 소프트웨어와 번들하거나 재배포 또는 판매가 가능합니다. 배달의민족 한나체, 한나체 Air, 한나체 Pro, 주아체, 도현체, 연성체, 기랑해랑, 을지로체체 라이선스 전문을 포함하기 어려울 경우, 배달의민족 한나체, 한나체 Air, 한나체 Pro, 주아체, 도현체, 연성체, 기랑해랑체, 을지로체의 출처 표기를 권장합니다. 예) 이 페이지에는 우아한형제들에서 제공한 배달의민족 한나체, 한나체 Air, 한나체 Pro, 주아체, 도현체, 연성체, 기랑해랑체, 을지로체가 적용되어 있습니다.
+단, 글꼴 자체를 유료로 판매하는 것은 금지하며, 배달의민족 한나체, 한나체 Air, 한나체 Pro, 주아체, 도현체, 연성체, 기랑해랑체, 을지로체, 을지로10년후체는 본 저작권 안내와 라이선스 전문을 포함해서 다른 소프트웨어와 번들하거나 재배포 또는 판매가 가능합니다. 배달의민족 한나체, 한나체 Air, 한나체 Pro, 주아체, 도현체, 연성체, 기랑해랑, 을지로체, 을지로10년후체 라이선스 전문을 포함하기 어려울 경우, 배달의민족 한나체, 한나체 Air, 한나체 Pro, 주아체, 도현체, 연성체, 기랑해랑체, 을지로체, 을지로10년후체의 출처 표기를 권장합니다. 예) 이 페이지에는 우아한형제들에서 제공한 배달의민족 한나체, 한나체 Air, 한나체 Pro, 주아체, 도현체, 연성체, 기랑해랑체, 을지로체, 을지로10년후체가 적용되어 있습니다.
 
-배달의민족 한나체, 한나체 Air, 한나체 Pro, 주아체, 도현체, 연성체, 기랑해랑체, 을지로체를 사용한 인쇄물, 광고물(온라인 포함)의 이미지는 우아한형제들(배달의민족) 프로모션을 위해 활용될 수 있습니다. 이를 원치 않는 사용자는 언제든지 당사에 요청하실 수 있습니다. 정확한 사용 조건은 아래 배달의민족 한나체, 한나체 Air, 한나체 Pro, 주아체, 도현체, 연성체, 기랑해랑체, 을지로체 라이선스 전문을 참고하시기 바랍니다.
+배달의민족 한나체, 한나체 Air, 한나체 Pro, 주아체, 도현체, 연성체, 기랑해랑체, 을지로체, 을지로10년후체를 사용한 인쇄물, 광고물(온라인 포함)의 이미지는 우아한형제들(배달의민족) 프로모션을 위해 활용될 수 있습니다. 이를 원치 않는 사용자는 언제든지 당사에 요청하실 수 있습니다. 정확한 사용 조건은 아래 배달의민족 한나체, 한나체 Air, 한나체 Pro, 주아체, 도현체, 연성체, 기랑해랑체, 을지로체, 을지로10년후체 라이선스 전문을 참고하시기 바랍니다.
 
-*배달의민족 한나체, 한나체 Air, 한나체 Pro, 주아체, 도현체, 연성체, 기랑해랑체, 을지로체 라이선스 전문의 한글은 이용자의 이해를 돕기 위해 영문 원본을 번역해 서비스하고 있으며 법적 효력은 영문에 한합니다. 이 점 참고하시기 바랍니다.
+*배달의민족 한나체, 한나체 Air, 한나체 Pro, 주아체, 도현체, 연성체, 기랑해랑체, 을지로체, 을지로10년후체 라이선스 전문의 한글은 이용자의 이해를 돕기 위해 영문 원본을 번역해 서비스하고 있으며 법적 효력은 영문에 한합니다. 이 점 참고하시기 바랍니다.
 
-Copyright © 2013, Woowa Brothers Corporation (https://www.woowahan.com), with Reserved Font Name BM HANNA 11yrs old, BM HANNA 11yrs old OTF, BMHANNAAir_otf, BMHANNAAir_ttf, BMHANNAPro_otf, BMHANNAPro_ttf, BM JUA_TTF, BM JUA_OTF, BM DoHyeon, BM DoHyeon OTF, BM YEONSUNG, BM YEONSUNG OTF, BM KIRANGHAERANG, BM KIRANGHAERANG OTF, BMEULJIRO, BMEULJIROTTF This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is copied below, and is also available with a FAQ at: http://scripts.sil.org/OFL SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007
+Copyright © 2013, Woowa Brothers Corporation (https://www.woowahan.com), with Reserved Font Name BM HANNA 11yrs old, BM HANNA 11yrs old OTF, BMHANNAAir_otf, BMHANNAAir_ttf, BMHANNAPro_otf, BMHANNAPro_ttf, BM JUA_TTF, BM JUA_OTF, BM DoHyeon, BM DoHyeon OTF, BM YEONSUNG, BM YEONSUNG OTF, BM KIRANGHAERANG, BM KIRANGHAERANG OTF, BMEULJIRO, BMEULJIROTTF, BM EULJITO 10 YEARS LATER, BM EULJITO 10 YEARS LATER TTF This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is copied below, and is also available with a FAQ at: http://scripts.sil.org/OFL SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007
 
 ‘배달의민족 한나, 배달의민족 한나_OTF’ 폰트명에 대해 ㈜우아한형제들 (https://www.woowahan.com)이 저작권을 소유하고 있습니다. 본 폰트 소프트웨어는 SIL 오픈 폰트 라이선스 버전 1.1에 따라 라이선스 취득을 하였습니다. 본 라이선스는 하단에 복사되었고 http://scripts.sil.org/OFL의 FAQ란 에서도 열람가능 합니다. SIL 오픈 폰트 라이선스 버전 1.1 (2007년 2월 26일)
 
@@ -136,5 +136,4 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
 
 면책조항
 본 폰트 소프트웨어는 저작권, 특허권, 상표권 및 기타 권리의 비침해성과 특정 목적에의 적합성 포함한 명시적, 묵시적인 어떠한 종류의 보증 없이 “있는 그대로” 제공됩니다. 어떠한 경우에도 저작권자는 본 폰트 소프트웨어의 사용 또는 이의 사용불가, 그밖에 폰트 소프트웨어의 취급과 관련하여 발생하는 모든 계약, 불법행위 혹은 다른 일로 하여금 발생하는 일반적, 특수적, 간접적, 부차적 혹은 필연적 손해를 포함하는 소송, 손해, 혹은 기타 책임에 대한 의무를 가지지 않습니다.
-
 ```

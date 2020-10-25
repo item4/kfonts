@@ -7,8 +7,7 @@
        url(./NanumMyeongjo.woff2) format('woff2'),
        url(./NanumMyeongjo.woff) format('woff'),
        url(./NanumMyeongjo.otf) format('otf'),
-       url(./NanumMyeongjo.ttf) format('truetype'),
-       url(./NanumMyeongjo.svg#NanumMyeongjo) format('svg');
+       url(./NanumMyeongjo.ttf) format('truetype');
   font-display: swap;
   font-style: normal;
   font-weight: 400;
@@ -22,8 +21,7 @@
        url(./NanumMyeongjo.woff2) format('woff2'),
        url(./NanumMyeongjo.woff) format('woff'),
        url(./NanumMyeongjo.otf) format('otf'),
-       url(./NanumMyeongjo.ttf) format('truetype'),
-       url(./NanumMyeongjo.svg#NanumMyeongjo) format('svg');
+       url(./NanumMyeongjo.ttf) format('truetype');
   font-display: swap;
   font-style: normal;
   font-weight: 400;
@@ -37,8 +35,7 @@
        url(./NanumMyeongjoBold.woff2) format('woff2'),
        url(./NanumMyeongjoBold.woff) format('woff'),
        url(./NanumMyeongjoBold.otf) format('otf'),
-       url(./NanumMyeongjoBold.ttf) format('truetype'),
-       url(./NanumMyeongjoBold.svg#NanumMyeongjoBold) format('svg');
+       url(./NanumMyeongjoBold.ttf) format('truetype');
   font-display: swap;
   font-style: normal;
   font-weight: 700;
@@ -52,8 +49,7 @@
        url(./NanumMyeongjoBold.woff2) format('woff2'),
        url(./NanumMyeongjoBold.woff) format('woff'),
        url(./NanumMyeongjoBold.otf) format('otf'),
-       url(./NanumMyeongjoBold.ttf) format('truetype'),
-       url(./NanumMyeongjoBold.svg#NanumMyeongjoBold) format('svg');
+       url(./NanumMyeongjoBold.ttf) format('truetype');
   font-display: swap;
   font-style: normal;
   font-weight: 700;
@@ -67,8 +63,7 @@
        url(./NanumMyeongjoExtraBold.woff2) format('woff2'),
        url(./NanumMyeongjoExtraBold.woff) format('woff'),
        url(./NanumMyeongjoExtraBold.otf) format('otf'),
-       url(./NanumMyeongjoExtraBold.ttf) format('truetype'),
-       url(./NanumMyeongjoExtraBold.svg#NanumMyeongjoExtraBold) format('svg');
+       url(./NanumMyeongjoExtraBold.ttf) format('truetype');
   font-display: swap;
   font-style: normal;
   font-weight: 800;
@@ -82,8 +77,7 @@
        url(./NanumMyeongjoExtraBold.woff2) format('woff2'),
        url(./NanumMyeongjoExtraBold.woff) format('woff'),
        url(./NanumMyeongjoExtraBold.otf) format('otf'),
-       url(./NanumMyeongjoExtraBold.ttf) format('truetype'),
-       url(./NanumMyeongjoExtraBold.svg#NanumMyeongjoExtraBold) format('svg');
+       url(./NanumMyeongjoExtraBold.ttf) format('truetype');
   font-display: swap;
   font-style: normal;
   font-weight: 800;

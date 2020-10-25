@@ -35,7 +35,7 @@ import '@kfonts/nanum-handwritting-naneun-igyeonaenda';
 
 ```css
 body {
-    font-family: "나눔손글씨 나는 이겨낸다", "나눔손글씨 나는 이겨낸다", "nanum-handwritting-naneun-igyeonaenda";
+    font-family: "나눔손글씨 나는 이겨낸다", "나눔손글씨나는이겨낸다", "nanum-handwritting-naneun-igyeonaenda";
 }
 ```
 

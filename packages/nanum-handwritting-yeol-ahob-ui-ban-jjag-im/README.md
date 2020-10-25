@@ -35,7 +35,7 @@ import '@kfonts/nanum-handwritting-yeol-ahob-ui-ban-jjag-im';
 
 ```css
 body {
-    font-family: "나눔손글씨 열아홉의 반짝임", "나눔손글씨 열아홉의 반짝임", "nanum-handwritting-yeol-ahob-ui-ban-jjag-im";
+    font-family: "나눔손글씨 열아홉의 반짝임", "나눔손글씨열아홉의반짝임", "nanum-handwritting-yeol-ahob-ui-ban-jjag-im";
 }
 ```
 

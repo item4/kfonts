@@ -35,7 +35,7 @@ import '@kfonts/nanum-handwritting-mugunghwa';
 
 ```css
 body {
-    font-family: "나눔손글씨 무궁화", "나눔손글씨 무궁화", "nanum-handwritting-mugunghwa";
+    font-family: "나눔손글씨 무궁화", "나눔손글씨무궁화", "nanum-handwritting-mugunghwa";
 }
 ```
 

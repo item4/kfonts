@@ -35,7 +35,7 @@ import '@kfonts/nanum-handwritting-gomsinche';
 
 ```css
 body {
-    font-family: "나눔손글씨 곰신체", "나눔손글씨 곰신체", "nanum-handwritting-gomsinche";
+    font-family: "나눔손글씨 곰신체", "나눔손글씨곰신체", "nanum-handwritting-gomsinche";
 }
 ```
 

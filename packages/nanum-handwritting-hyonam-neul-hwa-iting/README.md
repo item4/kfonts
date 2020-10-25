@@ -35,7 +35,7 @@ import '@kfonts/nanum-handwritting-hyonam-neul-hwa-iting';
 
 ```css
 body {
-    font-family: "나눔손글씨 효남 늘 화이팅", "나눔손글씨 효남 늘 화이팅", "nanum-handwritting-hyonam-neul-hwa-iting";
+    font-family: "나눔손글씨 효남 늘 화이팅", "나눔손글씨효남늘화이팅", "nanum-handwritting-hyonam-neul-hwa-iting";
 }
 ```
 

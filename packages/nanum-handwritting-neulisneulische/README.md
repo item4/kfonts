@@ -35,7 +35,7 @@ import '@kfonts/nanum-handwritting-neulisneulische';
 
 ```css
 body {
-    font-family: "나눔손글씨 느릿느릿체", "나눔손글씨 느릿느릿체", "nanum-handwritting-neulisneulische";
+    font-family: "나눔손글씨 느릿느릿체", "나눔손글씨느릿느릿체", "nanum-handwritting-neulisneulische";
 }
 ```
 

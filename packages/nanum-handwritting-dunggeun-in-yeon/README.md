@@ -35,7 +35,7 @@ import '@kfonts/nanum-handwritting-dunggeun-in-yeon';
 
 ```css
 body {
-    font-family: "나눔손글씨 둥근인연", "나눔손글씨 둥근인연", "nanum-handwritting-dunggeun-in-yeon";
+    font-family: "나눔손글씨 둥근인연", "나눔손글씨둥근인연", "nanum-handwritting-dunggeun-in-yeon";
 }
 ```
 

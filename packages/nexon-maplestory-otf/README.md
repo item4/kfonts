@@ -35,7 +35,7 @@ import '@kfonts/nexon-maplestory-otf';
 
 ```css
 body {
-    font-family: "메이플스토리 OTF", "메이플스토리 OTF", "nexon-maplestory-otf";
+    font-family: "메이플스토리 OTF", "메이플스토리OTF", "nexon-maplestory-otf";
 }
 ```
 

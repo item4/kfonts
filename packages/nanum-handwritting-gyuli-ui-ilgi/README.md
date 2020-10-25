@@ -35,7 +35,7 @@ import '@kfonts/nanum-handwritting-gyuli-ui-ilgi';
 
 ```css
 body {
-    font-family: "나눔손글씨 규리의 일기", "나눔손글씨 규리의 일기", "nanum-handwritting-gyuli-ui-ilgi";
+    font-family: "나눔손글씨 규리의 일기", "나눔손글씨규리의일기", "nanum-handwritting-gyuli-ui-ilgi";
 }
 ```
 

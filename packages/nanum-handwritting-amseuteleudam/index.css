@@ -6,24 +6,20 @@
        url(./amseuteleudam.eot?#iefix) format('embedded-opentype'),
        url(./amseuteleudam.woff2) format('woff2'),
        url(./amseuteleudam.woff) format('woff'),
-       
-       url(./amseuteleudam.ttf) format('truetype'),
-       url(./amseuteleudam.svg#amseuteleudam) format('svg');
+       url(./amseuteleudam.ttf) format('truetype');
   font-display: swap;
   font-style: normal;
   font-weight: 400;
 }
 @font-face {
-  font-family: '나눔손글씨 암스테르담';
+  font-family: '나눔손글씨암스테르담';
   src: url(./amseuteleudam.eot);
-  src: local('나눔손글씨 암스테르담 '),
-       local('나눔손글씨 암스테르담'),
+  src: local('나눔손글씨암스테르담 '),
+       local('나눔손글씨암스테르담'),
        url(./amseuteleudam.eot?#iefix) format('embedded-opentype'),
        url(./amseuteleudam.woff2) format('woff2'),
        url(./amseuteleudam.woff) format('woff'),
-       
-       url(./amseuteleudam.ttf) format('truetype'),
-       url(./amseuteleudam.svg#amseuteleudam) format('svg');
+       url(./amseuteleudam.ttf) format('truetype');
   font-display: swap;
   font-style: normal;
   font-weight: 400;
@@ -36,9 +32,7 @@
        url(./amseuteleudam.eot?#iefix) format('embedded-opentype'),
        url(./amseuteleudam.woff2) format('woff2'),
        url(./amseuteleudam.woff) format('woff'),
-       
-       url(./amseuteleudam.ttf) format('truetype'),
-       url(./amseuteleudam.svg#amseuteleudam) format('svg');
+       url(./amseuteleudam.ttf) format('truetype');
   font-display: swap;
   font-style: normal;
   font-weight: 400;

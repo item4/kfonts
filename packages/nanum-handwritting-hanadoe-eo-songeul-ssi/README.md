@@ -35,7 +35,7 @@ import '@kfonts/nanum-handwritting-hanadoe-eo-songeul-ssi';
 
 ```css
 body {
-    font-family: "나눔손글씨 하나되어 손글씨", "나눔손글씨 하나되어 손글씨", "nanum-handwritting-hanadoe-eo-songeul-ssi";
+    font-family: "나눔손글씨 하나되어 손글씨", "나눔손글씨하나되어손글씨", "nanum-handwritting-hanadoe-eo-songeul-ssi";
 }
 ```
 

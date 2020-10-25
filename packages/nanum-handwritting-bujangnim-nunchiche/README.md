@@ -35,7 +35,7 @@ import '@kfonts/nanum-handwritting-bujangnim-nunchiche';
 
 ```css
 body {
-    font-family: "나눔손글씨 부장님 눈치체", "나눔손글씨 부장님 눈치체", "nanum-handwritting-bujangnim-nunchiche";
+    font-family: "나눔손글씨 부장님 눈치체", "나눔손글씨부장님눈치체", "nanum-handwritting-bujangnim-nunchiche";
 }
 ```
 

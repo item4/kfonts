@@ -1,0 +1,52 @@
+@font-face {
+  font-family: '메이플스토리';
+  src: url(./Maplestory_Light.eot);
+  src: local('메이플스토리 '),
+       local('메이플스토리'),
+       url(./Maplestory_Light.eot?#iefix) format('embedded-opentype'),
+       url(./Maplestory_Light.woff2) format('woff2'),
+       url(./Maplestory_Light.woff) format('woff'),
+       url(./Maplestory_Light.ttf) format('truetype');
+  font-display: swap;
+  font-style: normal;
+  font-weight: 300;
+}
+@font-face {
+  font-family: 'nexon-maplestory';
+  src: url(./Maplestory_Light.eot);
+  src: local('nexon-maplestory '),
+       local('nexon-maplestory'),
+       url(./Maplestory_Light.eot?#iefix) format('embedded-opentype'),
+       url(./Maplestory_Light.woff2) format('woff2'),
+       url(./Maplestory_Light.woff) format('woff'),
+       url(./Maplestory_Light.ttf) format('truetype');
+  font-display: swap;
+  font-style: normal;
+  font-weight: 300;
+}
+@font-face {
+  font-family: '메이플스토리';
+  src: url(./Maplestory_Bold.eot);
+  src: local('메이플스토리 '),
+       local('메이플스토리'),
+       url(./Maplestory_Bold.eot?#iefix) format('embedded-opentype'),
+       url(./Maplestory_Bold.woff2) format('woff2'),
+       url(./Maplestory_Bold.woff) format('woff'),
+       url(./Maplestory_Bold.ttf) format('truetype');
+  font-display: swap;
+  font-style: normal;
+  font-weight: 700;
+}
+@font-face {
+  font-family: 'nexon-maplestory';
+  src: url(./Maplestory_Bold.eot);
+  src: local('nexon-maplestory '),
+       local('nexon-maplestory'),
+       url(./Maplestory_Bold.eot?#iefix) format('embedded-opentype'),
+       url(./Maplestory_Bold.woff2) format('woff2'),
+       url(./Maplestory_Bold.woff) format('woff'),
+       url(./Maplestory_Bold.ttf) format('truetype');
+  font-display: swap;
+  font-style: normal;
+  font-weight: 700;
+}

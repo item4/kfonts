@@ -6,9 +6,7 @@
        url(./D2Coding.eot?#iefix) format('embedded-opentype'),
        url(./D2Coding.woff2) format('woff2'),
        url(./D2Coding.woff) format('woff'),
-       
-       url(./D2Coding.ttf) format('truetype'),
-       url(./D2Coding.svg#D2Coding) format('svg');
+       url(./D2Coding.ttf) format('truetype');
   font-display: swap;
   font-style: normal;
   font-weight: 400;
@@ -21,9 +19,7 @@
        url(./D2Coding.eot?#iefix) format('embedded-opentype'),
        url(./D2Coding.woff2) format('woff2'),
        url(./D2Coding.woff) format('woff'),
-       
-       url(./D2Coding.ttf) format('truetype'),
-       url(./D2Coding.svg#D2Coding) format('svg');
+       url(./D2Coding.ttf) format('truetype');
   font-display: swap;
   font-style: normal;
   font-weight: 400;
@@ -36,9 +32,7 @@
        url(./D2CodingBold.eot?#iefix) format('embedded-opentype'),
        url(./D2CodingBold.woff2) format('woff2'),
        url(./D2CodingBold.woff) format('woff'),
-       
-       url(./D2CodingBold.ttf) format('truetype'),
-       url(./D2CodingBold.svg#D2CodingBold) format('svg');
+       url(./D2CodingBold.ttf) format('truetype');
   font-display: swap;
   font-style: normal;
   font-weight: 700;
@@ -51,9 +45,7 @@
        url(./D2CodingBold.eot?#iefix) format('embedded-opentype'),
        url(./D2CodingBold.woff2) format('woff2'),
        url(./D2CodingBold.woff) format('woff'),
-       
-       url(./D2CodingBold.ttf) format('truetype'),
-       url(./D2CodingBold.svg#D2CodingBold) format('svg');
+       url(./D2CodingBold.ttf) format('truetype');
   font-display: swap;
   font-style: normal;
   font-weight: 700;

@@ -35,7 +35,7 @@ import '@kfonts/nanum-handwritting-han-yunche';
 
 ```css
 body {
-    font-family: "나눔손글씨 한윤체", "나눔손글씨 한윤체", "nanum-handwritting-han-yunche";
+    font-family: "나눔손글씨 한윤체", "나눔손글씨한윤체", "nanum-handwritting-han-yunche";
 }
 ```
 

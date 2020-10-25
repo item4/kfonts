@@ -35,7 +35,7 @@ import '@kfonts/nanum-handwritting-si-u-gwi-yeo-wo';
 
 ```css
 body {
-    font-family: "나눔손글씨 시우 귀여워", "나눔손글씨 시우 귀여워", "nanum-handwritting-si-u-gwi-yeo-wo";
+    font-family: "나눔손글씨 시우 귀여워", "나눔손글씨시우귀여워", "nanum-handwritting-si-u-gwi-yeo-wo";
 }
 ```
 

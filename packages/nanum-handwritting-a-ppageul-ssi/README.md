@@ -35,7 +35,7 @@ import '@kfonts/nanum-handwritting-a-ppageul-ssi';
 
 ```css
 body {
-    font-family: "나눔손글씨 아빠글씨", "나눔손글씨 아빠글씨", "nanum-handwritting-a-ppageul-ssi";
+    font-family: "나눔손글씨 아빠글씨", "나눔손글씨아빠글씨", "nanum-handwritting-a-ppageul-ssi";
 }
 ```
 

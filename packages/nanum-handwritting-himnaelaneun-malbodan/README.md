@@ -35,7 +35,7 @@ import '@kfonts/nanum-handwritting-himnaelaneun-malbodan';
 
 ```css
 body {
-    font-family: "나눔손글씨 힘내라는 말보단", "나눔손글씨 힘내라는 말보단", "nanum-handwritting-himnaelaneun-malbodan";
+    font-family: "나눔손글씨 힘내라는 말보단", "나눔손글씨힘내라는말보단", "nanum-handwritting-himnaelaneun-malbodan";
 }
 ```
 

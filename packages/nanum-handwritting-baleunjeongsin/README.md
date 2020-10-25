@@ -35,7 +35,7 @@ import '@kfonts/nanum-handwritting-baleunjeongsin';
 
 ```css
 body {
-    font-family: "나눔손글씨 바른정신", "나눔손글씨 바른정신", "nanum-handwritting-baleunjeongsin";
+    font-family: "나눔손글씨 바른정신", "나눔손글씨바른정신", "nanum-handwritting-baleunjeongsin";
 }
 ```
 

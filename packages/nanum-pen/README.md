@@ -35,7 +35,7 @@ import '@kfonts/nanum-pen';
 
 ```css
 body {
-    font-family: "나눔손글씨 펜", "나눔손글씨 펜", "nanum-pen";
+    font-family: "나눔손글씨 펜", "나눔손글씨펜", "nanum-pen";
 }
 ```
 

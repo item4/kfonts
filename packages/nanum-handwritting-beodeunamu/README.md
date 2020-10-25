@@ -35,7 +35,7 @@ import '@kfonts/nanum-handwritting-beodeunamu';
 
 ```css
 body {
-    font-family: "나눔손글씨 버드나무", "나눔손글씨 버드나무", "nanum-handwritting-beodeunamu";
+    font-family: "나눔손글씨 버드나무", "나눔손글씨버드나무", "nanum-handwritting-beodeunamu";
 }
 ```
 

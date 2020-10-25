@@ -35,7 +35,7 @@ import '@kfonts/nanum-handwritting-galam-yeonkkoch';
 
 ```css
 body {
-    font-family: "나눔손글씨 가람연꽃", "나눔손글씨 가람연꽃", "nanum-handwritting-galam-yeonkkoch";
+    font-family: "나눔손글씨 가람연꽃", "나눔손글씨가람연꽃", "nanum-handwritting-galam-yeonkkoch";
 }
 ```
 

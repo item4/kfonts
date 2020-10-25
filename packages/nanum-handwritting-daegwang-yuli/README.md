@@ -35,7 +35,7 @@ import '@kfonts/nanum-handwritting-daegwang-yuli';
 
 ```css
 body {
-    font-family: "나눔손글씨 대광유리", "나눔손글씨 대광유리", "nanum-handwritting-daegwang-yuli";
+    font-family: "나눔손글씨 대광유리", "나눔손글씨대광유리", "nanum-handwritting-daegwang-yuli";
 }
 ```
 

@@ -35,7 +35,7 @@ import '@kfonts/nanum-handwritting-hyeog-iche';
 
 ```css
 body {
-    font-family: "나눔손글씨 혁이체", "나눔손글씨 혁이체", "nanum-handwritting-hyeog-iche";
+    font-family: "나눔손글씨 혁이체", "나눔손글씨혁이체", "nanum-handwritting-hyeog-iche";
 }
 ```
 

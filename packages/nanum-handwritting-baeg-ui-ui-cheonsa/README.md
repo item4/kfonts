@@ -35,7 +35,7 @@ import '@kfonts/nanum-handwritting-baeg-ui-ui-cheonsa';
 
 ```css
 body {
-    font-family: "나눔손글씨 백의의 천사", "나눔손글씨 백의의 천사", "nanum-handwritting-baeg-ui-ui-cheonsa";
+    font-family: "나눔손글씨 백의의 천사", "나눔손글씨백의의천사", "nanum-handwritting-baeg-ui-ui-cheonsa";
 }
 ```
 

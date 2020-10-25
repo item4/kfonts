@@ -35,7 +35,7 @@ import '@kfonts/nanum-handwritting-oehalmeonigeul-ssi';
 
 ```css
 body {
-    font-family: "나눔손글씨 외할머니글씨", "나눔손글씨 외할머니글씨", "nanum-handwritting-oehalmeonigeul-ssi";
+    font-family: "나눔손글씨 외할머니글씨", "나눔손글씨외할머니글씨", "nanum-handwritting-oehalmeonigeul-ssi";
 }
 ```
 

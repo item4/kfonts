@@ -6,24 +6,20 @@
        url(./kalgugsu.eot?#iefix) format('embedded-opentype'),
        url(./kalgugsu.woff2) format('woff2'),
        url(./kalgugsu.woff) format('woff'),
-       
-       url(./kalgugsu.ttf) format('truetype'),
-       url(./kalgugsu.svg#kalgugsu) format('svg');
+       url(./kalgugsu.ttf) format('truetype');
   font-display: swap;
   font-style: normal;
   font-weight: 400;
 }
 @font-face {
-  font-family: '나눔손글씨 칼국수';
+  font-family: '나눔손글씨칼국수';
   src: url(./kalgugsu.eot);
-  src: local('나눔손글씨 칼국수 '),
-       local('나눔손글씨 칼국수'),
+  src: local('나눔손글씨칼국수 '),
+       local('나눔손글씨칼국수'),
        url(./kalgugsu.eot?#iefix) format('embedded-opentype'),
        url(./kalgugsu.woff2) format('woff2'),
        url(./kalgugsu.woff) format('woff'),
-       
-       url(./kalgugsu.ttf) format('truetype'),
-       url(./kalgugsu.svg#kalgugsu) format('svg');
+       url(./kalgugsu.ttf) format('truetype');
   font-display: swap;
   font-style: normal;
   font-weight: 400;
@@ -36,9 +32,7 @@
        url(./kalgugsu.eot?#iefix) format('embedded-opentype'),
        url(./kalgugsu.woff2) format('woff2'),
        url(./kalgugsu.woff) format('woff'),
-       
-       url(./kalgugsu.ttf) format('truetype'),
-       url(./kalgugsu.svg#kalgugsu) format('svg');
+       url(./kalgugsu.ttf) format('truetype');
   font-display: swap;
   font-style: normal;
   font-weight: 400;

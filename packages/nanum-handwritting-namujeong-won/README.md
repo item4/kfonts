@@ -35,7 +35,7 @@ import '@kfonts/nanum-handwritting-namujeong-won';
 
 ```css
 body {
-    font-family: "나눔손글씨 나무정원", "나눔손글씨 나무정원", "nanum-handwritting-namujeong-won";
+    font-family: "나눔손글씨 나무정원", "나눔손글씨나무정원", "nanum-handwritting-namujeong-won";
 }
 ```
 

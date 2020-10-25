@@ -35,7 +35,7 @@ import '@kfonts/nanum-myeongjo-yet-hangul-otf';
 
 ```css
 body {
-    font-family: "나눔명조OTF 옛한글", "나눔명조OTF 옛한글", "nanum-myeongjo-yet-hangul-otf";
+    font-family: "나눔명조OTF 옛한글", "나눔명조OTF옛한글", "nanum-myeongjo-yet-hangul-otf";
 }
 ```
 

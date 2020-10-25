@@ -1,25 +1,25 @@
 {
     "font-family": "나눔스퀘어OTF",
-    "version": "0.1.1",
+    "version": "0.1.2",
     "otf_based": true,
     "files": [
         {
-            "filename": "NanumSquareOTFRegular.otf",
+            "filename": "NanumSquareR.otf",
             "weight": 400,
             "style": "normal"
         },
         {
-            "filename": "NanumSquareOTFLight.otf",
+            "filename": "NanumSquareL.otf",
             "weight": 300,
             "style": "normal"
         },
         {
-            "filename": "NanumSquareOTFBold.otf",
+            "filename": "NanumSquareB.otf",
             "weight": 700,
             "style": "normal"
         },
         {
-            "filename": "NanumSquareOTFExtraBold.otf",
+            "filename": "NanumSquareEB.otf",
             "weight": 800,
             "style": "normal"
         }

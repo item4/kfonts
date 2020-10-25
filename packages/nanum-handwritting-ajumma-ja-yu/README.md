@@ -35,7 +35,7 @@ import '@kfonts/nanum-handwritting-ajumma-ja-yu';
 
 ```css
 body {
-    font-family: "나눔손글씨 아줌마 자유", "나눔손글씨 아줌마 자유", "nanum-handwritting-ajumma-ja-yu";
+    font-family: "나눔손글씨 아줌마 자유", "나눔손글씨아줌마자유", "nanum-handwritting-ajumma-ja-yu";
 }
 ```
 

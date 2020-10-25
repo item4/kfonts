@@ -1,59 +1,55 @@
 @font-face {
   font-family: '나눔바른펜';
-  src: url(./NanumBarunpenRegular.eot);
+  src: url(./NanumBarunpenR.eot);
   src: local('나눔바른펜 '),
        local('나눔바른펜'),
-       url(./NanumBarunpenRegular.eot?#iefix) format('embedded-opentype'),
-       url(./NanumBarunpenRegular.woff2) format('woff2'),
-       url(./NanumBarunpenRegular.woff) format('woff'),
-       url(./NanumBarunpenRegular.otf) format('otf'),
-       url(./NanumBarunpenRegular.ttf) format('truetype'),
-       url(./NanumBarunpenRegular.svg#NanumBarunpenRegular) format('svg');
+       url(./NanumBarunpenR.eot?#iefix) format('embedded-opentype'),
+       url(./NanumBarunpenR.woff2) format('woff2'),
+       url(./NanumBarunpenR.woff) format('woff'),
+       url(./NanumBarunpenR.otf) format('otf'),
+       url(./NanumBarunpenR.ttf) format('truetype');
   font-display: swap;
   font-style: normal;
   font-weight: 400;
 }
 @font-face {
   font-family: 'nanum-barun-pen-otf';
-  src: url(./NanumBarunpenRegular.eot);
+  src: url(./NanumBarunpenR.eot);
   src: local('nanum-barun-pen-otf '),
        local('nanum-barun-pen-otf'),
-       url(./NanumBarunpenRegular.eot?#iefix) format('embedded-opentype'),
-       url(./NanumBarunpenRegular.woff2) format('woff2'),
-       url(./NanumBarunpenRegular.woff) format('woff'),
-       url(./NanumBarunpenRegular.otf) format('otf'),
-       url(./NanumBarunpenRegular.ttf) format('truetype'),
-       url(./NanumBarunpenRegular.svg#NanumBarunpenRegular) format('svg');
+       url(./NanumBarunpenR.eot?#iefix) format('embedded-opentype'),
+       url(./NanumBarunpenR.woff2) format('woff2'),
+       url(./NanumBarunpenR.woff) format('woff'),
+       url(./NanumBarunpenR.otf) format('otf'),
+       url(./NanumBarunpenR.ttf) format('truetype');
   font-display: swap;
   font-style: normal;
   font-weight: 400;
 }
 @font-face {
   font-family: '나눔바른펜';
-  src: url(./NanumBarunpenBold.eot);
+  src: url(./NanumBarunpenB.eot);
   src: local('나눔바른펜 '),
        local('나눔바른펜'),
-       url(./NanumBarunpenBold.eot?#iefix) format('embedded-opentype'),
-       url(./NanumBarunpenBold.woff2) format('woff2'),
-       url(./NanumBarunpenBold.woff) format('woff'),
-       url(./NanumBarunpenBold.otf) format('otf'),
-       url(./NanumBarunpenBold.ttf) format('truetype'),
-       url(./NanumBarunpenBold.svg#NanumBarunpenBold) format('svg');
+       url(./NanumBarunpenB.eot?#iefix) format('embedded-opentype'),
+       url(./NanumBarunpenB.woff2) format('woff2'),
+       url(./NanumBarunpenB.woff) format('woff'),
+       url(./NanumBarunpenB.otf) format('otf'),
+       url(./NanumBarunpenB.ttf) format('truetype');
   font-display: swap;
   font-style: normal;
   font-weight: 700;
 }
 @font-face {
   font-family: 'nanum-barun-pen-otf';
-  src: url(./NanumBarunpenBold.eot);
+  src: url(./NanumBarunpenB.eot);
   src: local('nanum-barun-pen-otf '),
        local('nanum-barun-pen-otf'),
-       url(./NanumBarunpenBold.eot?#iefix) format('embedded-opentype'),
-       url(./NanumBarunpenBold.woff2) format('woff2'),
-       url(./NanumBarunpenBold.woff) format('woff'),
-       url(./NanumBarunpenBold.otf) format('otf'),
-       url(./NanumBarunpenBold.ttf) format('truetype'),
-       url(./NanumBarunpenBold.svg#NanumBarunpenBold) format('svg');
+       url(./NanumBarunpenB.eot?#iefix) format('embedded-opentype'),
+       url(./NanumBarunpenB.woff2) format('woff2'),
+       url(./NanumBarunpenB.woff) format('woff'),
+       url(./NanumBarunpenB.otf) format('otf'),
+       url(./NanumBarunpenB.ttf) format('truetype');
   font-display: swap;
   font-style: normal;
   font-weight: 700;

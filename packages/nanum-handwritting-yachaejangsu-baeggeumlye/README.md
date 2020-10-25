@@ -35,7 +35,7 @@ import '@kfonts/nanum-handwritting-yachaejangsu-baeggeumlye';
 
 ```css
 body {
-    font-family: "나눔손글씨 야채장수 백금례", "나눔손글씨 야채장수 백금례", "nanum-handwritting-yachaejangsu-baeggeumlye";
+    font-family: "나눔손글씨 야채장수 백금례", "나눔손글씨야채장수백금례", "nanum-handwritting-yachaejangsu-baeggeumlye";
 }
 ```
 

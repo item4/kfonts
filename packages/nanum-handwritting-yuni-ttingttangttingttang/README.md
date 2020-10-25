@@ -35,7 +35,7 @@ import '@kfonts/nanum-handwritting-yuni-ttingttangttingttang';
 
 ```css
 body {
-    font-family: "나눔손글씨 유니 띵땅띵땅", "나눔손글씨 유니 띵땅띵땅", "nanum-handwritting-yuni-ttingttangttingttang";
+    font-family: "나눔손글씨 유니 띵땅띵땅", "나눔손글씨유니띵땅띵땅", "nanum-handwritting-yuni-ttingttangttingttang";
 }
 ```
 

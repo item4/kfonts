@@ -6,24 +6,20 @@
        url(./ban-jjagban-jjag-byeol.eot?#iefix) format('embedded-opentype'),
        url(./ban-jjagban-jjag-byeol.woff2) format('woff2'),
        url(./ban-jjagban-jjag-byeol.woff) format('woff'),
-       
-       url(./ban-jjagban-jjag-byeol.ttf) format('truetype'),
-       url(./ban-jjagban-jjag-byeol.svg#ban-jjagban-jjag-byeol) format('svg');
+       url(./ban-jjagban-jjag-byeol.ttf) format('truetype');
   font-display: swap;
   font-style: normal;
   font-weight: 400;
 }
 @font-face {
-  font-family: '나눔손글씨 반짝반짝 별';
+  font-family: '나눔손글씨반짝반짝별';
   src: url(./ban-jjagban-jjag-byeol.eot);
-  src: local('나눔손글씨 반짝반짝 별 '),
-       local('나눔손글씨 반짝반짝 별'),
+  src: local('나눔손글씨반짝반짝별 '),
+       local('나눔손글씨반짝반짝별'),
        url(./ban-jjagban-jjag-byeol.eot?#iefix) format('embedded-opentype'),
        url(./ban-jjagban-jjag-byeol.woff2) format('woff2'),
        url(./ban-jjagban-jjag-byeol.woff) format('woff'),
-       
-       url(./ban-jjagban-jjag-byeol.ttf) format('truetype'),
-       url(./ban-jjagban-jjag-byeol.svg#ban-jjagban-jjag-byeol) format('svg');
+       url(./ban-jjagban-jjag-byeol.ttf) format('truetype');
   font-display: swap;
   font-style: normal;
   font-weight: 400;
@@ -36,9 +32,7 @@
        url(./ban-jjagban-jjag-byeol.eot?#iefix) format('embedded-opentype'),
        url(./ban-jjagban-jjag-byeol.woff2) format('woff2'),
        url(./ban-jjagban-jjag-byeol.woff) format('woff'),
-       
-       url(./ban-jjagban-jjag-byeol.ttf) format('truetype'),
-       url(./ban-jjagban-jjag-byeol.svg#ban-jjagban-jjag-byeol) format('svg');
+       url(./ban-jjagban-jjag-byeol.ttf) format('truetype');
   font-display: swap;
   font-style: normal;
   font-weight: 400;
