@@ -57,4 +57,4 @@ I might upgrade css-loader or use alternative font name.)
 
 ## License
 
-[Link](https://github.com/Dalgona/neodgm/blob/master/LICENSE.txt)
+[Link](https://github.com/neodgm/neodgm/blob/main/LICENSE.txt)
