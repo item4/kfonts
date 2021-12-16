@@ -224,7 +224,7 @@ ${license_text}
         package_dir.name,
         base_font_family,
       ],
-      author: 'Kim, Jinsu <item4_hun@hotmail.com>',
+      author: 'Kim, Jinsu <item4hun@gmail.com>',
       license: 'SEE LICENSE IN LICENSE',
       repository: `https://github.com/item4/kfonts/tree/main/packages/${package_dir.name}`,
     });

@@ -1,22 +1,22 @@
 {
-  "font-family": "나눔고딕 에코",
-  "version": "0.1.0",
-  "files": [
-    {
-      "filename": "NanumGothicEco.ttf",
-      "weight": 400,
-      "style": "normal"
-    },
-    {
-      "filename": "NanumGothicEcoBold.ttf",
-      "weight": 700,
-      "style": "normal"
-    },
-    {
-      "filename": "NanumGothicEcoExtraBold.ttf",
-      "weight": 800,
-      "style": "normal"
-    }
-  ],
-  "license_link": "https://help.naver.com/support/contents/contents.help?serviceNo=1074&categoryNo=3497"
+    "font-family": "나눔고딕 에코",
+    "version": "0.1.1",
+    "files": [
+        {
+            "filename": "NanumGothicEco.ttf",
+            "weight": 400,
+            "style": "normal"
+        },
+        {
+            "filename": "NanumGothicEcoBold.ttf",
+            "weight": 700,
+            "style": "normal"
+        },
+        {
+            "filename": "NanumGothicEcoExtraBold.ttf",
+            "weight": 800,
+            "style": "normal"
+        }
+    ],
+    "license_link": "https://help.naver.com/support/contents/contents.help?serviceNo=1074&categoryNo=3497"
 }
