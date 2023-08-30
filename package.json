@@ -1,8 +1,17 @@
 {
+  "name": "@kfonts",
+  "version": "0.1.0",
+  "private": true,
+  "author": "item4",
+  "type": "module",
+  "workspaces": [
+    "packages/*"
+  ],
+  "packageManager": "yarn@3.6.3",
   "dependencies": {
-    "fontfacegen": "^0.4.0"
+    "fontfacegen": "^0.5.1"
   },
   "devDependencies": {
-    "prettier": "^2.1.2"
+    "prettier": "^3.0.3"
   }
 }

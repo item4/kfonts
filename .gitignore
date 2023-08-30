@@ -1,8 +1,14 @@
-__pycache__/
-*.pyc
-*.swp
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/sdks
+!.yarn/versions
+
 node_modules
+
 .idea
+
 packages/**/*.ttf
 packages/**/*.otf
 packages/**/*.eot
@@ -11,4 +17,3 @@ packages/**/*.woff
 packages/**/*.woff2
 !packages/**/src/*.ttf
 !packages/**/src/*.otf
-.DS_Store
