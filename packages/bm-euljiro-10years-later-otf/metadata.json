@@ -1,13 +1,27 @@
 {
-    "font-family": "배민 을지로10년후체 OTF",
-    "version": "0.1.1",
-    "otf_based": true,
-    "files": [
-        {
-            "filename": "BMEuljiro10yearslaterOTF.otf",
-            "weight": 400,
-            "style": "normal"
-        }
-    ],
-    "license_link": "https://www.woowahan.com/#/fonts"
+  "name": "bm-euljiro-10years-later-otf",
+  "version": "0.1.1",
+  "family": [
+    "배민 을지로10년후체 OTF",
+    "BM Euljiro 10 years later OTF"
+  ],
+  "generic": "cursive",
+  "format": "otf",
+  "homepage": {
+    "name": "우아한형제들 글꼴",
+    "url": "https://www.woowahan.com/fonts"
+  },
+  "license": {
+    "spdx": "OFL-1.1",
+    "name": "배달의민족 글꼴 라이센스 정책",
+    "url": "https://www.woowahan.com/fonts/license"
+  },
+  "files": [
+    {
+      "filename": "BMEuljiro10yearslaterOTF.otf",
+      "weight": 400,
+      "style": "normal",
+      "version": 65536
+    }
+  ]
 }

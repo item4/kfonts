@@ -1,13 +1,27 @@
 {
-    "font-family": "배달의민족 한나는 열한살 OTF",
-    "version": "0.1.3",
-    "otf_based": true,
-    "files": [
-        {
-            "filename": "BMHANNA_11yrs_otf.otf",
-            "weight": 400,
-            "style": "normal"
-        }
-    ],
-    "license_link": "https://www.woowahan.com/#/fonts"
+  "name": "bm-hanna-11yrs-otf",
+  "version": "0.1.3",
+  "family": [
+    "배달의민족 한나는 열한살 OTF",
+    "BM HANNA 11yrs old OTF"
+  ],
+  "generic": "sans-serif",
+  "format": "otf",
+  "homepage": {
+    "name": "우아한형제들 글꼴",
+    "url": "https://www.woowahan.com/fonts"
+  },
+  "license": {
+    "spdx": "OFL-1.1",
+    "name": "배달의민족 글꼴 라이센스 정책",
+    "url": "https://www.woowahan.com/fonts/license"
+  },
+  "files": [
+    {
+      "filename": "BMHANNA_11yrs_otf.otf",
+      "weight": 400,
+      "style": "normal",
+      "version": 65536
+    }
+  ]
 }

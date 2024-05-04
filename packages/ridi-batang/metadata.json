@@ -1,13 +1,27 @@
 {
-    "font-family": "리디바탕",
-    "version": "0.1.3",
-    "otf_based": true,
-    "files": [
-        {
-            "filename": "RIDIBatang.otf",
-            "weight": 400,
-            "style": "normal"
-        }
-    ],
-    "license_link": "https://www.ridicorp.com/branding/fonts/ridibatang/"
+  "name": "ridi-batang",
+  "version": "0.1.3",
+  "family": [
+    "리디바탕",
+    "RIDIBatang"
+  ],
+  "generic": "serif",
+  "format": "otf",
+  "homepage": {
+    "name": "리디바탕",
+    "url": "https://ridicorp.com/ridibatang/"
+  },
+  "license": {
+    "spdx": "OFL-1.1",
+    "name": "라이선스 안내",
+    "url": "https://ridicorp.com/ridibatang/#ridibatang-download"
+  },
+  "files": [
+    {
+      "filename": "RIDIBatang.otf",
+      "weight": 400,
+      "style": "normal",
+      "version": 65536
+    }
+  ]
 }

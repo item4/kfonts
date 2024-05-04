@@ -1,17 +1,33 @@
 {
-    "font-family": "메이플스토리",
-    "version": "0.1.1",
-    "files": [
-        {
-            "filename": "Maplestory_Light.ttf",
-            "weight": 300,
-            "style": "normal"
-        },
-        {
-            "filename": "Maplestory_Bold.ttf",
-            "weight": 700,
-            "style": "normal"
-        }
-    ],
-    "license_link": "http://levelup.nexon.com/font/index.aspx"
+  "name": "nexon-maplestory",
+  "version": "0.1.1",
+  "family": [
+    "메이플스토리",
+    "Maplestory"
+  ],
+  "generic": "cursive",
+  "format": "ttf",
+  "homepage": {
+    "name": "NEXON LEVEL UP",
+    "url": "https://levelup.nexon.com/index.html"
+  },
+  "license": {
+    "spdx": null,
+    "name": "넥슨 폰트 사용정책",
+    "url": "https://levelup.nexon.com/index.html#policy"
+  },
+  "files": [
+    {
+      "filename": "Maplestory_Light.ttf",
+      "weight": 300,
+      "style": "normal",
+      "version": 65536
+    },
+    {
+      "filename": "Maplestory_Bold.ttf",
+      "weight": 700,
+      "style": "normal",
+      "version": 65536
+    }
+  ]
 }

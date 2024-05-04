@@ -1,12 +1,27 @@
 {
-    "font-family": "배찌체",
-    "version": "0.1.3",
-    "files": [
-        {
-            "filename": "Bazzi.ttf",
-            "weight": 300,
-            "style": "normal"
-        }
-    ],
-    "license_link": "http://levelup.nexon.com/font/index.aspx"
+  "name": "nexon-bazzi",
+  "version": "0.1.3",
+  "family": [
+    "배찌체",
+    "Bazzi"
+  ],
+  "generic": "cursive",
+  "format": "ttf",
+  "homepage": {
+    "name": "NEXON LEVEL UP",
+    "url": "https://levelup.nexon.com/index.html"
+  },
+  "license": {
+    "spdx": null,
+    "name": "넥슨 폰트 사용정책",
+    "url": "https://levelup.nexon.com/index.html#policy"
+  },
+  "files": [
+    {
+      "filename": "Bazzi.ttf",
+      "weight": 300,
+      "style": "normal",
+      "version": 65536
+    }
+  ]
 }

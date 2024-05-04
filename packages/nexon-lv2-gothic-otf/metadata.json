@@ -1,28 +1,45 @@
 {
-    "font-family": "넥슨Lv2고딕 OTF",
-    "version": "0.1.3",
-    "otf_based": true,
-    "files": [
-        {
-            "filename": "NEXON_Lv2_Gothic_OTF_Light.otf",
-            "weight": 300,
-            "style": "normal"
-        },
-        {
-            "filename": "NEXON_Lv2_Gothic_OTF.otf",
-            "weight": 400,
-            "style": "normal"
-        },
-        {
-            "filename": "NEXON_Lv2_Gothic_OTF_Medium.otf",
-            "weight": 500,
-            "style": "normal"
-        },
-        {
-            "filename": "NEXON_Lv2_Gothic_OTF_Bold.otf",
-            "weight": 700,
-            "style": "normal"
-        }
-    ],
-    "license_link": "http://levelup.nexon.com/font/index.aspx"
+  "name": "nexon-lv2-gothic-otf",
+  "version": "0.1.3",
+  "family": [
+    "넥슨Lv2고딕 OTF",
+    "NEXON Lv2 Gothic OTF"
+  ],
+  "generic": "sans-serif",
+  "format": "otf",
+  "homepage": {
+    "name": "NEXON LEVEL UP",
+    "url": "https://levelup.nexon.com/index.html"
+  },
+  "license": {
+    "spdx": null,
+    "name": "넥슨 폰트 사용정책",
+    "url": "https://levelup.nexon.com/index.html#policy"
+  },
+  "files": [
+    {
+      "filename": "NEXON_Lv2_Gothic_OTF_Light.otf",
+      "weight": 300,
+      "style": "normal",
+      "version": 65536
+    },
+    {
+      "filename": "NEXON_Lv2_Gothic_OTF.otf",
+      "weight": 400,
+      "style": "normal",
+      "version": 65536
+    },
+    {
+      "filename": "NEXON_Lv2_Gothic_OTF_Medium.otf",
+      "weight": 500,
+      "style": "normal",
+      "version": 65536
+    },
+    {
+      "filename": "NEXON_Lv2_Gothic_OTF_Bold.otf",
+      "weight": 700,
+      "style": "normal",
+      "version": 65536
+    }
+  ]
 }

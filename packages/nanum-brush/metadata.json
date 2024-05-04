@@ -1,12 +1,27 @@
 {
-    "font-family": "나눔손글씨 붓",
-    "version": "0.1.3",
-    "files": [
-        {
-            "filename": "NanumBrush.ttf",
-            "weight": 400,
-            "style": "normal"
-        }
-    ],
-    "license_link": "https://help.naver.com/support/contents/contents.help?serviceNo=1074&categoryNo=3497"
+  "name": "nanum-brush",
+  "version": "0.1.3",
+  "family": [
+    "나눔손글씨 붓",
+    "Nanum Brush Script"
+  ],
+  "generic": "cursive",
+  "format": "ttf",
+  "homepage": {
+    "name": "네이버 글꼴 모음",
+    "url": "https://hangeul.naver.com/font"
+  },
+  "license": {
+    "spdx": "OFL-1.1",
+    "name": "네이버 나눔글꼴 라이선스안내",
+    "url": "https://help.naver.com/service/30016/contents/18088?osType=PC&lang=ko"
+  },
+  "files": [
+    {
+      "filename": "NanumBrush.ttf",
+      "weight": 400,
+      "style": "normal",
+      "version": 72090
+    }
+  ]
 }

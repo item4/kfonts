@@ -1,12 +1,27 @@
 {
-    "font-family": "Neo둥근모",
-    "version": "0.3.0",
-    "files": [
-        {
-            "filename": "neodgm.ttf",
-            "weight": 300,
-            "style": "normal"
-        }
-    ],
-    "license_link": "https://github.com/neodgm/neodgm/blob/main/LICENSE.txt"
+  "name": "neodgm",
+  "version": "0.3.0",
+  "family": [
+    "Neo둥근모",
+    "NeoDunggeunmo"
+  ],
+  "generic": "cursive",
+  "format": "ttf",
+  "homepage": {
+    "name": "Neo둥근모 프로젝트",
+    "url": "https://neodgm.dalgona.dev/"
+  },
+  "license": {
+    "spdx": "OFL-1.1",
+    "name": "LICENSE.txt",
+    "url": "https://github.com/neodgm/neodgm/blob/main/LICENSE.txt"
+  },
+  "files": [
+    {
+      "filename": "neodgm.ttf",
+      "weight": 300,
+      "style": "normal",
+      "version": 100270
+    }
+  ]
 }

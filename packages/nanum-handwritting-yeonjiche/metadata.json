@@ -1,12 +1,27 @@
 {
-    "font-family": "나눔손글씨 연지체",
-    "version": "0.1.3",
-    "files": [
-        {
-            "filename": "yeonjiche.ttf",
-            "weight": 400,
-            "style": "normal"
-        }
-    ],
-    "license_link": "https://clova.ai/handwriting/list.html"
+  "name": "nanum-handwritting-yeonjiche",
+  "version": "0.1.3",
+  "family": [
+    "나눔손글씨 연지체",
+    "Nanum YeonJiCe"
+  ],
+  "generic": "cursive",
+  "format": "ttf",
+  "homepage": {
+    "name": "네이버 글꼴 모음",
+    "url": "https://hangeul.naver.com/font"
+  },
+  "license": {
+    "spdx": "OFL-1.1",
+    "name": "네이버 나눔글꼴 라이선스안내",
+    "url": "https://help.naver.com/service/30016/contents/18088?osType=PC&lang=ko"
+  },
+  "files": [
+    {
+      "filename": "yeonjiche.ttf",
+      "weight": 400,
+      "style": "normal",
+      "version": 65536
+    }
+  ]
 }

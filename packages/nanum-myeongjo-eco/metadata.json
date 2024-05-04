@@ -1,22 +1,39 @@
 {
-    "font-family": "나눔명조 에코",
-    "version": "0.1.1",
-    "files": [
-        {
-            "filename": "NanumMyeongjoEco.ttf",
-            "weight": 400,
-            "style": "normal"
-        },
-        {
-            "filename": "NanumMyeongjoEcoBold.ttf",
-            "weight": 700,
-            "style": "normal"
-        },
-        {
-            "filename": "NanumMyeongjoEcoExtraBold.ttf",
-            "weight": 800,
-            "style": "normal"
-        }
-    ],
-    "license_link": "https://help.naver.com/support/contents/contents.help?serviceNo=1074&categoryNo=3497"
+  "name": "nanum-myeongjo-eco",
+  "version": "0.1.1",
+  "family": [
+    "나눔명조 에코",
+    "NanumMyeongjo Eco"
+  ],
+  "generic": "serif",
+  "format": "ttf",
+  "homepage": {
+    "name": "네이버 글꼴 모음",
+    "url": "https://hangeul.naver.com/font"
+  },
+  "license": {
+    "spdx": "OFL-1.1",
+    "name": "네이버 나눔글꼴 라이선스안내",
+    "url": "https://help.naver.com/service/30016/contents/18088?osType=PC&lang=ko"
+  },
+  "files": [
+    {
+      "filename": "NanumMyeongjoEco.ttf",
+      "weight": 400,
+      "style": "normal",
+      "version": 65536
+    },
+    {
+      "filename": "NanumMyeongjoEcoBold.ttf",
+      "weight": 700,
+      "style": "normal",
+      "version": 65536
+    },
+    {
+      "filename": "NanumMyeongjoEcoExtraBold.ttf",
+      "weight": 800,
+      "style": "normal",
+      "version": 65536
+    }
+  ]
 }
