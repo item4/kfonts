@@ -24,6 +24,7 @@ const KNOWN_GENERIC_TYPE: Record<string, GenericFamily> = {
   'd2coding ligature': 'monospace',
   배찌체: 'cursive',
   메이플스토리: 'cursive',
+  '마루 부리': 'serif',
 };
 
 async function main() {

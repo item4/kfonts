@@ -1,0 +1,51 @@
+{
+  "name": "maruburi-otf",
+  "version": "0.1.0",
+  "family": [
+    "마루 부리OTF",
+    "MaruBuriOTF"
+  ],
+  "generic": "serif",
+  "format": "otf",
+  "homepage": {
+    "name": "네이버 글꼴모음",
+    "url": "https://hangeul.naver.com/fonts/search?f=maru"
+  },
+  "license": {
+    "spdx": "OFL-1.1",
+    "name": "Open Font License",
+    "url": "https://help.naver.com/service/30016/contents/18088?osType=PC&lang=ko"
+  },
+  "files": [
+    {
+      "filename": "MaruBuri-ExtraLight.otf",
+      "weight": 200,
+      "style": "normal",
+      "version": 65536
+    },
+    {
+      "filename": "MaruBuri-Light.otf",
+      "weight": 300,
+      "style": "normal",
+      "version": 65536
+    },
+    {
+      "filename": "MaruBuri-Regular.otf",
+      "weight": 400,
+      "style": "normal",
+      "version": 65536
+    },
+    {
+      "filename": "MaruBuri-SemiBold.otf",
+      "weight": 600,
+      "style": "normal",
+      "version": 65536
+    },
+    {
+      "filename": "MaruBuri-Bold.otf",
+      "weight": 700,
+      "style": "normal",
+      "version": 65536
+    }
+  ]
+}
