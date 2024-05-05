@@ -51,7 +51,8 @@
 - [fontforge](http://fontforge.github.io/en-US/)
 - woff2
 
-`$ node gen.js` 명령어를 통해 폰트를 생성할 수 있습니다.
+`$ yarn swc-node src/build.ts` 명령어를 통해 웹폰트를 생성할 수 있습니다.
+
 
 배포
 ----
