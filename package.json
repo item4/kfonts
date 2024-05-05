@@ -1,5 +1,4 @@
 {
-  "name": "@kfonts",
   "version": "0.1.0",
   "private": true,
   "author": "item4",
@@ -7,11 +6,32 @@
   "workspaces": [
     "packages/*"
   ],
-  "packageManager": "yarn@3.6.3",
+  "packageManager": "yarn@4.2.1",
   "dependencies": {
-    "fontfacegen": "^0.5.1"
+    "@swc-node/register": "^1.9.1",
+    "@swc/core": "^1.4.17",
+    "@types/node": "^20.12.8",
+    "typescript": "^5.4.5"
   },
   "devDependencies": {
-    "prettier": "^3.0.3"
+    "@typescript-eslint/eslint-plugin": "^7.8.0",
+    "@typescript-eslint/parser": "^7.8.0",
+    "eslint": "^8.57.0",
+    "eslint-config-prettier": "^9.1.0",
+    "eslint-import-resolver-node": "^0.3.9",
+    "eslint-import-resolver-typescript": "^3.6.1",
+    "eslint-plugin-import": "^2.29.1",
+    "eslint-plugin-prettier": "^5.1.3",
+    "eslint-plugin-unicorn": "^52.0.0",
+    "prettier": "^3.2.5"
+  },
+  "scripts": {
+    "swc-node": "node --import @swc-node/register/esm-register",
+    "check:lint": "eslint \"src/**\" \"./*.{js,cjs,mjs,ts,tsx}\"",
+    "check:type": "tsc --noEmit",
+    "check": "yarn check:lint && yarn check:type",
+    "format:lint": "eslint --fix \"src/**\" \"./*.{js,cjs,mjs,ts,tsx}\"",
+    "format:prettier": "prettier --write src/* ./*.{js,cjs,mjs,ts,tsx,json,css}",
+    "format": "yarn format:lint && yarn format:prettier"
   }
 }
