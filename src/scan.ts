@@ -28,14 +28,15 @@ const KNOWN_GENERIC_TYPE: Record<string, GenericFamily> = {
 
 async function main() {
   for await (const directory of getPackages()) {
-    const metadataPath = path.join(directory.path, 'metadata.json');
+    const packagePath = path.join(directory.path, directory.name);
+    const metadataPath = path.join(packagePath, 'metadata.json');
     if (!(await exists(metadataPath))) {
       continue;
     }
     const metadata: Metadata = await readJSON(metadataPath);
     const fontFamilySet: Set<string> = new Set();
     for (const file of metadata.files) {
-      const fontPath = path.join(directory.path, 'src', file.filename);
+      const fontPath = path.join(packagePath, 'src', file.filename);
       const { stdout } = await exec(`fc-query ${fontPath}`);
       const rawFamily = /\s+family: (.+)$/m.exec(stdout)![1];
       const rawFamilyLang = /\s+familylang: (.+)$/m.exec(stdout)![1];
