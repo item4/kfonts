@@ -52,3 +52,16 @@
 - woff2
 
 `$ node gen.js` 명령어를 통해 폰트를 생성할 수 있습니다.
+
+배포
+----
+
+1. 먼저 `yarn npm login` 명령어를 통해 npm에 로그인해주세요.
+2. `clean.ts` 파일을 실행해서 불필요한 파일을 패키지 경로에서 제외시켜주세요.
+   ```bash
+   $ yarn swc-node clean.ts
+   ```
+3. 다음 명령어로 일괄배포합니다.
+   ```bash
+   $ yarn workspaces foreach -A npm publish --tolerate-republish
+   ```
