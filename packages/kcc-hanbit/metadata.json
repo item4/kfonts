@@ -1,0 +1,27 @@
+{
+  "name": "kcc-hanbit",
+  "version": "0.1.0",
+  "family": [
+    "KCC-한빛",
+    "KCC-Hanbit"
+  ],
+  "generic": "cursive",
+  "format": "otf",
+  "homepage": {
+    "name": "공유마당 무료폰트 자료실",
+    "url": "https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=13371550&menuNo=200195"
+  },
+  "license": {
+    "spdx": "OFL-1.1",
+    "name": "Open Font License",
+    "url": "https://openfontlicense.org/"
+  },
+  "files": [
+    {
+      "filename": "KCC-Hanbit.otf",
+      "weight": 400,
+      "style": "normal",
+      "version": 65536
+    }
+  ]
+}
