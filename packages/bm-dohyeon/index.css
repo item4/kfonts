@@ -1,39 +1,6 @@
 @font-face {
   font-family: '배달의민족 도현';
-  src: url(./BMDOHYEON_ttf.eot);
-  src: local('배달의민족 도현 '),
-       local('배달의민족 도현'),
-       url(./BMDOHYEON_ttf.eot?#iefix) format('embedded-opentype'),
-       url(./BMDOHYEON_ttf.woff2) format('woff2'),
-       url(./BMDOHYEON_ttf.woff) format('woff'),
-       url(./BMDOHYEON_ttf.ttf) format('truetype');
+  src: local('배달의민족 도현'), local('배달의민족 도현 '), local('BM DoHyeon'), local('BM DoHyeon '), url(./BMDOHYEON_ttf.woff2) format('woff2'), url(./BMDOHYEON_ttf.woff) format('woff');
   font-display: swap;
-  font-style: normal;
-  font-weight: 400;
-}
-@font-face {
-  font-family: '배달의민족도현';
-  src: url(./BMDOHYEON_ttf.eot);
-  src: local('배달의민족도현 '),
-       local('배달의민족도현'),
-       url(./BMDOHYEON_ttf.eot?#iefix) format('embedded-opentype'),
-       url(./BMDOHYEON_ttf.woff2) format('woff2'),
-       url(./BMDOHYEON_ttf.woff) format('woff'),
-       url(./BMDOHYEON_ttf.ttf) format('truetype');
-  font-display: swap;
-  font-style: normal;
-  font-weight: 400;
-}
-@font-face {
-  font-family: 'bm-dohyeon';
-  src: url(./BMDOHYEON_ttf.eot);
-  src: local('bm-dohyeon '),
-       local('bm-dohyeon'),
-       url(./BMDOHYEON_ttf.eot?#iefix) format('embedded-opentype'),
-       url(./BMDOHYEON_ttf.woff2) format('woff2'),
-       url(./BMDOHYEON_ttf.woff) format('woff'),
-       url(./BMDOHYEON_ttf.ttf) format('truetype');
-  font-display: swap;
-  font-style: normal;
   font-weight: 400;
 }

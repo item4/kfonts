@@ -1,39 +1,6 @@
 @font-face {
   font-family: '나눔손글씨 곰신체';
-  src: url(./gomsinche.eot);
-  src: local('나눔손글씨 곰신체 '),
-       local('나눔손글씨 곰신체'),
-       url(./gomsinche.eot?#iefix) format('embedded-opentype'),
-       url(./gomsinche.woff2) format('woff2'),
-       url(./gomsinche.woff) format('woff'),
-       url(./gomsinche.ttf) format('truetype');
+  src: local('나눔손글씨 곰신체'), local('나눔손글씨 곰신체 '), local('Nanum GomSinCe'), local('Nanum GomSinCe '), url(./gomsinche.woff2) format('woff2'), url(./gomsinche.woff) format('woff');
   font-display: swap;
-  font-style: normal;
-  font-weight: 400;
-}
-@font-face {
-  font-family: '나눔손글씨곰신체';
-  src: url(./gomsinche.eot);
-  src: local('나눔손글씨곰신체 '),
-       local('나눔손글씨곰신체'),
-       url(./gomsinche.eot?#iefix) format('embedded-opentype'),
-       url(./gomsinche.woff2) format('woff2'),
-       url(./gomsinche.woff) format('woff'),
-       url(./gomsinche.ttf) format('truetype');
-  font-display: swap;
-  font-style: normal;
-  font-weight: 400;
-}
-@font-face {
-  font-family: 'nanum-handwritting-gomsinche';
-  src: url(./gomsinche.eot);
-  src: local('nanum-handwritting-gomsinche '),
-       local('nanum-handwritting-gomsinche'),
-       url(./gomsinche.eot?#iefix) format('embedded-opentype'),
-       url(./gomsinche.woff2) format('woff2'),
-       url(./gomsinche.woff) format('woff'),
-       url(./gomsinche.ttf) format('truetype');
-  font-display: swap;
-  font-style: normal;
   font-weight: 400;
 }

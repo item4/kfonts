@@ -1,60 +1,57 @@
 # @kfonts/nexon-bazzi
 
-배찌체 폰트를 self-host 하기 위한 webfont 파일과 css 파일
-(Webfont and css files package for self-hosting 배찌체 font)
+[![@kfonts/nexon-bazzi on npmjs.com](https://img.shields.io/npm/v/%40kfonts%2Fnexon-bazzi)](https://www.npmjs.com/package/@kfonts/nexon-bazzi)
 
-## 설치 (Installation)
+The CSS and web font files for using &OpenCurlyDoubleQuote;배찌체&CloseCurlyDoubleQuote; font on your website without external resource.
 
-```
-$ npm install --save @kfonts/nexon-bazzi
-```
+## Quick Start
 
-혹은 (or)
+### Installation
 
-```
+```sh
+# npm
+npm install --save @kfonts/nexon-bazzi
+
+# yarn
 yarn add @kfonts/nexon-bazzi
+
+# pnpm
+pnpm install @kfonts/nexon-bazzi
 ```
 
-## Self-Host 방법 (Usage)
-
-webpack을 통해 빌드되는 프로젝트에서 다음과 같은 형태로 사용 가능합니다.
-(In project built via webpack, You can use it below method:)
+### Embeding
 
 ```js
+// ES6+ with import assertion
+import '@kfonts/nexon-bazzi' assert { type: 'css' };
+
+// ES6+
+import '@kfonts/nexon-bazzi';
+
+// CommonJS
 require('@kfonts/nexon-bazzi');
 ```
 
-혹은 (or)
-
-```js
-import '@kfonts/nexon-bazzi';
-```
-
-그 후에 CSS 안에서 다음과 같이 사용 가능합니다.
-(After that, You can use it like it)
+### Styling
 
 ```css
 body {
-    font-family: "배찌체", "nexon-bazzi";
+  font-family: '배찌체', 'Bazzi', cursive;
 }
 ```
 
-### 주의사항 (Warning)
+## Without self-host
 
-css-loader 버전이 낮은 경우, 폰트명에 공백이 있으면 폰트 사용이 불가합니다.
-css-loader의 버전을 올리거나, 띄어쓰기가 없는 대체 폰트명을 사용해주세요.
-(If you use low version css-loader, you can not use fontname contains spaces.
-I might upgrade css-loader or use alternative font name.)
-
-## Self-Host를 할 수 없는 경우의 사용법 (Usage without self-host)
-
-다음의 HTML을 `<head>` 태그 내부에 삽입해주세요.
-(Insert this HTML in `<head>` tag.)
+If you can not use self-host method but want to this font, you can embed this from unpkg.
 
 ```html
 <link rel="stylesheet" href="https://unpkg.com/@kfonts/nexon-bazzi/index.css" />
 ```
 
-## License
+## Original font
 
-[Link](http://levelup.nexon.com/font/index.aspx)
+Original font can download here: [NEXON LEVEL UP](https://levelup.nexon.com/index.html)
+
+## Licence
+
+You can check full license description here: [넥슨 폰트 사용정책](https://levelup.nexon.com/index.html#policy)

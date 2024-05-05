@@ -1,39 +1,6 @@
 @font-face {
   font-family: '나눔손글씨 다채사랑';
-  src: url(./dachaesalang.eot);
-  src: local('나눔손글씨 다채사랑 '),
-       local('나눔손글씨 다채사랑'),
-       url(./dachaesalang.eot?#iefix) format('embedded-opentype'),
-       url(./dachaesalang.woff2) format('woff2'),
-       url(./dachaesalang.woff) format('woff'),
-       url(./dachaesalang.ttf) format('truetype');
+  src: local('나눔손글씨 다채사랑'), local('나눔손글씨 다채사랑 '), local('Nanum DaCaeSaRang'), local('Nanum DaCaeSaRang '), url(./dachaesalang.woff2) format('woff2'), url(./dachaesalang.woff) format('woff');
   font-display: swap;
-  font-style: normal;
-  font-weight: 400;
-}
-@font-face {
-  font-family: '나눔손글씨다채사랑';
-  src: url(./dachaesalang.eot);
-  src: local('나눔손글씨다채사랑 '),
-       local('나눔손글씨다채사랑'),
-       url(./dachaesalang.eot?#iefix) format('embedded-opentype'),
-       url(./dachaesalang.woff2) format('woff2'),
-       url(./dachaesalang.woff) format('woff'),
-       url(./dachaesalang.ttf) format('truetype');
-  font-display: swap;
-  font-style: normal;
-  font-weight: 400;
-}
-@font-face {
-  font-family: 'nanum-handwritting-dachaesalang';
-  src: url(./dachaesalang.eot);
-  src: local('nanum-handwritting-dachaesalang '),
-       local('nanum-handwritting-dachaesalang'),
-       url(./dachaesalang.eot?#iefix) format('embedded-opentype'),
-       url(./dachaesalang.woff2) format('woff2'),
-       url(./dachaesalang.woff) format('woff'),
-       url(./dachaesalang.ttf) format('truetype');
-  font-display: swap;
-  font-style: normal;
   font-weight: 400;
 }

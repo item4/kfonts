@@ -1,28 +1,6 @@
 @font-face {
   font-family: '리디바탕';
-  src: url(./RIDIBatang.eot);
-  src: local('리디바탕 '),
-       local('리디바탕'),
-       url(./RIDIBatang.eot?#iefix) format('embedded-opentype'),
-       url(./RIDIBatang.woff2) format('woff2'),
-       url(./RIDIBatang.woff) format('woff'),
-       url(./RIDIBatang.otf) format('otf'),
-       url(./RIDIBatang.ttf) format('truetype');
+  src: local('리디바탕'), local('리디바탕 '), local('RIDIBatang'), local('RIDIBatang '), url(./RIDIBatang.woff2) format('woff2'), url(./RIDIBatang.woff) format('woff');
   font-display: swap;
-  font-style: normal;
-  font-weight: 400;
-}
-@font-face {
-  font-family: 'ridi-batang';
-  src: url(./RIDIBatang.eot);
-  src: local('ridi-batang '),
-       local('ridi-batang'),
-       url(./RIDIBatang.eot?#iefix) format('embedded-opentype'),
-       url(./RIDIBatang.woff2) format('woff2'),
-       url(./RIDIBatang.woff) format('woff'),
-       url(./RIDIBatang.otf) format('otf'),
-       url(./RIDIBatang.ttf) format('truetype');
-  font-display: swap;
-  font-style: normal;
   font-weight: 400;
 }

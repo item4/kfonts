@@ -1,126 +1,18 @@
 @font-face {
   font-family: '나눔고딕OTF 에코';
-  src: url(./NanumGothicEco.eot);
-  src: local('나눔고딕OTF 에코 '),
-       local('나눔고딕OTF 에코'),
-       url(./NanumGothicEco.eot?#iefix) format('embedded-opentype'),
-       url(./NanumGothicEco.woff2) format('woff2'),
-       url(./NanumGothicEco.woff) format('woff'),
-       url(./NanumGothicEco.otf) format('otf'),
-       url(./NanumGothicEco.ttf) format('truetype');
+  src: local('나눔고딕OTF 에코'), local('나눔고딕OTF 에코 '), local('NanumGothicOTF Eco'), local('NanumGothicOTF Eco '), url(./NanumGothicEco.woff2) format('woff2'), url(./NanumGothicEco.woff) format('woff');
   font-display: swap;
-  font-style: normal;
-  font-weight: 400;
-}
-@font-face {
-  font-family: '나눔고딕OTF에코';
-  src: url(./NanumGothicEco.eot);
-  src: local('나눔고딕OTF에코 '),
-       local('나눔고딕OTF에코'),
-       url(./NanumGothicEco.eot?#iefix) format('embedded-opentype'),
-       url(./NanumGothicEco.woff2) format('woff2'),
-       url(./NanumGothicEco.woff) format('woff'),
-       url(./NanumGothicEco.otf) format('otf'),
-       url(./NanumGothicEco.ttf) format('truetype');
-  font-display: swap;
-  font-style: normal;
-  font-weight: 400;
-}
-@font-face {
-  font-family: 'nanum-gothic-eco-otf';
-  src: url(./NanumGothicEco.eot);
-  src: local('nanum-gothic-eco-otf '),
-       local('nanum-gothic-eco-otf'),
-       url(./NanumGothicEco.eot?#iefix) format('embedded-opentype'),
-       url(./NanumGothicEco.woff2) format('woff2'),
-       url(./NanumGothicEco.woff) format('woff'),
-       url(./NanumGothicEco.otf) format('otf'),
-       url(./NanumGothicEco.ttf) format('truetype');
-  font-display: swap;
-  font-style: normal;
   font-weight: 400;
 }
 @font-face {
   font-family: '나눔고딕OTF 에코';
-  src: url(./NanumGothicEcoBold.eot);
-  src: local('나눔고딕OTF 에코 '),
-       local('나눔고딕OTF 에코'),
-       url(./NanumGothicEcoBold.eot?#iefix) format('embedded-opentype'),
-       url(./NanumGothicEcoBold.woff2) format('woff2'),
-       url(./NanumGothicEcoBold.woff) format('woff'),
-       url(./NanumGothicEcoBold.otf) format('otf'),
-       url(./NanumGothicEcoBold.ttf) format('truetype');
+  src: local('나눔고딕OTF 에코'), local('나눔고딕OTF 에코 '), local('NanumGothicOTF Eco'), local('NanumGothicOTF Eco '), url(./NanumGothicEcoBold.woff2) format('woff2'), url(./NanumGothicEcoBold.woff) format('woff');
   font-display: swap;
-  font-style: normal;
-  font-weight: 700;
-}
-@font-face {
-  font-family: '나눔고딕OTF에코';
-  src: url(./NanumGothicEcoBold.eot);
-  src: local('나눔고딕OTF에코 '),
-       local('나눔고딕OTF에코'),
-       url(./NanumGothicEcoBold.eot?#iefix) format('embedded-opentype'),
-       url(./NanumGothicEcoBold.woff2) format('woff2'),
-       url(./NanumGothicEcoBold.woff) format('woff'),
-       url(./NanumGothicEcoBold.otf) format('otf'),
-       url(./NanumGothicEcoBold.ttf) format('truetype');
-  font-display: swap;
-  font-style: normal;
-  font-weight: 700;
-}
-@font-face {
-  font-family: 'nanum-gothic-eco-otf';
-  src: url(./NanumGothicEcoBold.eot);
-  src: local('nanum-gothic-eco-otf '),
-       local('nanum-gothic-eco-otf'),
-       url(./NanumGothicEcoBold.eot?#iefix) format('embedded-opentype'),
-       url(./NanumGothicEcoBold.woff2) format('woff2'),
-       url(./NanumGothicEcoBold.woff) format('woff'),
-       url(./NanumGothicEcoBold.otf) format('otf'),
-       url(./NanumGothicEcoBold.ttf) format('truetype');
-  font-display: swap;
-  font-style: normal;
   font-weight: 700;
 }
 @font-face {
   font-family: '나눔고딕OTF 에코';
-  src: url(./NanumGothicEcoExtraBold.eot);
-  src: local('나눔고딕OTF 에코 '),
-       local('나눔고딕OTF 에코'),
-       url(./NanumGothicEcoExtraBold.eot?#iefix) format('embedded-opentype'),
-       url(./NanumGothicEcoExtraBold.woff2) format('woff2'),
-       url(./NanumGothicEcoExtraBold.woff) format('woff'),
-       url(./NanumGothicEcoExtraBold.otf) format('otf'),
-       url(./NanumGothicEcoExtraBold.ttf) format('truetype');
+  src: local('나눔고딕OTF 에코'), local('나눔고딕OTF 에코 '), local('NanumGothicOTF Eco'), local('NanumGothicOTF Eco '), url(./NanumGothicEcoExtraBold.woff2) format('woff2'), url(./NanumGothicEcoExtraBold.woff) format('woff');
   font-display: swap;
-  font-style: normal;
-  font-weight: 800;
-}
-@font-face {
-  font-family: '나눔고딕OTF에코';
-  src: url(./NanumGothicEcoExtraBold.eot);
-  src: local('나눔고딕OTF에코 '),
-       local('나눔고딕OTF에코'),
-       url(./NanumGothicEcoExtraBold.eot?#iefix) format('embedded-opentype'),
-       url(./NanumGothicEcoExtraBold.woff2) format('woff2'),
-       url(./NanumGothicEcoExtraBold.woff) format('woff'),
-       url(./NanumGothicEcoExtraBold.otf) format('otf'),
-       url(./NanumGothicEcoExtraBold.ttf) format('truetype');
-  font-display: swap;
-  font-style: normal;
-  font-weight: 800;
-}
-@font-face {
-  font-family: 'nanum-gothic-eco-otf';
-  src: url(./NanumGothicEcoExtraBold.eot);
-  src: local('nanum-gothic-eco-otf '),
-       local('nanum-gothic-eco-otf'),
-       url(./NanumGothicEcoExtraBold.eot?#iefix) format('embedded-opentype'),
-       url(./NanumGothicEcoExtraBold.woff2) format('woff2'),
-       url(./NanumGothicEcoExtraBold.woff) format('woff'),
-       url(./NanumGothicEcoExtraBold.otf) format('otf'),
-       url(./NanumGothicEcoExtraBold.ttf) format('truetype');
-  font-display: swap;
-  font-style: normal;
   font-weight: 800;
 }

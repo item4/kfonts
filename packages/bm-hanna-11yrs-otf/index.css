@@ -1,42 +1,6 @@
 @font-face {
   font-family: '배달의민족 한나는 열한살 OTF';
-  src: url(./BMHANNA_11yrs_otf.eot);
-  src: local('배달의민족 한나는 열한살 OTF '),
-       local('배달의민족 한나는 열한살 OTF'),
-       url(./BMHANNA_11yrs_otf.eot?#iefix) format('embedded-opentype'),
-       url(./BMHANNA_11yrs_otf.woff2) format('woff2'),
-       url(./BMHANNA_11yrs_otf.woff) format('woff'),
-       url(./BMHANNA_11yrs_otf.otf) format('otf'),
-       url(./BMHANNA_11yrs_otf.ttf) format('truetype');
+  src: local('배달의민족 한나는 열한살 OTF'), local('배달의민족 한나는 열한살 OTF '), local('BM HANNA 11yrs old OTF'), local('BM HANNA 11yrs old OTF '), url(./BMHANNA_11yrs_otf.woff2) format('woff2'), url(./BMHANNA_11yrs_otf.woff) format('woff');
   font-display: swap;
-  font-style: normal;
-  font-weight: 400;
-}
-@font-face {
-  font-family: '배달의민족한나는열한살OTF';
-  src: url(./BMHANNA_11yrs_otf.eot);
-  src: local('배달의민족한나는열한살OTF '),
-       local('배달의민족한나는열한살OTF'),
-       url(./BMHANNA_11yrs_otf.eot?#iefix) format('embedded-opentype'),
-       url(./BMHANNA_11yrs_otf.woff2) format('woff2'),
-       url(./BMHANNA_11yrs_otf.woff) format('woff'),
-       url(./BMHANNA_11yrs_otf.otf) format('otf'),
-       url(./BMHANNA_11yrs_otf.ttf) format('truetype');
-  font-display: swap;
-  font-style: normal;
-  font-weight: 400;
-}
-@font-face {
-  font-family: 'bm-hanna-11yrs-otf';
-  src: url(./BMHANNA_11yrs_otf.eot);
-  src: local('bm-hanna-11yrs-otf '),
-       local('bm-hanna-11yrs-otf'),
-       url(./BMHANNA_11yrs_otf.eot?#iefix) format('embedded-opentype'),
-       url(./BMHANNA_11yrs_otf.woff2) format('woff2'),
-       url(./BMHANNA_11yrs_otf.woff) format('woff'),
-       url(./BMHANNA_11yrs_otf.otf) format('otf'),
-       url(./BMHANNA_11yrs_otf.ttf) format('truetype');
-  font-display: swap;
-  font-style: normal;
   font-weight: 400;
 }

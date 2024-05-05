@@ -1,1 +1,21 @@
-{"name":"@kfonts/nexon-lv1-gothic","version":"0.1.3","description":"넥슨Lv1고딕 typeface","main":"index.css","keywords":["@kfonts","kfonts","typeface","font","font family","webfont","korean","글꼴","서체","nexon-lv1-gothic","넥슨Lv1고딕"],"author":"Kim, Jinsu <item4hun@gmail.com>","license":"SEE LICENSE IN LICENSE","repository":"https://github.com/item4/kfonts/tree/main/packages/nexon-lv1-gothic"}
+{
+  "name": "@kfonts/nexon-lv1-gothic",
+  "version": "0.2.0",
+  "description": "넥슨Lv1고딕 typeface",
+  "main": "index.css",
+  "keywords": [
+    "@kfonts",
+    "font",
+    "font family",
+    "typeface",
+    "webfont",
+    "web",
+    "front-end",
+    "korean",
+    "넥슨Lv1고딕",
+    "NEXON Lv1 Gothic"
+  ],
+  "author": "item4",
+  "license": "SEE LICENSE IN README.md",
+  "repository": "https://github.com/item4/kfonts/tree/main/packages/nexon-lv1-gothic"
+}

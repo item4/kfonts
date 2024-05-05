@@ -1,39 +1,6 @@
 @font-face {
   font-family: '나눔손글씨 기쁨밝음';
-  src: url(./gi-ppeumbalg-eum.eot);
-  src: local('나눔손글씨 기쁨밝음 '),
-       local('나눔손글씨 기쁨밝음'),
-       url(./gi-ppeumbalg-eum.eot?#iefix) format('embedded-opentype'),
-       url(./gi-ppeumbalg-eum.woff2) format('woff2'),
-       url(./gi-ppeumbalg-eum.woff) format('woff'),
-       url(./gi-ppeumbalg-eum.ttf) format('truetype');
+  src: local('나눔손글씨 기쁨밝음'), local('나눔손글씨 기쁨밝음 '), local('Nanum GiBbeumBarkEum'), local('Nanum GiBbeumBarkEum '), url(./gi-ppeumbalg-eum.woff2) format('woff2'), url(./gi-ppeumbalg-eum.woff) format('woff');
   font-display: swap;
-  font-style: normal;
-  font-weight: 400;
-}
-@font-face {
-  font-family: '나눔손글씨기쁨밝음';
-  src: url(./gi-ppeumbalg-eum.eot);
-  src: local('나눔손글씨기쁨밝음 '),
-       local('나눔손글씨기쁨밝음'),
-       url(./gi-ppeumbalg-eum.eot?#iefix) format('embedded-opentype'),
-       url(./gi-ppeumbalg-eum.woff2) format('woff2'),
-       url(./gi-ppeumbalg-eum.woff) format('woff'),
-       url(./gi-ppeumbalg-eum.ttf) format('truetype');
-  font-display: swap;
-  font-style: normal;
-  font-weight: 400;
-}
-@font-face {
-  font-family: 'nanum-handwritting-gi-ppeumbalg-eum';
-  src: url(./gi-ppeumbalg-eum.eot);
-  src: local('nanum-handwritting-gi-ppeumbalg-eum '),
-       local('nanum-handwritting-gi-ppeumbalg-eum'),
-       url(./gi-ppeumbalg-eum.eot?#iefix) format('embedded-opentype'),
-       url(./gi-ppeumbalg-eum.woff2) format('woff2'),
-       url(./gi-ppeumbalg-eum.woff) format('woff'),
-       url(./gi-ppeumbalg-eum.ttf) format('truetype');
-  font-display: swap;
-  font-style: normal;
   font-weight: 400;
 }

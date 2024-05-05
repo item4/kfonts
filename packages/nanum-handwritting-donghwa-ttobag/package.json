@@ -1,1 +1,21 @@
-{"name":"@kfonts/nanum-handwritting-donghwa-ttobag","version":"0.1.3","description":"나눔손글씨 동화또박 typeface","main":"index.css","keywords":["@kfonts","kfonts","typeface","font","font family","webfont","korean","글꼴","서체","nanum-handwritting-donghwa-ttobag","나눔손글씨 동화또박"],"author":"Kim, Jinsu <item4hun@gmail.com>","license":"SEE LICENSE IN LICENSE","repository":"https://github.com/item4/kfonts/tree/main/packages/nanum-handwritting-donghwa-ttobag"}
+{
+  "name": "@kfonts/nanum-handwritting-donghwa-ttobag",
+  "version": "0.2.0",
+  "description": "나눔손글씨 동화또박 typeface",
+  "main": "index.css",
+  "keywords": [
+    "@kfonts",
+    "font",
+    "font family",
+    "typeface",
+    "webfont",
+    "web",
+    "front-end",
+    "korean",
+    "나눔손글씨 동화또박",
+    "Nanum DongHwaDdoBag"
+  ],
+  "author": "item4",
+  "license": "OFL-1.1",
+  "repository": "https://github.com/item4/kfonts/tree/main/packages/nanum-handwritting-donghwa-ttobag"
+}

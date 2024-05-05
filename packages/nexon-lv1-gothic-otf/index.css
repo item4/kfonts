@@ -1,126 +1,18 @@
 @font-face {
   font-family: '넥슨Lv1고딕 OTF';
-  src: url(./NEXON_Lv1_Gothic_OTF_Light.eot);
-  src: local('넥슨Lv1고딕 OTF '),
-       local('넥슨Lv1고딕 OTF'),
-       url(./NEXON_Lv1_Gothic_OTF_Light.eot?#iefix) format('embedded-opentype'),
-       url(./NEXON_Lv1_Gothic_OTF_Light.woff2) format('woff2'),
-       url(./NEXON_Lv1_Gothic_OTF_Light.woff) format('woff'),
-       url(./NEXON_Lv1_Gothic_OTF_Light.otf) format('otf'),
-       url(./NEXON_Lv1_Gothic_OTF_Light.ttf) format('truetype');
+  src: local('넥슨Lv1고딕 OTF'), local('넥슨Lv1고딕 OTF '), local('NEXON Lv1 Gothic OTF'), local('NEXON Lv1 Gothic OTF '), url(./NEXON_Lv1_Gothic_OTF_Light.woff2) format('woff2'), url(./NEXON_Lv1_Gothic_OTF_Light.woff) format('woff');
   font-display: swap;
-  font-style: normal;
-  font-weight: 300;
-}
-@font-face {
-  font-family: '넥슨Lv1고딕OTF';
-  src: url(./NEXON_Lv1_Gothic_OTF_Light.eot);
-  src: local('넥슨Lv1고딕OTF '),
-       local('넥슨Lv1고딕OTF'),
-       url(./NEXON_Lv1_Gothic_OTF_Light.eot?#iefix) format('embedded-opentype'),
-       url(./NEXON_Lv1_Gothic_OTF_Light.woff2) format('woff2'),
-       url(./NEXON_Lv1_Gothic_OTF_Light.woff) format('woff'),
-       url(./NEXON_Lv1_Gothic_OTF_Light.otf) format('otf'),
-       url(./NEXON_Lv1_Gothic_OTF_Light.ttf) format('truetype');
-  font-display: swap;
-  font-style: normal;
-  font-weight: 300;
-}
-@font-face {
-  font-family: 'nexon-lv1-gothic-otf';
-  src: url(./NEXON_Lv1_Gothic_OTF_Light.eot);
-  src: local('nexon-lv1-gothic-otf '),
-       local('nexon-lv1-gothic-otf'),
-       url(./NEXON_Lv1_Gothic_OTF_Light.eot?#iefix) format('embedded-opentype'),
-       url(./NEXON_Lv1_Gothic_OTF_Light.woff2) format('woff2'),
-       url(./NEXON_Lv1_Gothic_OTF_Light.woff) format('woff'),
-       url(./NEXON_Lv1_Gothic_OTF_Light.otf) format('otf'),
-       url(./NEXON_Lv1_Gothic_OTF_Light.ttf) format('truetype');
-  font-display: swap;
-  font-style: normal;
   font-weight: 300;
 }
 @font-face {
   font-family: '넥슨Lv1고딕 OTF';
-  src: url(./NEXON_Lv1_Gothic_OTF.eot);
-  src: local('넥슨Lv1고딕 OTF '),
-       local('넥슨Lv1고딕 OTF'),
-       url(./NEXON_Lv1_Gothic_OTF.eot?#iefix) format('embedded-opentype'),
-       url(./NEXON_Lv1_Gothic_OTF.woff2) format('woff2'),
-       url(./NEXON_Lv1_Gothic_OTF.woff) format('woff'),
-       url(./NEXON_Lv1_Gothic_OTF.otf) format('otf'),
-       url(./NEXON_Lv1_Gothic_OTF.ttf) format('truetype');
+  src: local('넥슨Lv1고딕 OTF'), local('넥슨Lv1고딕 OTF '), local('NEXON Lv1 Gothic OTF'), local('NEXON Lv1 Gothic OTF '), url(./NEXON_Lv1_Gothic_OTF.woff2) format('woff2'), url(./NEXON_Lv1_Gothic_OTF.woff) format('woff');
   font-display: swap;
-  font-style: normal;
-  font-weight: 400;
-}
-@font-face {
-  font-family: '넥슨Lv1고딕OTF';
-  src: url(./NEXON_Lv1_Gothic_OTF.eot);
-  src: local('넥슨Lv1고딕OTF '),
-       local('넥슨Lv1고딕OTF'),
-       url(./NEXON_Lv1_Gothic_OTF.eot?#iefix) format('embedded-opentype'),
-       url(./NEXON_Lv1_Gothic_OTF.woff2) format('woff2'),
-       url(./NEXON_Lv1_Gothic_OTF.woff) format('woff'),
-       url(./NEXON_Lv1_Gothic_OTF.otf) format('otf'),
-       url(./NEXON_Lv1_Gothic_OTF.ttf) format('truetype');
-  font-display: swap;
-  font-style: normal;
-  font-weight: 400;
-}
-@font-face {
-  font-family: 'nexon-lv1-gothic-otf';
-  src: url(./NEXON_Lv1_Gothic_OTF.eot);
-  src: local('nexon-lv1-gothic-otf '),
-       local('nexon-lv1-gothic-otf'),
-       url(./NEXON_Lv1_Gothic_OTF.eot?#iefix) format('embedded-opentype'),
-       url(./NEXON_Lv1_Gothic_OTF.woff2) format('woff2'),
-       url(./NEXON_Lv1_Gothic_OTF.woff) format('woff'),
-       url(./NEXON_Lv1_Gothic_OTF.otf) format('otf'),
-       url(./NEXON_Lv1_Gothic_OTF.ttf) format('truetype');
-  font-display: swap;
-  font-style: normal;
   font-weight: 400;
 }
 @font-face {
   font-family: '넥슨Lv1고딕 OTF';
-  src: url(./NEXON_Lv1_Gothic_OTF_Bold.eot);
-  src: local('넥슨Lv1고딕 OTF '),
-       local('넥슨Lv1고딕 OTF'),
-       url(./NEXON_Lv1_Gothic_OTF_Bold.eot?#iefix) format('embedded-opentype'),
-       url(./NEXON_Lv1_Gothic_OTF_Bold.woff2) format('woff2'),
-       url(./NEXON_Lv1_Gothic_OTF_Bold.woff) format('woff'),
-       url(./NEXON_Lv1_Gothic_OTF_Bold.otf) format('otf'),
-       url(./NEXON_Lv1_Gothic_OTF_Bold.ttf) format('truetype');
+  src: local('넥슨Lv1고딕 OTF'), local('넥슨Lv1고딕 OTF '), local('NEXON Lv1 Gothic OTF'), local('NEXON Lv1 Gothic OTF '), url(./NEXON_Lv1_Gothic_OTF_Bold.woff2) format('woff2'), url(./NEXON_Lv1_Gothic_OTF_Bold.woff) format('woff');
   font-display: swap;
-  font-style: normal;
-  font-weight: 700;
-}
-@font-face {
-  font-family: '넥슨Lv1고딕OTF';
-  src: url(./NEXON_Lv1_Gothic_OTF_Bold.eot);
-  src: local('넥슨Lv1고딕OTF '),
-       local('넥슨Lv1고딕OTF'),
-       url(./NEXON_Lv1_Gothic_OTF_Bold.eot?#iefix) format('embedded-opentype'),
-       url(./NEXON_Lv1_Gothic_OTF_Bold.woff2) format('woff2'),
-       url(./NEXON_Lv1_Gothic_OTF_Bold.woff) format('woff'),
-       url(./NEXON_Lv1_Gothic_OTF_Bold.otf) format('otf'),
-       url(./NEXON_Lv1_Gothic_OTF_Bold.ttf) format('truetype');
-  font-display: swap;
-  font-style: normal;
-  font-weight: 700;
-}
-@font-face {
-  font-family: 'nexon-lv1-gothic-otf';
-  src: url(./NEXON_Lv1_Gothic_OTF_Bold.eot);
-  src: local('nexon-lv1-gothic-otf '),
-       local('nexon-lv1-gothic-otf'),
-       url(./NEXON_Lv1_Gothic_OTF_Bold.eot?#iefix) format('embedded-opentype'),
-       url(./NEXON_Lv1_Gothic_OTF_Bold.woff2) format('woff2'),
-       url(./NEXON_Lv1_Gothic_OTF_Bold.woff) format('woff'),
-       url(./NEXON_Lv1_Gothic_OTF_Bold.otf) format('otf'),
-       url(./NEXON_Lv1_Gothic_OTF_Bold.ttf) format('truetype');
-  font-display: swap;
-  font-style: normal;
   font-weight: 700;
 }

@@ -1,39 +1,6 @@
 @font-face {
-  font-family: '배달의민족 주아 OTF';
-  src: url(./BMKIRANGHAERANG-TTF.eot);
-  src: local('배달의민족 주아 OTF '),
-       local('배달의민족 주아 OTF'),
-       url(./BMKIRANGHAERANG-TTF.eot?#iefix) format('embedded-opentype'),
-       url(./BMKIRANGHAERANG-TTF.woff2) format('woff2'),
-       url(./BMKIRANGHAERANG-TTF.woff) format('woff'),
-       url(./BMKIRANGHAERANG-TTF.ttf) format('truetype');
+  font-family: '배달의민족 기랑해랑';
+  src: local('배달의민족 기랑해랑'), local('배달의민족 기랑해랑 '), local('BM KIRANGHAERANG'), local('BM KIRANGHAERANG '), url(./BMKIRANGHAERANG-TTF.woff2) format('woff2'), url(./BMKIRANGHAERANG-TTF.woff) format('woff');
   font-display: swap;
-  font-style: normal;
-  font-weight: 400;
-}
-@font-face {
-  font-family: '배달의민족주아OTF';
-  src: url(./BMKIRANGHAERANG-TTF.eot);
-  src: local('배달의민족주아OTF '),
-       local('배달의민족주아OTF'),
-       url(./BMKIRANGHAERANG-TTF.eot?#iefix) format('embedded-opentype'),
-       url(./BMKIRANGHAERANG-TTF.woff2) format('woff2'),
-       url(./BMKIRANGHAERANG-TTF.woff) format('woff'),
-       url(./BMKIRANGHAERANG-TTF.ttf) format('truetype');
-  font-display: swap;
-  font-style: normal;
-  font-weight: 400;
-}
-@font-face {
-  font-family: 'bm-kiranghaerang';
-  src: url(./BMKIRANGHAERANG-TTF.eot);
-  src: local('bm-kiranghaerang '),
-       local('bm-kiranghaerang'),
-       url(./BMKIRANGHAERANG-TTF.eot?#iefix) format('embedded-opentype'),
-       url(./BMKIRANGHAERANG-TTF.woff2) format('woff2'),
-       url(./BMKIRANGHAERANG-TTF.woff) format('woff'),
-       url(./BMKIRANGHAERANG-TTF.ttf) format('truetype');
-  font-display: swap;
-  font-style: normal;
   font-weight: 400;
 }

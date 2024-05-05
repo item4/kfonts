@@ -1,39 +1,6 @@
 @font-face {
   font-family: '나눔손글씨 다시 시작해';
-  src: url(./dasi-sijaghae.eot);
-  src: local('나눔손글씨 다시 시작해 '),
-       local('나눔손글씨 다시 시작해'),
-       url(./dasi-sijaghae.eot?#iefix) format('embedded-opentype'),
-       url(./dasi-sijaghae.woff2) format('woff2'),
-       url(./dasi-sijaghae.woff) format('woff'),
-       url(./dasi-sijaghae.ttf) format('truetype');
+  src: local('나눔손글씨 다시 시작해'), local('나눔손글씨 다시 시작해 '), local('Nanum DaSiSiJagHae'), local('Nanum DaSiSiJagHae '), url(./dasi-sijaghae.woff2) format('woff2'), url(./dasi-sijaghae.woff) format('woff');
   font-display: swap;
-  font-style: normal;
-  font-weight: 400;
-}
-@font-face {
-  font-family: '나눔손글씨다시시작해';
-  src: url(./dasi-sijaghae.eot);
-  src: local('나눔손글씨다시시작해 '),
-       local('나눔손글씨다시시작해'),
-       url(./dasi-sijaghae.eot?#iefix) format('embedded-opentype'),
-       url(./dasi-sijaghae.woff2) format('woff2'),
-       url(./dasi-sijaghae.woff) format('woff'),
-       url(./dasi-sijaghae.ttf) format('truetype');
-  font-display: swap;
-  font-style: normal;
-  font-weight: 400;
-}
-@font-face {
-  font-family: 'nanum-handwritting-dasi-sijaghae';
-  src: url(./dasi-sijaghae.eot);
-  src: local('nanum-handwritting-dasi-sijaghae '),
-       local('nanum-handwritting-dasi-sijaghae'),
-       url(./dasi-sijaghae.eot?#iefix) format('embedded-opentype'),
-       url(./dasi-sijaghae.woff2) format('woff2'),
-       url(./dasi-sijaghae.woff) format('woff'),
-       url(./dasi-sijaghae.ttf) format('truetype');
-  font-display: swap;
-  font-style: normal;
   font-weight: 400;
 }

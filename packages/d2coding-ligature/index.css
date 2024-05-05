@@ -1,78 +1,12 @@
 @font-face {
   font-family: 'D2Coding ligature';
-  src: url(./D2Coding-ligature.eot);
-  src: local('D2Coding ligature '),
-       local('D2Coding ligature'),
-       url(./D2Coding-ligature.eot?#iefix) format('embedded-opentype'),
-       url(./D2Coding-ligature.woff2) format('woff2'),
-       url(./D2Coding-ligature.woff) format('woff'),
-       url(./D2Coding-ligature.ttf) format('truetype');
+  src: local('D2Coding ligature'), local('D2Coding ligature '), url(./D2Coding-ligature.woff2) format('woff2'), url(./D2Coding-ligature.woff) format('woff');
   font-display: swap;
-  font-style: normal;
-  font-weight: 400;
-}
-@font-face {
-  font-family: 'D2Codingligature';
-  src: url(./D2Coding-ligature.eot);
-  src: local('D2Codingligature '),
-       local('D2Codingligature'),
-       url(./D2Coding-ligature.eot?#iefix) format('embedded-opentype'),
-       url(./D2Coding-ligature.woff2) format('woff2'),
-       url(./D2Coding-ligature.woff) format('woff'),
-       url(./D2Coding-ligature.ttf) format('truetype');
-  font-display: swap;
-  font-style: normal;
-  font-weight: 400;
-}
-@font-face {
-  font-family: 'd2coding-ligature';
-  src: url(./D2Coding-ligature.eot);
-  src: local('d2coding-ligature '),
-       local('d2coding-ligature'),
-       url(./D2Coding-ligature.eot?#iefix) format('embedded-opentype'),
-       url(./D2Coding-ligature.woff2) format('woff2'),
-       url(./D2Coding-ligature.woff) format('woff'),
-       url(./D2Coding-ligature.ttf) format('truetype');
-  font-display: swap;
-  font-style: normal;
   font-weight: 400;
 }
 @font-face {
   font-family: 'D2Coding ligature';
-  src: url(./D2CodingBold-ligature.eot);
-  src: local('D2Coding ligature '),
-       local('D2Coding ligature'),
-       url(./D2CodingBold-ligature.eot?#iefix) format('embedded-opentype'),
-       url(./D2CodingBold-ligature.woff2) format('woff2'),
-       url(./D2CodingBold-ligature.woff) format('woff'),
-       url(./D2CodingBold-ligature.ttf) format('truetype');
+  src: local('D2Coding ligature'), local('D2Coding ligature '), url(./D2CodingBold-ligature.woff2) format('woff2'), url(./D2CodingBold-ligature.woff) format('woff');
   font-display: swap;
-  font-style: normal;
-  font-weight: 700;
-}
-@font-face {
-  font-family: 'D2Codingligature';
-  src: url(./D2CodingBold-ligature.eot);
-  src: local('D2Codingligature '),
-       local('D2Codingligature'),
-       url(./D2CodingBold-ligature.eot?#iefix) format('embedded-opentype'),
-       url(./D2CodingBold-ligature.woff2) format('woff2'),
-       url(./D2CodingBold-ligature.woff) format('woff'),
-       url(./D2CodingBold-ligature.ttf) format('truetype');
-  font-display: swap;
-  font-style: normal;
-  font-weight: 700;
-}
-@font-face {
-  font-family: 'd2coding-ligature';
-  src: url(./D2CodingBold-ligature.eot);
-  src: local('d2coding-ligature '),
-       local('d2coding-ligature'),
-       url(./D2CodingBold-ligature.eot?#iefix) format('embedded-opentype'),
-       url(./D2CodingBold-ligature.woff2) format('woff2'),
-       url(./D2CodingBold-ligature.woff) format('woff'),
-       url(./D2CodingBold-ligature.ttf) format('truetype');
-  font-display: swap;
-  font-style: normal;
   font-weight: 700;
 }

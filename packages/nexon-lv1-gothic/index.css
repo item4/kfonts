@@ -1,78 +1,18 @@
 @font-face {
   font-family: '넥슨Lv1고딕';
-  src: url(./NEXONLv1GothicLight.eot);
-  src: local('넥슨Lv1고딕 '),
-       local('넥슨Lv1고딕'),
-       url(./NEXONLv1GothicLight.eot?#iefix) format('embedded-opentype'),
-       url(./NEXONLv1GothicLight.woff2) format('woff2'),
-       url(./NEXONLv1GothicLight.woff) format('woff'),
-       url(./NEXONLv1GothicLight.ttf) format('truetype');
+  src: local('넥슨Lv1고딕'), local('넥슨Lv1고딕 '), local('NEXON Lv1 Gothic'), local('NEXON Lv1 Gothic '), url(./NEXONLv1GothicLight.woff2) format('woff2'), url(./NEXONLv1GothicLight.woff) format('woff');
   font-display: swap;
-  font-style: normal;
-  font-weight: 300;
-}
-@font-face {
-  font-family: 'nexon-lv1-gothic';
-  src: url(./NEXONLv1GothicLight.eot);
-  src: local('nexon-lv1-gothic '),
-       local('nexon-lv1-gothic'),
-       url(./NEXONLv1GothicLight.eot?#iefix) format('embedded-opentype'),
-       url(./NEXONLv1GothicLight.woff2) format('woff2'),
-       url(./NEXONLv1GothicLight.woff) format('woff'),
-       url(./NEXONLv1GothicLight.ttf) format('truetype');
-  font-display: swap;
-  font-style: normal;
   font-weight: 300;
 }
 @font-face {
   font-family: '넥슨Lv1고딕';
-  src: url(./NEXONLv1GothicRegular.eot);
-  src: local('넥슨Lv1고딕 '),
-       local('넥슨Lv1고딕'),
-       url(./NEXONLv1GothicRegular.eot?#iefix) format('embedded-opentype'),
-       url(./NEXONLv1GothicRegular.woff2) format('woff2'),
-       url(./NEXONLv1GothicRegular.woff) format('woff'),
-       url(./NEXONLv1GothicRegular.ttf) format('truetype');
+  src: local('넥슨Lv1고딕'), local('넥슨Lv1고딕 '), local('NEXON Lv1 Gothic'), local('NEXON Lv1 Gothic '), url(./NEXONLv1GothicRegular.woff2) format('woff2'), url(./NEXONLv1GothicRegular.woff) format('woff');
   font-display: swap;
-  font-style: normal;
-  font-weight: 400;
-}
-@font-face {
-  font-family: 'nexon-lv1-gothic';
-  src: url(./NEXONLv1GothicRegular.eot);
-  src: local('nexon-lv1-gothic '),
-       local('nexon-lv1-gothic'),
-       url(./NEXONLv1GothicRegular.eot?#iefix) format('embedded-opentype'),
-       url(./NEXONLv1GothicRegular.woff2) format('woff2'),
-       url(./NEXONLv1GothicRegular.woff) format('woff'),
-       url(./NEXONLv1GothicRegular.ttf) format('truetype');
-  font-display: swap;
-  font-style: normal;
   font-weight: 400;
 }
 @font-face {
   font-family: '넥슨Lv1고딕';
-  src: url(./NEXONLv1GothicBold.eot);
-  src: local('넥슨Lv1고딕 '),
-       local('넥슨Lv1고딕'),
-       url(./NEXONLv1GothicBold.eot?#iefix) format('embedded-opentype'),
-       url(./NEXONLv1GothicBold.woff2) format('woff2'),
-       url(./NEXONLv1GothicBold.woff) format('woff'),
-       url(./NEXONLv1GothicBold.ttf) format('truetype');
+  src: local('넥슨Lv1고딕'), local('넥슨Lv1고딕 '), local('NEXON Lv1 Gothic'), local('NEXON Lv1 Gothic '), url(./NEXONLv1GothicBold.woff2) format('woff2'), url(./NEXONLv1GothicBold.woff) format('woff');
   font-display: swap;
-  font-style: normal;
-  font-weight: 700;
-}
-@font-face {
-  font-family: 'nexon-lv1-gothic';
-  src: url(./NEXONLv1GothicBold.eot);
-  src: local('nexon-lv1-gothic '),
-       local('nexon-lv1-gothic'),
-       url(./NEXONLv1GothicBold.eot?#iefix) format('embedded-opentype'),
-       url(./NEXONLv1GothicBold.woff2) format('woff2'),
-       url(./NEXONLv1GothicBold.woff) format('woff'),
-       url(./NEXONLv1GothicBold.ttf) format('truetype');
-  font-display: swap;
-  font-style: normal;
   font-weight: 700;
 }

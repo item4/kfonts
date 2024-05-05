@@ -1,7 +1,4 @@
-*.ttf
-*.otf
-*.eot
+*.[ot]tf
 *.woff
 *.woff2
-!src/*.ttf
-!src/*.otf
+!src/*.[ot]tf

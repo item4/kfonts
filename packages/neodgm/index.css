@@ -1,26 +1,6 @@
 @font-face {
   font-family: 'Neo둥근모';
-  src: url(./neodgm.eot);
-  src: local('Neo둥근모 '),
-       local('Neo둥근모'),
-       url(./neodgm.eot?#iefix) format('embedded-opentype'),
-       url(./neodgm.woff2) format('woff2'),
-       url(./neodgm.woff) format('woff'),
-       url(./neodgm.ttf) format('truetype');
+  src: local('Neo둥근모'), local('Neo둥근모 '), local('NeoDunggeunmo'), local('NeoDunggeunmo '), url(./neodgm.woff2) format('woff2'), url(./neodgm.woff) format('woff');
   font-display: swap;
-  font-style: normal;
-  font-weight: 300;
-}
-@font-face {
-  font-family: 'neodgm';
-  src: url(./neodgm.eot);
-  src: local('neodgm '),
-       local('neodgm'),
-       url(./neodgm.eot?#iefix) format('embedded-opentype'),
-       url(./neodgm.woff2) format('woff2'),
-       url(./neodgm.woff) format('woff'),
-       url(./neodgm.ttf) format('truetype');
-  font-display: swap;
-  font-style: normal;
   font-weight: 300;
 }

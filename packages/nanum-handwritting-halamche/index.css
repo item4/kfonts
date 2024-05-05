@@ -1,39 +1,6 @@
 @font-face {
   font-family: '나눔손글씨 하람체';
-  src: url(./halamche.eot);
-  src: local('나눔손글씨 하람체 '),
-       local('나눔손글씨 하람체'),
-       url(./halamche.eot?#iefix) format('embedded-opentype'),
-       url(./halamche.woff2) format('woff2'),
-       url(./halamche.woff) format('woff'),
-       url(./halamche.ttf) format('truetype');
+  src: local('나눔손글씨 하람체'), local('나눔손글씨 하람체 '), local('Nanum HaRamCe'), local('Nanum HaRamCe '), url(./halamche.woff2) format('woff2'), url(./halamche.woff) format('woff');
   font-display: swap;
-  font-style: normal;
-  font-weight: 400;
-}
-@font-face {
-  font-family: '나눔손글씨하람체';
-  src: url(./halamche.eot);
-  src: local('나눔손글씨하람체 '),
-       local('나눔손글씨하람체'),
-       url(./halamche.eot?#iefix) format('embedded-opentype'),
-       url(./halamche.woff2) format('woff2'),
-       url(./halamche.woff) format('woff'),
-       url(./halamche.ttf) format('truetype');
-  font-display: swap;
-  font-style: normal;
-  font-weight: 400;
-}
-@font-face {
-  font-family: 'nanum-handwritting-halamche';
-  src: url(./halamche.eot);
-  src: local('nanum-handwritting-halamche '),
-       local('nanum-handwritting-halamche'),
-       url(./halamche.eot?#iefix) format('embedded-opentype'),
-       url(./halamche.woff2) format('woff2'),
-       url(./halamche.woff) format('woff'),
-       url(./halamche.ttf) format('truetype');
-  font-display: swap;
-  font-style: normal;
   font-weight: 400;
 }

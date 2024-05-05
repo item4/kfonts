@@ -1,39 +1,6 @@
 @font-face {
   font-family: '나눔손글씨 장미체';
-  src: url(./jangmiche.eot);
-  src: local('나눔손글씨 장미체 '),
-       local('나눔손글씨 장미체'),
-       url(./jangmiche.eot?#iefix) format('embedded-opentype'),
-       url(./jangmiche.woff2) format('woff2'),
-       url(./jangmiche.woff) format('woff'),
-       url(./jangmiche.ttf) format('truetype');
+  src: local('나눔손글씨 장미체'), local('나눔손글씨 장미체 '), local('Nanum JangMiCe'), local('Nanum JangMiCe '), url(./jangmiche.woff2) format('woff2'), url(./jangmiche.woff) format('woff');
   font-display: swap;
-  font-style: normal;
-  font-weight: 400;
-}
-@font-face {
-  font-family: '나눔손글씨장미체';
-  src: url(./jangmiche.eot);
-  src: local('나눔손글씨장미체 '),
-       local('나눔손글씨장미체'),
-       url(./jangmiche.eot?#iefix) format('embedded-opentype'),
-       url(./jangmiche.woff2) format('woff2'),
-       url(./jangmiche.woff) format('woff'),
-       url(./jangmiche.ttf) format('truetype');
-  font-display: swap;
-  font-style: normal;
-  font-weight: 400;
-}
-@font-face {
-  font-family: 'nanum-handwritting-jangmiche';
-  src: url(./jangmiche.eot);
-  src: local('nanum-handwritting-jangmiche '),
-       local('nanum-handwritting-jangmiche'),
-       url(./jangmiche.eot?#iefix) format('embedded-opentype'),
-       url(./jangmiche.woff2) format('woff2'),
-       url(./jangmiche.woff) format('woff'),
-       url(./jangmiche.ttf) format('truetype');
-  font-display: swap;
-  font-style: normal;
   font-weight: 400;
 }

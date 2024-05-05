@@ -1,39 +1,6 @@
 @font-face {
   font-family: '나눔손글씨 끄트머리체';
-  src: url(./kkeuteumeoliche.eot);
-  src: local('나눔손글씨 끄트머리체 '),
-       local('나눔손글씨 끄트머리체'),
-       url(./kkeuteumeoliche.eot?#iefix) format('embedded-opentype'),
-       url(./kkeuteumeoliche.woff2) format('woff2'),
-       url(./kkeuteumeoliche.woff) format('woff'),
-       url(./kkeuteumeoliche.ttf) format('truetype');
+  src: local('나눔손글씨 끄트머리체'), local('나눔손글씨 끄트머리체 '), local('Nanum GgeuTeuMeoRiCe'), local('Nanum GgeuTeuMeoRiCe '), url(./kkeuteumeoliche.woff2) format('woff2'), url(./kkeuteumeoliche.woff) format('woff');
   font-display: swap;
-  font-style: normal;
-  font-weight: 400;
-}
-@font-face {
-  font-family: '나눔손글씨끄트머리체';
-  src: url(./kkeuteumeoliche.eot);
-  src: local('나눔손글씨끄트머리체 '),
-       local('나눔손글씨끄트머리체'),
-       url(./kkeuteumeoliche.eot?#iefix) format('embedded-opentype'),
-       url(./kkeuteumeoliche.woff2) format('woff2'),
-       url(./kkeuteumeoliche.woff) format('woff'),
-       url(./kkeuteumeoliche.ttf) format('truetype');
-  font-display: swap;
-  font-style: normal;
-  font-weight: 400;
-}
-@font-face {
-  font-family: 'nanum-handwritting-kkeuteumeoliche';
-  src: url(./kkeuteumeoliche.eot);
-  src: local('nanum-handwritting-kkeuteumeoliche '),
-       local('nanum-handwritting-kkeuteumeoliche'),
-       url(./kkeuteumeoliche.eot?#iefix) format('embedded-opentype'),
-       url(./kkeuteumeoliche.woff2) format('woff2'),
-       url(./kkeuteumeoliche.woff) format('woff'),
-       url(./kkeuteumeoliche.ttf) format('truetype');
-  font-display: swap;
-  font-style: normal;
   font-weight: 400;
 }

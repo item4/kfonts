@@ -1,39 +1,6 @@
 @font-face {
   font-family: '나눔손글씨 엉겅퀴체';
-  src: url(./eonggeongkwiche.eot);
-  src: local('나눔손글씨 엉겅퀴체 '),
-       local('나눔손글씨 엉겅퀴체'),
-       url(./eonggeongkwiche.eot?#iefix) format('embedded-opentype'),
-       url(./eonggeongkwiche.woff2) format('woff2'),
-       url(./eonggeongkwiche.woff) format('woff'),
-       url(./eonggeongkwiche.ttf) format('truetype');
+  src: local('나눔손글씨 엉겅퀴체'), local('나눔손글씨 엉겅퀴체 '), local('Nanum EongGeongKwiCe'), local('Nanum EongGeongKwiCe '), url(./eonggeongkwiche.woff2) format('woff2'), url(./eonggeongkwiche.woff) format('woff');
   font-display: swap;
-  font-style: normal;
-  font-weight: 400;
-}
-@font-face {
-  font-family: '나눔손글씨엉겅퀴체';
-  src: url(./eonggeongkwiche.eot);
-  src: local('나눔손글씨엉겅퀴체 '),
-       local('나눔손글씨엉겅퀴체'),
-       url(./eonggeongkwiche.eot?#iefix) format('embedded-opentype'),
-       url(./eonggeongkwiche.woff2) format('woff2'),
-       url(./eonggeongkwiche.woff) format('woff'),
-       url(./eonggeongkwiche.ttf) format('truetype');
-  font-display: swap;
-  font-style: normal;
-  font-weight: 400;
-}
-@font-face {
-  font-family: 'nanum-handwritting-eonggeongkwiche';
-  src: url(./eonggeongkwiche.eot);
-  src: local('nanum-handwritting-eonggeongkwiche '),
-       local('nanum-handwritting-eonggeongkwiche'),
-       url(./eonggeongkwiche.eot?#iefix) format('embedded-opentype'),
-       url(./eonggeongkwiche.woff2) format('woff2'),
-       url(./eonggeongkwiche.woff) format('woff'),
-       url(./eonggeongkwiche.ttf) format('truetype');
-  font-display: swap;
-  font-style: normal;
   font-weight: 400;
 }

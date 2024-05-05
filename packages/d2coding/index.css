@@ -1,52 +1,12 @@
 @font-face {
   font-family: 'D2Coding';
-  src: url(./D2Coding.eot);
-  src: local('D2Coding '),
-       local('D2Coding'),
-       url(./D2Coding.eot?#iefix) format('embedded-opentype'),
-       url(./D2Coding.woff2) format('woff2'),
-       url(./D2Coding.woff) format('woff'),
-       url(./D2Coding.ttf) format('truetype');
+  src: local('D2Coding'), local('D2Coding '), url(./D2Coding.woff2) format('woff2'), url(./D2Coding.woff) format('woff');
   font-display: swap;
-  font-style: normal;
-  font-weight: 400;
-}
-@font-face {
-  font-family: 'd2coding';
-  src: url(./D2Coding.eot);
-  src: local('d2coding '),
-       local('d2coding'),
-       url(./D2Coding.eot?#iefix) format('embedded-opentype'),
-       url(./D2Coding.woff2) format('woff2'),
-       url(./D2Coding.woff) format('woff'),
-       url(./D2Coding.ttf) format('truetype');
-  font-display: swap;
-  font-style: normal;
   font-weight: 400;
 }
 @font-face {
   font-family: 'D2Coding';
-  src: url(./D2CodingBold.eot);
-  src: local('D2Coding '),
-       local('D2Coding'),
-       url(./D2CodingBold.eot?#iefix) format('embedded-opentype'),
-       url(./D2CodingBold.woff2) format('woff2'),
-       url(./D2CodingBold.woff) format('woff'),
-       url(./D2CodingBold.ttf) format('truetype');
+  src: local('D2Coding'), local('D2Coding '), url(./D2CodingBold.woff2) format('woff2'), url(./D2CodingBold.woff) format('woff');
   font-display: swap;
-  font-style: normal;
-  font-weight: 700;
-}
-@font-face {
-  font-family: 'd2coding';
-  src: url(./D2CodingBold.eot);
-  src: local('d2coding '),
-       local('d2coding'),
-       url(./D2CodingBold.eot?#iefix) format('embedded-opentype'),
-       url(./D2CodingBold.woff2) format('woff2'),
-       url(./D2CodingBold.woff) format('woff'),
-       url(./D2CodingBold.ttf) format('truetype');
-  font-display: swap;
-  font-style: normal;
   font-weight: 700;
 }

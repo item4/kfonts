@@ -1,39 +1,6 @@
 @font-face {
   font-family: '나눔손글씨 점꼴체';
-  src: url(./jeomkkolche.eot);
-  src: local('나눔손글씨 점꼴체 '),
-       local('나눔손글씨 점꼴체'),
-       url(./jeomkkolche.eot?#iefix) format('embedded-opentype'),
-       url(./jeomkkolche.woff2) format('woff2'),
-       url(./jeomkkolche.woff) format('woff'),
-       url(./jeomkkolche.ttf) format('truetype');
+  src: local('나눔손글씨 점꼴체'), local('나눔손글씨 점꼴체 '), local('Nanum JeomGgorCe'), local('Nanum JeomGgorCe '), url(./jeomkkolche.woff2) format('woff2'), url(./jeomkkolche.woff) format('woff');
   font-display: swap;
-  font-style: normal;
-  font-weight: 400;
-}
-@font-face {
-  font-family: '나눔손글씨점꼴체';
-  src: url(./jeomkkolche.eot);
-  src: local('나눔손글씨점꼴체 '),
-       local('나눔손글씨점꼴체'),
-       url(./jeomkkolche.eot?#iefix) format('embedded-opentype'),
-       url(./jeomkkolche.woff2) format('woff2'),
-       url(./jeomkkolche.woff) format('woff'),
-       url(./jeomkkolche.ttf) format('truetype');
-  font-display: swap;
-  font-style: normal;
-  font-weight: 400;
-}
-@font-face {
-  font-family: 'nanum-handwritting-jeomkkolche';
-  src: url(./jeomkkolche.eot);
-  src: local('nanum-handwritting-jeomkkolche '),
-       local('nanum-handwritting-jeomkkolche'),
-       url(./jeomkkolche.eot?#iefix) format('embedded-opentype'),
-       url(./jeomkkolche.woff2) format('woff2'),
-       url(./jeomkkolche.woff) format('woff'),
-       url(./jeomkkolche.ttf) format('truetype');
-  font-display: swap;
-  font-style: normal;
   font-weight: 400;
 }

@@ -1,39 +1,6 @@
 @font-face {
   font-family: '나눔손글씨 세계적인 한글';
-  src: url(./segyejeog-in-hangeul.eot);
-  src: local('나눔손글씨 세계적인 한글 '),
-       local('나눔손글씨 세계적인 한글'),
-       url(./segyejeog-in-hangeul.eot?#iefix) format('embedded-opentype'),
-       url(./segyejeog-in-hangeul.woff2) format('woff2'),
-       url(./segyejeog-in-hangeul.woff) format('woff'),
-       url(./segyejeog-in-hangeul.ttf) format('truetype');
+  src: local('나눔손글씨 세계적인 한글'), local('나눔손글씨 세계적인 한글 '), local('Nanum SeGyeJeogInHanGeur'), local('Nanum SeGyeJeogInHanGeur '), url(./segyejeog-in-hangeul.woff2) format('woff2'), url(./segyejeog-in-hangeul.woff) format('woff');
   font-display: swap;
-  font-style: normal;
-  font-weight: 400;
-}
-@font-face {
-  font-family: '나눔손글씨세계적인한글';
-  src: url(./segyejeog-in-hangeul.eot);
-  src: local('나눔손글씨세계적인한글 '),
-       local('나눔손글씨세계적인한글'),
-       url(./segyejeog-in-hangeul.eot?#iefix) format('embedded-opentype'),
-       url(./segyejeog-in-hangeul.woff2) format('woff2'),
-       url(./segyejeog-in-hangeul.woff) format('woff'),
-       url(./segyejeog-in-hangeul.ttf) format('truetype');
-  font-display: swap;
-  font-style: normal;
-  font-weight: 400;
-}
-@font-face {
-  font-family: 'nanum-handwritting-segyejeog-in-hangeul';
-  src: url(./segyejeog-in-hangeul.eot);
-  src: local('nanum-handwritting-segyejeog-in-hangeul '),
-       local('nanum-handwritting-segyejeog-in-hangeul'),
-       url(./segyejeog-in-hangeul.eot?#iefix) format('embedded-opentype'),
-       url(./segyejeog-in-hangeul.woff2) format('woff2'),
-       url(./segyejeog-in-hangeul.woff) format('woff'),
-       url(./segyejeog-in-hangeul.ttf) format('truetype');
-  font-display: swap;
-  font-style: normal;
   font-weight: 400;
 }

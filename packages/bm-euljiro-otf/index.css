@@ -1,42 +1,6 @@
 @font-face {
   font-family: '배달의민족 을지로체';
-  src: url(./BMEULJIRO.eot);
-  src: local('배달의민족 을지로체 '),
-       local('배달의민족 을지로체'),
-       url(./BMEULJIRO.eot?#iefix) format('embedded-opentype'),
-       url(./BMEULJIRO.woff2) format('woff2'),
-       url(./BMEULJIRO.woff) format('woff'),
-       url(./BMEULJIRO.otf) format('otf'),
-       url(./BMEULJIRO.ttf) format('truetype');
+  src: local('배달의민족 을지로체'), local('배달의민족 을지로체 '), local('BM EULJIRO'), local('BM EULJIRO '), url(./BMEULJIRO.woff2) format('woff2'), url(./BMEULJIRO.woff) format('woff');
   font-display: swap;
-  font-style: normal;
-  font-weight: 400;
-}
-@font-face {
-  font-family: '배달의민족을지로체';
-  src: url(./BMEULJIRO.eot);
-  src: local('배달의민족을지로체 '),
-       local('배달의민족을지로체'),
-       url(./BMEULJIRO.eot?#iefix) format('embedded-opentype'),
-       url(./BMEULJIRO.woff2) format('woff2'),
-       url(./BMEULJIRO.woff) format('woff'),
-       url(./BMEULJIRO.otf) format('otf'),
-       url(./BMEULJIRO.ttf) format('truetype');
-  font-display: swap;
-  font-style: normal;
-  font-weight: 400;
-}
-@font-face {
-  font-family: 'bm-euljiro-otf';
-  src: url(./BMEULJIRO.eot);
-  src: local('bm-euljiro-otf '),
-       local('bm-euljiro-otf'),
-       url(./BMEULJIRO.eot?#iefix) format('embedded-opentype'),
-       url(./BMEULJIRO.woff2) format('woff2'),
-       url(./BMEULJIRO.woff) format('woff'),
-       url(./BMEULJIRO.otf) format('otf'),
-       url(./BMEULJIRO.ttf) format('truetype');
-  font-display: swap;
-  font-style: normal;
   font-weight: 400;
 }

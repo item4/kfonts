@@ -1,39 +1,6 @@
 @font-face {
   font-family: '나눔손글씨 미니 손글씨';
-  src: url(./mini-songeul-ssi.eot);
-  src: local('나눔손글씨 미니 손글씨 '),
-       local('나눔손글씨 미니 손글씨'),
-       url(./mini-songeul-ssi.eot?#iefix) format('embedded-opentype'),
-       url(./mini-songeul-ssi.woff2) format('woff2'),
-       url(./mini-songeul-ssi.woff) format('woff'),
-       url(./mini-songeul-ssi.ttf) format('truetype');
+  src: local('나눔손글씨 미니 손글씨'), local('나눔손글씨 미니 손글씨 '), local('Nanum MiNiSonGeurSsi'), local('Nanum MiNiSonGeurSsi '), url(./mini-songeul-ssi.woff2) format('woff2'), url(./mini-songeul-ssi.woff) format('woff');
   font-display: swap;
-  font-style: normal;
-  font-weight: 400;
-}
-@font-face {
-  font-family: '나눔손글씨미니손글씨';
-  src: url(./mini-songeul-ssi.eot);
-  src: local('나눔손글씨미니손글씨 '),
-       local('나눔손글씨미니손글씨'),
-       url(./mini-songeul-ssi.eot?#iefix) format('embedded-opentype'),
-       url(./mini-songeul-ssi.woff2) format('woff2'),
-       url(./mini-songeul-ssi.woff) format('woff'),
-       url(./mini-songeul-ssi.ttf) format('truetype');
-  font-display: swap;
-  font-style: normal;
-  font-weight: 400;
-}
-@font-face {
-  font-family: 'nanum-handwritting-mini-songeul-ssi';
-  src: url(./mini-songeul-ssi.eot);
-  src: local('nanum-handwritting-mini-songeul-ssi '),
-       local('nanum-handwritting-mini-songeul-ssi'),
-       url(./mini-songeul-ssi.eot?#iefix) format('embedded-opentype'),
-       url(./mini-songeul-ssi.woff2) format('woff2'),
-       url(./mini-songeul-ssi.woff) format('woff'),
-       url(./mini-songeul-ssi.ttf) format('truetype');
-  font-display: swap;
-  font-style: normal;
   font-weight: 400;
 }

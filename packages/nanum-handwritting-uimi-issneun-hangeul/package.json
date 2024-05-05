@@ -1,1 +1,21 @@
-{"name":"@kfonts/nanum-handwritting-uimi-issneun-hangeul","version":"0.1.3","description":"나눔손글씨 의미있는 한글 typeface","main":"index.css","keywords":["@kfonts","kfonts","typeface","font","font family","webfont","korean","글꼴","서체","nanum-handwritting-uimi-issneun-hangeul","나눔손글씨 의미있는 한글"],"author":"Kim, Jinsu <item4hun@gmail.com>","license":"SEE LICENSE IN LICENSE","repository":"https://github.com/item4/kfonts/tree/main/packages/nanum-handwritting-uimi-issneun-hangeul"}
+{
+  "name": "@kfonts/nanum-handwritting-uimi-issneun-hangeul",
+  "version": "0.2.0",
+  "description": "나눔손글씨 의미있는 한글 typeface",
+  "main": "index.css",
+  "keywords": [
+    "@kfonts",
+    "font",
+    "font family",
+    "typeface",
+    "webfont",
+    "web",
+    "front-end",
+    "korean",
+    "나눔손글씨 의미있는 한글",
+    "Nanum EuiMiIssNeunHanGeur"
+  ],
+  "author": "item4",
+  "license": "OFL-1.1",
+  "repository": "https://github.com/item4/kfonts/tree/main/packages/nanum-handwritting-uimi-issneun-hangeul"
+}

@@ -1,39 +1,6 @@
 @font-face {
   font-family: '나눔손글씨 중학생';
-  src: url(./junghagsaeng.eot);
-  src: local('나눔손글씨 중학생 '),
-       local('나눔손글씨 중학생'),
-       url(./junghagsaeng.eot?#iefix) format('embedded-opentype'),
-       url(./junghagsaeng.woff2) format('woff2'),
-       url(./junghagsaeng.woff) format('woff'),
-       url(./junghagsaeng.ttf) format('truetype');
+  src: local('나눔손글씨 중학생'), local('나눔손글씨 중학생 '), local('Nanum JungHagSaeng'), local('Nanum JungHagSaeng '), url(./junghagsaeng.woff2) format('woff2'), url(./junghagsaeng.woff) format('woff');
   font-display: swap;
-  font-style: normal;
-  font-weight: 400;
-}
-@font-face {
-  font-family: '나눔손글씨중학생';
-  src: url(./junghagsaeng.eot);
-  src: local('나눔손글씨중학생 '),
-       local('나눔손글씨중학생'),
-       url(./junghagsaeng.eot?#iefix) format('embedded-opentype'),
-       url(./junghagsaeng.woff2) format('woff2'),
-       url(./junghagsaeng.woff) format('woff'),
-       url(./junghagsaeng.ttf) format('truetype');
-  font-display: swap;
-  font-style: normal;
-  font-weight: 400;
-}
-@font-face {
-  font-family: 'nanum-handwritting-junghagsaeng';
-  src: url(./junghagsaeng.eot);
-  src: local('nanum-handwritting-junghagsaeng '),
-       local('nanum-handwritting-junghagsaeng'),
-       url(./junghagsaeng.eot?#iefix) format('embedded-opentype'),
-       url(./junghagsaeng.woff2) format('woff2'),
-       url(./junghagsaeng.woff) format('woff'),
-       url(./junghagsaeng.ttf) format('truetype');
-  font-display: swap;
-  font-style: normal;
   font-weight: 400;
 }

@@ -1,42 +1,6 @@
 @font-face {
   font-family: '배달의민족 주아 OTF';
-  src: url(./BMJUA_otf.eot);
-  src: local('배달의민족 주아 OTF '),
-       local('배달의민족 주아 OTF'),
-       url(./BMJUA_otf.eot?#iefix) format('embedded-opentype'),
-       url(./BMJUA_otf.woff2) format('woff2'),
-       url(./BMJUA_otf.woff) format('woff'),
-       url(./BMJUA_otf.otf) format('otf'),
-       url(./BMJUA_otf.ttf) format('truetype');
+  src: local('배달의민족 주아 OTF'), local('배달의민족 주아 OTF '), local('BM JUA_OTF'), local('BM JUA_OTF '), local('BM JUA OTF'), local('BM JUA OTF '), url(./BMJUA_otf.woff2) format('woff2'), url(./BMJUA_otf.woff) format('woff');
   font-display: swap;
-  font-style: normal;
-  font-weight: 400;
-}
-@font-face {
-  font-family: '배달의민족주아OTF';
-  src: url(./BMJUA_otf.eot);
-  src: local('배달의민족주아OTF '),
-       local('배달의민족주아OTF'),
-       url(./BMJUA_otf.eot?#iefix) format('embedded-opentype'),
-       url(./BMJUA_otf.woff2) format('woff2'),
-       url(./BMJUA_otf.woff) format('woff'),
-       url(./BMJUA_otf.otf) format('otf'),
-       url(./BMJUA_otf.ttf) format('truetype');
-  font-display: swap;
-  font-style: normal;
-  font-weight: 400;
-}
-@font-face {
-  font-family: 'bm-jua-otf';
-  src: url(./BMJUA_otf.eot);
-  src: local('bm-jua-otf '),
-       local('bm-jua-otf'),
-       url(./BMJUA_otf.eot?#iefix) format('embedded-opentype'),
-       url(./BMJUA_otf.woff2) format('woff2'),
-       url(./BMJUA_otf.woff) format('woff'),
-       url(./BMJUA_otf.otf) format('otf'),
-       url(./BMJUA_otf.ttf) format('truetype');
-  font-display: swap;
-  font-style: normal;
   font-weight: 400;
 }

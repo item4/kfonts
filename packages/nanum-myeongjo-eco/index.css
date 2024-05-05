@@ -1,117 +1,18 @@
 @font-face {
   font-family: '나눔명조 에코';
-  src: url(./NanumMyeongjoEco.eot);
-  src: local('나눔명조 에코 '),
-       local('나눔명조 에코'),
-       url(./NanumMyeongjoEco.eot?#iefix) format('embedded-opentype'),
-       url(./NanumMyeongjoEco.woff2) format('woff2'),
-       url(./NanumMyeongjoEco.woff) format('woff'),
-       url(./NanumMyeongjoEco.ttf) format('truetype');
+  src: local('나눔명조 에코'), local('나눔명조 에코 '), local('NanumMyeongjo Eco'), local('NanumMyeongjo Eco '), url(./NanumMyeongjoEco.woff2) format('woff2'), url(./NanumMyeongjoEco.woff) format('woff');
   font-display: swap;
-  font-style: normal;
-  font-weight: 400;
-}
-@font-face {
-  font-family: '나눔명조에코';
-  src: url(./NanumMyeongjoEco.eot);
-  src: local('나눔명조에코 '),
-       local('나눔명조에코'),
-       url(./NanumMyeongjoEco.eot?#iefix) format('embedded-opentype'),
-       url(./NanumMyeongjoEco.woff2) format('woff2'),
-       url(./NanumMyeongjoEco.woff) format('woff'),
-       url(./NanumMyeongjoEco.ttf) format('truetype');
-  font-display: swap;
-  font-style: normal;
-  font-weight: 400;
-}
-@font-face {
-  font-family: 'nanum-myeongjo-eco';
-  src: url(./NanumMyeongjoEco.eot);
-  src: local('nanum-myeongjo-eco '),
-       local('nanum-myeongjo-eco'),
-       url(./NanumMyeongjoEco.eot?#iefix) format('embedded-opentype'),
-       url(./NanumMyeongjoEco.woff2) format('woff2'),
-       url(./NanumMyeongjoEco.woff) format('woff'),
-       url(./NanumMyeongjoEco.ttf) format('truetype');
-  font-display: swap;
-  font-style: normal;
   font-weight: 400;
 }
 @font-face {
   font-family: '나눔명조 에코';
-  src: url(./NanumMyeongjoEcoBold.eot);
-  src: local('나눔명조 에코 '),
-       local('나눔명조 에코'),
-       url(./NanumMyeongjoEcoBold.eot?#iefix) format('embedded-opentype'),
-       url(./NanumMyeongjoEcoBold.woff2) format('woff2'),
-       url(./NanumMyeongjoEcoBold.woff) format('woff'),
-       url(./NanumMyeongjoEcoBold.ttf) format('truetype');
+  src: local('나눔명조 에코'), local('나눔명조 에코 '), local('NanumMyeongjo Eco'), local('NanumMyeongjo Eco '), url(./NanumMyeongjoEcoBold.woff2) format('woff2'), url(./NanumMyeongjoEcoBold.woff) format('woff');
   font-display: swap;
-  font-style: normal;
-  font-weight: 700;
-}
-@font-face {
-  font-family: '나눔명조에코';
-  src: url(./NanumMyeongjoEcoBold.eot);
-  src: local('나눔명조에코 '),
-       local('나눔명조에코'),
-       url(./NanumMyeongjoEcoBold.eot?#iefix) format('embedded-opentype'),
-       url(./NanumMyeongjoEcoBold.woff2) format('woff2'),
-       url(./NanumMyeongjoEcoBold.woff) format('woff'),
-       url(./NanumMyeongjoEcoBold.ttf) format('truetype');
-  font-display: swap;
-  font-style: normal;
-  font-weight: 700;
-}
-@font-face {
-  font-family: 'nanum-myeongjo-eco';
-  src: url(./NanumMyeongjoEcoBold.eot);
-  src: local('nanum-myeongjo-eco '),
-       local('nanum-myeongjo-eco'),
-       url(./NanumMyeongjoEcoBold.eot?#iefix) format('embedded-opentype'),
-       url(./NanumMyeongjoEcoBold.woff2) format('woff2'),
-       url(./NanumMyeongjoEcoBold.woff) format('woff'),
-       url(./NanumMyeongjoEcoBold.ttf) format('truetype');
-  font-display: swap;
-  font-style: normal;
   font-weight: 700;
 }
 @font-face {
   font-family: '나눔명조 에코';
-  src: url(./NanumMyeongjoEcoExtraBold.eot);
-  src: local('나눔명조 에코 '),
-       local('나눔명조 에코'),
-       url(./NanumMyeongjoEcoExtraBold.eot?#iefix) format('embedded-opentype'),
-       url(./NanumMyeongjoEcoExtraBold.woff2) format('woff2'),
-       url(./NanumMyeongjoEcoExtraBold.woff) format('woff'),
-       url(./NanumMyeongjoEcoExtraBold.ttf) format('truetype');
+  src: local('나눔명조 에코'), local('나눔명조 에코 '), local('NanumMyeongjo Eco'), local('NanumMyeongjo Eco '), url(./NanumMyeongjoEcoExtraBold.woff2) format('woff2'), url(./NanumMyeongjoEcoExtraBold.woff) format('woff');
   font-display: swap;
-  font-style: normal;
-  font-weight: 800;
-}
-@font-face {
-  font-family: '나눔명조에코';
-  src: url(./NanumMyeongjoEcoExtraBold.eot);
-  src: local('나눔명조에코 '),
-       local('나눔명조에코'),
-       url(./NanumMyeongjoEcoExtraBold.eot?#iefix) format('embedded-opentype'),
-       url(./NanumMyeongjoEcoExtraBold.woff2) format('woff2'),
-       url(./NanumMyeongjoEcoExtraBold.woff) format('woff'),
-       url(./NanumMyeongjoEcoExtraBold.ttf) format('truetype');
-  font-display: swap;
-  font-style: normal;
-  font-weight: 800;
-}
-@font-face {
-  font-family: 'nanum-myeongjo-eco';
-  src: url(./NanumMyeongjoEcoExtraBold.eot);
-  src: local('nanum-myeongjo-eco '),
-       local('nanum-myeongjo-eco'),
-       url(./NanumMyeongjoEcoExtraBold.eot?#iefix) format('embedded-opentype'),
-       url(./NanumMyeongjoEcoExtraBold.woff2) format('woff2'),
-       url(./NanumMyeongjoEcoExtraBold.woff) format('woff'),
-       url(./NanumMyeongjoEcoExtraBold.ttf) format('truetype');
-  font-display: swap;
-  font-style: normal;
   font-weight: 800;
 }

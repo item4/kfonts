@@ -1,42 +1,6 @@
 @font-face {
   font-family: '배민 을지로10년후체 OTF';
-  src: url(./BMEuljiro10yearslaterOTF.eot);
-  src: local('배민 을지로10년후체 OTF '),
-       local('배민 을지로10년후체 OTF'),
-       url(./BMEuljiro10yearslaterOTF.eot?#iefix) format('embedded-opentype'),
-       url(./BMEuljiro10yearslaterOTF.woff2) format('woff2'),
-       url(./BMEuljiro10yearslaterOTF.woff) format('woff'),
-       url(./BMEuljiro10yearslaterOTF.otf) format('otf'),
-       url(./BMEuljiro10yearslaterOTF.ttf) format('truetype');
+  src: local('배민 을지로10년후체 OTF'), local('배민 을지로10년후체 OTF '), local('BM Euljiro 10 years later OTF'), local('BM Euljiro 10 years later OTF '), url(./BMEuljiro10yearslaterOTF.woff2) format('woff2'), url(./BMEuljiro10yearslaterOTF.woff) format('woff');
   font-display: swap;
-  font-style: normal;
-  font-weight: 400;
-}
-@font-face {
-  font-family: '배민을지로10년후체OTF';
-  src: url(./BMEuljiro10yearslaterOTF.eot);
-  src: local('배민을지로10년후체OTF '),
-       local('배민을지로10년후체OTF'),
-       url(./BMEuljiro10yearslaterOTF.eot?#iefix) format('embedded-opentype'),
-       url(./BMEuljiro10yearslaterOTF.woff2) format('woff2'),
-       url(./BMEuljiro10yearslaterOTF.woff) format('woff'),
-       url(./BMEuljiro10yearslaterOTF.otf) format('otf'),
-       url(./BMEuljiro10yearslaterOTF.ttf) format('truetype');
-  font-display: swap;
-  font-style: normal;
-  font-weight: 400;
-}
-@font-face {
-  font-family: 'bm-euljiro-10years-later-otf';
-  src: url(./BMEuljiro10yearslaterOTF.eot);
-  src: local('bm-euljiro-10years-later-otf '),
-       local('bm-euljiro-10years-later-otf'),
-       url(./BMEuljiro10yearslaterOTF.eot?#iefix) format('embedded-opentype'),
-       url(./BMEuljiro10yearslaterOTF.woff2) format('woff2'),
-       url(./BMEuljiro10yearslaterOTF.woff) format('woff'),
-       url(./BMEuljiro10yearslaterOTF.otf) format('otf'),
-       url(./BMEuljiro10yearslaterOTF.ttf) format('truetype');
-  font-display: swap;
-  font-style: normal;
   font-weight: 400;
 }

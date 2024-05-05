@@ -1,1 +1,21 @@
-{"name":"@kfonts/nanum-handwritting-galam-yeonkkoch","version":"0.1.3","description":"나눔손글씨 가람연꽃 typeface","main":"index.css","keywords":["@kfonts","kfonts","typeface","font","font family","webfont","korean","글꼴","서체","nanum-handwritting-galam-yeonkkoch","나눔손글씨 가람연꽃"],"author":"Kim, Jinsu <item4hun@gmail.com>","license":"SEE LICENSE IN LICENSE","repository":"https://github.com/item4/kfonts/tree/main/packages/nanum-handwritting-galam-yeonkkoch"}
+{
+  "name": "@kfonts/nanum-handwritting-galam-yeonkkoch",
+  "version": "0.2.0",
+  "description": "나눔손글씨 가람연꽃 typeface",
+  "main": "index.css",
+  "keywords": [
+    "@kfonts",
+    "font",
+    "font family",
+    "typeface",
+    "webfont",
+    "web",
+    "front-end",
+    "korean",
+    "나눔손글씨 가람연꽃",
+    "Nanum GaRamYeonGgoc"
+  ],
+  "author": "item4",
+  "license": "OFL-1.1",
+  "repository": "https://github.com/item4/kfonts/tree/main/packages/nanum-handwritting-galam-yeonkkoch"
+}

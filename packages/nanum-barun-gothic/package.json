@@ -1,1 +1,21 @@
-{"name":"@kfonts/nanum-barun-gothic","version":"0.1.3","description":"나눔바른고딕 typeface","main":"index.css","keywords":["@kfonts","kfonts","typeface","font","font family","webfont","korean","글꼴","서체","nanum-barun-gothic","나눔바른고딕"],"author":"Kim, Jinsu <item4hun@gmail.com>","license":"SEE LICENSE IN LICENSE","repository":"https://github.com/item4/kfonts/tree/main/packages/nanum-barun-gothic"}
+{
+  "name": "@kfonts/nanum-barun-gothic",
+  "version": "0.2.0",
+  "description": "나눔바른고딕 typeface",
+  "main": "index.css",
+  "keywords": [
+    "@kfonts",
+    "font",
+    "font family",
+    "typeface",
+    "webfont",
+    "web",
+    "front-end",
+    "korean",
+    "나눔바른고딕",
+    "NanumBarunGothic"
+  ],
+  "author": "item4",
+  "license": "OFL-1.1",
+  "repository": "https://github.com/item4/kfonts/tree/main/packages/nanum-barun-gothic"
+}

@@ -1,104 +1,24 @@
 @font-face {
   font-family: '나눔스퀘어_ac';
-  src: url(./NanumSquare_acR.eot);
-  src: local('나눔스퀘어_ac '),
-       local('나눔스퀘어_ac'),
-       url(./NanumSquare_acR.eot?#iefix) format('embedded-opentype'),
-       url(./NanumSquare_acR.woff2) format('woff2'),
-       url(./NanumSquare_acR.woff) format('woff'),
-       url(./NanumSquare_acR.ttf) format('truetype');
+  src: local('나눔스퀘어_ac'), local('나눔스퀘어_ac '), local('NanumSquare_ac'), local('NanumSquare_ac '), url(./NanumSquare_acR.woff2) format('woff2'), url(./NanumSquare_acR.woff) format('woff');
   font-display: swap;
-  font-style: normal;
-  font-weight: 400;
-}
-@font-face {
-  font-family: 'nanum-square-ac';
-  src: url(./NanumSquare_acR.eot);
-  src: local('nanum-square-ac '),
-       local('nanum-square-ac'),
-       url(./NanumSquare_acR.eot?#iefix) format('embedded-opentype'),
-       url(./NanumSquare_acR.woff2) format('woff2'),
-       url(./NanumSquare_acR.woff) format('woff'),
-       url(./NanumSquare_acR.ttf) format('truetype');
-  font-display: swap;
-  font-style: normal;
   font-weight: 400;
 }
 @font-face {
   font-family: '나눔스퀘어_ac';
-  src: url(./NanumSquare_acL.eot);
-  src: local('나눔스퀘어_ac '),
-       local('나눔스퀘어_ac'),
-       url(./NanumSquare_acL.eot?#iefix) format('embedded-opentype'),
-       url(./NanumSquare_acL.woff2) format('woff2'),
-       url(./NanumSquare_acL.woff) format('woff'),
-       url(./NanumSquare_acL.ttf) format('truetype');
+  src: local('나눔스퀘어_ac'), local('나눔스퀘어_ac '), local('NanumSquare_ac'), local('NanumSquare_ac '), url(./NanumSquare_acL.woff2) format('woff2'), url(./NanumSquare_acL.woff) format('woff');
   font-display: swap;
-  font-style: normal;
-  font-weight: 300;
-}
-@font-face {
-  font-family: 'nanum-square-ac';
-  src: url(./NanumSquare_acL.eot);
-  src: local('nanum-square-ac '),
-       local('nanum-square-ac'),
-       url(./NanumSquare_acL.eot?#iefix) format('embedded-opentype'),
-       url(./NanumSquare_acL.woff2) format('woff2'),
-       url(./NanumSquare_acL.woff) format('woff'),
-       url(./NanumSquare_acL.ttf) format('truetype');
-  font-display: swap;
-  font-style: normal;
   font-weight: 300;
 }
 @font-face {
   font-family: '나눔스퀘어_ac';
-  src: url(./NanumSquare_acB.eot);
-  src: local('나눔스퀘어_ac '),
-       local('나눔스퀘어_ac'),
-       url(./NanumSquare_acB.eot?#iefix) format('embedded-opentype'),
-       url(./NanumSquare_acB.woff2) format('woff2'),
-       url(./NanumSquare_acB.woff) format('woff'),
-       url(./NanumSquare_acB.ttf) format('truetype');
+  src: local('나눔스퀘어_ac'), local('나눔스퀘어_ac '), local('NanumSquare_ac'), local('NanumSquare_ac '), url(./NanumSquare_acB.woff2) format('woff2'), url(./NanumSquare_acB.woff) format('woff');
   font-display: swap;
-  font-style: normal;
-  font-weight: 700;
-}
-@font-face {
-  font-family: 'nanum-square-ac';
-  src: url(./NanumSquare_acB.eot);
-  src: local('nanum-square-ac '),
-       local('nanum-square-ac'),
-       url(./NanumSquare_acB.eot?#iefix) format('embedded-opentype'),
-       url(./NanumSquare_acB.woff2) format('woff2'),
-       url(./NanumSquare_acB.woff) format('woff'),
-       url(./NanumSquare_acB.ttf) format('truetype');
-  font-display: swap;
-  font-style: normal;
   font-weight: 700;
 }
 @font-face {
   font-family: '나눔스퀘어_ac';
-  src: url(./NanumSquare_acEB.eot);
-  src: local('나눔스퀘어_ac '),
-       local('나눔스퀘어_ac'),
-       url(./NanumSquare_acEB.eot?#iefix) format('embedded-opentype'),
-       url(./NanumSquare_acEB.woff2) format('woff2'),
-       url(./NanumSquare_acEB.woff) format('woff'),
-       url(./NanumSquare_acEB.ttf) format('truetype');
+  src: local('나눔스퀘어_ac'), local('나눔스퀘어_ac '), local('NanumSquare_ac'), local('NanumSquare_ac '), url(./NanumSquare_acEB.woff2) format('woff2'), url(./NanumSquare_acEB.woff) format('woff');
   font-display: swap;
-  font-style: normal;
-  font-weight: 800;
-}
-@font-face {
-  font-family: 'nanum-square-ac';
-  src: url(./NanumSquare_acEB.eot);
-  src: local('nanum-square-ac '),
-       local('nanum-square-ac'),
-       url(./NanumSquare_acEB.eot?#iefix) format('embedded-opentype'),
-       url(./NanumSquare_acEB.woff2) format('woff2'),
-       url(./NanumSquare_acEB.woff) format('woff'),
-       url(./NanumSquare_acEB.ttf) format('truetype');
-  font-display: swap;
-  font-style: normal;
   font-weight: 800;
 }

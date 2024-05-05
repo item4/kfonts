@@ -1,39 +1,6 @@
 @font-face {
   font-family: '나눔손글씨 유니 띵땅띵땅';
-  src: url(./yuni-ttingttangttingttang.eot);
-  src: local('나눔손글씨 유니 띵땅띵땅 '),
-       local('나눔손글씨 유니 띵땅띵땅'),
-       url(./yuni-ttingttangttingttang.eot?#iefix) format('embedded-opentype'),
-       url(./yuni-ttingttangttingttang.woff2) format('woff2'),
-       url(./yuni-ttingttangttingttang.woff) format('woff'),
-       url(./yuni-ttingttangttingttang.ttf) format('truetype');
+  src: local('나눔손글씨 유니 띵땅띵땅'), local('나눔손글씨 유니 띵땅띵땅 '), local('Nanum YuNiDdingDdangDdingDdang'), local('Nanum YuNiDdingDdangDdingDdang '), url(./yuni-ttingttangttingttang.woff2) format('woff2'), url(./yuni-ttingttangttingttang.woff) format('woff');
   font-display: swap;
-  font-style: normal;
-  font-weight: 400;
-}
-@font-face {
-  font-family: '나눔손글씨유니띵땅띵땅';
-  src: url(./yuni-ttingttangttingttang.eot);
-  src: local('나눔손글씨유니띵땅띵땅 '),
-       local('나눔손글씨유니띵땅띵땅'),
-       url(./yuni-ttingttangttingttang.eot?#iefix) format('embedded-opentype'),
-       url(./yuni-ttingttangttingttang.woff2) format('woff2'),
-       url(./yuni-ttingttangttingttang.woff) format('woff'),
-       url(./yuni-ttingttangttingttang.ttf) format('truetype');
-  font-display: swap;
-  font-style: normal;
-  font-weight: 400;
-}
-@font-face {
-  font-family: 'nanum-handwritting-yuni-ttingttangttingttang';
-  src: url(./yuni-ttingttangttingttang.eot);
-  src: local('nanum-handwritting-yuni-ttingttangttingttang '),
-       local('nanum-handwritting-yuni-ttingttangttingttang'),
-       url(./yuni-ttingttangttingttang.eot?#iefix) format('embedded-opentype'),
-       url(./yuni-ttingttangttingttang.woff2) format('woff2'),
-       url(./yuni-ttingttangttingttang.woff) format('woff'),
-       url(./yuni-ttingttangttingttang.ttf) format('truetype');
-  font-display: swap;
-  font-style: normal;
   font-weight: 400;
 }
