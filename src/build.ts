@@ -58,13 +58,13 @@ const main = async () => {
     }
     console.log(`${metadata_path} found`);
     const metadata: Metadata = await readJSON(metadata_path);
-    /*if (await exists(packagejson_path)) {
+    if (await exists(packagejson_path)) {
       const { version } = await readJSON(packagejson_path);
       if (version === metadata.version) {
         console.log(`same version, skip (${version})`);
         continue;
       }
-    }*/
+    }
 
     const primaryFamilyName = metadata.family[0];
     for (const data of metadata.files) {
