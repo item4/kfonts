@@ -1,0 +1,21 @@
+{
+  "name": "@kfonts/kcc-hanbit",
+  "version": "0.1.0",
+  "description": "KCC-한빛 typeface",
+  "main": "index.css",
+  "keywords": [
+    "@kfonts",
+    "font",
+    "font family",
+    "typeface",
+    "webfont",
+    "web",
+    "front-end",
+    "korean",
+    "KCC-한빛",
+    "KCC-Hanbit"
+  ],
+  "author": "item4",
+  "license": "OFL-1.1",
+  "repository": "https://github.com/item4/kfonts/tree/main/packages/kcc-hanbit"
+}

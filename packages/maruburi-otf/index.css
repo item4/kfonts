@@ -1,0 +1,30 @@
+@font-face {
+  font-family: '마루 부리OTF';
+  src: local('마루 부리OTF'), local('마루 부리OTF '), local('MaruBuriOTF'), local('MaruBuriOTF '), url(./MaruBuri-ExtraLight.woff2) format('woff2'), url(./MaruBuri-ExtraLight.woff) format('woff');
+  font-display: swap;
+  font-weight: 200;
+}
+@font-face {
+  font-family: '마루 부리OTF';
+  src: local('마루 부리OTF'), local('마루 부리OTF '), local('MaruBuriOTF'), local('MaruBuriOTF '), url(./MaruBuri-Light.woff2) format('woff2'), url(./MaruBuri-Light.woff) format('woff');
+  font-display: swap;
+  font-weight: 300;
+}
+@font-face {
+  font-family: '마루 부리OTF';
+  src: local('마루 부리OTF'), local('마루 부리OTF '), local('MaruBuriOTF'), local('MaruBuriOTF '), url(./MaruBuri-Regular.woff2) format('woff2'), url(./MaruBuri-Regular.woff) format('woff');
+  font-display: swap;
+  font-weight: 400;
+}
+@font-face {
+  font-family: '마루 부리OTF';
+  src: local('마루 부리OTF'), local('마루 부리OTF '), local('MaruBuriOTF'), local('MaruBuriOTF '), url(./MaruBuri-SemiBold.woff2) format('woff2'), url(./MaruBuri-SemiBold.woff) format('woff');
+  font-display: swap;
+  font-weight: 600;
+}
+@font-face {
+  font-family: '마루 부리OTF';
+  src: local('마루 부리OTF'), local('마루 부리OTF '), local('MaruBuriOTF'), local('MaruBuriOTF '), url(./MaruBuri-Bold.woff2) format('woff2'), url(./MaruBuri-Bold.woff) format('woff');
+  font-display: swap;
+  font-weight: 700;
+}

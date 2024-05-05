@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'KCC-한빛';
+  src: local('KCC-한빛'), local('KCC-한빛 '), local('KCC-Hanbit'), local('KCC-Hanbit '), url(./KCC-Hanbit.woff2) format('woff2'), url(./KCC-Hanbit.woff) format('woff');
+  font-display: swap;
+  font-weight: 400;
+}

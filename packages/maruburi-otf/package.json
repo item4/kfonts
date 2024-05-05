@@ -1,0 +1,21 @@
+{
+  "name": "@kfonts/maruburi-otf",
+  "version": "0.1.0",
+  "description": "마루 부리OTF typeface",
+  "main": "index.css",
+  "keywords": [
+    "@kfonts",
+    "font",
+    "font family",
+    "typeface",
+    "webfont",
+    "web",
+    "front-end",
+    "korean",
+    "마루 부리OTF",
+    "MaruBuriOTF"
+  ],
+  "author": "item4",
+  "license": "OFL-1.1",
+  "repository": "https://github.com/item4/kfonts/tree/main/packages/maruburi-otf"
+}
