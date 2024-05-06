@@ -93,6 +93,12 @@ async function main() {
       fontFamilySet.add('나눔손글씨 흰꼬리수리');
       fontFamilySet.add('Nanum HeuinGgoRiSuRi');
     }
+    if (fontFamilySet.has('DAEHWA_NANUM_SHARING2023_10_FONT')) {
+      // 대화나눔체 work-around
+      fontFamilySet.clear();
+      fontFamilySet.add('대화나눔');
+      fontFamilySet.add('Daehwa Nanum');
+    }
     metadata.name = directory.name;
     metadata.family = [...fontFamilySet];
     metadata.generic = (() => {

@@ -1,0 +1,21 @@
+{
+  "name": "@kfonts/daehwa-nanum",
+  "version": "0.1.0",
+  "description": "대화나눔 typeface",
+  "main": "index.css",
+  "keywords": [
+    "@kfonts",
+    "font",
+    "font family",
+    "typeface",
+    "webfont",
+    "web",
+    "front-end",
+    "korean",
+    "대화나눔",
+    "Daehwa Nanum"
+  ],
+  "author": "item4",
+  "license": "OFL-1.1",
+  "repository": "https://github.com/item4/kfonts/tree/main/packages/daehwa-nanum"
+}

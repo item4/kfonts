@@ -1,0 +1,18 @@
+@font-face {
+  font-family: '대화나눔';
+  src: local('대화나눔'), local('대화나눔 '), local('Daehwa Nanum'), local('Daehwa Nanum '), url(./daehwa-nanum-light.woff2) format('woff2'), url(./daehwa-nanum-light.woff) format('woff');
+  font-display: swap;
+  font-weight: 300;
+}
+@font-face {
+  font-family: '대화나눔';
+  src: local('대화나눔'), local('대화나눔 '), local('Daehwa Nanum'), local('Daehwa Nanum '), url(./daehwa-nanum-regular.woff2) format('woff2'), url(./daehwa-nanum-regular.woff) format('woff');
+  font-display: swap;
+  font-weight: 400;
+}
+@font-face {
+  font-family: '대화나눔';
+  src: local('대화나눔'), local('대화나눔 '), local('Daehwa Nanum'), local('Daehwa Nanum '), url(./daehwa-nanum-bold.woff2) format('woff2'), url(./daehwa-nanum-bold.woff) format('woff');
+  font-display: swap;
+  font-weight: 700;
+}

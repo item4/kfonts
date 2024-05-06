@@ -1,0 +1,39 @@
+{
+  "name": "daehwa-nanum",
+  "version": "0.1.0",
+  "family": [
+    "대화나눔",
+    "Daehwa Nanum"
+  ],
+  "generic": "cursive",
+  "format": "otf",
+  "homepage": {
+    "name": "대화나눔폰트",
+    "url": "https://www.dhpharmfont.com/"
+  },
+  "license": {
+    "spdx": "OFL-1.1",
+    "name": "Open Font License",
+    "url": "https://www.dhpharmfont.com/"
+  },
+  "files": [
+    {
+      "filename": "daehwa-nanum-light.otf",
+      "weight": 300,
+      "style": "normal",
+      "version": 65536
+    },
+    {
+      "filename": "daehwa-nanum-regular.otf",
+      "weight": 400,
+      "style": "normal",
+      "version": 65536
+    },
+    {
+      "filename": "daehwa-nanum-bold.otf",
+      "weight": 700,
+      "style": "normal",
+      "version": 65536
+    }
+  ]
+}
