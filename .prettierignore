@@ -1,0 +1,22 @@
+# .ignore
+.eslintignore
+.gitignore
+.prettierignore
+
+# yarnpkg universe
+.yarn
+.pnp.cjs
+.pnp.loader.mjs
+yarn.lock
+.yarnrc.yml
+
+# node.js
+node_modules
+
+# Git
+.gitattributes
+.husky
+
+# output
+.next
+packages/**/*

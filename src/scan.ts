@@ -3,12 +3,12 @@ import type { Metadata } from '@/types/metadata.js';
 
 import child_process from 'node:child_process';
 import path from 'node:path';
-import util from 'node:util';
+import { promisify } from 'node:util';
 
-import { exists, getPackages, readJSON, writeJSON } from '@/fs.js';
 import { getFontVersion } from '@/fontforge.js';
+import { exists, getPackages, readJSON, writeJSON } from '@/fs.js';
 
-const exec = util.promisify(child_process.exec);
+const exec = promisify(child_process.exec);
 
 const STRING_PATTERN = /"(.+?)"\(s\)/g;
 const KNOWN_GENERIC_TYPE: Record<string, GenericFamily> = {
@@ -45,7 +45,7 @@ async function main() {
       const rawStyle = /\s+style: (.+)$/m.exec(stdout)![1];
       const familyNames = [...rawFamily.matchAll(STRING_PATTERN)].map(matched => matched[1]);
       const familyLangNames = [...rawFamilyLang.matchAll(STRING_PATTERN)].map(matched => matched[1]);
-      const styleNames = [...rawStyle.matchAll(STRING_PATTERN)].map(matched => matched[1]);
+      const styleNames = new Set([...rawStyle.matchAll(STRING_PATTERN)].map(matched => matched[1]));
       const weight = Number(stdout.match(/^\s+weight: (\d+(?:\.\d+)?)\(f\)\(s\)$/m)![1]);
       if (weight < 40) {
         file.weight = 100;
@@ -68,13 +68,13 @@ async function main() {
       } else {
         file.weight = 1000;
       }
-      if (styleNames.includes('UltraLight') || styleNames.includes('ExtraLight')) {
+      if (styleNames.has('UltraLight') || styleNames.has('ExtraLight')) {
         file.weight = 200;
-      } else if (styleNames.includes('Light')) {
+      } else if (styleNames.has('Light')) {
         file.weight = 300;
-      } else if (styleNames.includes('UltraBold') || styleNames.includes('ExtraBold')) {
+      } else if (styleNames.has('UltraBold') || styleNames.has('ExtraBold')) {
         file.weight = 800;
-      } else if (styleNames.includes('Bold')) {
+      } else if (styleNames.has('Bold')) {
         file.weight = 700;
       }
       file.version = await getFontVersion(fontPath);

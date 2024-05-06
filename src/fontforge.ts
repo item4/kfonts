@@ -15,7 +15,7 @@ export const fontforge = (
     cmd += ` '${name}'`;
   }
   return new Promise<string>(resolve => {
-    child_process.exec(cmd, (_err, stdout) => {
+    child_process.exec(cmd, (_error, stdout) => {
       resolve(stdout);
     });
   });
@@ -25,21 +25,19 @@ export const getFontName = async (source: string) => {
   if (result) {
     return result.trim().replace(' ', '_');
   }
-  return null;
+  return;
 };
 export const getFontVersion = async (source: string) => {
-  if (source.endsWith('.otf')) {
-    return (
-      await fontforge(
+  const result = await (source.endsWith('.otf')
+    ? fontforge(
         source,
         'import sys; font = fontforge.open(sys.argv[1]); print(font.cidversion);',
         undefined,
         undefined,
         'py',
       )
-    ).trim();
-  }
-  return (await fontforge(source, 'Open($1);Print($fontversion);')).trim();
+    : fontforge(source, 'Open($1);Print($fontversion);'));
+  return result.trim();
 };
 export const convert_ttf = async (source: string, target: string, name: string) => {
   return await fontforge(source, 'Open($1);SetFontNames($3,$3,$3);Generate($2, "", 8);', target, name);

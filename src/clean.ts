@@ -1,5 +1,6 @@
 import { opendir, rm } from 'node:fs/promises';
 import path from 'node:path';
+
 import { getPackages } from '@/fs.js';
 
 async function main() {

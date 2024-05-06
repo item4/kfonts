@@ -2,12 +2,12 @@ import type { Metadata } from '@/types/metadata.js';
 
 import child_process from 'node:child_process';
 import fs from 'node:fs';
-import path from 'node:path';
 import { rm } from 'node:fs/promises';
-import { exists, getPackages, readJSON, read, write, writeJSON } from '@/fs.js';
-import * as process from 'process';
+import path from 'node:path';
+import * as process from 'node:process';
 
-import { convert_ttf, convert_woff, getFontName } from '@/fontforge.js';
+import { convert_ttf, convert_woff } from '@/fontforge.js';
+import { exists, getPackages, readJSON, read, write, writeJSON } from '@/fs.js';
 
 const convert_woff2 = (source_path: string, destination_path: string): Promise<void> => {
   return new Promise<void>(resolve => {
@@ -44,7 +44,7 @@ const main = async () => {
     const primaryFamilyName = metadata.family[0];
     for (const data of metadata.files) {
       const { name } = path.parse(data.filename);
-      const srcList = [
+      const sourceList = [
         ...metadata.family.map(name => `local('${name}'), local('${name} ')`),
         `url(./${name}.woff2) format('woff2')`,
         `url(./${name}.woff) format('woff')`,
@@ -62,7 +62,7 @@ const main = async () => {
       css += `\
 @font-face {
   font-family: '${primaryFamilyName}';
-  src: ${srcList.join(', ')};
+  src: ${sourceList.join(', ')};
   font-display: swap;
   font-weight: ${data.weight};
 }
