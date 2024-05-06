@@ -41,8 +41,41 @@ async function main() {
       const { stdout } = await exec(`fc-query ${fontPath}`);
       const rawFamily = /\s+family: (.+)$/m.exec(stdout)![1];
       const rawFamilyLang = /\s+familylang: (.+)$/m.exec(stdout)![1];
+      const rawStyle = /\s+style: (.+)$/m.exec(stdout)![1];
       const familyNames = [...rawFamily.matchAll(STRING_PATTERN)].map(matched => matched[1]);
       const familyLangNames = [...rawFamilyLang.matchAll(STRING_PATTERN)].map(matched => matched[1]);
+      const styleNames = [...rawStyle.matchAll(STRING_PATTERN)].map(matched => matched[1]);
+      const weight = Number(stdout.match(/^\s+weight: (\d+(?:\.\d+)?)\(f\)\(s\)$/m)![1]);
+      if (weight < 40) {
+        file.weight = 100;
+      } else if (weight < 50) {
+        file.weight = 200;
+      } else if (weight < 80) {
+        file.weight = 300;
+      } else if (weight < 100) {
+        file.weight = 400;
+      } else if (weight < 180) {
+        file.weight = 500;
+      } else if (weight < 200) {
+        file.weight = 600;
+      } else if (weight < 205) {
+        file.weight = 700;
+      } else if (weight < 210) {
+        file.weight = 800;
+      } else if (weight < 215) {
+        file.weight = 900;
+      } else {
+        file.weight = 1000;
+      }
+      if (styleNames.includes('UltraLight') || styleNames.includes('ExtraLight')) {
+        file.weight = 200;
+      } else if (styleNames.includes('Light')) {
+        file.weight = 300;
+      } else if (styleNames.includes('UltraBold') || styleNames.includes('ExtraBold')) {
+        file.weight = 800;
+      } else if (styleNames.includes('Bold')) {
+        file.weight = 700;
+      }
       file.version = Number(stdout.match(/^\s+fontversion: (\d+)\(i\)\(s\)$/m)![1]);
       const names = Array.from({ length: familyNames.length })
         .map((_, index) => [familyNames[index], familyLangNames[index]])
@@ -71,10 +104,10 @@ async function main() {
         if (stripName.startsWith('나눔손글씨')) {
           return 'cursive';
         }
-        if (stripName.includes('명조') || name.includes('바탕')) {
+        if (stripName.includes('명조') || stripName.includes('바탕')) {
           return 'serif';
         }
-        if (stripName.includes('고딕') || name.includes('스퀘어')) {
+        if (stripName.includes('고딕') || stripName.includes('스퀘어') || stripName.includes('sans')) {
           return 'sans-serif';
         }
         if (/\bcode\b/.test(stripName)) {
