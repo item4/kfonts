@@ -21,19 +21,19 @@
       "filename": "daehwa-nanum-light.otf",
       "weight": 300,
       "style": "normal",
-      "version": 65536
+      "version": "None"
     },
     {
       "filename": "daehwa-nanum-regular.otf",
       "weight": 400,
       "style": "normal",
-      "version": 65536
+      "version": "None"
     },
     {
       "filename": "daehwa-nanum-bold.otf",
       "weight": 700,
       "style": "normal",
-      "version": 65536
+      "version": "None"
     }
   ]
 }

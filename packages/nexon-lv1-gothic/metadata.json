@@ -21,19 +21,19 @@
       "filename": "NEXONLv1GothicLight.ttf",
       "weight": 300,
       "style": "normal",
-      "version": 65536
+      "version": "1.0.0; Build 20170914; kr2350 autohinted"
     },
     {
       "filename": "NEXONLv1GothicRegular.ttf",
       "weight": 400,
       "style": "normal",
-      "version": 65536
+      "version": "1.0.0; Build 20170914; kr2350 autohinted"
     },
     {
       "filename": "NEXONLv1GothicBold.ttf",
       "weight": 700,
       "style": "normal",
-      "version": 65536
+      "version": "1.0.0; Build 20170914; kr2350 autohinted"
     }
   ]
 }

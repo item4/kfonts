@@ -20,19 +20,19 @@
       "filename": "LINESeedKR-Th.otf",
       "weight": 200,
       "style": "normal",
-      "version": 65536
+      "version": "1.0"
     },
     {
       "filename": "LINESeedKR-Rg.otf",
       "weight": 400,
       "style": "normal",
-      "version": 65536
+      "version": "1.0"
     },
     {
       "filename": "LINESeedKR-Bd.otf",
       "weight": 700,
       "style": "normal",
-      "version": 65536
+      "version": "1.0"
     }
   ]
 }

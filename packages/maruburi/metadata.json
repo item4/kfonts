@@ -21,31 +21,31 @@
       "filename": "MaruBuri-ExtraLight.ttf",
       "weight": 200,
       "style": "normal",
-      "version": 65536
+      "version": "2.000;hotconv 1.1.0;makeotfexe 2.6.0"
     },
     {
       "filename": "MaruBuri-Light.ttf",
       "weight": 300,
       "style": "normal",
-      "version": 65536
+      "version": "2.000;hotconv 1.1.0;makeotfexe 2.6.0"
     },
     {
       "filename": "MaruBuri-Regular.ttf",
       "weight": 400,
       "style": "normal",
-      "version": 65536
+      "version": "2.000;hotconv 1.1.0;makeotfexe 2.6.0"
     },
     {
       "filename": "MaruBuri-SemiBold.ttf",
       "weight": 600,
       "style": "normal",
-      "version": 65536
+      "version": "2.000;hotconv 1.1.0;makeotfexe 2.6.0"
     },
     {
       "filename": "MaruBuri-Bold.ttf",
       "weight": 700,
       "style": "normal",
-      "version": 65536
+      "version": "2.000;hotconv 1.0.118;makeotfexe 2.5.65603"
     }
   ]
 }

@@ -6,6 +6,7 @@ import path from 'node:path';
 import util from 'node:util';
 
 import { exists, getPackages, readJSON, writeJSON } from '@/fs.js';
+import { getFontVersion } from '@/fontforge.js';
 
 const exec = util.promisify(child_process.exec);
 
@@ -76,7 +77,7 @@ async function main() {
       } else if (styleNames.includes('Bold')) {
         file.weight = 700;
       }
-      file.version = Number(stdout.match(/^\s+fontversion: (\d+)\(i\)\(s\)$/m)![1]);
+      file.version = await getFontVersion(fontPath);
       const names = Array.from({ length: familyNames.length })
         .map((_, index) => [familyNames[index], familyLangNames[index]])
         .sort((a, b) => b[1].localeCompare(a[1]))

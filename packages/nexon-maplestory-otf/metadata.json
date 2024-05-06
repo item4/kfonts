@@ -21,13 +21,13 @@
       "filename": "Maplestory_OTF_Light.otf",
       "weight": 300,
       "style": "normal",
-      "version": 65536
+      "version": "1.0"
     },
     {
       "filename": "Maplestory_OTF_Bold.otf",
       "weight": 700,
       "style": "normal",
-      "version": 65536
+      "version": "1.0"
     }
   ]
 }

@@ -21,25 +21,25 @@
       "filename": "NanumSquareR.otf",
       "weight": 400,
       "style": "normal",
-      "version": 65536
+      "version": "1.0"
     },
     {
       "filename": "NanumSquareL.otf",
       "weight": 300,
       "style": "normal",
-      "version": 65536
+      "version": "1.0"
     },
     {
       "filename": "NanumSquareB.otf",
       "weight": 700,
       "style": "normal",
-      "version": 65536
+      "version": "1.0"
     },
     {
       "filename": "NanumSquareEB.otf",
       "weight": 800,
       "style": "normal",
-      "version": 65536
+      "version": "1.0"
     }
   ]
 }

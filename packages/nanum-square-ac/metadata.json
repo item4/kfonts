@@ -21,25 +21,25 @@
       "filename": "NanumSquare_acR.ttf",
       "weight": 400,
       "style": "normal",
-      "version": 65536
+      "version": "1.000;PS 1;hotconv 1.0.88;makeotf.lib2.5.647800"
     },
     {
       "filename": "NanumSquare_acL.ttf",
       "weight": 300,
       "style": "normal",
-      "version": 65536
+      "version": "1.000;PS 1;hotconv 1.0.88;makeotf.lib2.5.647800"
     },
     {
       "filename": "NanumSquare_acB.ttf",
       "weight": 700,
       "style": "normal",
-      "version": 65536
+      "version": "1.000;PS 1;hotconv 1.0.88;makeotf.lib2.5.647800"
     },
     {
       "filename": "NanumSquare_acEB.ttf",
       "weight": 800,
       "style": "normal",
-      "version": 65536
+      "version": "1.000;PS 1;hotconv 1.0.88;makeotf.lib2.5.647800"
     }
   ]
 }

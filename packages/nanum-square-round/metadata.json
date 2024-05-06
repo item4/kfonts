@@ -21,25 +21,25 @@
       "filename": "NanumSquareRoundR.ttf",
       "weight": 400,
       "style": "normal",
-      "version": 65536
+      "version": "1.000;PS 1;hotconv 16.6.51;makeotf.lib2.5.65220"
     },
     {
       "filename": "NanumSquareRoundL.ttf",
       "weight": 300,
       "style": "normal",
-      "version": 65536
+      "version": "1.000;PS 1;hotconv 16.6.51;makeotf.lib2.5.65220"
     },
     {
       "filename": "NanumSquareRoundB.ttf",
       "weight": 700,
       "style": "normal",
-      "version": 65536
+      "version": "1.000;PS 1;hotconv 16.6.51;makeotf.lib2.5.65220"
     },
     {
       "filename": "NanumSquareRoundEB.ttf",
       "weight": 800,
       "style": "normal",
-      "version": 65536
+      "version": "1.000;PS 1;hotconv 16.6.51;makeotf.lib2.5.65220"
     }
   ]
 }

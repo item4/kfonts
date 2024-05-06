@@ -21,19 +21,19 @@
       "filename": "NanumMyeongjoEco.ttf",
       "weight": 400,
       "style": "normal",
-      "version": 65536
+      "version": "1.00;PS 1;hotconv 1.0.56;makeotf.lib2.0.21325"
     },
     {
       "filename": "NanumMyeongjoEcoBold.ttf",
       "weight": 700,
       "style": "normal",
-      "version": 65536
+      "version": "1.00;PS 1;hotconv 1.0.56;makeotf.lib2.0.21325"
     },
     {
       "filename": "NanumMyeongjoEcoExtraBold.ttf",
       "weight": 800,
       "style": "normal",
-      "version": 65536
+      "version": "1.00;PS 1;hotconv 1.0.56;makeotf.lib2.0.21325"
     }
   ]
 }

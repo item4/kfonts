@@ -21,19 +21,19 @@
       "filename": "NanumGothicEco.otf",
       "weight": 400,
       "style": "normal",
-      "version": 197918
+      "version": "1.0"
     },
     {
       "filename": "NanumGothicEcoBold.otf",
       "weight": 700,
       "style": "normal",
-      "version": 197918
+      "version": "1.0"
     },
     {
       "filename": "NanumGothicEcoExtraBold.otf",
       "weight": 800,
       "style": "normal",
-      "version": 197918
+      "version": "1.0"
     }
   ]
 }

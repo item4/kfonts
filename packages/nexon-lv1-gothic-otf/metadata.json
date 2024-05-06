@@ -21,19 +21,19 @@
       "filename": "NEXON_Lv1_Gothic_OTF_Light.otf",
       "weight": 300,
       "style": "normal",
-      "version": 65536
+      "version": "1.0"
     },
     {
       "filename": "NEXON_Lv1_Gothic_OTF.otf",
       "weight": 400,
       "style": "normal",
-      "version": 65536
+      "version": "1.0"
     },
     {
       "filename": "NEXON_Lv1_Gothic_OTF_Bold.otf",
       "weight": 700,
       "style": "normal",
-      "version": 65536
+      "version": "1.0"
     }
   ]
 }

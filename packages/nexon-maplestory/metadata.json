@@ -21,13 +21,13 @@
       "filename": "Maplestory_Light.ttf",
       "weight": 300,
       "style": "normal",
-      "version": 65536
+      "version": "1.0.0; Build Release;"
     },
     {
       "filename": "Maplestory_Bold.ttf",
       "weight": 700,
       "style": "normal",
-      "version": 65536
+      "version": "1.0.0; Build Release;"
     }
   ]
 }

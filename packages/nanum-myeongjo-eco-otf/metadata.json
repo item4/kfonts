@@ -21,19 +21,19 @@
       "filename": "NanumMyeongjoEco.otf",
       "weight": 400,
       "style": "normal",
-      "version": 196608
+      "version": "1.0"
     },
     {
       "filename": "NanumMyeongjoEcoBold.otf",
       "weight": 700,
       "style": "normal",
-      "version": 196608
+      "version": "1.0"
     },
     {
       "filename": "NanumMyeongjoEcoExtraBold.otf",
       "weight": 800,
       "style": "normal",
-      "version": 196608
+      "version": "1.0"
     }
   ]
 }

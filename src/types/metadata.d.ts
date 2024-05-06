@@ -4,7 +4,7 @@ export interface FileData {
   filename: string;
   style: Style;
   weight: Weight;
-  version: number;
+  version: string;
 }
 
 export interface Metadata {

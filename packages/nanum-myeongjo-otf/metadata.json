@@ -21,19 +21,19 @@
       "filename": "NanumMyeongjo.otf",
       "weight": 400,
       "style": "normal",
-      "version": 133038
+      "version": "1.0"
     },
     {
       "filename": "NanumMyeongjoBold.otf",
       "weight": 700,
       "style": "normal",
-      "version": 133038
+      "version": "1.0"
     },
     {
       "filename": "NanumMyeongjoExtraBold.otf",
       "weight": 800,
       "style": "normal",
-      "version": 133038
+      "version": "1.0"
     }
   ]
 }

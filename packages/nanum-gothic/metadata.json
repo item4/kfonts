@@ -21,25 +21,25 @@
       "filename": "NanumGothic.ttf",
       "weight": 400,
       "style": "normal",
-      "version": 262144
+      "version": "3.021;PS 1;hotconv 1.0.57;makeotf.lib2.0.21895"
     },
     {
       "filename": "NanumGothicLight.ttf",
       "weight": 300,
       "style": "normal",
-      "version": 65536
+      "version": "1.000;PS 1;hotconv 1.0.56;makeotf.lib2.0.21325"
     },
     {
       "filename": "NanumGothicBold.ttf",
       "weight": 700,
       "style": "normal",
-      "version": 262144
+      "version": "3.021;PS 1;hotconv 1.0.57;makeotf.lib2.0.21895"
     },
     {
       "filename": "NanumGothicExtraBold.ttf",
       "weight": 800,
       "style": "normal",
-      "version": 262144
+      "version": "3.021;PS 1;hotconv 1.0.57;makeotf.lib2.0.21895"
     }
   ]
 }

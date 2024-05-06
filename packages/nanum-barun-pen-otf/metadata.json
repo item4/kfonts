@@ -21,13 +21,13 @@
       "filename": "NanumBarunpenR.otf",
       "weight": 400,
       "style": "normal",
-      "version": 65536
+      "version": "1.0"
     },
     {
       "filename": "NanumBarunpenB.otf",
       "weight": 700,
       "style": "normal",
-      "version": 65536
+      "version": "1.0"
     }
   ]
 }

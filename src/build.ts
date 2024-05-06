@@ -7,33 +7,8 @@ import { rm } from 'node:fs/promises';
 import { exists, getPackages, readJSON, read, write, writeJSON } from '@/fs.js';
 import * as process from 'process';
 
-const fontforge = (source: string, script: string, target?: string, name?: string): Promise<string> => {
-  let cmd = `fontforge -lang=ff -c '${script}' '${source}'`;
-  if (target) {
-    cmd += ` '${target}'`;
-  }
-  if (name) {
-    cmd += ` '${name}'`;
-  }
-  return new Promise<string>(resolve => {
-    child_process.exec(cmd, (_err, stdout) => {
-      resolve(stdout);
-    });
-  });
-};
-const getFontName = async (source: string) => {
-  const result = await fontforge(source, 'Open($1);Print($fontname);', undefined, undefined);
-  if (result) {
-    return result.trim().replace(' ', '_');
-  }
-  return null;
-};
-const convert_ttf = async (source: string, target: string, name: string) => {
-  return await fontforge(source, 'Open($1);SetFontNames($3,$3,$3);Generate($2, "", 8);', target, name);
-};
-const convert_woff = async (source: string, target: string) => {
-  return await fontforge(source, 'Open($1);Generate($2, "", 8);', target);
-};
+import { convert_ttf, convert_woff, getFontName } from '@/fontforge.js';
+
 const convert_woff2 = (source_path: string, destination_path: string): Promise<void> => {
   return new Promise<void>(resolve => {
     child_process.exec(`woff2_compress ${source_path}`, () => {

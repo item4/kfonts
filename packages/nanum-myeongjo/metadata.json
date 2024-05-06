@@ -21,19 +21,19 @@
       "filename": "NanumMyeongjo.ttf",
       "weight": 400,
       "style": "normal",
-      "version": 131269
+      "version": "3.011;PS 1;hotconv 1.0.56;makeotf.lib2.0.21325"
     },
     {
       "filename": "NanumMyeongjoBold.ttf",
       "weight": 700,
       "style": "normal",
-      "version": 65536
+      "version": "3.011;PS 1;hotconv 1.0.56;makeotf.lib2.0.21325"
     },
     {
       "filename": "NanumMyeongjoExtraBold.ttf",
       "weight": 800,
       "style": "normal",
-      "version": 131269
+      "version": "3.011;PS 1;hotconv 1.0.56;makeotf.lib2.0.21325"
     }
   ]
 }

@@ -21,19 +21,19 @@
       "filename": "NanumGothicEco.ttf",
       "weight": 400,
       "style": "normal",
-      "version": 262144
+      "version": "1.000;PS 1;hotconv 1.0.69;makeotf.lib2.5.35818"
     },
     {
       "filename": "NanumGothicEcoBold.ttf",
       "weight": 700,
       "style": "normal",
-      "version": 262144
+      "version": "1.000;PS 1;hotconv 1.0.69;makeotf.lib2.5.35818"
     },
     {
       "filename": "NanumGothicEcoExtraBold.ttf",
       "weight": 800,
       "style": "normal",
-      "version": 262144
+      "version": "1.000;PS 1;hotconv 1.0.69;makeotf.lib2.5.35818"
     }
   ]
 }
