@@ -1,6 +1,6 @@
 {
   "name": "nanum-barun-gothic",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "family": [
     "나눔바른고딕",
     "NanumBarunGothic"
@@ -37,7 +37,7 @@
     },
     {
       "filename": "NanumBarunGothicUltraLight.ttf",
-      "weight": 100,
+      "weight": 200,
       "style": "normal",
       "version": 65536
     }

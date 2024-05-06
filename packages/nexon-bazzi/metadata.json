@@ -1,6 +1,6 @@
 {
   "name": "nexon-bazzi",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "family": [
     "배찌체",
     "Bazzi"
@@ -19,7 +19,7 @@
   "files": [
     {
       "filename": "Bazzi.ttf",
-      "weight": 300,
+      "weight": 400,
       "style": "normal",
       "version": 65536
     }

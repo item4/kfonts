@@ -1,6 +1,6 @@
 {
   "name": "neodgm-code",
-  "version": "0.4.0",
+  "version": "0.5.0",
   "family": [
     "Neo둥근모 Code",
     "NeoDunggeunmo Code"
@@ -19,7 +19,7 @@
   "files": [
     {
       "filename": "neodgm_code.ttf",
-      "weight": 300,
+      "weight": 400,
       "style": "normal",
       "version": 104857
     }

@@ -2,5 +2,5 @@
   font-family: '배찌체';
   src: local('배찌체'), local('배찌체 '), local('Bazzi'), local('Bazzi '), url(./Bazzi.woff2) format('woff2'), url(./Bazzi.woff) format('woff');
   font-display: swap;
-  font-weight: 300;
+  font-weight: 400;
 }

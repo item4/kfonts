@@ -20,5 +20,5 @@
   font-family: '나눔바른고딕OTF';
   src: local('나눔바른고딕OTF'), local('나눔바른고딕OTF '), local('NanumBarunGothicOTF'), local('NanumBarunGothicOTF '), url(./NanumBarunGothicUltraLight.woff2) format('woff2'), url(./NanumBarunGothicUltraLight.woff) format('woff');
   font-display: swap;
-  font-weight: 100;
+  font-weight: 200;
 }
