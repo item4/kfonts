@@ -3,7 +3,7 @@ import type { Metadata } from '@/types/metadata.js';
 import child_process from 'node:child_process';
 import fs from 'node:fs';
 import path from 'node:path';
-
+import { rm } from 'node:fs/promises';
 import { exists, getPackages, readJSON, read, write, writeJSON } from '@/fs.js';
 import * as process from 'process';
 
@@ -86,6 +86,7 @@ const main = async () => {
       await convert_ttf(source_path, ttf_path, font_name);
       await convert_woff(source_path, path.join(package_path, `${name}.woff`));
       await convert_woff2(source_path, path.join(package_path, `${name}.woff2`));
+      await rm(ttf_path);
       // if (otf_based) {
       //   fs.copyFileSync(source_path, path.join(directory.path, data.filename));
       // }
