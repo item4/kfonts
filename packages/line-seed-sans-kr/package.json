@@ -1,0 +1,20 @@
+{
+  "name": "@kfonts/line-seed-sans-kr",
+  "version": "0.1.0",
+  "description": "LINE Seed Sans KR typeface",
+  "main": "index.css",
+  "keywords": [
+    "@kfonts",
+    "font",
+    "font family",
+    "typeface",
+    "webfont",
+    "web",
+    "front-end",
+    "korean",
+    "LINE Seed Sans KR"
+  ],
+  "author": "item4",
+  "license": "OFL-1.1",
+  "repository": "https://github.com/item4/kfonts/tree/main/packages/line-seed-sans-kr"
+}

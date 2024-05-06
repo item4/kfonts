@@ -1,0 +1,18 @@
+@font-face {
+  font-family: 'LINE Seed Sans KR';
+  src: local('LINE Seed Sans KR'), local('LINE Seed Sans KR '), url(./LINESeedKR-Th.woff2) format('woff2'), url(./LINESeedKR-Th.woff) format('woff');
+  font-display: swap;
+  font-weight: 200;
+}
+@font-face {
+  font-family: 'LINE Seed Sans KR';
+  src: local('LINE Seed Sans KR'), local('LINE Seed Sans KR '), url(./LINESeedKR-Rg.woff2) format('woff2'), url(./LINESeedKR-Rg.woff) format('woff');
+  font-display: swap;
+  font-weight: 400;
+}
+@font-face {
+  font-family: 'LINE Seed Sans KR';
+  src: local('LINE Seed Sans KR'), local('LINE Seed Sans KR '), url(./LINESeedKR-Bd.woff2) format('woff2'), url(./LINESeedKR-Bd.woff) format('woff');
+  font-display: swap;
+  font-weight: 700;
+}
