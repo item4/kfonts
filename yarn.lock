@@ -221,6 +221,36 @@ __metadata:
   languageName: unknown
   linkType: soft
 
+"@kfonts/daehwa-nanum@workspace:packages/daehwa-nanum":
+  version: 0.0.0-use.local
+  resolution: "@kfonts/daehwa-nanum@workspace:packages/daehwa-nanum"
+  languageName: unknown
+  linkType: soft
+
+"@kfonts/kcc-hanbit@workspace:packages/kcc-hanbit":
+  version: 0.0.0-use.local
+  resolution: "@kfonts/kcc-hanbit@workspace:packages/kcc-hanbit"
+  languageName: unknown
+  linkType: soft
+
+"@kfonts/line-seed-sans-kr@workspace:packages/line-seed-sans-kr":
+  version: 0.0.0-use.local
+  resolution: "@kfonts/line-seed-sans-kr@workspace:packages/line-seed-sans-kr"
+  languageName: unknown
+  linkType: soft
+
+"@kfonts/maruburi-otf@workspace:packages/maruburi-otf":
+  version: 0.0.0-use.local
+  resolution: "@kfonts/maruburi-otf@workspace:packages/maruburi-otf"
+  languageName: unknown
+  linkType: soft
+
+"@kfonts/maruburi@workspace:packages/maruburi":
+  version: 0.0.0-use.local
+  resolution: "@kfonts/maruburi@workspace:packages/maruburi"
+  languageName: unknown
+  linkType: soft
+
 "@kfonts/nanum-barun-gothic-otf@workspace:packages/nanum-barun-gothic-otf":
   version: 0.0.0-use.local
   resolution: "@kfonts/nanum-barun-gothic-otf@workspace:packages/nanum-barun-gothic-otf"
