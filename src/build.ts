@@ -51,20 +51,12 @@ const main = async () => {
       ];
       const source_path = path.join(package_path, 'src', data.filename);
 
-      const font_name = await getFontName(source_path);
-      if (!font_name) {
-        console.error(`Failed to get font name from ${source_path}`);
-        continue;
-      }
       console.log(`Start: convert ${source_path}`);
       const ttf_path = path.join(package_path, `${name}.ttf`);
-      await convert_ttf(source_path, ttf_path, font_name);
+      await convert_ttf(source_path, ttf_path, primaryFamilyName);
       await convert_woff(source_path, path.join(package_path, `${name}.woff`));
       await convert_woff2(source_path, path.join(package_path, `${name}.woff2`));
       await rm(ttf_path);
-      // if (otf_based) {
-      //   fs.copyFileSync(source_path, path.join(directory.path, data.filename));
-      // }
       console.log(`End: convert ${source_path}`);
 
       css += `\
