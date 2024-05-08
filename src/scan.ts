@@ -1,6 +1,7 @@
 import type { GenericFamily } from '@/types/font.js';
 import type { Metadata } from '@/types/metadata.js';
 
+import { opendir } from 'node:fs/promises';
 import child_process from 'node:child_process';
 import path from 'node:path';
 import { promisify } from 'node:util';
@@ -33,7 +34,40 @@ async function main() {
     const packagePath = path.join(directory.path, directory.name);
     const metadataPath = path.join(packagePath, 'metadata.json');
     if (!(await exists(metadataPath))) {
-      continue;
+      const sourceDirectory = path.join(packagePath, 'src');
+      if (!(await exists(sourceDirectory))) {
+        continue;
+      }
+      const tempMetadata: Metadata = {
+        name: directory.name,
+        family: [],
+        generic: 'cursive',
+        files: [],
+        version: '0.0.0',
+        format: 'ttf',
+        homepage: {
+          name: '',
+          url: '',
+        },
+        license: {
+          spdx: 'OFL-1.1',
+          name: '',
+          url: '',
+        },
+      };
+      const fonts = await opendir(sourceDirectory);
+      for await (const font of fonts) {
+        tempMetadata.files.push({
+          filename: font.name,
+          weight: 400,
+          style: 'normal',
+          version: '0.0',
+        });
+        if (font.name.endsWith('.otf')) {
+          tempMetadata.format = 'otf';
+        }
+        await writeJSON(metadataPath, tempMetadata);
+      }
     }
     const metadata: Metadata = await readJSON(metadataPath);
     const fontFamilySet: Set<string> = new Set();
