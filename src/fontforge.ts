@@ -39,9 +39,6 @@ export const getFontVersion = async (source: string) => {
     : fontforge(source, 'Open($1);Print($fontversion);'));
   return result.trim();
 };
-export const convert_ttf = async (source: string, target: string, name: string) => {
-  return await fontforge(source, 'Open($1);SetFontNames($3,$3,$3);Generate($2, "", 8);', target, name);
-};
 export const convert_woff = async (source: string, target: string) => {
   return await fontforge(source, 'Open($1);Generate($2, "", 8);', target);
 };

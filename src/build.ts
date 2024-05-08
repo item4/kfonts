@@ -2,11 +2,10 @@ import type { Metadata } from '@/types/metadata.js';
 
 import child_process from 'node:child_process';
 import fs from 'node:fs';
-import { rm } from 'node:fs/promises';
 import path from 'node:path';
 import * as process from 'node:process';
 
-import { convert_ttf, convert_woff } from '@/fontforge.js';
+import { convert_woff } from '@/fontforge.js';
 import { exists, getPackages, readJSON, read, write, writeJSON } from '@/fs.js';
 
 const convert_woff2 = (source_path: string, destination_path: string): Promise<void> => {
@@ -52,11 +51,8 @@ const main = async () => {
       const source_path = path.join(package_path, 'src', data.filename);
 
       console.log(`Start: convert ${source_path}`);
-      const ttf_path = path.join(package_path, `${name}.ttf`);
-      await convert_ttf(source_path, ttf_path, primaryFamilyName);
       await convert_woff(source_path, path.join(package_path, `${name}.woff`));
       await convert_woff2(source_path, path.join(package_path, `${name}.woff2`));
-      await rm(ttf_path);
       console.log(`End: convert ${source_path}`);
 
       css += `\
