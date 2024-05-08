@@ -12,7 +12,7 @@ import { exists, getPackages, readJSON, read, write, writeJSON } from '@/fs.js';
 const convert_woff2 = (source_path: string, destination_path: string): Promise<void> => {
   return new Promise<void>(resolve => {
     child_process.exec(`woff2_compress ${source_path}`, () => {
-      fs.rename(source_path.replace(/[ot]tf$/, 'woff2'), destination_path, () => {
+      fs.rename(source_path.replace(/\.[ot]tf$/, '.woff2'), destination_path, () => {
         resolve();
       });
     });
