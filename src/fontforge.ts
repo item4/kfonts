@@ -31,7 +31,7 @@ export const getFontVersion = async (source: string) => {
   const result = await (source.endsWith('.otf')
     ? fontforge(
         source,
-        'import sys; font = fontforge.open(sys.argv[1]); print(font.cidversion);',
+        'import sys; font = fontforge.open(sys.argv[1]); print(font.cidversion or font.version);',
         undefined,
         undefined,
         'py',
