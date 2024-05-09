@@ -227,6 +227,336 @@ __metadata:
   languageName: unknown
   linkType: soft
 
+"@kfonts/hakgyoansim-bareonbatang@workspace:packages/hakgyoansim-bareonbatang":
+  version: 0.0.0-use.local
+  resolution: "@kfonts/hakgyoansim-bareonbatang@workspace:packages/hakgyoansim-bareonbatang"
+  languageName: unknown
+  linkType: soft
+
+"@kfonts/hakgyoansim-bareondotum@workspace:packages/hakgyoansim-bareondotum":
+  version: 0.0.0-use.local
+  resolution: "@kfonts/hakgyoansim-bareondotum@workspace:packages/hakgyoansim-bareondotum"
+  languageName: unknown
+  linkType: soft
+
+"@kfonts/hakgyoansim-bombanghak@workspace:packages/hakgyoansim-bombanghak":
+  version: 0.0.0-use.local
+  resolution: "@kfonts/hakgyoansim-bombanghak@workspace:packages/hakgyoansim-bombanghak"
+  languageName: unknown
+  linkType: soft
+
+"@kfonts/hakgyoansim-bunpil@workspace:packages/hakgyoansim-bunpil":
+  version: 0.0.0-use.local
+  resolution: "@kfonts/hakgyoansim-bunpil@workspace:packages/hakgyoansim-bunpil"
+  languageName: unknown
+  linkType: soft
+
+"@kfonts/hakgyoansim-butpen@workspace:packages/hakgyoansim-butpen":
+  version: 0.0.0-use.local
+  resolution: "@kfonts/hakgyoansim-butpen@workspace:packages/hakgyoansim-butpen"
+  languageName: unknown
+  linkType: soft
+
+"@kfonts/hakgyoansim-doldam@workspace:packages/hakgyoansim-doldam":
+  version: 0.0.0-use.local
+  resolution: "@kfonts/hakgyoansim-doldam@workspace:packages/hakgyoansim-doldam"
+  languageName: unknown
+  linkType: soft
+
+"@kfonts/hakgyoansim-dotbogi-otf@workspace:packages/hakgyoansim-dotbogi-otf":
+  version: 0.0.0-use.local
+  resolution: "@kfonts/hakgyoansim-dotbogi-otf@workspace:packages/hakgyoansim-dotbogi-otf"
+  languageName: unknown
+  linkType: soft
+
+"@kfonts/hakgyoansim-dotbogi@workspace:packages/hakgyoansim-dotbogi":
+  version: 0.0.0-use.local
+  resolution: "@kfonts/hakgyoansim-dotbogi@workspace:packages/hakgyoansim-dotbogi"
+  languageName: unknown
+  linkType: soft
+
+"@kfonts/hakgyoansim-eunhasu-otf@workspace:packages/hakgyoansim-eunhasu-otf":
+  version: 0.0.0-use.local
+  resolution: "@kfonts/hakgyoansim-eunhasu-otf@workspace:packages/hakgyoansim-eunhasu-otf"
+  languageName: unknown
+  linkType: soft
+
+"@kfonts/hakgyoansim-eunhasu@workspace:packages/hakgyoansim-eunhasu":
+  version: 0.0.0-use.local
+  resolution: "@kfonts/hakgyoansim-eunhasu@workspace:packages/hakgyoansim-eunhasu"
+  languageName: unknown
+  linkType: soft
+
+"@kfonts/hakgyoansim-gaeulsopung@workspace:packages/hakgyoansim-gaeulsopung":
+  version: 0.0.0-use.local
+  resolution: "@kfonts/hakgyoansim-gaeulsopung@workspace:packages/hakgyoansim-gaeulsopung"
+  languageName: unknown
+  linkType: soft
+
+"@kfonts/hakgyoansim-ggooreogi@workspace:packages/hakgyoansim-ggooreogi":
+  version: 0.0.0-use.local
+  resolution: "@kfonts/hakgyoansim-ggooreogi@workspace:packages/hakgyoansim-ggooreogi"
+  languageName: unknown
+  linkType: soft
+
+"@kfonts/hakgyoansim-godeunjemok@workspace:packages/hakgyoansim-godeunjemok":
+  version: 0.0.0-use.local
+  resolution: "@kfonts/hakgyoansim-godeunjemok@workspace:packages/hakgyoansim-godeunjemok"
+  languageName: unknown
+  linkType: soft
+
+"@kfonts/hakgyoansim-gureum-otf@workspace:packages/hakgyoansim-gureum-otf":
+  version: 0.0.0-use.local
+  resolution: "@kfonts/hakgyoansim-gureum-otf@workspace:packages/hakgyoansim-gureum-otf"
+  languageName: unknown
+  linkType: soft
+
+"@kfonts/hakgyoansim-gureum@workspace:packages/hakgyoansim-gureum":
+  version: 0.0.0-use.local
+  resolution: "@kfonts/hakgyoansim-gureum@workspace:packages/hakgyoansim-gureum"
+  languageName: unknown
+  linkType: soft
+
+"@kfonts/hakgyoansim-jeomsimsigan-otf@workspace:packages/hakgyoansim-jeomsimsigan-otf":
+  version: 0.0.0-use.local
+  resolution: "@kfonts/hakgyoansim-jeomsimsigan-otf@workspace:packages/hakgyoansim-jeomsimsigan-otf"
+  languageName: unknown
+  linkType: soft
+
+"@kfonts/hakgyoansim-jeomsimsigan@workspace:packages/hakgyoansim-jeomsimsigan":
+  version: 0.0.0-use.local
+  resolution: "@kfonts/hakgyoansim-jeomsimsigan@workspace:packages/hakgyoansim-jeomsimsigan"
+  languageName: unknown
+  linkType: soft
+
+"@kfonts/hakgyoansim-jiugae-otf@workspace:packages/hakgyoansim-jiugae-otf":
+  version: 0.0.0-use.local
+  resolution: "@kfonts/hakgyoansim-jiugae-otf@workspace:packages/hakgyoansim-jiugae-otf"
+  languageName: unknown
+  linkType: soft
+
+"@kfonts/hakgyoansim-jiugae@workspace:packages/hakgyoansim-jiugae":
+  version: 0.0.0-use.local
+  resolution: "@kfonts/hakgyoansim-jiugae@workspace:packages/hakgyoansim-jiugae"
+  languageName: unknown
+  linkType: soft
+
+"@kfonts/hakgyoansim-kkokkoma-otf@workspace:packages/hakgyoansim-kkokkoma-otf":
+  version: 0.0.0-use.local
+  resolution: "@kfonts/hakgyoansim-kkokkoma-otf@workspace:packages/hakgyoansim-kkokkoma-otf"
+  languageName: unknown
+  linkType: soft
+
+"@kfonts/hakgyoansim-kkokkoma@workspace:packages/hakgyoansim-kkokkoma":
+  version: 0.0.0-use.local
+  resolution: "@kfonts/hakgyoansim-kkokkoma@workspace:packages/hakgyoansim-kkokkoma"
+  languageName: unknown
+  linkType: soft
+
+"@kfonts/hakgyoansim-kkwabaegi-otf@workspace:packages/hakgyoansim-kkwabaegi-otf":
+  version: 0.0.0-use.local
+  resolution: "@kfonts/hakgyoansim-kkwabaegi-otf@workspace:packages/hakgyoansim-kkwabaegi-otf"
+  languageName: unknown
+  linkType: soft
+
+"@kfonts/hakgyoansim-kkwabaegi@workspace:packages/hakgyoansim-kkwabaegi":
+  version: 0.0.0-use.local
+  resolution: "@kfonts/hakgyoansim-kkwabaegi@workspace:packages/hakgyoansim-kkwabaegi"
+  languageName: unknown
+  linkType: soft
+
+"@kfonts/hakgyoansim-kossuyeom-otf@workspace:packages/hakgyoansim-kossuyeom-otf":
+  version: 0.0.0-use.local
+  resolution: "@kfonts/hakgyoansim-kossuyeom-otf@workspace:packages/hakgyoansim-kossuyeom-otf"
+  languageName: unknown
+  linkType: soft
+
+"@kfonts/hakgyoansim-kossuyeom@workspace:packages/hakgyoansim-kossuyeom":
+  version: 0.0.0-use.local
+  resolution: "@kfonts/hakgyoansim-kossuyeom@workspace:packages/hakgyoansim-kossuyeom"
+  languageName: unknown
+  linkType: soft
+
+"@kfonts/hakgyoansim-mabeopsa-otf@workspace:packages/hakgyoansim-mabeopsa-otf":
+  version: 0.0.0-use.local
+  resolution: "@kfonts/hakgyoansim-mabeopsa-otf@workspace:packages/hakgyoansim-mabeopsa-otf"
+  languageName: unknown
+  linkType: soft
+
+"@kfonts/hakgyoansim-mabeopsa@workspace:packages/hakgyoansim-mabeopsa":
+  version: 0.0.0-use.local
+  resolution: "@kfonts/hakgyoansim-mabeopsa@workspace:packages/hakgyoansim-mabeopsa"
+  languageName: unknown
+  linkType: soft
+
+"@kfonts/hakgyoansim-malgeunnal@workspace:packages/hakgyoansim-malgeunnal":
+  version: 0.0.0-use.local
+  resolution: "@kfonts/hakgyoansim-malgeunnal@workspace:packages/hakgyoansim-malgeunnal"
+  languageName: unknown
+  linkType: soft
+
+"@kfonts/hakgyoansim-moheomga-otf@workspace:packages/hakgyoansim-moheomga-otf":
+  version: 0.0.0-use.local
+  resolution: "@kfonts/hakgyoansim-moheomga-otf@workspace:packages/hakgyoansim-moheomga-otf"
+  languageName: unknown
+  linkType: soft
+
+"@kfonts/hakgyoansim-moheomga@workspace:packages/hakgyoansim-moheomga":
+  version: 0.0.0-use.local
+  resolution: "@kfonts/hakgyoansim-moheomga@workspace:packages/hakgyoansim-moheomga"
+  languageName: unknown
+  linkType: soft
+
+"@kfonts/hakgyoansim-monggeulmonggeul-otf@workspace:packages/hakgyoansim-monggeulmonggeul-otf":
+  version: 0.0.0-use.local
+  resolution: "@kfonts/hakgyoansim-monggeulmonggeul-otf@workspace:packages/hakgyoansim-monggeulmonggeul-otf"
+  languageName: unknown
+  linkType: soft
+
+"@kfonts/hakgyoansim-monggeulmonggeul@workspace:packages/hakgyoansim-monggeulmonggeul":
+  version: 0.0.0-use.local
+  resolution: "@kfonts/hakgyoansim-monggeulmonggeul@workspace:packages/hakgyoansim-monggeulmonggeul"
+  languageName: unknown
+  linkType: soft
+
+"@kfonts/hakgyoansim-mulgyeol-otf@workspace:packages/hakgyoansim-mulgyeol-otf":
+  version: 0.0.0-use.local
+  resolution: "@kfonts/hakgyoansim-mulgyeol-otf@workspace:packages/hakgyoansim-mulgyeol-otf"
+  languageName: unknown
+  linkType: soft
+
+"@kfonts/hakgyoansim-mulgyeol@workspace:packages/hakgyoansim-mulgyeol":
+  version: 0.0.0-use.local
+  resolution: "@kfonts/hakgyoansim-mulgyeol@workspace:packages/hakgyoansim-mulgyeol"
+  languageName: unknown
+  linkType: soft
+
+"@kfonts/hakgyoansim-namu-otf@workspace:packages/hakgyoansim-namu-otf":
+  version: 0.0.0-use.local
+  resolution: "@kfonts/hakgyoansim-namu-otf@workspace:packages/hakgyoansim-namu-otf"
+  languageName: unknown
+  linkType: soft
+
+"@kfonts/hakgyoansim-namu@workspace:packages/hakgyoansim-namu":
+  version: 0.0.0-use.local
+  resolution: "@kfonts/hakgyoansim-namu@workspace:packages/hakgyoansim-namu"
+  languageName: unknown
+  linkType: soft
+
+"@kfonts/hakgyoansim-rikodeo-otf@workspace:packages/hakgyoansim-rikodeo-otf":
+  version: 0.0.0-use.local
+  resolution: "@kfonts/hakgyoansim-rikodeo-otf@workspace:packages/hakgyoansim-rikodeo-otf"
+  languageName: unknown
+  linkType: soft
+
+"@kfonts/hakgyoansim-rikodeo@workspace:packages/hakgyoansim-rikodeo":
+  version: 0.0.0-use.local
+  resolution: "@kfonts/hakgyoansim-rikodeo@workspace:packages/hakgyoansim-rikodeo"
+  languageName: unknown
+  linkType: soft
+
+"@kfonts/hakgyoansim-samulham-otf@workspace:packages/hakgyoansim-samulham-otf":
+  version: 0.0.0-use.local
+  resolution: "@kfonts/hakgyoansim-samulham-otf@workspace:packages/hakgyoansim-samulham-otf"
+  languageName: unknown
+  linkType: soft
+
+"@kfonts/hakgyoansim-samulham@workspace:packages/hakgyoansim-samulham":
+  version: 0.0.0-use.local
+  resolution: "@kfonts/hakgyoansim-samulham@workspace:packages/hakgyoansim-samulham"
+  languageName: unknown
+  linkType: soft
+
+"@kfonts/hakgyoansim-santteutbatang@workspace:packages/hakgyoansim-santteutbatang":
+  version: 0.0.0-use.local
+  resolution: "@kfonts/hakgyoansim-santteutbatang@workspace:packages/hakgyoansim-santteutbatang"
+  languageName: unknown
+  linkType: soft
+
+"@kfonts/hakgyoansim-santteutdotum@workspace:packages/hakgyoansim-santteutdotum":
+  version: 0.0.0-use.local
+  resolution: "@kfonts/hakgyoansim-santteutdotum@workspace:packages/hakgyoansim-santteutdotum"
+  languageName: unknown
+  linkType: soft
+
+"@kfonts/hakgyoansim-sonagi-otf@workspace:packages/hakgyoansim-sonagi-otf":
+  version: 0.0.0-use.local
+  resolution: "@kfonts/hakgyoansim-sonagi-otf@workspace:packages/hakgyoansim-sonagi-otf"
+  languageName: unknown
+  linkType: soft
+
+"@kfonts/hakgyoansim-sonagi@workspace:packages/hakgyoansim-sonagi":
+  version: 0.0.0-use.local
+  resolution: "@kfonts/hakgyoansim-sonagi@workspace:packages/hakgyoansim-sonagi"
+  languageName: unknown
+  linkType: soft
+
+"@kfonts/hakgyoansim-ttwimteul-otf@workspace:packages/hakgyoansim-ttwimteul-otf":
+  version: 0.0.0-use.local
+  resolution: "@kfonts/hakgyoansim-ttwimteul-otf@workspace:packages/hakgyoansim-ttwimteul-otf"
+  languageName: unknown
+  linkType: soft
+
+"@kfonts/hakgyoansim-ttwimteul@workspace:packages/hakgyoansim-ttwimteul":
+  version: 0.0.0-use.local
+  resolution: "@kfonts/hakgyoansim-ttwimteul@workspace:packages/hakgyoansim-ttwimteul"
+  languageName: unknown
+  linkType: soft
+
+"@kfonts/hakgyoansim-tuho-otf@workspace:packages/hakgyoansim-tuho-otf":
+  version: 0.0.0-use.local
+  resolution: "@kfonts/hakgyoansim-tuho-otf@workspace:packages/hakgyoansim-tuho-otf"
+  languageName: unknown
+  linkType: soft
+
+"@kfonts/hakgyoansim-tuho@workspace:packages/hakgyoansim-tuho":
+  version: 0.0.0-use.local
+  resolution: "@kfonts/hakgyoansim-tuho@workspace:packages/hakgyoansim-tuho"
+  languageName: unknown
+  linkType: soft
+
+"@kfonts/hakgyoansim-undongjang-otf@workspace:packages/hakgyoansim-undongjang-otf":
+  version: 0.0.0-use.local
+  resolution: "@kfonts/hakgyoansim-undongjang-otf@workspace:packages/hakgyoansim-undongjang-otf"
+  languageName: unknown
+  linkType: soft
+
+"@kfonts/hakgyoansim-undongjang@workspace:packages/hakgyoansim-undongjang":
+  version: 0.0.0-use.local
+  resolution: "@kfonts/hakgyoansim-undongjang@workspace:packages/hakgyoansim-undongjang"
+  languageName: unknown
+  linkType: soft
+
+"@kfonts/hakgyoansim-usan-otf@workspace:packages/hakgyoansim-usan-otf":
+  version: 0.0.0-use.local
+  resolution: "@kfonts/hakgyoansim-usan-otf@workspace:packages/hakgyoansim-usan-otf"
+  languageName: unknown
+  linkType: soft
+
+"@kfonts/hakgyoansim-usan@workspace:packages/hakgyoansim-usan":
+  version: 0.0.0-use.local
+  resolution: "@kfonts/hakgyoansim-usan@workspace:packages/hakgyoansim-usan"
+  languageName: unknown
+  linkType: soft
+
+"@kfonts/hakgyoansim-wooju@workspace:packages/hakgyoansim-wooju":
+  version: 0.0.0-use.local
+  resolution: "@kfonts/hakgyoansim-wooju@workspace:packages/hakgyoansim-wooju"
+  languageName: unknown
+  linkType: soft
+
+"@kfonts/hakgyoansim-yeohaeng-otf@workspace:packages/hakgyoansim-yeohaeng-otf":
+  version: 0.0.0-use.local
+  resolution: "@kfonts/hakgyoansim-yeohaeng-otf@workspace:packages/hakgyoansim-yeohaeng-otf"
+  languageName: unknown
+  linkType: soft
+
+"@kfonts/hakgyoansim-yeohaeng@workspace:packages/hakgyoansim-yeohaeng":
+  version: 0.0.0-use.local
+  resolution: "@kfonts/hakgyoansim-yeohaeng@workspace:packages/hakgyoansim-yeohaeng"
+  languageName: unknown
+  linkType: soft
+
 "@kfonts/kcc-hanbit@workspace:packages/kcc-hanbit":
   version: 0.0.0-use.local
   resolution: "@kfonts/kcc-hanbit@workspace:packages/kcc-hanbit"
