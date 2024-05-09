@@ -1,0 +1,12 @@
+@font-face {
+  font-family: '학교안심 나무OTF';
+  src: local('학교안심 나무OTF'), local('학교안심 나무OTF '), local('Hakgyoansim NamuOTF'), local('Hakgyoansim NamuOTF '), url(./HakgyoansimNamuOTFL.woff2) format('woff2'), url(./HakgyoansimNamuOTFL.woff) format('woff');
+  font-display: swap;
+  font-weight: 300;
+}
+@font-face {
+  font-family: '학교안심 나무OTF';
+  src: local('학교안심 나무OTF'), local('학교안심 나무OTF '), local('Hakgyoansim NamuOTF'), local('Hakgyoansim NamuOTF '), url(./HakgyoansimNamuOTFR.woff2) format('woff2'), url(./HakgyoansimNamuOTFR.woff) format('woff');
+  font-display: swap;
+  font-weight: 400;
+}

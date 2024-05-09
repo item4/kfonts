@@ -1,0 +1,33 @@
+{
+  "name": "hakgyoansim-godeunjemok",
+  "family": [
+    "학교안심 곧은제목",
+    "Hakgyoansim Godeunjemok"
+  ],
+  "generic": "sans-serif",
+  "files": [
+    {
+      "filename": "HakgyoansimGodeunjemokM.otf",
+      "weight": 500,
+      "style": "normal",
+      "version": "Version 1.000;Build 20230125"
+    },
+    {
+      "filename": "HakgyoansimGodeunjemokB.otf",
+      "weight": 700,
+      "style": "normal",
+      "version": "Version 1.000;Build 20230125"
+    }
+  ],
+  "version": "0.1.0",
+  "format": "otf",
+  "homepage": {
+    "name": "학교 안심폰트",
+    "url": "https://copyright.keris.or.kr/wft/fntDwnld"
+  },
+  "license": {
+    "spdx": "OFL-1.1",
+    "name": "학교 안심폰트",
+    "url": "https://copyright.keris.or.kr/wft/fntDwnld"
+  }
+}

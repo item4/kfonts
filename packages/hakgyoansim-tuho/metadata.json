@@ -1,0 +1,27 @@
+{
+  "name": "hakgyoansim-tuho",
+  "family": [
+    "학교안심 투호",
+    "Hakgyoansim Tuho"
+  ],
+  "generic": "cursive",
+  "files": [
+    {
+      "filename": "HakgyoansimTuhoR.ttf",
+      "weight": 400,
+      "style": "normal",
+      "version": "1.0"
+    }
+  ],
+  "version": "0.1.0",
+  "format": "ttf",
+  "homepage": {
+    "name": "학교 안심폰트",
+    "url": "https://copyright.keris.or.kr/wft/fntDwnld"
+  },
+  "license": {
+    "spdx": "OFL-1.1",
+    "name": "학교 안심폰트",
+    "url": "https://copyright.keris.or.kr/wft/fntDwnld"
+  }
+}

@@ -1,0 +1,12 @@
+@font-face {
+  font-family: '학교안심 바른바탕';
+  src: local('학교안심 바른바탕'), local('학교안심 바른바탕 '), local('Hakgyoansim Bareonbatang'), local('Hakgyoansim Bareonbatang '), url(./HakgyoansimBareonbatangR.woff2) format('woff2'), url(./HakgyoansimBareonbatangR.woff) format('woff');
+  font-display: swap;
+  font-weight: 400;
+}
+@font-face {
+  font-family: '학교안심 바른바탕';
+  src: local('학교안심 바른바탕'), local('학교안심 바른바탕 '), local('Hakgyoansim Bareonbatang'), local('Hakgyoansim Bareonbatang '), url(./HakgyoansimBareonbatangB.woff2) format('woff2'), url(./HakgyoansimBareonbatangB.woff) format('woff');
+  font-display: swap;
+  font-weight: 700;
+}

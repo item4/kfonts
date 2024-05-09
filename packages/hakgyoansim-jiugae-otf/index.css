@@ -1,0 +1,6 @@
+@font-face {
+  font-family: '학교안심 지우개OTF';
+  src: local('학교안심 지우개OTF'), local('학교안심 지우개OTF '), local('Hakgyoansim JiugaeOTF'), local('Hakgyoansim JiugaeOTF '), url(./HakgyoansimJiugaeOTFR.woff2) format('woff2'), url(./HakgyoansimJiugaeOTFR.woff) format('woff');
+  font-display: swap;
+  font-weight: 400;
+}

@@ -1,0 +1,27 @@
+{
+  "name": "hakgyoansim-usan",
+  "family": [
+    "학교안심 우산",
+    "Hakgyoansim Usan"
+  ],
+  "generic": "cursive",
+  "files": [
+    {
+      "filename": "HakgyoansimUsanR.ttf",
+      "weight": 400,
+      "style": "normal",
+      "version": "1.0"
+    }
+  ],
+  "version": "0.1.0",
+  "format": "ttf",
+  "homepage": {
+    "name": "학교 안심폰트",
+    "url": "https://copyright.keris.or.kr/wft/fntDwnld"
+  },
+  "license": {
+    "spdx": "OFL-1.1",
+    "name": "학교 안심폰트",
+    "url": "https://copyright.keris.or.kr/wft/fntDwnld"
+  }
+}

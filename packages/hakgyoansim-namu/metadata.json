@@ -1,0 +1,33 @@
+{
+  "name": "hakgyoansim-namu",
+  "family": [
+    "학교안심 나무",
+    "Hakgyoansim Namu"
+  ],
+  "generic": "cursive",
+  "files": [
+    {
+      "filename": "HakgyoansimNamuL.ttf",
+      "weight": 300,
+      "style": "normal",
+      "version": "1.0"
+    },
+    {
+      "filename": "HakgyoansimNamuR.ttf",
+      "weight": 400,
+      "style": "normal",
+      "version": "1.0"
+    }
+  ],
+  "version": "0.1.0",
+  "format": "ttf",
+  "homepage": {
+    "name": "학교 안심폰트",
+    "url": "https://copyright.keris.or.kr/wft/fntDwnld"
+  },
+  "license": {
+    "spdx": "OFL-1.1",
+    "name": "학교 안심폰트",
+    "url": "https://copyright.keris.or.kr/wft/fntDwnld"
+  }
+}

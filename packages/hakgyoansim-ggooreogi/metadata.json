@@ -1,0 +1,27 @@
+{
+  "name": "hakgyoansim-ggooreogi",
+  "family": [
+    "학교안심 꾸러기",
+    "Hakgyoansim Ggooreogi"
+  ],
+  "generic": "cursive",
+  "files": [
+    {
+      "filename": "HakgyoansimGgooreogiR.otf",
+      "weight": 400,
+      "style": "normal",
+      "version": "Version 1.000;Build 20230125"
+    }
+  ],
+  "version": "0.1.0",
+  "format": "otf",
+  "homepage": {
+    "name": "학교 안심폰트",
+    "url": "https://copyright.keris.or.kr/wft/fntDwnld"
+  },
+  "license": {
+    "spdx": "OFL-1.1",
+    "name": "학교 안심폰트",
+    "url": "https://copyright.keris.or.kr/wft/fntDwnld"
+  }
+}

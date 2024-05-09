@@ -1,0 +1,27 @@
+{
+  "name": "hakgyoansim-wooju",
+  "family": [
+    "학교안심 우주",
+    "Hakgyoansim Wooju"
+  ],
+  "generic": "cursive",
+  "files": [
+    {
+      "filename": "HakgyoansimWoojuR.otf",
+      "weight": 400,
+      "style": "normal",
+      "version": "Version 1.000;Build 20230125"
+    }
+  ],
+  "version": "0.1.0",
+  "format": "otf",
+  "homepage": {
+    "name": "학교 안심폰트",
+    "url": "https://copyright.keris.or.kr/wft/fntDwnld"
+  },
+  "license": {
+    "spdx": "OFL-1.1",
+    "name": "학교 안심폰트",
+    "url": "https://copyright.keris.or.kr/wft/fntDwnld"
+  }
+}

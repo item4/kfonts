@@ -1,0 +1,6 @@
+@font-face {
+  font-family: '학교안심 투호';
+  src: local('학교안심 투호'), local('학교안심 투호 '), local('Hakgyoansim Tuho'), local('Hakgyoansim Tuho '), url(./HakgyoansimTuhoR.woff2) format('woff2'), url(./HakgyoansimTuhoR.woff) format('woff');
+  font-display: swap;
+  font-weight: 400;
+}

@@ -1,0 +1,12 @@
+@font-face {
+  font-family: '학교안심 물결';
+  src: local('학교안심 물결'), local('학교안심 물결 '), local('Hakgyoansim Mulgyeol'), local('Hakgyoansim Mulgyeol '), url(./HakgyoansimMulgyeolR.woff2) format('woff2'), url(./HakgyoansimMulgyeolR.woff) format('woff');
+  font-display: swap;
+  font-weight: 400;
+}
+@font-face {
+  font-family: '학교안심 물결';
+  src: local('학교안심 물결'), local('학교안심 물결 '), local('Hakgyoansim Mulgyeol'), local('Hakgyoansim Mulgyeol '), url(./HakgyoansimMulgyeolB.woff2) format('woff2'), url(./HakgyoansimMulgyeolB.woff) format('woff');
+  font-display: swap;
+  font-weight: 700;
+}

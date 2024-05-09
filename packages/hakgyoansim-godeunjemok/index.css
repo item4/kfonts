@@ -1,0 +1,12 @@
+@font-face {
+  font-family: '학교안심 곧은제목';
+  src: local('학교안심 곧은제목'), local('학교안심 곧은제목 '), local('Hakgyoansim Godeunjemok'), local('Hakgyoansim Godeunjemok '), url(./HakgyoansimGodeunjemokM.woff2) format('woff2'), url(./HakgyoansimGodeunjemokM.woff) format('woff');
+  font-display: swap;
+  font-weight: 500;
+}
+@font-face {
+  font-family: '학교안심 곧은제목';
+  src: local('학교안심 곧은제목'), local('학교안심 곧은제목 '), local('Hakgyoansim Godeunjemok'), local('Hakgyoansim Godeunjemok '), url(./HakgyoansimGodeunjemokB.woff2) format('woff2'), url(./HakgyoansimGodeunjemokB.woff) format('woff');
+  font-display: swap;
+  font-weight: 700;
+}

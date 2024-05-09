@@ -1,0 +1,21 @@
+{
+  "name": "@kfonts/hakgyoansim-gaeulsopung",
+  "version": "0.1.0",
+  "description": "학교안심 가을소풍 typeface",
+  "main": "index.css",
+  "keywords": [
+    "@kfonts",
+    "font",
+    "font family",
+    "typeface",
+    "webfont",
+    "web",
+    "front-end",
+    "korean",
+    "학교안심 가을소풍",
+    "Hakgyoansim Gaeulsopung"
+  ],
+  "author": "item4",
+  "license": "OFL-1.1",
+  "repository": "https://github.com/item4/kfonts/tree/main/packages/hakgyoansim-gaeulsopung"
+}

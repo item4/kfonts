@@ -1,0 +1,6 @@
+@font-face {
+  font-family: '학교안심 몽글몽글';
+  src: local('학교안심 몽글몽글'), local('학교안심 몽글몽글 '), local('Hakgyoansim Monggeulmonggeul'), local('Hakgyoansim Monggeulmonggeul '), url(./HakgyoansimMonggeulmonggeulR.woff2) format('woff2'), url(./HakgyoansimMonggeulmonggeulR.woff) format('woff');
+  font-display: swap;
+  font-weight: 400;
+}

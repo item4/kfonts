@@ -1,0 +1,6 @@
+@font-face {
+  font-family: '학교안심 콧수염OTF';
+  src: local('학교안심 콧수염OTF'), local('학교안심 콧수염OTF '), local('Hakgyoansim KossuyeomOTF'), local('Hakgyoansim KossuyeomOTF '), url(./HakgyoansimKossuyeomOTFR.woff2) format('woff2'), url(./HakgyoansimKossuyeomOTFR.woff) format('woff');
+  font-display: swap;
+  font-weight: 400;
+}

@@ -1,0 +1,18 @@
+@font-face {
+  font-family: '학교안심 붓펜';
+  src: local('학교안심 붓펜'), local('학교안심 붓펜 '), local('Hakgyoansim Butpen'), local('Hakgyoansim Butpen '), url(./HakgyoansimButpenM.woff2) format('woff2'), url(./HakgyoansimButpenM.woff) format('woff');
+  font-display: swap;
+  font-weight: 500;
+}
+@font-face {
+  font-family: '학교안심 붓펜';
+  src: local('학교안심 붓펜'), local('학교안심 붓펜 '), local('Hakgyoansim Butpen'), local('Hakgyoansim Butpen '), url(./HakgyoansimButpenL.woff2) format('woff2'), url(./HakgyoansimButpenL.woff) format('woff');
+  font-display: swap;
+  font-weight: 300;
+}
+@font-face {
+  font-family: '학교안심 붓펜';
+  src: local('학교안심 붓펜'), local('학교안심 붓펜 '), local('Hakgyoansim Butpen'), local('Hakgyoansim Butpen '), url(./HakgyoansimButpenB.woff2) format('woff2'), url(./HakgyoansimButpenB.woff) format('woff');
+  font-display: swap;
+  font-weight: 700;
+}

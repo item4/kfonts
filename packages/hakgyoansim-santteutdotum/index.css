@@ -1,0 +1,12 @@
+@font-face {
+  font-family: '학교안심 산뜻돋움';
+  src: local('학교안심 산뜻돋움'), local('학교안심 산뜻돋움 '), local('Hakgyoansim Santteutdotumthic'), local('Hakgyoansim Santteutdotumthic '), url(./HakgyoansimSantteutdotumL.woff2) format('woff2'), url(./HakgyoansimSantteutdotumL.woff) format('woff');
+  font-display: swap;
+  font-weight: 300;
+}
+@font-face {
+  font-family: '학교안심 산뜻돋움';
+  src: local('학교안심 산뜻돋움'), local('학교안심 산뜻돋움 '), local('Hakgyoansim Santteutdotumthic'), local('Hakgyoansim Santteutdotumthic '), url(./HakgyoansimSantteutdotumM.woff2) format('woff2'), url(./HakgyoansimSantteutdotumM.woff) format('woff');
+  font-display: swap;
+  font-weight: 500;
+}

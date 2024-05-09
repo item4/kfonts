@@ -1,0 +1,12 @@
+@font-face {
+  font-family: '학교안심 가을소풍';
+  src: local('학교안심 가을소풍'), local('학교안심 가을소풍 '), local('Hakgyoansim Gaeulsopung'), local('Hakgyoansim Gaeulsopung '), url(./HakgyoansimGaeulsopungL.woff2) format('woff2'), url(./HakgyoansimGaeulsopungL.woff) format('woff');
+  font-display: swap;
+  font-weight: 300;
+}
+@font-face {
+  font-family: '학교안심 가을소풍';
+  src: local('학교안심 가을소풍'), local('학교안심 가을소풍 '), local('Hakgyoansim Gaeulsopung'), local('Hakgyoansim Gaeulsopung '), url(./HakgyoansimGaeulsopungB.woff2) format('woff2'), url(./HakgyoansimGaeulsopungB.woff) format('woff');
+  font-display: swap;
+  font-weight: 700;
+}

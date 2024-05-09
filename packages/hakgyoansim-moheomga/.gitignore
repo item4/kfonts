@@ -1,0 +1,4 @@
+*.[ot]tf
+*.woff
+*.woff2
+!src/*.[ot]tf

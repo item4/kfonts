@@ -1,0 +1,6 @@
+@font-face {
+  font-family: '학교안심 여행';
+  src: local('학교안심 여행'), local('학교안심 여행 '), local('Hakgyoansim Yeohaeng'), local('Hakgyoansim Yeohaeng '), url(./HakgyoansimYeohaengR.woff2) format('woff2'), url(./HakgyoansimYeohaengR.woff) format('woff');
+  font-display: swap;
+  font-weight: 400;
+}

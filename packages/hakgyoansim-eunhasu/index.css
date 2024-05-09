@@ -1,0 +1,6 @@
+@font-face {
+  font-family: '학교안심 은하수';
+  src: local('학교안심 은하수'), local('학교안심 은하수 '), local('Hakgyoansim Eunhasu'), local('Hakgyoansim Eunhasu '), url(./HakgyoansimEunhasuR.woff2) format('woff2'), url(./HakgyoansimEunhasuR.woff) format('woff');
+  font-display: swap;
+  font-weight: 400;
+}

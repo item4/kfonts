@@ -1,0 +1,12 @@
+@font-face {
+  font-family: '학교안심 모험가';
+  src: local('학교안심 모험가'), local('학교안심 모험가 '), local('Hakgyoansim Moheomga'), local('Hakgyoansim Moheomga '), url(./HakgyoansimMoheomgaR.woff2) format('woff2'), url(./HakgyoansimMoheomgaR.woff) format('woff');
+  font-display: swap;
+  font-weight: 400;
+}
+@font-face {
+  font-family: '학교안심 모험가';
+  src: local('학교안심 모험가'), local('학교안심 모험가 '), local('Hakgyoansim Moheomga'), local('Hakgyoansim Moheomga '), url(./HakgyoansimMoheomgaB.woff2) format('woff2'), url(./HakgyoansimMoheomgaB.woff) format('woff');
+  font-display: swap;
+  font-weight: 700;
+}

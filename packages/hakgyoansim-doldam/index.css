@@ -1,0 +1,18 @@
+@font-face {
+  font-family: '학교안심 돌담';
+  src: local('학교안심 돌담'), local('학교안심 돌담 '), local('Hakgyoansim Doldam'), local('Hakgyoansim Doldam '), url(./HakgyoansimDoldamL.woff2) format('woff2'), url(./HakgyoansimDoldamL.woff) format('woff');
+  font-display: swap;
+  font-weight: 300;
+}
+@font-face {
+  font-family: '학교안심 돌담';
+  src: local('학교안심 돌담'), local('학교안심 돌담 '), local('Hakgyoansim Doldam'), local('Hakgyoansim Doldam '), url(./HakgyoansimDoldamB.woff2) format('woff2'), url(./HakgyoansimDoldamB.woff) format('woff');
+  font-display: swap;
+  font-weight: 700;
+}
+@font-face {
+  font-family: '학교안심 돌담';
+  src: local('학교안심 돌담'), local('학교안심 돌담 '), local('Hakgyoansim Doldam'), local('Hakgyoansim Doldam '), url(./HakgyoansimDoldamM.woff2) format('woff2'), url(./HakgyoansimDoldamM.woff) format('woff');
+  font-display: swap;
+  font-weight: 500;
+}

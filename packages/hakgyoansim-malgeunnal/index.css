@@ -1,0 +1,12 @@
+@font-face {
+  font-family: '학교안심 맑은날';
+  src: local('학교안심 맑은날'), local('학교안심 맑은날 '), local('Hakgyoansim Malgeunnal'), local('Hakgyoansim Malgeunnal '), url(./HakgyoansimMalgeunnalB.woff2) format('woff2'), url(./HakgyoansimMalgeunnalB.woff) format('woff');
+  font-display: swap;
+  font-weight: 700;
+}
+@font-face {
+  font-family: '학교안심 맑은날';
+  src: local('학교안심 맑은날'), local('학교안심 맑은날 '), local('Hakgyoansim Malgeunnal'), local('Hakgyoansim Malgeunnal '), url(./HakgyoansimMalgeunnalM.woff2) format('woff2'), url(./HakgyoansimMalgeunnalM.woff) format('woff');
+  font-display: swap;
+  font-weight: 500;
+}

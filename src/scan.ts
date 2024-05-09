@@ -27,6 +27,7 @@ const KNOWN_GENERIC_TYPE: Record<string, GenericFamily> = {
   배찌체: 'cursive',
   메이플스토리: 'cursive',
   '마루 부리': 'serif',
+  '학교안심 곧은제목': 'sans-serif',
 };
 
 async function main() {
@@ -148,7 +149,12 @@ async function main() {
         if (stripName.includes('명조') || stripName.includes('바탕')) {
           return 'serif';
         }
-        if (stripName.includes('고딕') || stripName.includes('스퀘어') || stripName.includes('sans')) {
+        if (
+          stripName.includes('돋움') ||
+          stripName.includes('고딕') ||
+          stripName.includes('스퀘어') ||
+          stripName.includes('sans')
+        ) {
           return 'sans-serif';
         }
         if (/\bcode\b/.test(stripName)) {
