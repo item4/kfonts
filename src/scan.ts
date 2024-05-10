@@ -1,8 +1,8 @@
 import type { GenericFamily } from '@/types/font.js';
 import type { Metadata } from '@/types/metadata.js';
 
-import { opendir } from 'node:fs/promises';
 import child_process from 'node:child_process';
+import { opendir } from 'node:fs/promises';
 import path from 'node:path';
 import { promisify } from 'node:util';
 

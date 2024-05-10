@@ -50,6 +50,7 @@ const config = {
         },
       },
     ],
+    'unicorn/prevent-abbreviations': 'off',
   },
   overrides: [
     {
