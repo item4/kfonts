@@ -161,8 +161,4 @@ export default [
       'unicorn/prevent-abbreviations': 'off',
     },
   },
-  {
-    files: ['**/*.json'],
-    rules: {},
-  },
 ];
