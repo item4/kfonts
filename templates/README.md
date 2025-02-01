@@ -22,8 +22,8 @@ pnpm install %%packageName%%
 ### Embeding
 
 ```js
-// ES6+ with import assertion
-import '%%packageName%%' assert { type: 'css' };
+// ES6+ with import attributes
+import '%%packageName%%' with { type: 'css' };
 
 // ES6+
 import '%%packageName%%';
@@ -36,7 +36,7 @@ require('%%packageName%%');
 
 ```css
 body {
-  font-family: %%usageExpression%%
+  font-family: %%usageExpression%%;
 }
 ```
 
