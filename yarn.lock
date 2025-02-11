@@ -2776,9 +2776,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"eslint@npm:^9.20.0":
-  version: 9.20.0
-  resolution: "eslint@npm:9.20.0"
+"eslint@npm:^9.20.1":
+  version: 9.20.1
+  resolution: "eslint@npm:9.20.1"
   dependencies:
     "@eslint-community/eslint-utils": "npm:^4.2.0"
     "@eslint-community/regexpp": "npm:^4.12.1"
@@ -2821,7 +2821,7 @@ __metadata:
       optional: true
   bin:
     eslint: bin/eslint.js
-  checksum: 10c0/5eb2d9b5ed85a0b022871d19719417d110afb07a4abfedd856ad03d9a821def5f6bc31d7c407ca27f56e5e66e39375300fd2b877017245eb99c44060d6c983bd
+  checksum: 10c0/056789dd5a00897730376f8c0a191e22840e97b7276916068ec096341cb2ec3a918c8bd474bf94ccd7b457ad9fbc16e5c521a993c7cc6ebcf241933e2fd378b0
   languageName: node
   linkType: hard
 
@@ -2974,11 +2974,11 @@ __metadata:
   linkType: hard
 
 "for-each@npm:^0.3.3":
-  version: 0.3.4
-  resolution: "for-each@npm:0.3.4"
+  version: 0.3.5
+  resolution: "for-each@npm:0.3.5"
   dependencies:
     is-callable: "npm:^1.2.7"
-  checksum: 10c0/6b2016c0a0fe3107c70a233923cac74f07bedb5a1847636039fa6bcc3df09aefa554cfec23c3342ad365acac1f95e799d9f8e220cb82a4c7b8a84f969234302f
+  checksum: 10c0/0e0b50f6a843a282637d43674d1fb278dda1dd85f4f99b640024cfb10b85058aac0cc781bf689d5fe50b4b7f638e91e548560723a4e76e04fe96ae35ef039cee
   languageName: node
   linkType: hard
 
@@ -4128,7 +4128,7 @@ __metadata:
     "@types/semver": "npm:^7.5.8"
     "@typescript-eslint/eslint-plugin": "npm:^8.24.0"
     "@typescript-eslint/parser": "npm:^8.24.0"
-    eslint: "npm:^9.20.0"
+    eslint: "npm:^9.20.1"
     eslint-config-prettier: "npm:^10.0.1"
     eslint-import-resolver-node: "npm:^0.3.9"
     eslint-import-resolver-typescript: "npm:^3.7.0"
