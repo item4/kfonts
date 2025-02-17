@@ -101,15 +101,14 @@ export default [
       'plugin:@typescript-eslint/recommended',
       'plugin:import/recommended',
       'plugin:import/typescript',
-      'plugin:unicorn/recommended',
-      'plugin:prettier/recommended',
     ),
   ),
+  unicorn.configs.recommended,
+  ...fixupConfigRules(compat.extends('plugin:prettier/recommended')),
   {
     plugins: {
       '@typescript-eslint': fixupPluginRules(typescriptEslint),
       import: fixupPluginRules(_import),
-      unicorn: fixupPluginRules(unicorn),
     },
     languageOptions: {
       globals: {
