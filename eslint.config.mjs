@@ -7,7 +7,7 @@ import unicorn from 'eslint-plugin-unicorn';
 
 export default tseslint.config(
   {
-    ignores: ['node_modules', '.cache', '.yarn', 'next-env.d.ts', 'packages/**/*'],
+    ignores: ['node_modules', '.cache', '.yarn', 'packages/**/*'],
   },
   js.configs.recommended,
   // eslint-disable-next-line import/no-named-as-default-member
