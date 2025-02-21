@@ -1,7 +1,7 @@
 import { opendir, rm } from 'node:fs/promises';
 import path from 'node:path';
 
-import { getPackages } from '@/fs.js';
+import { getPackages } from '@/fs.ts';
 
 async function main() {
   for await (const directory of getPackages()) {

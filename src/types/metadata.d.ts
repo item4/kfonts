@@ -1,4 +1,4 @@
-import type { GenericFamily, Style, Weight } from '@/types/font.js';
+import type { GenericFamily, Style, Weight } from '@/types/font.ts';
 
 export interface FileData {
   filename: string;

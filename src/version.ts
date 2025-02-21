@@ -4,7 +4,7 @@ import path from 'node:path';
 
 import { inc } from 'semver';
 
-import { getPackages, exists, readJSON, writeJSON } from '@/fs.js';
+import { getPackages, exists, readJSON, writeJSON } from '@/fs.ts';
 
 async function main() {
   for await (const directory of getPackages()) {

@@ -10,16 +10,14 @@
   "dependencies": {
     "@swc-node/register": "^1.10.9",
     "@swc/core": "^1.10.18",
-    "@types/node": "^22.13.4",
+    "@types/node": "^22.13.5",
+    "@types/semver": "^7.5.8",
+    "semver": "^7.7.1",
     "typescript": "^5.7.3"
   },
   "devDependencies": {
-    "@eslint/compat": "^1.2.6",
-    "@eslint/eslintrc": "^3.2.0",
-    "@eslint/js": "^9.20.0",
-    "@types/semver": "^7.5.8",
-    "@typescript-eslint/eslint-plugin": "^8.24.1",
-    "@typescript-eslint/parser": "^8.24.1",
+    "@eslint/css": "^0.4.0",
+    "@eslint/js": "^9.21.0",
     "eslint": "^9.20.1",
     "eslint-config-prettier": "^10.0.1",
     "eslint-import-resolver-node": "^0.3.9",
@@ -28,14 +26,14 @@
     "eslint-plugin-prettier": "^5.2.3",
     "eslint-plugin-unicorn": "^57.0.0",
     "prettier": "^3.5.1",
-    "semver": "^7.7.1"
+    "typescript-eslint": "^8.24.1"
   },
   "scripts": {
     "swc-node": "node --import @swc-node/register/esm-register",
-    "check:lint": "eslint \"src/**\" \"./*.{js,cjs,mjs,ts,tsx}\"",
+    "check:lint": "eslint",
     "check:type": "tsc --noEmit",
     "check": "yarn check:lint && yarn check:type",
-    "format:lint": "eslint --fix \"src/**\" \"./*.{js,cjs,mjs,ts,tsx}\"",
+    "format:lint": "eslint --fix",
     "format:prettier": "prettier --write src/* ./*.{js,cjs,mjs,ts,tsx,json,css}",
     "format": "yarn format:lint && yarn format:prettier"
   }

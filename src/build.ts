@@ -1,12 +1,12 @@
-import type { Metadata } from '@/types/metadata.js';
+import type { Metadata } from '@/types/metadata.ts';
 
 import child_process from 'node:child_process';
 import fs from 'node:fs';
 import path from 'node:path';
 import * as process from 'node:process';
 
-import { convert_woff } from '@/fontforge.js';
-import { exists, getPackages, readJSON, read, write, writeJSON } from '@/fs.js';
+import { convert_woff } from '@/fontforge.ts';
+import { exists, getPackages, readJSON, read, write, writeJSON } from '@/fs.ts';
 
 const convert_woff2 = (source_path: string, destination_path: string): Promise<void> => {
   return new Promise<void>(resolve => {

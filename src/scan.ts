@@ -1,13 +1,13 @@
-import type { GenericFamily } from '@/types/font.js';
-import type { Metadata } from '@/types/metadata.js';
+import type { GenericFamily } from '@/types/font.ts';
+import type { Metadata } from '@/types/metadata.ts';
 
 import child_process from 'node:child_process';
 import { opendir } from 'node:fs/promises';
 import path from 'node:path';
 import { promisify } from 'node:util';
 
-import { getFontVersion } from '@/fontforge.js';
-import { exists, getPackages, readJSON, writeJSON } from '@/fs.js';
+import { getFontVersion } from '@/fontforge.ts';
+import { exists, getPackages, readJSON, writeJSON } from '@/fs.ts';
 
 const exec = promisify(child_process.exec);
 
