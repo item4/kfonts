@@ -9,8 +9,8 @@
   "packageManager": "yarn@4.9.1",
   "dependencies": {
     "@swc-node/register": "^1.10.10",
-    "@swc/core": "^1.11.18",
-    "@types/node": "^22.14.0",
+    "@swc/core": "^1.11.20",
+    "@types/node": "^22.14.1",
     "@types/semver": "^7.7.0",
     "semver": "^7.7.1",
     "typescript": "^5.8.3"
