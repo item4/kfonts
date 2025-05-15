@@ -10,9 +10,9 @@
   "dependencies": {
     "@swc-node/register": "^1.10.10",
     "@swc/core": "^1.11.24",
-    "@types/node": "^22.15.17",
+    "@types/node": "^22.15.18",
     "@types/semver": "^7.7.0",
-    "semver": "^7.7.1",
+    "semver": "^7.7.2",
     "typescript": "^5.8.3"
   },
   "devDependencies": {
@@ -26,7 +26,7 @@
     "eslint-plugin-prettier": "^5.4.0",
     "eslint-plugin-unicorn": "^59.0.1",
     "prettier": "^3.5.3",
-    "typescript-eslint": "^8.32.0"
+    "typescript-eslint": "^8.32.1"
   },
   "scripts": {
     "swc-node": "node --import @swc-node/register/esm-register",
