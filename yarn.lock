@@ -85,24 +85,33 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@eslint/css-tree@npm:^3.3.3":
-  version: 3.5.1
-  resolution: "@eslint/css-tree@npm:3.5.1"
+"@eslint/core@npm:^0.14.0":
+  version: 0.14.0
+  resolution: "@eslint/core@npm:0.14.0"
   dependencies:
-    mdn-data: "npm:2.20.0"
-    source-map-js: "npm:^1.0.1"
-  checksum: 10c0/827eff4a5642689a1e97998e8a26bce79e4ee99ce039f2471031de40ca51de77726121f81e97edeaed80ff7862d1a1e62eed127087e05c90fd3163886eea889d
+    "@types/json-schema": "npm:^7.0.15"
+  checksum: 10c0/259f279445834ba2d2cbcc18e9d43202a4011fde22f29d5fb802181d66e0f6f0bd1f6b4b4b46663451f545d35134498231bd5e656e18d9034a457824b92b7741
   languageName: node
   linkType: hard
 
-"@eslint/css@npm:^0.7.0":
-  version: 0.7.0
-  resolution: "@eslint/css@npm:0.7.0"
+"@eslint/css-tree@npm:^3.3.3":
+  version: 3.5.2
+  resolution: "@eslint/css-tree@npm:3.5.2"
   dependencies:
-    "@eslint/core": "npm:^0.13.0"
+    mdn-data: "npm:2.20.0"
+    source-map-js: "npm:^1.0.1"
+  checksum: 10c0/3fad7285cc1fcb404c6010fffb06e4553ad72a58acee1041c274631aa4a9e190b3b6f29940cca9f200a18108b25072c06e6e85b3f7665f99c1a157f49839a51a
+  languageName: node
+  linkType: hard
+
+"@eslint/css@npm:^0.8.0":
+  version: 0.8.0
+  resolution: "@eslint/css@npm:0.8.0"
+  dependencies:
+    "@eslint/core": "npm:^0.14.0"
     "@eslint/css-tree": "npm:^3.3.3"
-    "@eslint/plugin-kit": "npm:^0.2.5"
-  checksum: 10c0/d0f8ee19273837003aab583ecc36068e860e98373eca69bfa1011f5a5a6fc93b448297a8ffecf35524095f60835f1c39a6b686ef33dc52fe38d44f5d5f6a5317
+    "@eslint/plugin-kit": "npm:^0.3.1"
+  checksum: 10c0/6adc6f1319eb062f1b5618edfc00b0163d53dbd7bf12a9cd20374871dcda58448a88345fc3142ccec83a88d700564351785d2c7810d4a5618dc808637df267cd
   languageName: node
   linkType: hard
 
@@ -137,13 +146,23 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@eslint/plugin-kit@npm:^0.2.5, @eslint/plugin-kit@npm:^0.2.7, @eslint/plugin-kit@npm:^0.2.8":
+"@eslint/plugin-kit@npm:^0.2.7, @eslint/plugin-kit@npm:^0.2.8":
   version: 0.2.8
   resolution: "@eslint/plugin-kit@npm:0.2.8"
   dependencies:
     "@eslint/core": "npm:^0.13.0"
     levn: "npm:^0.4.1"
   checksum: 10c0/554847c8f2b6bfe0e634f317fc43d0b54771eea0015c4f844f75915fdb9e6170c830c004291bad57db949d61771732e459f36ed059f45cf750af223f77357c5c
+  languageName: node
+  linkType: hard
+
+"@eslint/plugin-kit@npm:^0.3.1":
+  version: 0.3.1
+  resolution: "@eslint/plugin-kit@npm:0.3.1"
+  dependencies:
+    "@eslint/core": "npm:^0.14.0"
+    levn: "npm:^0.4.1"
+  checksum: 10c0/a75f0b5d38430318a551b83e27bee570747eb50beeb76b03f64b0e78c2c27ef3d284cfda3443134df028db3251719bc0850c105f778122f6ad762d5270ec8063
   languageName: node
   linkType: hard
 
@@ -1554,12 +1573,12 @@ __metadata:
   linkType: soft
 
 "@modelcontextprotocol/sdk@npm:^1.8.0":
-  version: 1.11.2
-  resolution: "@modelcontextprotocol/sdk@npm:1.11.2"
+  version: 1.11.3
+  resolution: "@modelcontextprotocol/sdk@npm:1.11.3"
   dependencies:
     content-type: "npm:^1.0.5"
     cors: "npm:^2.8.5"
-    cross-spawn: "npm:^7.0.3"
+    cross-spawn: "npm:^7.0.5"
     eventsource: "npm:^3.0.2"
     express: "npm:^5.0.1"
     express-rate-limit: "npm:^7.5.0"
@@ -1567,7 +1586,7 @@ __metadata:
     raw-body: "npm:^3.0.0"
     zod: "npm:^3.23.8"
     zod-to-json-schema: "npm:^3.24.1"
-  checksum: 10c0/18e49f42138303075e710b744e8ee958033b29e9a75852def3a320788bfe79128743a439189fad71ed4fd8fcc6c291ae7e38d41a22ed82585569cc6f5965e938
+  checksum: 10c0/5bcaf6fb97d886e1a262ba9b44ede91c209bb474a2e5193c9f7d9e2c82829d83775e50f5c37977bc156376e0eca84837da531fe0dfafdc5ad8921db4bf5039c0
   languageName: node
   linkType: hard
 
@@ -2553,7 +2572,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"cross-spawn@npm:^7.0.3, cross-spawn@npm:^7.0.6":
+"cross-spawn@npm:^7.0.5, cross-spawn@npm:^7.0.6":
   version: 7.0.6
   resolution: "cross-spawn@npm:7.0.6"
   dependencies:
@@ -2682,9 +2701,9 @@ __metadata:
   linkType: hard
 
 "electron-to-chromium@npm:^1.5.149":
-  version: 1.5.154
-  resolution: "electron-to-chromium@npm:1.5.154"
-  checksum: 10c0/3afe09e80ca51bef45c5f1b29d7a7795cbb9d8c5eba07e538cadbdada41f0f9a25694ccd20e42d21d0481da98d522ccadce42adb2368e82f9d1bb82802a89836
+  version: 1.5.155
+  resolution: "electron-to-chromium@npm:1.5.155"
+  checksum: 10c0/aee32a0b03282e488352370f6a910de37788b814031020a0e244943450e844e8a41f741d6e5ec70d553dfa4382ef80088034ddc400b48f45de95de331b9ec178
   languageName: node
   linkType: hard
 
@@ -4521,7 +4540,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "root-workspace-0b6124@workspace:."
   dependencies:
-    "@eslint/css": "npm:^0.7.0"
+    "@eslint/css": "npm:^0.8.0"
     "@eslint/js": "npm:^9.26.0"
     "@swc-node/register": "npm:^1.10.10"
     "@swc/core": "npm:^1.11.24"
