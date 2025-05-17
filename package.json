@@ -16,9 +16,9 @@
     "typescript": "^5.8.3"
   },
   "devDependencies": {
-    "@eslint/css": "^0.8.0",
-    "@eslint/js": "^9.26.0",
-    "eslint": "^9.26.0",
+    "@eslint/css": "^0.8.1",
+    "@eslint/js": "^9.27.0",
+    "eslint": "^9.27.0",
     "eslint-config-prettier": "^10.1.5",
     "eslint-import-resolver-node": "^0.3.9",
     "eslint-import-resolver-typescript": "^4.3.4",
