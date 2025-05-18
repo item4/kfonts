@@ -2758,9 +2758,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"eslint-import-resolver-typescript@npm:^4.3.4":
-  version: 4.3.4
-  resolution: "eslint-import-resolver-typescript@npm:4.3.4"
+"eslint-import-resolver-typescript@npm:^4.3.5":
+  version: 4.3.5
+  resolution: "eslint-import-resolver-typescript@npm:4.3.5"
   dependencies:
     debug: "npm:^4.4.0"
     get-tsconfig: "npm:^4.10.0"
@@ -2777,7 +2777,7 @@ __metadata:
       optional: true
     eslint-plugin-import-x:
       optional: true
-  checksum: 10c0/dba14e699855a7c32756e5c5258075e787a6e7938123ace553d69e8f84cefb4e6364fb1935d6d5500f96de82cee79662fee1e826fa45c0672a83841c27cf6abe
+  checksum: 10c0/cc8f6e858b45d3a261dce4fec250a82f07c7356784ac8234cda9706386408a96c767599f2d0b9b84492bc79bed0eb24f6f376825662b8c4c66397738b5acba67
   languageName: node
   linkType: hard
 
@@ -4168,7 +4168,7 @@ __metadata:
     eslint: "npm:^9.27.0"
     eslint-config-prettier: "npm:^10.1.5"
     eslint-import-resolver-node: "npm:^0.3.9"
-    eslint-import-resolver-typescript: "npm:^4.3.4"
+    eslint-import-resolver-typescript: "npm:^4.3.5"
     eslint-plugin-import: "npm:^2.31.0"
     eslint-plugin-prettier: "npm:^5.4.0"
     eslint-plugin-unicorn: "npm:^59.0.1"
@@ -4450,12 +4450,11 @@ __metadata:
   linkType: hard
 
 "synckit@npm:^0.11.0":
-  version: 0.11.5
-  resolution: "synckit@npm:0.11.5"
+  version: 0.11.6
+  resolution: "synckit@npm:0.11.6"
   dependencies:
     "@pkgr/core": "npm:^0.2.4"
-    tslib: "npm:^2.8.1"
-  checksum: 10c0/49cbd90c3f0ebe7ea6af2fe359e93ef737983b9aaaa605d63c3bf6ba7b31fd2d201e0d8c09f099a11d5ed2d5a7bf3a2ee865708f7f6795646317aac1266517aa
+  checksum: 10c0/51c0e41c025b90cc68a7b304fbfe873cc77b3ddc99e92ab33fbd42f4fbd1ee65fc7d9affd8eedcac43644658399244aa521e19fb18d7b4e66898d0e2c0cc8d9b
   languageName: node
   linkType: hard
 
@@ -4499,7 +4498,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"tslib@npm:^2.4.0, tslib@npm:^2.6.3, tslib@npm:^2.8.1":
+"tslib@npm:^2.4.0, tslib@npm:^2.6.3":
   version: 2.8.1
   resolution: "tslib@npm:2.8.1"
   checksum: 10c0/9c4759110a19c53f992d9aae23aac5ced636e99887b51b9e61def52611732872ff7668757d4e4c61f19691e36f4da981cd9485e869b4a7408d689f6bf1f14e62
