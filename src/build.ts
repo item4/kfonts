@@ -23,7 +23,7 @@ const main = async () => {
   const readmeTemplate = await read(path.join(templatesDirectory, 'README.md'));
   const gitIgnoreTemplate = await read(path.join(templatesDirectory, '.gitignore'));
   for await (const directory of getPackages()) {
-    const package_path = path.join(directory.path, directory.name);
+    const package_path = path.join(directory.parentPath, directory.name);
     const metadata_path = path.join(package_path, 'metadata.json');
     const packagejson_path = path.join(package_path, 'package.json');
     let css = '';

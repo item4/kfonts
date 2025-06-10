@@ -8,7 +8,7 @@ import { getPackages, exists, readJSON, writeJSON } from '@/fs.ts';
 
 async function main() {
   for await (const directory of getPackages()) {
-    const metadataPath = path.join(directory.path, directory.name, 'metadata.json');
+    const metadataPath = path.join(directory.parentPath, directory.name, 'metadata.json');
     if (!(await exists(metadataPath))) {
       continue;
     }

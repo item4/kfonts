@@ -32,7 +32,7 @@ const KNOWN_GENERIC_TYPE: Record<string, GenericFamily> = {
 
 async function main() {
   for await (const directory of getPackages()) {
-    const packagePath = path.join(directory.path, directory.name);
+    const packagePath = path.join(directory.parentPath, directory.name);
     const metadataPath = path.join(packagePath, 'metadata.json');
     if (!(await exists(metadataPath))) {
       const sourceDirectory = path.join(packagePath, 'src');
