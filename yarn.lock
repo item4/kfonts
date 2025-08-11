@@ -76,42 +76,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@eslint/core@npm:^0.14.0":
-  version: 0.14.0
-  resolution: "@eslint/core@npm:0.14.0"
-  dependencies:
-    "@types/json-schema": "npm:^7.0.15"
-  checksum: 10c0/259f279445834ba2d2cbcc18e9d43202a4011fde22f29d5fb802181d66e0f6f0bd1f6b4b4b46663451f545d35134498231bd5e656e18d9034a457824b92b7741
-  languageName: node
-  linkType: hard
-
 "@eslint/core@npm:^0.15.2":
   version: 0.15.2
   resolution: "@eslint/core@npm:0.15.2"
   dependencies:
     "@types/json-schema": "npm:^7.0.15"
   checksum: 10c0/c17a6dc4f5a6006ecb60165cc38bcd21fefb4a10c7a2578a0cfe5813bbd442531a87ed741da5adab5eb678e8e693fda2e2b14555b035355537e32bcec367ea17
-  languageName: node
-  linkType: hard
-
-"@eslint/css-tree@npm:^3.6.1":
-  version: 3.6.3
-  resolution: "@eslint/css-tree@npm:3.6.3"
-  dependencies:
-    mdn-data: "npm:2.21.0"
-    source-map-js: "npm:^1.0.1"
-  checksum: 10c0/5025d106e2a61d14e807f0d26f20e1aa766ef8f2b6fe9ef02ce84c2ff463cbc57022b38d740d56d0683484adf3ac8795f7565f1955f2ee75c0f3a5cc4b3dd47d
-  languageName: node
-  linkType: hard
-
-"@eslint/css@npm:^0.10.0":
-  version: 0.10.0
-  resolution: "@eslint/css@npm:0.10.0"
-  dependencies:
-    "@eslint/core": "npm:^0.14.0"
-    "@eslint/css-tree": "npm:^3.6.1"
-    "@eslint/plugin-kit": "npm:^0.3.1"
-  checksum: 10c0/43ffbabea89a6ff1df61c668d966a37d83b65e2466c87a87dae310bfae2119cbebf9de9a91569c2e1eb11fbaebbb8e707971ea6fffe0f323621109f61f636d22
   languageName: node
   linkType: hard
 
@@ -146,7 +116,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@eslint/plugin-kit@npm:^0.3.1, @eslint/plugin-kit@npm:^0.3.3, @eslint/plugin-kit@npm:^0.3.5":
+"@eslint/plugin-kit@npm:^0.3.3, @eslint/plugin-kit@npm:^0.3.5":
   version: 0.3.5
   resolution: "@eslint/plugin-kit@npm:0.3.5"
   dependencies:
@@ -3772,13 +3742,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"mdn-data@npm:2.21.0":
-  version: 2.21.0
-  resolution: "mdn-data@npm:2.21.0"
-  checksum: 10c0/cd26902551af2cc29f06f130893cb04bca9ee278939fce3ffbcb759497cc80d53a6f4abdef2ae2f3ed3c95ac8d651f53fc141defd580ebf4ae2f93aea325957b
-  languageName: node
-  linkType: hard
-
 "merge2@npm:^1.3.0":
   version: 1.4.1
   resolution: "merge2@npm:1.4.1"
@@ -4224,7 +4187,6 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "root-workspace-0b6124@workspace:."
   dependencies:
-    "@eslint/css": "npm:^0.10.0"
     "@eslint/js": "npm:^9.33.0"
     "@swc-node/register": "npm:^1.10.10"
     "@swc/core": "npm:^1.13.3"
@@ -4403,13 +4365,6 @@ __metadata:
     side-channel-map: "npm:^1.0.1"
     side-channel-weakmap: "npm:^1.0.2"
   checksum: 10c0/cb20dad41eb032e6c24c0982e1e5a24963a28aa6122b4f05b3f3d6bf8ae7fd5474ef382c8f54a6a3ab86e0cac4d41a23bd64ede3970e5bfb50326ba02a7996e6
-  languageName: node
-  linkType: hard
-
-"source-map-js@npm:^1.0.1":
-  version: 1.2.1
-  resolution: "source-map-js@npm:1.2.1"
-  checksum: 10c0/7bda1fc4c197e3c6ff17de1b8b2c20e60af81b63a52cb32ec5a5d67a20a7d42651e2cb34ebe93833c5a2a084377e17455854fee3e21e7925c64a51b6a52b0faf
   languageName: node
   linkType: hard
 

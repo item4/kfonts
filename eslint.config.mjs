@@ -1,4 +1,3 @@
-import css from '@eslint/css';
 import js from '@eslint/js';
 import importPlugin from 'eslint-plugin-import';
 import prettierPluginConfigsRecommended from 'eslint-plugin-prettier/recommended';
@@ -71,9 +70,4 @@ export default [
       'unicorn/prevent-abbreviations': 'off',
     },
   }),
-  {
-    files: ['**/*.css'],
-    language: 'css/css',
-    ...css.configs.recommended,
-  },
 ];
