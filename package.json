@@ -6,10 +6,10 @@
   "workspaces": [
     "packages/*"
   ],
-  "packageManager": "yarn@4.9.2",
+  "packageManager": "yarn@4.9.3",
   "dependencies": {
     "@swc-node/register": "^1.11.1",
-    "@swc/core": "^1.13.3",
+    "@swc/core": "^1.13.4",
     "semver": "^7.7.2"
   },
   "devDependencies": {
