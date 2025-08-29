@@ -13,30 +13,30 @@ __metadata:
   linkType: hard
 
 "@emnapi/core@npm:^1.4.3, @emnapi/core@npm:^1.4.5":
-  version: 1.4.5
-  resolution: "@emnapi/core@npm:1.4.5"
+  version: 1.5.0
+  resolution: "@emnapi/core@npm:1.5.0"
   dependencies:
-    "@emnapi/wasi-threads": "npm:1.0.4"
+    "@emnapi/wasi-threads": "npm:1.1.0"
     tslib: "npm:^2.4.0"
-  checksum: 10c0/da4a57f65f325d720d0e0d1a9c6618b90c4c43a5027834a110476984e1d47c95ebaed4d316b5dddb9c0ed9a493ffeb97d1934f9677035f336d8a36c1f3b2818f
+  checksum: 10c0/52ba3485277706d92fa27d92b37e5b4f6ef0742c03ed68f8096f294c6bfa30f0752c82d4c2bfa14bff4dc30d63c9f71a8f9fb64a92743d00807d9e468fafd5ff
   languageName: node
   linkType: hard
 
 "@emnapi/runtime@npm:^1.4.3, @emnapi/runtime@npm:^1.4.5":
-  version: 1.4.5
-  resolution: "@emnapi/runtime@npm:1.4.5"
+  version: 1.5.0
+  resolution: "@emnapi/runtime@npm:1.5.0"
   dependencies:
     tslib: "npm:^2.4.0"
-  checksum: 10c0/37a0278be5ac81e918efe36f1449875cbafba947039c53c65a1f8fc238001b866446fc66041513b286baaff5d6f9bec667f5164b3ca481373a8d9cb65bfc984b
+  checksum: 10c0/a85c9fc4e3af49cbe41e5437e5be2551392a931910cd0a5b5d3572532786927810c9cc1db11b232ec8f9657b33d4e6f7c4f985f1a052917d7cd703b5b2a20faa
   languageName: node
   linkType: hard
 
-"@emnapi/wasi-threads@npm:1.0.4":
-  version: 1.0.4
-  resolution: "@emnapi/wasi-threads@npm:1.0.4"
+"@emnapi/wasi-threads@npm:1.1.0":
+  version: 1.1.0
+  resolution: "@emnapi/wasi-threads@npm:1.1.0"
   dependencies:
     tslib: "npm:^2.4.0"
-  checksum: 10c0/2c91a53e62f875800baf035c4d42c9c0d18e5afd9a31ca2aac8b435aeaeaeaac386b5b3d0d0e70aa7a5a9852bbe05106b1f680cd82cce03145c703b423d41313
+  checksum: 10c0/e6d54bf2b1e64cdd83d2916411e44e579b6ae35d5def0dea61a3c452d9921373044dff32a8b8473ae60c80692bdc39323e98b96a3f3d87ba6886b24dd0ef7ca1
   languageName: node
   linkType: hard
 
@@ -1581,137 +1581,137 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@oxc-resolver/binding-android-arm-eabi@npm:11.6.2":
-  version: 11.6.2
-  resolution: "@oxc-resolver/binding-android-arm-eabi@npm:11.6.2"
+"@oxc-resolver/binding-android-arm-eabi@npm:11.7.1":
+  version: 11.7.1
+  resolution: "@oxc-resolver/binding-android-arm-eabi@npm:11.7.1"
   conditions: os=android & cpu=arm
   languageName: node
   linkType: hard
 
-"@oxc-resolver/binding-android-arm64@npm:11.6.2":
-  version: 11.6.2
-  resolution: "@oxc-resolver/binding-android-arm64@npm:11.6.2"
+"@oxc-resolver/binding-android-arm64@npm:11.7.1":
+  version: 11.7.1
+  resolution: "@oxc-resolver/binding-android-arm64@npm:11.7.1"
   conditions: os=android & cpu=arm64
   languageName: node
   linkType: hard
 
-"@oxc-resolver/binding-darwin-arm64@npm:11.6.2":
-  version: 11.6.2
-  resolution: "@oxc-resolver/binding-darwin-arm64@npm:11.6.2"
+"@oxc-resolver/binding-darwin-arm64@npm:11.7.1":
+  version: 11.7.1
+  resolution: "@oxc-resolver/binding-darwin-arm64@npm:11.7.1"
   conditions: os=darwin & cpu=arm64
   languageName: node
   linkType: hard
 
-"@oxc-resolver/binding-darwin-x64@npm:11.6.2":
-  version: 11.6.2
-  resolution: "@oxc-resolver/binding-darwin-x64@npm:11.6.2"
+"@oxc-resolver/binding-darwin-x64@npm:11.7.1":
+  version: 11.7.1
+  resolution: "@oxc-resolver/binding-darwin-x64@npm:11.7.1"
   conditions: os=darwin & cpu=x64
   languageName: node
   linkType: hard
 
-"@oxc-resolver/binding-freebsd-x64@npm:11.6.2":
-  version: 11.6.2
-  resolution: "@oxc-resolver/binding-freebsd-x64@npm:11.6.2"
+"@oxc-resolver/binding-freebsd-x64@npm:11.7.1":
+  version: 11.7.1
+  resolution: "@oxc-resolver/binding-freebsd-x64@npm:11.7.1"
   conditions: os=freebsd & cpu=x64
   languageName: node
   linkType: hard
 
-"@oxc-resolver/binding-linux-arm-gnueabihf@npm:11.6.2":
-  version: 11.6.2
-  resolution: "@oxc-resolver/binding-linux-arm-gnueabihf@npm:11.6.2"
+"@oxc-resolver/binding-linux-arm-gnueabihf@npm:11.7.1":
+  version: 11.7.1
+  resolution: "@oxc-resolver/binding-linux-arm-gnueabihf@npm:11.7.1"
   conditions: os=linux & cpu=arm
   languageName: node
   linkType: hard
 
-"@oxc-resolver/binding-linux-arm-musleabihf@npm:11.6.2":
-  version: 11.6.2
-  resolution: "@oxc-resolver/binding-linux-arm-musleabihf@npm:11.6.2"
+"@oxc-resolver/binding-linux-arm-musleabihf@npm:11.7.1":
+  version: 11.7.1
+  resolution: "@oxc-resolver/binding-linux-arm-musleabihf@npm:11.7.1"
   conditions: os=linux & cpu=arm
   languageName: node
   linkType: hard
 
-"@oxc-resolver/binding-linux-arm64-gnu@npm:11.6.2":
-  version: 11.6.2
-  resolution: "@oxc-resolver/binding-linux-arm64-gnu@npm:11.6.2"
+"@oxc-resolver/binding-linux-arm64-gnu@npm:11.7.1":
+  version: 11.7.1
+  resolution: "@oxc-resolver/binding-linux-arm64-gnu@npm:11.7.1"
   conditions: os=linux & cpu=arm64 & libc=glibc
   languageName: node
   linkType: hard
 
-"@oxc-resolver/binding-linux-arm64-musl@npm:11.6.2":
-  version: 11.6.2
-  resolution: "@oxc-resolver/binding-linux-arm64-musl@npm:11.6.2"
+"@oxc-resolver/binding-linux-arm64-musl@npm:11.7.1":
+  version: 11.7.1
+  resolution: "@oxc-resolver/binding-linux-arm64-musl@npm:11.7.1"
   conditions: os=linux & cpu=arm64 & libc=musl
   languageName: node
   linkType: hard
 
-"@oxc-resolver/binding-linux-ppc64-gnu@npm:11.6.2":
-  version: 11.6.2
-  resolution: "@oxc-resolver/binding-linux-ppc64-gnu@npm:11.6.2"
+"@oxc-resolver/binding-linux-ppc64-gnu@npm:11.7.1":
+  version: 11.7.1
+  resolution: "@oxc-resolver/binding-linux-ppc64-gnu@npm:11.7.1"
   conditions: os=linux & cpu=ppc64 & libc=glibc
   languageName: node
   linkType: hard
 
-"@oxc-resolver/binding-linux-riscv64-gnu@npm:11.6.2":
-  version: 11.6.2
-  resolution: "@oxc-resolver/binding-linux-riscv64-gnu@npm:11.6.2"
+"@oxc-resolver/binding-linux-riscv64-gnu@npm:11.7.1":
+  version: 11.7.1
+  resolution: "@oxc-resolver/binding-linux-riscv64-gnu@npm:11.7.1"
   conditions: os=linux & cpu=riscv64 & libc=glibc
   languageName: node
   linkType: hard
 
-"@oxc-resolver/binding-linux-riscv64-musl@npm:11.6.2":
-  version: 11.6.2
-  resolution: "@oxc-resolver/binding-linux-riscv64-musl@npm:11.6.2"
+"@oxc-resolver/binding-linux-riscv64-musl@npm:11.7.1":
+  version: 11.7.1
+  resolution: "@oxc-resolver/binding-linux-riscv64-musl@npm:11.7.1"
   conditions: os=linux & cpu=riscv64 & libc=musl
   languageName: node
   linkType: hard
 
-"@oxc-resolver/binding-linux-s390x-gnu@npm:11.6.2":
-  version: 11.6.2
-  resolution: "@oxc-resolver/binding-linux-s390x-gnu@npm:11.6.2"
+"@oxc-resolver/binding-linux-s390x-gnu@npm:11.7.1":
+  version: 11.7.1
+  resolution: "@oxc-resolver/binding-linux-s390x-gnu@npm:11.7.1"
   conditions: os=linux & cpu=s390x & libc=glibc
   languageName: node
   linkType: hard
 
-"@oxc-resolver/binding-linux-x64-gnu@npm:11.6.2":
-  version: 11.6.2
-  resolution: "@oxc-resolver/binding-linux-x64-gnu@npm:11.6.2"
+"@oxc-resolver/binding-linux-x64-gnu@npm:11.7.1":
+  version: 11.7.1
+  resolution: "@oxc-resolver/binding-linux-x64-gnu@npm:11.7.1"
   conditions: os=linux & cpu=x64 & libc=glibc
   languageName: node
   linkType: hard
 
-"@oxc-resolver/binding-linux-x64-musl@npm:11.6.2":
-  version: 11.6.2
-  resolution: "@oxc-resolver/binding-linux-x64-musl@npm:11.6.2"
+"@oxc-resolver/binding-linux-x64-musl@npm:11.7.1":
+  version: 11.7.1
+  resolution: "@oxc-resolver/binding-linux-x64-musl@npm:11.7.1"
   conditions: os=linux & cpu=x64 & libc=musl
   languageName: node
   linkType: hard
 
-"@oxc-resolver/binding-wasm32-wasi@npm:11.6.2":
-  version: 11.6.2
-  resolution: "@oxc-resolver/binding-wasm32-wasi@npm:11.6.2"
+"@oxc-resolver/binding-wasm32-wasi@npm:11.7.1":
+  version: 11.7.1
+  resolution: "@oxc-resolver/binding-wasm32-wasi@npm:11.7.1"
   dependencies:
     "@napi-rs/wasm-runtime": "npm:^1.0.3"
   conditions: cpu=wasm32
   languageName: node
   linkType: hard
 
-"@oxc-resolver/binding-win32-arm64-msvc@npm:11.6.2":
-  version: 11.6.2
-  resolution: "@oxc-resolver/binding-win32-arm64-msvc@npm:11.6.2"
+"@oxc-resolver/binding-win32-arm64-msvc@npm:11.7.1":
+  version: 11.7.1
+  resolution: "@oxc-resolver/binding-win32-arm64-msvc@npm:11.7.1"
   conditions: os=win32 & cpu=arm64
   languageName: node
   linkType: hard
 
-"@oxc-resolver/binding-win32-ia32-msvc@npm:11.6.2":
-  version: 11.6.2
-  resolution: "@oxc-resolver/binding-win32-ia32-msvc@npm:11.6.2"
+"@oxc-resolver/binding-win32-ia32-msvc@npm:11.7.1":
+  version: 11.7.1
+  resolution: "@oxc-resolver/binding-win32-ia32-msvc@npm:11.7.1"
   conditions: os=win32 & cpu=ia32
   languageName: node
   linkType: hard
 
-"@oxc-resolver/binding-win32-x64-msvc@npm:11.6.2":
-  version: 11.6.2
-  resolution: "@oxc-resolver/binding-win32-x64-msvc@npm:11.6.2"
+"@oxc-resolver/binding-win32-x64-msvc@npm:11.7.1":
+  version: 11.7.1
+  resolution: "@oxc-resolver/binding-win32-x64-msvc@npm:11.7.1"
   conditions: os=win32 & cpu=x64
   languageName: node
   linkType: hard
@@ -2396,16 +2396,16 @@ __metadata:
   linkType: hard
 
 "browserslist@npm:^4.25.3":
-  version: 4.25.3
-  resolution: "browserslist@npm:4.25.3"
+  version: 4.25.4
+  resolution: "browserslist@npm:4.25.4"
   dependencies:
-    caniuse-lite: "npm:^1.0.30001735"
-    electron-to-chromium: "npm:^1.5.204"
+    caniuse-lite: "npm:^1.0.30001737"
+    electron-to-chromium: "npm:^1.5.211"
     node-releases: "npm:^2.0.19"
     update-browserslist-db: "npm:^1.1.3"
   bin:
     browserslist: cli.js
-  checksum: 10c0/cefbbf962b7c0f0d77e952a4b4b37469db7f7f02bc2be7297810ac3cf086660f48daf78d00f7aad8a11b682f88b0ee0022594165ead749e9e4158a0aa49cd161
+  checksum: 10c0/2b105948990dc2fc0bc2536b4889aadfa15d637e1d857a121611a704cdf539a68f575a391f6bf8b7ff19db36cee1b7834565571f35a7ea691051d2e7fb4f2eb1
   languageName: node
   linkType: hard
 
@@ -2462,7 +2462,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"caniuse-lite@npm:^1.0.30001735":
+"caniuse-lite@npm:^1.0.30001737":
   version: 1.0.30001737
   resolution: "caniuse-lite@npm:1.0.30001737"
   checksum: 10c0/9d9cfe3b46fe670d171cee10c5c1b0fb641946fd5d6bea26149f804003d53d82ade7ef5a4a640fb3a0eaec47c7839b57e06a6ddae4f0ad2cd58e1187d31997ce
@@ -2655,10 +2655,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"electron-to-chromium@npm:^1.5.204":
-  version: 1.5.209
-  resolution: "electron-to-chromium@npm:1.5.209"
-  checksum: 10c0/ec857aeecf85769310889926d55cf4032f93b213733e68b4bc48eab72e42e190f9f1a2694c8c175435cbd111dfdee420e1e1ffe5b2bd46b2f33324580e938f2c
+"electron-to-chromium@npm:^1.5.211":
+  version: 1.5.211
+  resolution: "electron-to-chromium@npm:1.5.211"
+  checksum: 10c0/587536f2e319b7484cd4c9e83484f461ee06672c588c84bf4d4b6a6b5d00fbdb621d4ca418a68125a86db95d373b890b47de2fb5a0f52592cc8aebc263623e6e
   languageName: node
   linkType: hard
 
@@ -3963,28 +3963,28 @@ __metadata:
   linkType: hard
 
 "oxc-resolver@npm:^11.6.1":
-  version: 11.6.2
-  resolution: "oxc-resolver@npm:11.6.2"
+  version: 11.7.1
+  resolution: "oxc-resolver@npm:11.7.1"
   dependencies:
-    "@oxc-resolver/binding-android-arm-eabi": "npm:11.6.2"
-    "@oxc-resolver/binding-android-arm64": "npm:11.6.2"
-    "@oxc-resolver/binding-darwin-arm64": "npm:11.6.2"
-    "@oxc-resolver/binding-darwin-x64": "npm:11.6.2"
-    "@oxc-resolver/binding-freebsd-x64": "npm:11.6.2"
-    "@oxc-resolver/binding-linux-arm-gnueabihf": "npm:11.6.2"
-    "@oxc-resolver/binding-linux-arm-musleabihf": "npm:11.6.2"
-    "@oxc-resolver/binding-linux-arm64-gnu": "npm:11.6.2"
-    "@oxc-resolver/binding-linux-arm64-musl": "npm:11.6.2"
-    "@oxc-resolver/binding-linux-ppc64-gnu": "npm:11.6.2"
-    "@oxc-resolver/binding-linux-riscv64-gnu": "npm:11.6.2"
-    "@oxc-resolver/binding-linux-riscv64-musl": "npm:11.6.2"
-    "@oxc-resolver/binding-linux-s390x-gnu": "npm:11.6.2"
-    "@oxc-resolver/binding-linux-x64-gnu": "npm:11.6.2"
-    "@oxc-resolver/binding-linux-x64-musl": "npm:11.6.2"
-    "@oxc-resolver/binding-wasm32-wasi": "npm:11.6.2"
-    "@oxc-resolver/binding-win32-arm64-msvc": "npm:11.6.2"
-    "@oxc-resolver/binding-win32-ia32-msvc": "npm:11.6.2"
-    "@oxc-resolver/binding-win32-x64-msvc": "npm:11.6.2"
+    "@oxc-resolver/binding-android-arm-eabi": "npm:11.7.1"
+    "@oxc-resolver/binding-android-arm64": "npm:11.7.1"
+    "@oxc-resolver/binding-darwin-arm64": "npm:11.7.1"
+    "@oxc-resolver/binding-darwin-x64": "npm:11.7.1"
+    "@oxc-resolver/binding-freebsd-x64": "npm:11.7.1"
+    "@oxc-resolver/binding-linux-arm-gnueabihf": "npm:11.7.1"
+    "@oxc-resolver/binding-linux-arm-musleabihf": "npm:11.7.1"
+    "@oxc-resolver/binding-linux-arm64-gnu": "npm:11.7.1"
+    "@oxc-resolver/binding-linux-arm64-musl": "npm:11.7.1"
+    "@oxc-resolver/binding-linux-ppc64-gnu": "npm:11.7.1"
+    "@oxc-resolver/binding-linux-riscv64-gnu": "npm:11.7.1"
+    "@oxc-resolver/binding-linux-riscv64-musl": "npm:11.7.1"
+    "@oxc-resolver/binding-linux-s390x-gnu": "npm:11.7.1"
+    "@oxc-resolver/binding-linux-x64-gnu": "npm:11.7.1"
+    "@oxc-resolver/binding-linux-x64-musl": "npm:11.7.1"
+    "@oxc-resolver/binding-wasm32-wasi": "npm:11.7.1"
+    "@oxc-resolver/binding-win32-arm64-msvc": "npm:11.7.1"
+    "@oxc-resolver/binding-win32-ia32-msvc": "npm:11.7.1"
+    "@oxc-resolver/binding-win32-x64-msvc": "npm:11.7.1"
     napi-postinstall: "npm:^0.3.0"
   dependenciesMeta:
     "@oxc-resolver/binding-android-arm-eabi":
@@ -4025,7 +4025,7 @@ __metadata:
       optional: true
     "@oxc-resolver/binding-win32-x64-msvc":
       optional: true
-  checksum: 10c0/219aec62182386c2de3e25ac28e885c3780ab8afd416d548ae0344b6223855fa30ae9242cda0c899a1acf00c65236284415b999e7cf03ccb008b95b28c4a0648
+  checksum: 10c0/a50ad0926d5055738acb29ad2152fd1520542c6e06d814274a43600a4bd44a23ded8a5e2091355f53f5706b512c2480b6ed6031b72c69706e666356d034969e2
   languageName: node
   linkType: hard
 
