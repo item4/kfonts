@@ -115,7 +115,7 @@ async function main() {
       file.version = await getFontVersion(fontPath);
       const names = Array.from({ length: familyNames.length })
         .map((_, index) => [familyNames[index], familyLangNames[index]])
-        .sort((a, b) => b[1].localeCompare(a[1]))
+        .toSorted((a, b) => b[1].localeCompare(a[1]))
         .map(([family]) => family)
         .filter((name, _, array) => !array.filter(n => n.length < name.length).some(n => name.startsWith(n)));
       for (const name of names) {
