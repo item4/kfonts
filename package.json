@@ -9,7 +9,7 @@
   "packageManager": "yarn@4.10.3",
   "dependencies": {
     "@swc-node/register": "^1.11.1",
-    "@swc/core": "^1.13.5",
+    "@swc/core": "^1.13.19",
     "semver": "^7.7.2"
   },
   "devDependencies": {
