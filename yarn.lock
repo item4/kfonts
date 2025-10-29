@@ -1925,12 +1925,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/node@npm:^24.9.1":
-  version: 24.9.1
-  resolution: "@types/node@npm:24.9.1"
+"@types/node@npm:^24.9.2":
+  version: 24.9.2
+  resolution: "@types/node@npm:24.9.2"
   dependencies:
     undici-types: "npm:~7.16.0"
-  checksum: 10c0/c52f8168080ef9a7c3dc23d8ac6061fab5371aad89231a0f6f4c075869bc3de7e89b075b1f3e3171d9e5143d0dda1807c3dab8e32eac6d68f02e7480e7e78576
+  checksum: 10c0/7905d43f65cee72ef475fe76316e10bbf6ac5d08a7f0f6c38f2b6285d7ca3009e8fcafc8f8a1d2bf3f55889c9c278dbb203a9081fd0cf2d6d62161703924c6fa
   languageName: node
   linkType: hard
 
@@ -2668,9 +2668,9 @@ __metadata:
   linkType: hard
 
 "electron-to-chromium@npm:^1.5.238":
-  version: 1.5.240
-  resolution: "electron-to-chromium@npm:1.5.240"
-  checksum: 10c0/f304ba15eca69b6c67774924e7b4ca68dd40de6173ffd9a5695ae0dae369fe2dbe3284545cd63c25b9ec03df3c0feaf0a9329a2ddaaa849e8c53c25750cfe000
+  version: 1.5.242
+  resolution: "electron-to-chromium@npm:1.5.242"
+  checksum: 10c0/ce128fad613ab50ef4f06a1d2a5d5a69ad2daadd19da118dc39633bb701263793f3008f1fda623c32e97025a17a5783bd30b6c23d2a10eb5d7637ae0dcc821a9
   languageName: node
   linkType: hard
 
@@ -4267,7 +4267,7 @@ __metadata:
     "@eslint/js": "npm:^9.38.0"
     "@swc-node/register": "npm:^1.11.1"
     "@swc/core": "npm:^1.13.21"
-    "@types/node": "npm:^24.9.1"
+    "@types/node": "npm:^24.9.2"
     "@types/semver": "npm:^7.7.1"
     eslint: "npm:^9.38.0"
     eslint-config-prettier: "npm:^10.1.8"
